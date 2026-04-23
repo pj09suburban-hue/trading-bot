@@ -148,7 +148,7 @@ bash scripts/slack.sh "<message>"
 
 ## Environment Variables
 
-Required at runtime (from `.env` locally, from routine env vars in cloud):
+Required at runtime (from `.env` — locally you create it; cloud routines write it at STEP 0 from embedded credentials):
 
 ```
 ALPACA_ENDPOINT
@@ -171,7 +171,7 @@ done
 
 If any variable is missing → STOP, send one Slack alert naming the missing var, and exit.
 
-**NEVER create, write, or source a `.env` file in cloud mode.**
+**Cloud routines create `.env` at STEP 0 with embedded credentials — this is the only supported path for cloud mode. `.env` is gitignored and never commits.**
 
 ---
 
