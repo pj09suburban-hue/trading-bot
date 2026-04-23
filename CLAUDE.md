@@ -46,7 +46,7 @@ trading-bot/
 ├── scripts/                         # API wrappers — the ONLY way to touch external APIs
 │   ├── alpaca.sh                    # All Alpaca trading calls
 │   ├── perplexity.sh                # All market research queries
-│   └── clickup.sh                   # All chat notifications
+│   └── slack.sh                     # All chat notifications
 └── memory/                          # Agent's persistent state — committed to main after every run
     ├── TRADING-STRATEGY.md          # Rulebook (agent may update after weekly review)
     ├── TRADE-LOG.md                 # Every trade + daily EOD snapshots
@@ -141,7 +141,7 @@ bash scripts/alpaca.sh close SYM
 bash scripts/alpaca.sh close-all
 
 bash scripts/perplexity.sh "<query>"   # exits 3 if key missing → fall back to WebSearch
-bash scripts/clickup.sh "<message>"
+bash scripts/slack.sh "<message>"
 ```
 
 ---
@@ -157,20 +157,19 @@ ALPACA_API_KEY
 ALPACA_SECRET_KEY
 PERPLEXITY_API_KEY
 PERPLEXITY_MODEL
-CLICKUP_API_KEY
-CLICKUP_WORKSPACE_ID
-CLICKUP_CHANNEL_ID
+SLACK_BOT_TOKEN
+SLACK_CHANNEL_ID
 ```
 
 **Verify before any wrapper call:**
 ```bash
 for v in ALPACA_API_KEY ALPACA_SECRET_KEY PERPLEXITY_API_KEY \
-  CLICKUP_API_KEY CLICKUP_WORKSPACE_ID CLICKUP_CHANNEL_ID; do
+  SLACK_BOT_TOKEN SLACK_CHANNEL_ID; do
   [[ -n "${!v:-}" ]] && echo "$v: set" || echo "$v: MISSING"
 done
 ```
 
-If any variable is missing → STOP, send one ClickUp alert naming the missing var, and exit.
+If any variable is missing → STOP, send one Slack alert naming the missing var, and exit.
 
 **NEVER create, write, or source a `.env` file in cloud mode.**
 

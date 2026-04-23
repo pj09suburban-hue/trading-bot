@@ -4,7 +4,7 @@ Autonomous AI trading bot running on Claude Code. Five cron jobs fire each weekd
 
 ## How It Works
 
-Each scheduled run clones this repo fresh, reads memory, checks live account state, decides on action, places orders if warranted, commits updated memory files, and sends a ClickUp notification.
+Each scheduled run clones this repo fresh, reads memory, checks live account state, decides on action, places orders if warranted, commits updated memory files, and sends a Slack notification.
 
 No separate process. No server. Claude + Git + Alpaca.
 
@@ -20,7 +20,7 @@ No separate process. No server. Claude + Git + Alpaca.
 
 - [Alpaca](https://alpaca.markets) account (paper is fine to start)
 - [Perplexity API](https://www.perplexity.ai/api) key
-- [ClickUp](https://clickup.com) account with a Chat channel for notifications
+- [Slack](https://slack.com) workspace with a bot app (`chat:write` scope) invited to your notifications channel
 - Claude Code with cloud routines enabled
 
 ## Repository Layout
@@ -45,5 +45,5 @@ This is the shared **strategy repo**. Each trader forks it and runs independentl
 | Pre-market | `routines/pre-market.md` | Research catalysts, write trade ideas |
 | 8:30 AM | `routines/market-open.md` | Execute trades, set trailing stops |
 | 12:00 PM | `routines/midday.md` | Scan positions, cut losers, tighten stops |
-| 3:00 PM | `routines/daily-summary.md` | EOD snapshot, send ClickUp recap |
+| 3:00 PM | `routines/daily-summary.md` | EOD snapshot, send Slack recap |
 | 4:00 PM Fri | `routines/weekly-review.md` | Weekly stats, grade, update strategy |
