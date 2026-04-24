@@ -4,10 +4,11 @@
 Beat the S&P 500 over the challenge window. Stocks only — no options, ever.
 
 ## Capital & Constraints
-- Starting capital: ~$10,000
-- Platform: Alpaca
+- **Current (paper):** ~$100,000 on Alpaca paper account — all rules scale proportionally (20% max per position = $20k)
+- **Future (live):** ~a few hundred dollars in a personal Alpaca account once paper performance is validated. At that scale, the current sizing rules break (5–6 positions × 20% = ~$60/position, too small for most stocks) — strategy will need a rewrite before going live.
+- Platform: Alpaca (paper now, live later)
 - Instruments: Stocks ONLY
-- PDT limit: 3 day trades per 5 rolling days (account < $25k)
+- PDT limit: 3 day trades per 5 rolling days (account < $25k) — applies once live
 
 ## Core Rules
 1. NO OPTIONS — ever
