@@ -69,3 +69,8 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ### Decision
 **TRADE** — Zero deployment, clear Energy + Industrials momentum. Enter XOM + GE at open after confirming no gap-down acceleration. Add CL only if BMO print is clean. Max 3 new trades this week. Limit orders within 0.5% of bid. Place 10% GTC trailing stops immediately after each fill.
+
+### Afternoon Addendum — Midday Scan
+- **XOM -2.2% intraday**: Q1 2026 earnings released today. Pre-release guided +$1.9–2.3B sequential upstream improvement. Move is earnings-day "sell the news" — not a thesis break. WTI remains elevated on Iran tensions. Scotiabank PT $163. Trailing stop at $134.88 in place.
+- **GE +0.73%**: No notable intraday catalyst. Defense/aerospace thesis intact.
+- No positions cut. No stops adjusted. Perplexity unavailable (503); used WebSearch fallback.
