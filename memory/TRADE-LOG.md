@@ -32,3 +32,17 @@ No positions yet. Bot launches tomorrow.
 - GE: Defense/aerospace demand intact. Geopolitical tensions ongoing. +0.73% — no concern.
 - XOM: Q1 2026 earnings released today. Pre-release guidance +$1.9–2.3B sequential upstream improvement. Stock down -2.2% intraday — "sell the news" pattern. Energy #1 sector thesis unchanged; WTI elevated on Iran tensions. Scotiabank raised PT to $163 (Apr 22). Trailing stop at $134.88 protects downside.
 **No action taken.** Both stops in place as GTC orders.
+
+---
+
+### Apr 24 — EOD Snapshot (Day 1, Friday)
+**Portfolio:** ~$100,066 | **Cash:** ~$62,298 (62.3%) | **Day P&L:** +$66 (+0.07%) | **Phase P&L:** +$66 (+0.07%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $278.37 | -0.59% | -$111 | $255.07 |
+| XOM | 127 | $149.14 | $150.53* | +0.94% | +$177 | ~$135.47 |
+
+*Alpaca paper API unavailable (503 DNS cache overflow); prices sourced from web search.
+
+**Notes:** First trading day (Day 1). Opened 2 positions: GE (industrials/aerospace) and XOM (energy/oil). GE slipped from midday high of $282.08 to close ~$278.37, mildly underwater vs entry but well above the $255.07 stop. XOM recovered from noon sell-the-news dip ($147.21) to close ~$150.53, now modestly profitable; stop ~$135.47 (10% trail). Net portfolio up ~$66 (+0.07%). Both positions intact, thesis unchanged. Week: 2/3 trades used. Markets closed Sat–Sun; next workflow Monday pre-market.
