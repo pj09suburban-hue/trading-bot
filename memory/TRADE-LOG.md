@@ -59,3 +59,23 @@ No positions yet. Bot launches tomorrow.
 **⚠ CVX sizing note:** Fill at $188.10 (gap-up vs. pre-market $175.98 quote) → cost $20,314.80 = 20.2% equity. Fractionally over 20% cap due to open gap; trailing stop in place.
 
 **Week trades:** 2/3 | **Open positions:** 4/6 | **Deployed:** ~$78,500 / $100,419 (~78.2%) ✓ in 75–85% target band
+
+---
+
+## 2026-04-27 — Midday Scan
+
+| Symbol | Entry | Current | Unreal P&L | % | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|
+| CVX | $188.10 | $184.825 | -$353.70 | -1.74% | $168.912 (10% trail) | $187.68 | HOLD — within range |
+| GE | $280.02 | $283.20 | +$213.06 | +1.14% | $257.517 (10% trail) | $286.13 | HOLD — thesis intact |
+| RTX | $174.65 | $174.655 | +$0.58 | +0.003% | $159.291 (10% trail) | $176.99 | HOLD — freshly opened |
+| XOM | $149.14 | $148.37 | -$97.70 | -0.52% | $136.062 (10% trail) | $151.18 | HOLD — within range |
+
+**Cut losers (-7%):** None — all positions well within -7% threshold.
+**Stop tightening (+15%/+20%):** None — no position has reached +15%.
+**Thesis check:**
+- CVX: -1.74% from gap-up entry; HWM only $187.68 (sold off immediately after open). Hormuz still closed; energy thesis intact; well above $168.912 stop.
+- GE: +1.14% cumulative; -0.49% intraday. Defense/aerospace demand thesis intact. Iran conflict ongoing.
+- RTX: +0.003% from morning fill; flat intraday. Defense systems thesis intact.
+- XOM: -0.52% overall; -0.36% today. Mild drift; WTI/energy thesis unchanged; stop at $136.062.
+**No action taken.** All four 10% trailing-stop GTC orders in place. Perplexity 503 — no live research available; no sharp unexplained moves requiring emergency lookup. Key event: FOMC Wed Apr 29.
