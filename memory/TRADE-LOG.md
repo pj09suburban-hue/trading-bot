@@ -79,3 +79,17 @@ No positions yet. Bot launches tomorrow.
 - RTX: +0.003% from morning fill; flat intraday. Defense systems thesis intact.
 - XOM: -0.52% overall; -0.36% today. Mild drift; WTI/energy thesis unchanged; stop at $136.062.
 **No action taken.** All four 10% trailing-stop GTC orders in place. Perplexity 503 — no live research available; no sharp unexplained moves requiring emergency lookup. Key event: FOMC Wed Apr 29.
+
+---
+
+### Apr 27 — EOD Snapshot (Day 2, Monday)
+**Portfolio:** $99,788.60 | **Cash:** $21,898.42 (21.9%) | **Day P&L:** -$489.14 (-0.49%) | **Phase P&L:** -$211.40 (-0.21%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $185.96 | +0.41% | -$231.12 (-1.14%) | $168.912 |
+| GE | 67 | $280.02 | $283.20 | -0.49% | +$213.06 (+1.14%) | $257.517 |
+| RTX | 115 | $174.65 | $172.96 | -0.75% | -$194.35 (-0.97%) | $159.291 |
+| XOM | 127 | $149.14 | $149.16 | +0.17% | +$2.63 (+0.01%) | $136.062 |
+
+**Notes:** Day 2 (Week 2, Day 1). Added CVX and RTX at market-open, bringing portfolio to 4 positions. Both new entries came in slightly red intraday (CVX -1.14%, RTX -0.97%) while GE held up (+1.14%) and XOM was nearly flat (+0.01%). Net portfolio -$489 on the day. All four 10% trailing stops confirmed active as GTC orders. Deployed 78.1% — in target band. Week: 2/3 trades used. Key risk: FOMC Wed Apr 29; no changes planned Tue; reassess Thu if any position reaches +15%.
