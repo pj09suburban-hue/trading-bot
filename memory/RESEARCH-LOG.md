@@ -74,3 +74,46 @@ TRADE or HOLD (default HOLD if no clear edge)
 - **XOM -2.2% intraday**: Q1 2026 earnings released today. Pre-release guided +$1.9–2.3B sequential upstream improvement. Move is earnings-day "sell the news" — not a thesis break. WTI remains elevated on Iran tensions. Scotiabank PT $163. Trailing stop at $134.88 in place.
 - **GE +0.73%**: No notable intraday catalyst. Defense/aerospace thesis intact.
 - No positions cut. No stops adjusted. Perplexity unavailable (503); used WebSearch fallback.
+
+---
+
+## 2026-04-27 — Pre-market Research
+
+*Perplexity 503 — all data sourced via WebSearch fallback.*
+
+### Account
+- Equity: $100,368.47
+- Cash: $62,297.97 (62.1%)
+- Deployed: $38,070 (37.9%) — well below 75–85% target
+- Buying power: $162,666 (margin; using cash only per rules)
+- Daytrade count: 0
+- Positions: 2/6 | Week trades: 0/3 (new week)
+- GE: 67 sh @ $280.02 → $285.14 (+1.83%) | stop $257.52 (HWM $286.13)
+- XOM: 127 sh @ $149.14 → $149.34 (+0.13%) | stop $134.88 (HWM $149.86)
+
+### Market Context
+- WTI: ~$95–96 (Hormuz effectively closed; Iran conflict week 9; IEA: "largest energy supply shock on record")
+- Brent: ~$106 (WTI + $10 premium vs normal $3–4 — extreme backwardation)
+- S&P 500 futures: +0.03% (flat); Nasdaq +0.21%; Dow –0.1%
+- VIX: ~19.3 (moderate, stable — not panic)
+- Today's catalysts: Iran new Hormuz proposal via Pakistani mediators; VZ, NUE, DPZ earnings BMO
+- **Heavy week ahead:** FOMC rate decision Wed Apr 29 · Q1 GDP first estimate Thu Apr 30 · Mag 7 earnings (MSFT/AMZN/GOOGL/META Wed, AAPL/COP Thu) · XOM Q1 earnings Fri May 1
+- Sector momentum: Energy (XLE) +22% YTD #1 | Industrials strong (defense/aerospace) | Tech rotating back on Mag 7 prints
+
+### Trade Ideas
+1. **CVX** — Energy #1 sector; second oil proxy alongside XOM; Hess acquisition boosting production; WTI/Brent elevated on Hormuz; CVX +22% YTD; Wells Fargo PT $183. Entry ~market open, stop –10%, target +20% (2:1). Size: ~$19,000.
+2. **COP** — Pure-play producer, +31% YTD; highest beta to WTI; $1B incremental FCF at $70 oil (now $95+). **Caveat: Q1 earnings Apr 30 (Thu) — high event risk this week.** Prefer CVX over COP. Revisit after FOMC if CVX fills first.
+3. **RTX (Raytheon Technologies)** — Defense/aerospace; Iran conflict driving missile/radar procurement surge; Industrials momentum; differs from GE (defense systems vs. engines). Entry ~market open, stop –10%, target +20% (2:1). Size: ~$19,000.
+
+*Adding CVX + RTX brings deployment to ~76% — within 75–85% target.*
+
+### Risk Factors
+- FOMC Wed Apr 29: rate decision + Powell tone; hawkish surprise could reverse both Energy and Industrials
+- Q1 GDP Thu Apr 30: negative print possible with Iran supply shock drag on growth
+- XOM reports Fri May 1: "sell-the-news" risk again; stop at $134.88 protects; will evaluate pre-earnings
+- Mag 7 earnings mid-week can shift broad market sentiment
+- WTI at $95+ already up ~65% YTD — mean reversion risk if Iran Hormuz proposal is accepted
+- Entering before FOMC accepts 2 market days of event-gap risk; managed with 10% trailing stops
+
+### Decision
+**TRADE** — Enter CVX + RTX at market open today. Deployment goes 38% → ~76%. Energy thesis extremely strong (Hormuz still closed, IEA emergency). New week, 0/3 trades used. VIX moderate. Both positions protected with 10% trailing-stop GTC orders immediately after fill. Skip COP this week due to earnings Thu. Monitor FOMC Wednesday; if Powell hawkish, hold remaining 1/3 trade slot for after the decision.
