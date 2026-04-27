@@ -46,3 +46,16 @@ No positions yet. Bot launches tomorrow.
 *Alpaca paper API unavailable (503 DNS cache overflow); prices sourced from web search.
 
 **Notes:** First trading day (Day 1). Opened 2 positions: GE (industrials/aerospace) and XOM (energy/oil). GE slipped from midday high of $282.08 to close ~$278.37, mildly underwater vs entry but well above the $255.07 stop. XOM recovered from noon sell-the-news dip ($147.21) to close ~$150.53, now modestly profitable; stop ~$135.47 (10% trail). Net portfolio up ~$66 (+0.07%). Both positions intact, thesis unchanged. Week: 2/3 trades used. Markets closed Sat–Sun; next workflow Monday pre-market.
+
+---
+
+## 2026-04-27 — Market-Open Trades
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-04-27 | CVX | BUY | 108 | $188.10 | $168.624 (10% trail GTC) | Energy #1 sector; Hormuz effectively closed week 9; WTI/Brent elevated; second oil proxy alongside XOM; Wells Fargo PT $183→upside on supply shock | $225.72 (+20%) | 2:1 |
+| 2026-04-27 | RTX | BUY | 115 | $174.65 | $157.752 (10% trail GTC) | Defense/aerospace; Iran conflict driving missile/radar procurement surge; Industrials momentum; distinct from GE (defense systems vs. engines) | $209.58 (+20%) | 2:1 |
+
+**⚠ CVX sizing note:** Fill at $188.10 (gap-up vs. pre-market $175.98 quote) → cost $20,314.80 = 20.2% equity. Fractionally over 20% cap due to open gap; trailing stop in place.
+
+**Week trades:** 2/3 | **Open positions:** 4/6 | **Deployed:** ~$78,500 / $100,419 (~78.2%) ✓ in 75–85% target band
