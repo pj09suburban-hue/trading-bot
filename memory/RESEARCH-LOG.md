@@ -77,6 +77,65 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ---
 
+## 2026-04-28 — Pre-market Research
+
+### Account
+- Equity: $100,397.23 | Cash: $21,898.42 (21.8%) | Deployed: $78,498.81 (78.2%) ✓ in target band
+- Buying power: $122,295.65 (margin; using cash only)
+- Daytrade count: 0 | Positions: 4/6 | Week trades: 2/3
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Day | Stop | HWM |
+|---|---|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $187.88 | -$23.50 | -0.12% | +1.68% | $168.912 | $187.68 |
+| GE | 67 | $280.02 | $283.03 | +$201.67 | +1.07% | -0.54% | $257.517 | $286.13 |
+| RTX | 115 | $174.65 | $174.50 | -$17.25 | -0.09% | +0.65% | $159.291 | $176.99 |
+| XOM | 127 | $149.14 | $151.00 | +$236.31 | +1.25% | +1.90% | $136.062 | $151.18 |
+
+### Market Context
+- WTI: $102.22 (closed Apr 28, range $96.24–$102.55, +2.95%) — surging on continued Iran/Hormuz supply shock
+- Brent: ~$106+ (WTI + spread; Brent-WTI spread peaked $25/b in March, now ~$11)
+- S&P 500: Cash closed 7,173.91 (+0.12%) Apr 27, new record; ESM26 futures 7,193–7,209 range; premarket +0.10%
+- VIX: 18.02 (Apr 27 close), 18.36 (Apr 28 open) — moderate, declining trend from 19.31 on Apr 23
+- Today's catalysts:
+  - Semiconductors on 18-day winning streak (SOX +44% since March 31); NVDA 52-week high $216.61, RSI 88.8 — extremely overbought
+  - **Mag 7 earnings AMC tonight: MSFT, AMZN, GOOGL, META** — market-moving event; will swing sentiment
+  - ADP Employment Change 12:15 PM ET — moderate market mover
+  - FOMC minutes 6:00 PM ET (from prior meeting, not new decision)
+  - **FOMC rate decision TOMORROW (Wed Apr 29)** — key event risk; Powell tone critical for Energy/Industrials
+  - Iran/Hormuz conflict ongoing; WTI surging again (+2.95% today)
+- Earnings BMO today: European names only (Boliden, ASSA ABLOY, CTT, Securitas) — no impact on US positions
+- Economic calendar: No CPI/PPI/NFP today. ADP 12:15 PM. CPI next May 12; PPI May 13; GDP Q1 Apr 30 (Thu).
+- Sector momentum (latest available):
+  - Energy (XLE): +26–40% YTD — #1 sector | ⚠ Note: April reversal -14% cited in one source; WTI re-surging today offsets
+  - Consumer Staples (XLP): +10.66% YTD
+  - Industrials (XLI): +9.61% YTD — #3
+  - Materials (XLB): Leading momentum +11% trailing 6M
+  - Tech (XLK): Lagging — -7.8% trailing 6M but April bounce (NVDA, semis)
+
+### Held Ticker News
+- **XOM**: +1.90% premarket. Energy thesis intact; WTI $102+ strongly supportive. No fresh analyst cuts.
+- **CVX**: +1.68% today recovering from -1.74% entry drag. Consensus Buy, analyst PT $191.15 (vs current $187.88). Thesis intact.
+- **GE**: -0.54% today but +1.07% total. Defense/aerospace demand intact. No news.
+- **RTX**: +0.65% today, -0.09% total. Consensus Moderate Buy; analyst PT range $179–$230 (RBC $230, consensus ~$190+). UBS Neutral $199 (14.8% upside from current $174.50). Thesis intact.
+
+### Trade Ideas
+1. **5th position — Materials (XLB proxy: FCX or NEM)**: Materials leading momentum +11% trailing 6M. Copper/gold elevated on dollar weakness + Iran uncertainty. However: FOMC tomorrow + Mag 7 tonight = too much event risk to open new position today.
+2. **5th position — post-FOMC (Thu Apr 29)**: Reserve last trade slot for after FOMC rate decision. If Powell dovish/neutral → enter Materials or energy-adjacent (COP/PXD). If hawkish → hold remaining cash.
+3. **CVX stop check**: Current $187.88 exceeds logged HWM $187.68 — Alpaca should auto-update trailing stop. No manual action needed; GTC order self-adjusting.
+
+### Risk Factors
+- **FOMC tomorrow (Apr 29)**: Rate decision + Powell tone; hawkish surprise reverses Energy and Industrials
+- **Mag 7 earnings tonight AMC**: MSFT/AMZN/GOOGL/META — if disappointing, broad market selloff could drag all sectors
+- **ADP 12:15 PM ET**: Strong jobs data → could revive hawkish Fed fears ahead of tomorrow's decision
+- **WTI mean reversion**: $102 = +65% YTD; Iran ceasefire progress could trigger sharp drop in energy names
+- **Energy April reversal note**: One source cited -14% energy sector in April — contra-signal to monitor; today's +2.95% WTI move partly restores thesis
+- **GDP Q1 (Apr 30)**: Negative surprise possible; holds through earnings window
+
+### Decision
+**HOLD** — Portfolio at 78.2% deployed (in target band). All 4 positions within rule limits (none at -7% stop trigger). Reserve last trade slot (3rd this week) for post-FOMC clarity Thursday. No new buys today ahead of FOMC + Mag 7 double-event-risk night. Patience > activity.
+
+---
+
 ## 2026-04-27 — Pre-market Research
 
 *Perplexity 503 — all data sourced via WebSearch fallback.*
