@@ -114,3 +114,17 @@ No positions yet. Bot launches tomorrow.
 - XOM: +1.74% total, +2.39% today. WTI/energy thesis intact; strong intraday confirming pre-market $102+ oil thesis. Stop $137.079 (HWM $152.31).
 **Research flag:** Perplexity returned mixed/stale citations (Apr 20–21 data) suggesting potential Hormuz reopening and WTI ~$90 — contradicted by live price action (CVX/XOM both +2.39% intraday). Monitoring; no basis to act without price confirmation of thesis break.
 **No action taken.** All four 10% trailing-stop GTC orders active and self-adjusting. Key events tonight: Mag 7 earnings AMC (MSFT, AMZN, GOOGL, META). Key event tomorrow: FOMC rate decision Apr 29.
+
+---
+
+### Apr 28 — EOD Snapshot (Day 3, Tuesday)
+**Portfolio:** $100,537.45 | **Cash:** $21,898.42 (21.8%) | **Day P&L:** +$858.44 (+0.86%) | **Phase P&L:** +$537.45 (+0.54%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $187.90 | +1.69% | -$21.60 (-0.11%) | $170.964 |
+| GE | 67 | $280.02 | $286.685 | +0.75% | +$446.56 (+2.38%) | $258.381 |
+| RTX | 115 | $174.65 | $174.12 | +0.43% | -$60.95 (-0.30%) | $159.291 |
+| XOM | 127 | $149.14 | $150.505 | +1.56% | +$173.45 (+0.92%) | $137.079 |
+
+**Notes:** Day 3. Energy sector led — CVX and XOM both up ~1.6–1.7% intraday, recovering firmly from Monday's weakness; combined energy unrealized P&L net positive ($151.85). GE extended defense/aerospace gains to +2.38% cumulative. RTX lagged but up +0.43% today and well above stop. Net portfolio +$858 on the day; phase P&L now positive at +$537 (+0.54%). All four 10% trailing-stop GTC orders active; HWMs updated by broker (GE stop now $258.381, CVX $170.964, XOM $137.079). No trades today; week stands at 2/3. Two macro events pending: Mag 7 earnings tonight (MSFT, AMZN, GOOGL, META) and FOMC decision tomorrow Apr 29 — no position changes planned pre-FOMC.
