@@ -148,7 +148,7 @@ bash scripts/slack.sh "<message>"
 
 ## Environment Variables
 
-Required at runtime (from `.env` — locally you create it; cloud routines write it at STEP 0 from embedded credentials):
+Required at runtime. Locally: from gitignored `.env`. Cloud: injected directly from the trading Claude agent config into the routine's environment (NEVER embedded in routine prompts, NEVER written to `.env`):
 
 ```
 ALPACA_ENDPOINT
@@ -171,7 +171,7 @@ done
 
 If any variable is missing → STOP, send one Slack alert naming the missing var, and exit.
 
-**Cloud routines create `.env` at STEP 0 with embedded credentials — this is the only supported path for cloud mode. `.env` is gitignored and never commits.**
+**Cloud mode: env vars come from the trading Claude agent config; STEP 0 verifies them and exits if any are missing. No `.env` file is written. Local mode: gitignored `.env` only — never committed.**
 
 ---
 
