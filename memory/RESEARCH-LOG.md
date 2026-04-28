@@ -134,6 +134,13 @@ TRADE or HOLD (default HOLD if no clear edge)
 ### Decision
 **HOLD** — Portfolio at 78.2% deployed (in target band). All 4 positions within rule limits (none at -7% stop trigger). Reserve last trade slot (3rd this week) for post-FOMC clarity Thursday. No new buys today ahead of FOMC + Mag 7 double-event-risk night. Patience > activity.
 
+### Afternoon Addendum — Midday Scan
+- **CVX +2.39%, XOM +2.39% intraday**: Both energy names rallying strongly midday. WTI momentum intact (consistent with $102+ pre-market level). Energy thesis confirmed by price action.
+- **GE +0.15%, RTX flat**: Both defense names calm; already post-earnings (GE and RTX both reported week of Apr 21, events absorbed). No new catalyst; both holds intact.
+- **Perplexity data conflict flagged**: Perplexity returned stale citations (April 20–21 articles) including a claim of Iran/Hormuz reopening with WTI near $90. This is directly contradicted by live price action (energy names up +2.39% intraday). Likely stale/mixed-date data from search engine. No action warranted without price confirmation. Will monitor into close.
+- **No positions cut. No stops tightened.** All 4 GTC trailing stops self-adjusting correctly per Alpaca.
+- **Tonight's risk:** Mag 7 earnings AMC (MSFT, AMZN, GOOGL, META) — broad sentiment event; watch for gap risk tomorrow.
+
 ---
 
 ## 2026-04-27 — Pre-market Research

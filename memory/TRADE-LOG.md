@@ -93,3 +93,24 @@ No positions yet. Bot launches tomorrow.
 | XOM | 127 | $149.14 | $149.16 | +0.17% | +$2.63 (+0.01%) | $136.062 |
 
 **Notes:** Day 2 (Week 2, Day 1). Added CVX and RTX at market-open, bringing portfolio to 4 positions. Both new entries came in slightly red intraday (CVX -1.14%, RTX -0.97%) while GE held up (+1.14%) and XOM was nearly flat (+0.01%). Net portfolio -$489 on the day. All four 10% trailing stops confirmed active as GTC orders. Deployed 78.1% — in target band. Week: 2/3 trades used. Key risk: FOMC Wed Apr 29; no changes planned Tue; reassess Thu if any position reaches +15%.
+
+---
+
+## 2026-04-28 — Midday Scan
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| CVX | $188.10 | $189.20 | +$118.80 | +0.59% | +2.39% | $170.964 (10% trail) | $189.96 | HOLD — energy thesis intact |
+| GE | $280.02 | $284.972 | +$331.78 | +1.77% | +0.15% | $257.895 (10% trail) | $286.55 | HOLD — thesis intact |
+| RTX | $174.65 | $173.373 | -$146.83 | -0.73% | flat | $159.291 (10% trail) | $176.99 | HOLD — within range |
+| XOM | $149.14 | $151.73 | +$329.02 | +1.74% | +2.39% | $137.079 (10% trail) | $152.31 | HOLD — energy thesis intact |
+
+**Cut losers (-7%):** None — worst position RTX at -0.73%, well above threshold.
+**Stop tightening (+15%/+20%):** None — max gain GE +1.77%, no threshold reached.
+**Thesis check:**
+- CVX: +0.59% total, +2.39% today. Energy/WTI thesis intact; both oil proxies moving in lockstep with energy tailwind. Trailing stop self-updated to $170.964 (HWM $189.96).
+- GE: +1.77% total, +0.15% today. Defense/aerospace thesis intact. GE reported earnings week of Apr 21 (price action has absorbed the event). Stop $257.895 (HWM $286.55).
+- RTX: -0.73% total, flat today. RTX also reported earnings week of Apr 21 (past event). Defense procurement thesis intact; well above $159.291 stop.
+- XOM: +1.74% total, +2.39% today. WTI/energy thesis intact; strong intraday confirming pre-market $102+ oil thesis. Stop $137.079 (HWM $152.31).
+**Research flag:** Perplexity returned mixed/stale citations (Apr 20–21 data) suggesting potential Hormuz reopening and WTI ~$90 — contradicted by live price action (CVX/XOM both +2.39% intraday). Monitoring; no basis to act without price confirmation of thesis break.
+**No action taken.** All four 10% trailing-stop GTC orders active and self-adjusting. Key events tonight: Mag 7 earnings AMC (MSFT, AMZN, GOOGL, META). Key event tomorrow: FOMC rate decision Apr 29.
