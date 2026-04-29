@@ -183,3 +183,45 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ### Decision
 **TRADE** — Enter CVX + RTX at market open today. Deployment goes 38% → ~76%. Energy thesis extremely strong (Hormuz still closed, IEA emergency). New week, 0/3 trades used. VIX moderate. Both positions protected with 10% trailing-stop GTC orders immediately after fill. Skip COP this week due to earnings Thu. Monitor FOMC Wednesday; if Powell hawkish, hold remaining 1/3 trade slot for after the decision.
+
+---
+
+## 2026-04-29 — Pre-market Research (inline, market-open workflow)
+
+### Account
+- Equity: $101,226.81 | Cash: $21,898.42 (21.6%) | Deployed: $79,328.39 (78.4%) ✓ in target band
+- Buying power: $123,125.23 (margin; using cash only)
+- Daytrade count: 0 | Positions: 4/6 | Week trades: 2/3
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Today | Stop | HWM |
+|---|---|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $190.54 | +$263.52 | +1.30% | +1.16% | $170.964 | $190.54* (new) |
+| GE | 67 | $280.02 | $287.03 | +$469.67 | +2.50% | -0.75% | $260.469 | $289.41 |
+| RTX | 115 | $174.65 | $175.50 | +$97.75 | +0.49% | -0.10% | $159.291 | $176.99 |
+| XOM | 127 | $149.14 | $152.26 | +$395.87 | +2.09% | +1.13% | $137.079 | $152.31 |
+
+*CVX broke above prior HWM $189.96 — Alpaca trailing stop will self-update to ~$171.49
+
+### Market Context
+- WTI: $105.69 (+3.41% today, high $106.34) — surging on unresolved Iran/Hormuz conflict; closed Apr 28 at $102.22
+- S&P 500: Closed 7,173.91 Apr 27; futures near flat pre-open
+- VIX: Moderate; elevated on FOMC + geopolitical uncertainty
+- Today's catalysts:
+  - **FOMC rate decision 2:00 PM ET** — 99% probability hold at 3.50–3.75%; key event is Powell tone (dovish = bullish for all positions)
+  - Mag 7 earnings results from last night (MSFT, AMZN, GOOGL, META) — no data available from research; market reaction pending
+  - **GDP Q1 first estimate tomorrow (Apr 30)** — hold-through risk
+  - Iran/Hormuz: WTI +3.41% confirms supply disruption fully intact
+- Sector momentum: Energy #1 (WTI $105.69); Industrials #3; both thesis-intact
+
+### Trade Ideas
+- **No new trades today** — FOMC event risk at 2 PM; reserve final weekly trade slot (3rd) for post-FOMC Thursday per Apr 28 plan
+- **5th position (post-FOMC):** Materials proxy (FCX/NEM) or energy-adjacent (COP) if Powell is neutral/dovish tomorrow
+
+### Risk Factors
+- FOMC 2 PM ET: hawkish surprise reverses Energy + Industrials
+- Mag 7 results unknown: potential sentiment overhang on broad market
+- GDP Q1 (Apr 30): negative print possible
+- WTI $105 = +80% YTD — extreme; any Hormuz resolution triggers sharp reversal
+
+### Decision
+**HOLD** — All 4 positions healthy (GE +2.50%, XOM +2.09%, CVX +1.30%, RTX +0.49%). No -7% cuts needed. Energy thesis strongly confirmed by WTI $105.69. Reserve last trade slot for post-FOMC Thursday clarity. Patience > activity.
