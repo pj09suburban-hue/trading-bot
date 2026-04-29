@@ -128,3 +128,17 @@ No positions yet. Bot launches tomorrow.
 | XOM | 127 | $149.14 | $150.505 | +1.56% | +$173.45 (+0.92%) | $137.079 |
 
 **Notes:** Day 3. Energy sector led — CVX and XOM both up ~1.6–1.7% intraday, recovering firmly from Monday's weakness; combined energy unrealized P&L net positive ($151.85). GE extended defense/aerospace gains to +2.38% cumulative. RTX lagged but up +0.43% today and well above stop. Net portfolio +$858 on the day; phase P&L now positive at +$537 (+0.54%). All four 10% trailing-stop GTC orders active; HWMs updated by broker (GE stop now $258.381, CVX $170.964, XOM $137.079). No trades today; week stands at 2/3. Two macro events pending: Mag 7 earnings tonight (MSFT, AMZN, GOOGL, META) and FOMC decision tomorrow Apr 29 — no position changes planned pre-FOMC.
+
+---
+
+### Apr 29 — EOD Snapshot (Day 4, Wednesday)
+**Portfolio:** $100,738.13 | **Cash:** $21,898.42 (21.8%) | **Day P&L:** -$203.89 (-0.20%) | **Phase P&L:** +$738.13 (+0.74%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $191.52 | +1.68% | +$369.36 (+1.82%) | $173.358 |
+| GE | 67 | $280.02 | $280.37 | -3.05% | +$23.45 (+0.13%) | $260.946 |
+| RTX | 115 | $174.65 | $172.44 | -1.85% | -$254.38 (-1.27%) | $159.291 |
+| XOM | 127 | $149.14 | $153.86 | +2.19% | +$598.90 (+3.16%) | $139.455 |
+
+**Notes:** FOMC day (Day 4). Energy names led — XOM +2.19% (new HWM $154.95, stop ticked up to $139.46) and CVX +1.68% (HWM $192.62, stop $173.36); combined energy unrealized now +$968. GE sold off sharply -3.05% intraday on FOMC-day rotation from defensives, dropping $289.20 → $280.37; cumulative gain eroded to just +$23 (+0.13%), still well above stop ($260.95). RTX drifted -1.85% (cumulative -1.27%), stop $159.29 unchanged. Portfolio net -$204 on the day (basis: Alpaca last_equity $100,942.02). No trades today; week: 2/3 used, one slot remaining. All four 10% trailing GTC stops active and self-adjusting. Tomorrow: post-FOMC commentary digest; scan for new catalyst; GE recovery and RTX reversal both on watch.
