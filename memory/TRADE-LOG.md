@@ -142,3 +142,17 @@ No positions yet. Bot launches tomorrow.
 | XOM | 127 | $149.14 | $153.86 | +2.19% | +$598.90 (+3.16%) | $139.455 |
 
 **Notes:** FOMC day (Day 4). Energy names led — XOM +2.19% (new HWM $154.95, stop ticked up to $139.46) and CVX +1.68% (HWM $192.62, stop $173.36); combined energy unrealized now +$968. GE sold off sharply -3.05% intraday on FOMC-day rotation from defensives, dropping $289.20 → $280.37; cumulative gain eroded to just +$23 (+0.13%), still well above stop ($260.95). RTX drifted -1.85% (cumulative -1.27%), stop $159.29 unchanged. Portfolio net -$204 on the day (basis: Alpaca last_equity $100,942.02). No trades today; week: 2/3 used, one slot remaining. All four 10% trailing GTC stops active and self-adjusting. Tomorrow: post-FOMC commentary digest; scan for new catalyst; GE recovery and RTX reversal both on watch.
+
+---
+
+### Apr 30 — EOD Snapshot (Day 5, Thursday)
+**Portfolio:** $102,172.34 | **Cash:** $21,898.42 (21.4%) | **Day P&L:** +$1,001.03 (+0.99%) | **Phase P&L:** +$2,172.34 (+2.17%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $193.94 | +0.90% | +$630.72 (+3.11%) | $174.72 |
+| GE | 67 | $280.02 | $290.00 | +2.27% | +$668.66 (+3.56%) | $262.41 |
+| RTX | 115 | $174.65 | $176.10 | +1.92% | +$166.75 (+0.83%) | $159.29 |
+| XOM | 127 | $149.14 | $154.70 | +0.02% | +$706.21 (+3.73%) | $140.12 |
+
+**Notes:** Day 5 (Thursday). No new trades; week stands at 2/3, one slot remaining through Friday. All four positions finished green — GE led with +2.27% intraday, snapping back fully from Wednesday's FOMC-day defense rotation and reaching a new HWM $291.57 (stop now $262.41); RTX rebounded +1.92% intraday, recovering its post-FOMC dip; CVX added +0.90% with a new HWM $194.13 (stop $174.72); XOM was nearly flat intraday (+0.02%) but remains the top cumulative winner at +3.73%, HWM $155.69 (stop $140.12). Portfolio crosses $102k for the first time; Phase P&L +$2,172 (+2.17%). All four 10% trailing-stop GTC orders active and self-adjusting. No position near +15% threshold; no stop tightening triggered. Tomorrow (Friday): weekly-review day — assess whether to deploy the remaining trade slot or preserve it; sector momentum intact across energy and industrials/defense.
