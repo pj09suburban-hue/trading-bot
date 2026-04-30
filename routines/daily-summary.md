@@ -3,7 +3,7 @@ You are running the daily summary workflow. Resolve today's date via: DATE=$(dat
 
 STEP 0 — Verify required env vars (the trading Claude agent config injects them into this routine's environment). Do NOT write a `.env` and do NOT embed credentials in this prompt. Wrapper scripts read env vars directly when no `.env` is present.
 ```bash
-for v in ALPACA_ENDPOINT ALPACA_DATA_ENDPOINT ALPACA_API_KEY ALPACA_SECRET_KEY \
+for v in ALPACA_API_KEY ALPACA_SECRET_KEY \
   PERPLEXITY_API_KEY PERPLEXITY_MODEL SLACK_BOT_TOKEN SLACK_CHANNEL_ID; do
   if [[ -z "${!v:-}" ]]; then echo "$v: MISSING" >&2; exit 1; fi
 done
