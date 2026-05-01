@@ -156,3 +156,17 @@ No positions yet. Bot launches tomorrow.
 | XOM | 127 | $149.14 | $154.70 | +0.02% | +$706.21 (+3.73%) | $140.12 |
 
 **Notes:** Day 5 (Thursday). No new trades; week stands at 2/3, one slot remaining through Friday. All four positions finished green — GE led with +2.27% intraday, snapping back fully from Wednesday's FOMC-day defense rotation and reaching a new HWM $291.57 (stop now $262.41); RTX rebounded +1.92% intraday, recovering its post-FOMC dip; CVX added +0.90% with a new HWM $194.13 (stop $174.72); XOM was nearly flat intraday (+0.02%) but remains the top cumulative winner at +3.73%, HWM $155.69 (stop $140.12). Portfolio crosses $102k for the first time; Phase P&L +$2,172 (+2.17%). All four 10% trailing-stop GTC orders active and self-adjusting. No position near +15% threshold; no stop tightening triggered. Tomorrow (Friday): weekly-review day — assess whether to deploy the remaining trade slot or preserve it; sector momentum intact across energy and industrials/defense.
+
+---
+
+### May 01 — EOD Snapshot (Day 6, Friday)
+**Portfolio:** $101,344.44 | **Cash:** $21,898.42 (21.6%) | **Day P&L:** -$704.73 (-0.69%) | **Phase P&L:** +$1,344.44 (+1.34%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $190.71 | -1.35% | +$281.88 (+1.39%) | $174.72 |
+| GE | 67 | $280.02 | $288.66 | -0.44% | +$578.88 (+3.09%) | $262.58 |
+| RTX | 115 | $174.65 | $174.25 | -1.03% | -$46.00 (-0.23%) | $159.29 |
+| XOM | 127 | $149.14 | $153.31 | -0.66% | +$529.68 (+2.80%) | $140.12 |
+
+**Notes:** Day 6 (Friday, end of week 2). No trades today; week closes at 2/3 slots used, one slot preserved. All four positions pulled back intraday on broad mild selling — energy (CVX -1.35%, XOM -0.66%) and defense/aerospace (GE -0.44%, RTX -1.03%) all red on the day but well above their 10% trailing stops. RTX is the only position with a cumulative loss (-0.23%), negligible. Portfolio slipped to $101,344 from yesterday's $102,049 Alpaca close (-$705, -0.69% day); Phase P&L holds at +$1,344 (+1.34%). All four GTC trailing stops active; no stop-tightening threshold triggered (max cumulative gain GE +3.09%, short of +15%). Weekly trade counter resets Monday — 3 fresh slots available. Weekend: no activity; Monday pre-market: reassess sector momentum and whether to deploy new slot(s).
