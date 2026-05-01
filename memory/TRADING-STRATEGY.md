@@ -29,6 +29,7 @@ Before placing any buy, document all four:
 - [ ] Sector in momentum?
 - [ ] Stop level (7–10% below entry)
 - [ ] Target (minimum 2:1 R:R)
+- [ ] Live quote verified via `bash scripts/alpaca.sh quote SYM` — confirm fill price × shares ≤ 20% equity before submitting (gap-up protection, added 2026-05-01)
 
 ## Buy-Side Gate (all must pass)
 - Total positions after fill ≤ 6
