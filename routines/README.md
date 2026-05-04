@@ -24,14 +24,13 @@ These prompts are the production path. Each one is configured as a separate clou
 ## Required Environment Variables (set on each routine)
 
 ```
-ALPACA_ENDPOINT
-ALPACA_DATA_ENDPOINT
 ALPACA_API_KEY
 ALPACA_SECRET_KEY
 PERPLEXITY_API_KEY
-PERPLEXITY_MODEL
 SLACK_BOT_TOKEN
 SLACK_CHANNEL_ID
 ```
+
+Optional (wrappers default if unset): `ALPACA_ENDPOINT`, `ALPACA_DATA_ENDPOINT`, `PERPLEXITY_MODEL` (defaults to `sonar`).
 
 **Never put real credentials in any file committed to this repo.**

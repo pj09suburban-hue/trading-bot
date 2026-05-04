@@ -4,7 +4,7 @@ You are running the market-open execution workflow. Resolve today's date via: DA
 STEP 0 — Verify required env vars (the trading Claude agent config injects them into this routine's environment). Do NOT write a `.env` and do NOT embed credentials in this prompt. Wrapper scripts read env vars directly when no `.env` is present.
 ```bash
 for v in ALPACA_API_KEY ALPACA_SECRET_KEY \
-  PERPLEXITY_API_KEY PERPLEXITY_MODEL SLACK_BOT_TOKEN SLACK_CHANNEL_ID; do
+  PERPLEXITY_API_KEY SLACK_BOT_TOKEN SLACK_CHANNEL_ID; do
   if [[ -z "${!v:-}" ]]; then echo "$v: MISSING" >&2; exit 1; fi
 done
 ```
