@@ -180,3 +180,23 @@ No positions yet. Bot launches tomorrow.
 | 2026-05-04 | COP | SKIP | — | — | — | Energy open red (CVX -0.10%, XOM -0.24%); pre-market gate required green energy open — condition not met | — | — |
 
 **Week trades:** 0/3 | **Open positions:** 4/6 | **Deployed:** ~$79,000 / $100,875 (~78.4%)
+
+---
+
+## 2026-05-04 — Midday Scan
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| CVX | $188.10 | $192.31 | +$454.68 | +2.24% | +0.88% | $174.72 (10% trail) | $194.13 | HOLD — energy thesis intact |
+| GE | $280.02 | $280.41 | +$26.13 | +0.14% | -2.13% | $262.58 (10% trail) | $291.76 | HOLD — no news catalyst; oil-risk warning was pre-known |
+| RTX | $174.65 | $173.64 | -$116.73 | -0.58% | -0.20% | $159.29 (10% trail) | $176.99 | HOLD — thesis intact |
+| XOM | $149.14 | $153.74 | +$583.66 | +3.08% | +0.65% | $140.12 (10% trail) | $155.69 | HOLD — energy thesis intact |
+
+**Cut losers (-7%):** None — worst position RTX at -0.58%, well above threshold.
+**Stop tightening (+15%/+20%):** None — best position XOM +3.08%, short of +15%.
+**Thesis check:**
+- CVX: +2.24% cumulative, +0.88% intraday. Energy/WTI thesis intact. HWM $194.13; trailing stop self-adjusting.
+- GE: -2.13% intraday (from $286.51 → $280.41), cumulative barely green +0.14%. No specific May 4 catalyst found via Perplexity. Pre-market oil-risk warning (elevated fuel costs slowing commercial engine demand) was a known risk from Apr 21 earnings, not a new development. Defense/aerospace thesis intact on ongoing Iran conflict. Monitoring closely — another sharp leg down would warrant re-evaluation.
+- RTX: -0.20% intraday, -0.58% cumulative. Defense systems thesis intact. Well above stop $159.29.
+- XOM: +0.65% intraday, +3.08% cumulative. WTI momentum thesis intact. New intraday prices below prior HWM $155.69 — stop remains $140.12.
+**No action taken.** All four 10% trailing-stop GTC orders active.
