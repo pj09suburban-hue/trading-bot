@@ -200,3 +200,17 @@ No positions yet. Bot launches tomorrow.
 - RTX: -0.20% intraday, -0.58% cumulative. Defense systems thesis intact. Well above stop $159.29.
 - XOM: +0.65% intraday, +3.08% cumulative. WTI momentum thesis intact. New intraday prices below prior HWM $155.69 — stop remains $140.12.
 **No action taken.** All four 10% trailing-stop GTC orders active.
+
+---
+
+### May 04 — EOD Snapshot (Day 7, Monday)
+**Portfolio:** $100,854.81 | **Cash:** $21,898.42 (21.7%) | **Day P&L:** -$235.92 (-0.23%) | **Phase P&L:** +$854.81 (+0.85%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $191.94 | +0.69% | +$414.72 (+2.04%) | $174.72 |
+| GE | 67 | $280.02 | $281.03 | -1.91% | +$67.34 (+0.36%) | $262.58 |
+| RTX | 115 | $174.65 | $173.44 | -0.32% | -$139.15 (-0.69%) | $159.29 |
+| XOM | 127 | $149.14 | $153.17 | +0.27% | +$511.90 (+2.70%) | $140.12 |
+
+**Notes:** Day 7 (Monday, start of week 3). No trades executed; COP skipped at market-open — energy sector opened red (CVX -0.10%, XOM -0.24%) failing the pre-market gate. Portfolio slipped -$235.92 (-0.23%) off Friday's Alpaca close. GE was the drag intraday (-1.91%), cumulative gain now nearly flat (+$67, +0.36%); HWM $291.76 intact, stop $262.58 unchanged. RTX drifted -0.32% intraday, cumulative -0.69% — still well above stop $159.29. CVX recovered +0.69% intraday (+2.04% cumulative) and XOM +0.27% intraday (+2.70% cumulative); energy thesis holding though below prior HWMs. No stop-tightening threshold reached (best: XOM +2.70%, short of +15%). All four 10% GTC trailing stops active and self-adjusting. Week 3 opens with 3 fresh trade slots.
