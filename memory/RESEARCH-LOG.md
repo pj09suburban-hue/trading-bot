@@ -225,3 +225,50 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ### Decision
 **HOLD** — All 4 positions healthy (GE +2.50%, XOM +2.09%, CVX +1.30%, RTX +0.49%). No -7% cuts needed. Energy thesis strongly confirmed by WTI $105.69. Reserve last trade slot for post-FOMC Thursday clarity. Patience > activity.
+
+---
+
+## 2026-05-04 — Pre-market Research
+
+### Account
+- Equity: $100,948 | Cash: $21,898.42 (21.7%) | Long MV: $79,049.58 (78.3% deployed — in band) ✓
+- Buying power: $122,846.42 (margin; using cash only)
+- Daytrade count: 0 | Positions: 4/6 | Week trades: 0/3 (fresh week)
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Today | Stop | HWM |
+|---|---|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $190.30 | +$237.60 | +1.17% | -0.17% | $174.72 | $194.13 |
+| GE | 67 | $280.02 | $284.17 | +$278.05 | +1.48% | -0.82% | $262.58 | $291.76 |
+| RTX | 115 | $174.65 | $174.81 | +$17.83 | +0.09% | +0.47% | $159.29 | $176.99 |
+| XOM | 127 | $149.14 | $152.39 | +$412.84 | +2.18% | -0.24% | $140.12 | $155.69 |
+
+### Market Context
+- **WTI:** ~$103–$105.74/bbl; CME June futures (CLM6) $105.25 +3.25% — Strait of Hormuz disruption ongoing
+- **Brent:** ~$116/bbl (May 1 close); EIA Q2 2026 forecast peak $115–$116
+- **S&P 500 futures:** ~7,265 (+0.04% vs prior close) — near flat but headline risk: "SPY sinks on Iran uncertainty" (247wallst)
+- **VIX:** Last confirmed Apr 22 at 18.92; expected elevated (Iran uncertainty); no May 4 real-time data available
+- **Today's catalysts:** Iran/Hormuz uncertainty dominating; PLTR earnings (timing unclear, possibly today); Nasdaq/AI stocks leading broad market; GME news (potential eBay bid); INTC strong on gov't-backed move
+- **Earnings before open:** CCBG (EPS est $0.85); PLTR ($0.28 EPS / $1.54B rev est — schedule unconfirmed BMO vs AMC); AMC reports include AGNC, others
+- **Economic calendar:** None today. JOLTS (Mar) Tue May 5 10:00 AM ET; Jobs/NFP (Apr) Thu May 8 ~8:30 AM ET — key risk event this week
+- **Sector momentum YTD:** Energy #1 (+22–26%); Consumer Staples #2 (+11%); Industrials #3 (+10%); Materials #4 — Tech/Comm/Consumer Disc lagging
+
+### Ticker News
+- **CVX:** Q1 2026 reported May 1 — EPS $1.41 beat (vs $0.92–$1.17 est); US production +24%; returned $6B to shareholders; revenue missed ($48.6B vs $53B est); Australian LNG disruption (cyclone); thesis intact
+- **GE:** Q1 2026 beat — EPS $1.86 vs $1.60 est; guidance maintained at top of $7.40/share range; warns of oil risk to commercial engine demand (elevated fuel costs → slower flight growth); defense thesis intact
+- **RTX:** Q1 2026 beat — sales $22.1B +10% organic, EPS $1.78 beat by 17%; raised FY guidance to $6.70–$6.90; defense contracts intact (F135, Navy GPS); slight near-term technical softness, stock ~$174; thesis intact
+- **XOM:** Q1 2026 conference call past; Guyana (Uaru) + Permian production growth; Golden Pass LNG online; no negative May 4 specific news; thesis intact
+
+### Trade Ideas
+1. **COP (ConocoPhillips)** — Q1 earnings past (Apr 30 — event risk cleared); pure-play WTI proxy, highest beta to oil; WTI $103–$105 thesis very intact; energy sector #1 YTD. Entry ~$100–$105 range at market open (confirm with live quote), stop –10%, target +20% (2:1). Size: ~$20,000. **Gate check:** week 0/3, positions 4/6, cash available. Prefer confirming energy sector opens green before entering.
+2. **SLB (Schlumberger)** — Oilfield services; levered to high WTI capex cycle; if COP fills first, SLB as 6th position only if sector momentum remains strong mid-week.
+
+### Risk Factors
+- Iran/Hormuz: Primary driver — any resolution/reopening triggers sharp WTI reversal; all 4 positions exposed
+- Jobs data Fri May 8: Could reprice growth expectations; avoid overexposure through Friday
+- GE oil risk warning: Elevated fuel costs may slow commercial engine demand growth; monitor GE thesis
+- SPY headline weakness on Iran uncertainty: Market not uniformly bullish despite oil; potential rotation
+- PLTR earnings (if today): Could swing Nasdaq sentiment; AI/tech sector move may affect market breadth
+- RTX: Near-term technical softness; cumulative gain minimal (+0.09%); thesis intact but weakest holding
+
+### Decision
+**HOLD** — All 4 positions healthy, no -7% cuts needed. Energy thesis confirmed by WTI $103–$105+. Week resets with 3 fresh trade slots and 2 open position slots. Monitor market open: if energy sector opens green, **COP is the top candidate for a new entry at market-open workflow**. Do not force entry on a red open. Patience > activity.
