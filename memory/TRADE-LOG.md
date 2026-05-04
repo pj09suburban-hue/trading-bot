@@ -170,3 +170,13 @@ No positions yet. Bot launches tomorrow.
 | XOM | 127 | $149.14 | $153.31 | -0.66% | +$529.68 (+2.80%) | $140.12 |
 
 **Notes:** Day 6 (Friday, end of week 2). No trades today; week closes at 2/3 slots used, one slot preserved. All four positions pulled back intraday on broad mild selling — energy (CVX -1.35%, XOM -0.66%) and defense/aerospace (GE -0.44%, RTX -1.03%) all red on the day but well above their 10% trailing stops. RTX is the only position with a cumulative loss (-0.23%), negligible. Portfolio slipped to $101,344 from yesterday's $102,049 Alpaca close (-$705, -0.69% day); Phase P&L holds at +$1,344 (+1.34%). All four GTC trailing stops active; no stop-tightening threshold triggered (max cumulative gain GE +3.09%, short of +15%). Weekly trade counter resets Monday — 3 fresh slots available. Weekend: no activity; Monday pre-market: reassess sector momentum and whether to deploy new slot(s).
+
+---
+
+## 2026-05-04 — Market-Open Trades
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-05-04 | COP | SKIP | — | — | — | Energy open red (CVX -0.10%, XOM -0.24%); pre-market gate required green energy open — condition not met | — | — |
+
+**Week trades:** 0/3 | **Open positions:** 4/6 | **Deployed:** ~$79,000 / $100,875 (~78.4%)
