@@ -192,8 +192,8 @@ On push failure: `git pull --rebase origin main`, then push again. **Never force
 
 ## Notification Philosophy
 
-- Pre-market → silent unless urgent
-- Market-open → only if a trade was placed
+- Pre-market → always sends, structured (decision + setup + sentiment + what it's looking for + risks)
+- Market-open → always sends, structured (action + sentiment vs plan)
 - Midday → only if action was taken
 - Daily-summary → always sends, ≤ 15 lines
 - Weekly-review → always sends, headline numbers only

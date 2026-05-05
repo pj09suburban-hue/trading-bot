@@ -44,9 +44,15 @@ STEP 4 — Write a dated entry to memory/RESEARCH-LOG.md:
 - Risk factors for the day
 - Decision: TRADE or HOLD (default HOLD — patience > activity)
 
-STEP 5 — Notification: silent unless urgent.
+STEP 5 — Send ONE Slack message (always, even on HOLD days). ≤ 10 lines:
 ```
-bash scripts/slack.sh "<one line — only if urgent>"
+bash scripts/slack.sh "Pre-market $DATE
+Decision: <TRADE | TRADE-conditional | HOLD>
+Setup: <ticker + size + entry condition, or 'no setup today'>
+Sentiment: <one line — what's driving today's read>
+Looking for: <one line — what would shift HOLD to TRADE, or what could break the setup>
+Risks: <one line — top 1-2 risk factors today>
+Positions: N/6 | Trades: N/3"
 ```
 
 STEP 6 — COMMIT AND PUSH (mandatory):

@@ -51,9 +51,12 @@ If also blocked, queue the stop in TRADE-LOG as "PDT-blocked, set tomorrow AM".
 STEP 6 — Append each trade to memory/TRADE-LOG.md (matching existing format):
 Date | Ticker | Side | Shares | Entry price | Stop level | Thesis | Target | R:R
 
-STEP 7 — Notification: only if a trade was placed.
+STEP 7 — Send ONE Slack message (always, even on no-trade days). ≤ 8 lines:
 ```
-bash scripts/slack.sh "<tickers, shares, fill prices, one-line why>"
+bash scripts/slack.sh "Market-open $DATE
+Action: <BOUGHT SYM Nsh @ \$X.XX, stop trail 10% | SKIPPED SYM — reason | NO SETUP>
+Sentiment: <one line — how the open compared to pre-market plan>
+Positions: N/6 | Trades: N/3"
 ```
 
 STEP 8 — COMMIT AND PUSH (mandatory if any trades executed):
