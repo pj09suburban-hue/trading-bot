@@ -4,7 +4,9 @@
 - **What:** Autonomous trading bot challenge
 - **Starting capital:** ~$10,000
 - **Platform:** Alpaca
-- **Duration:** [set your challenge window here]
+- **Trial end criterion (set 2026-05-05):** ≥6 closed trades AND ≥4 full trading weeks completed. Until both are met, bot stays on paper. Rationale: live trial is meaningless until exit/stop discipline has been observed under real conditions; pure unrealized P&L on paper is not a validation signal.
+- **Trial start:** 2026-04-24 (Week 1, partial Friday launch)
+- **Earliest possible live-go date:** End of Week 5 (~2026-05-22) — and only if the 6-closed-trades floor is met by then
 - **Strategy:** Swing trading stocks only — no options
 
 ## Collaboration
