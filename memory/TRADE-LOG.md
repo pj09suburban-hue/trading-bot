@@ -203,6 +203,26 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+## 2026-05-05 — Midday Scan
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| CVX | $188.10 | $193.21 | +$551.87 | +2.72% | +0.48% | $174.72 (10% trail) | $194.13 | HOLD — energy thesis intact |
+| GE | $280.02 | $286.91 | +$461.63 | +2.46% | +2.28% | $262.58 (10% trail) | $291.76 | HOLD — catalyst confirmed |
+| RTX | $174.65 | $172.56 | -$240.35 | -1.20% | -0.20% | $159.29 (10% trail) | $176.99 | HOLD — thesis intact |
+| XOM | $149.14 | $155.08 | +$754.47 | +3.98% | +0.90% | $140.12 (10% trail) | $155.69 | HOLD — energy thesis intact |
+
+**Cut losers (-7%):** None — worst position RTX at -1.20%, well above threshold.
+**Stop tightening (+15%/+20%):** None — best position XOM +3.98%, short of +15%.
+**Thesis check:**
+- CVX: +2.72% cumulative, +0.48% intraday. Energy/WTI thesis intact (WTI $105-109, Hormuz disruption ongoing). Trailing stop self-adjusting (HWM $194.13, stop $174.72).
+- GE: +2.46% cumulative, +2.28% intraday. Catalyst confirmed via Perplexity — Q1 engine deals (American Airlines 300 LEAP-1A, United 300 GEnx, Delta 60 GEnx) + Trump $1.5T defense budget tailwind; consensus Buy, median PT $234.49. Recovery from post-Q1 sell-off. HWM $291.76, stop $262.58.
+- RTX: -1.20% cumulative, -0.20% intraday. Defense procurement thesis intact. Well above stop $159.29.
+- XOM: +3.98% cumulative, +0.90% intraday. WTI/Permian + Guyana thesis intact. Approaching prior HWM $155.69 (current $155.08) — stop will auto-tighten if new HWM set.
+**No action taken.** All four 10% trailing-stop GTC orders active and self-adjusting. No Slack notification sent (no action = no notification per rules).
+
+---
+
 ### May 04 — EOD Snapshot (Day 7, Monday)
 **Portfolio:** $100,854.81 | **Cash:** $21,898.42 (21.7%) | **Day P&L:** -$235.92 (-0.23%) | **Phase P&L:** +$854.81 (+0.85%)
 

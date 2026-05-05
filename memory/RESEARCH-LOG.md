@@ -49,6 +49,13 @@ All 4 GTC 10% trailing-stop orders active and self-adjusting.
 ### Decision
 **TRADE (conditional)** — If energy sector opens green (CVX and XOM both green at 9:30 AM ET), execute COP at market-open workflow. If red open, pass and hold all 4. Patience > activity on a JOLTS day with elevated VIX.
 
+### Afternoon Addendum — Midday Scan
+- **GE +2.28% intraday:** Catalyst confirmed via Perplexity — Q1 2026 engine deal disclosures (American Airlines 300 LEAP-1A, United 300 GEnx, Delta 60 GEnx); plus Trump $1.5T defense budget tailwind driving defense/aerospace sector. MarketBeat flagged GE as defense stock to watch May 2. Recovery from post-Q1 earnings sell-off. Commercial + defense dual thesis intact. Consensus Buy, 61 analysts, median PT $234.49. No new negative catalyst.
+- **XOM $155.08 approaching HWM $155.69:** If XOM closes at or above $155.69 today, Alpaca will auto-tighten the trailing stop to a new HWM-based level (~10% below). No manual action needed.
+- **No positions cut. No stops manually adjusted.** All four GTC trailing stops active.
+
+---
+
 Format each entry:
 
 ## YYYY-MM-DD — Pre-market Research
