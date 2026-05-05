@@ -2,6 +2,53 @@
 
 Daily pre-market research entries will be appended here.
 
+---
+
+## 2026-05-05 — Pre-market Research
+
+### Account
+- Equity: $100,954.74 | Cash: $21,898.42 (21.7%) | Long MV: $79,056.32 (78.4% deployed — in band) ✓
+- Buying power: $122,853.16 | Daytrade count: 0 | Positions: 4/6 | Week trades: 0/3 (fresh week)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Today | Stop | HWM |
+|---|---|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $192.00 | +$421.20 | +2.07% | -0.15% | $174.72 | $194.13 |
+| GE | 67 | $280.02 | $282.30 | +$152.76 | +0.81% | +0.64% | $262.58 | $291.76 |
+| RTX | 115 | $174.65 | $173.30 | -$155.25 | -0.77% | +0.23% | $159.29 | $176.99 |
+| XOM | 127 | $149.14 | $153.36 | +$536.03 | +2.83% | -0.22% | $140.12 | $155.69 |
+
+All 4 GTC 10% trailing-stop orders active and self-adjusting.
+
+### Market Context
+- **WTI:** $105–109/bbl (spot); Brent ~$116/bbl — Strait of Hormuz disruption ongoing; no resolution signal
+- **S&P 500 futures:** ESM6 7,243.00 (+12.75, +0.18%) — modestly positive pre-open
+- **VIX:** Closed May 4 at 18.51 (+8.95% from 16.99 on May 1) — elevated; market hedging activity up
+- **Today's catalysts:** JOLTS Job Openings (March 2026) at 10:00 AM ET; consensus ~6.66M, prior 6.88M — labor market read; softening print = dovish tilt supportive of risk-on
+- **Earnings BMO today:** Life Time Group (LTH); no market-moving names for our sectors
+- **Sector momentum YTD:** Energy #1 (+38.3%), Consumer Staples #2 (+10.7%), Industrials #3 (+9.6%), Materials #4 (+17.2% 6mo) — Tech/Financials in lagging quadrant
+
+### Ticker News
+- **CVX:** Q1 beat (May 1) — EPS $1.77, revenue $46.9B; market cap $386.75B; +1.71% on Apr 13; no new May 5 negative catalyst. Thesis intact.
+- **GE:** Defense/aerospace bullish case reaffirmed — Trump $1.5T defense budget tailwind; Q1 EPS $1.86 beat; oil risk to commercial engine demand known/priced. Thesis intact.
+- **RTX:** Q1 beat ($1.78 vs $1.52 est), $22B revenue; defense contracts intact (F135, Navy GPS). Thesis intact; cumulative -0.77% but well above $159.29 stop.
+- **XOM:** No new May 5 negative catalyst; Permian + Guyana production growth intact; WTI $105–109 confirms thesis.
+- **COP (candidate):** Q1 beat Apr 30 — EPS $1.89 vs $1.62 est (+16.7% surprise); revenue $16.05B beat; FCF $2.4B; returned $2B to shareholders; +37% YTD. Premarket bid $116.96. Earnings event risk cleared. Energy #1 sector.
+
+### Trade Ideas
+1. **COP (ConocoPhillips)** — Q1 earnings beat cleared (Apr 30), pure-play WTI proxy, highest beta to oil, energy #1 sector YTD. Entry at market open if energy sector opens green (CVX/XOM green gate). Premarket ~$116.96; size 171 shares (~$19,999), stop –10% (~$105.27), target +20% (~$140.35), R:R 2.0:1. Gate checks: positions 4→5/6 ✓, trades 0→1/3 ✓, cost ≤20% equity ($19,999 vs $20,190 max) ✓, cash available ($21,898) ✓, catalyst documented ✓, stock ✓. Confirm live quote via alpaca at market-open before submitting.
+2. **SLB (Schlumberger)** — Oilfield services, levered to WTI capex cycle. Backup if COP gap-up >20% limit at open. Week 3 preserves slots 2 and 3 for further opportunities.
+
+### Risk Factors
+- **JOLTS 10 AM ET:** Weak openings print (<6.5M) = positive (rate-cut expectations); strong = hawkish concern
+- **VIX 18.51 elevated:** Hedging activity up; broad market skittish despite oil strength
+- **Iran/Hormuz:** Any resolution announcement triggers sharp WTI reversal — all 4 positions exposed
+- **COP entry after +37% YTD:** Momentum continuation trade; mean reversion risk if WTI softens
+- **RTX cumulative -0.77%:** Weakest holding; thesis intact but one down day from being notable; stop $159.29 is firm floor
+- **Jobs/NFP Thu May 8:** Major data event in 3 days; manage position sizing through end of week
+
+### Decision
+**TRADE (conditional)** — If energy sector opens green (CVX and XOM both green at 9:30 AM ET), execute COP at market-open workflow. If red open, pass and hold all 4. Patience > activity on a JOLTS day with elevated VIX.
+
 Format each entry:
 
 ## YYYY-MM-DD — Pre-market Research
