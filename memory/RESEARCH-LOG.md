@@ -4,6 +4,52 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-06 — Pre-market Research
+
+### Account
+- Equity: $101,299.50 | Cash: $21,898.42 (21.6%) | Long MV: $79,401.08 (78.4% deployed — in band) ✓
+- Buying power: $123,197.92 (margin; using cash only)
+- Daytrade count: 0 | Positions: 4/6 | Week trades: 0/3 (fresh week)
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Today | Stop | HWM |
+|---|---|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $185.40 | -$291.60 | -1.44% | -3.76% | $174.72 | $194.13 |
+| GE | 67 | $280.02 | $303.45 | +$1,569.81 | +8.37% | +5.85% | $262.58 | $291.76→auto |
+| RTX | 115 | $174.65 | $175.00 | +$40.25 | +0.20% | +1.23% | $159.29 | $176.99 |
+| XOM | 127 | $149.14 | $148.99 | -$18.96 | -0.10% | -3.80% | $140.12 | $155.69 |
+
+### Market Context
+- **WTI:** ~$99–$104 (daily range); down from $105+ prior week — Hormuz easing narrative emerging; low odds for $150 (4% probability)
+- **Brent:** ~$120/bbl (elevated, tracking WTI lower)
+- **S&P 500 futures:** ESM26 ~7,303–7,314 (+0.22%) — broad market UP vs. energy slide
+- **VIX:** ~17.24 (May 5 close, down from 18.29) — declining volatility, moderate risk-on
+- **Key headline:** Yahoo Finance — "S&P 500, Nasdaq, Dow rise as oil slides" — energy-to-breadth rotation underway
+- **Today's catalysts:** Novo Nordisk Q1 (BMO), NYT Q1, GEO Group Q1; ISM Non-Manufacturing/Services PMI 10:00 AM ET (market-moving); no FOMC, no NFP
+- **Sector momentum YTD:** Energy #1 (but "lagging" since April tariff tantrum); Materials +17.2% trailing 6-mo; Industrials +11.4%; Consumer Staples strong; Tech/Comm lagging
+- **Fed:** 88.5% probability of rate cut by July 2026 — dovish backdrop
+
+### Ticker News
+- **CVX:** WTI pulling back ~3% from $105 peak; Q1 negative FCF despite high oil (downstream accounting) = sell-the-news overhang; BofA PT $206 Buy. Today -3.76% is WTI-driven, not company-specific. Thesis intact *if* WTI holds $95+.
+- **XOM:** Same WTI dynamic. Fell 9% in April despite high crude (Hormuz disrupted volumes). Today -3.80%, tracking oil.
+- **GE:** Gapped +5.85% to $303.45 (new post-entry HWM) — full recovery of Apr 22 post-earnings selloff + extension. Defense orders doubled, $210B backlog, $5B AF F110 contract, $7.44 FY26 EPS. Cumulative +8.37% — below +15% tightening threshold. Alpaca trailing stop HWM auto-updates intraday.
+- **RTX:** +1.23% intraday, +0.20% cumulative. Defense thesis intact (Q1 +17.88% EPS beat, guidance raised to $6.90). Technical softness persists; stop $159.29 provides wide cushion.
+
+### Trade Ideas
+1. **Energy HOLD / thesis watch:** CVX/XOM thesis technically alive (WTI ~$100+, Hormuz not confirmed resolved) but weakening. No new energy entries. If WTI < $97 or Hormuz easing confirmed → thesis broken → close per rules at midday.
+2. **NEM (Newmont) as conditional 5th:** If CVX/XOM closed (~$40k freed), NEM is the top candidate. Catalyst: Fed rate-cut expectations (88.5% by July) + geopolitical safe-haven + materials sector momentum (+17.2%). Entry ~$52–$55 (confirm live quote), stop -10%, target +20%. Risk: risk-on reversal if Hormuz fully resolves.
+3. **Reserve:** Wait for ISM Services PMI at 10 AM ET — strong print = risk-on breadth → consider industrials/tech proxy for 5th/6th slot.
+
+### Risk Factors
+- **WTI reversal:** Hormuz easing would hit CVX/XOM simultaneously; WTI $99–$104 vs. prior $105+ = institutional de-risking already underway
+- **Sector rotation:** Broad market up while energy slides — if sustained, energy thesis breaks regardless of Hormuz
+- **GE HWM lag:** Stop HWM showing $291.76 while price hit $303.45 — verify auto-update at midday; effective stop should be ~$273+
+- **ISM Services 10 AM ET:** Weak print could reverse morning risk-on sentiment
+
+### Decision
+**HOLD** — GE/RTX defense thesis intact and performing strongly. CVX/XOM energy thesis under WTI pressure but above -7% stop; thesis not yet definitively broken. No new trades until oil direction confirmed post-open. If energy opens lower (WTI < $99) or Hormuz easing confirmed → midday will close CVX/XOM. Patience > activity.
+
+---
+
 ## 2026-05-05 — Pre-market Research
 
 ### Account
