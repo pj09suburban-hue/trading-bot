@@ -250,3 +250,17 @@ No positions yet. Bot launches tomorrow.
 **Notes:** Day 8 (Tuesday, week 3). No new trades; week stands at 0/3 slots used. All four positions moved constructively — GE led with +1.47% intraday, recovering from Monday's drag (cumulative now +1.65%); XOM added +0.68% intraday, new potential HWM approaching ($154.74 vs prior $155.69); CVX +0.41%; RTX continued slipping -0.39% intraday, cumulative now -1.39%, still well above stop $159.29. Portfolio +$188.04 (+0.19%) on the day; Phase P&L +$1,278.77 (+1.28%). No stop-tightening threshold breached (best: XOM +3.75%, short of +15%). All four 10% GTC trailing stops active. Wednesday: pre-market scan for trade catalyst to deploy one of 3 remaining weekly slots; watch RTX — two more losing days without thesis catalyst would warrant re-evaluation.
 
 **Notes:** Day 7 (Monday, start of week 3). No trades executed; COP skipped at market-open — energy sector opened red (CVX -0.10%, XOM -0.24%) failing the pre-market gate. Portfolio slipped -$235.92 (-0.23%) off Friday's Alpaca close. GE was the drag intraday (-1.91%), cumulative gain now nearly flat (+$67, +0.36%); HWM $291.76 intact, stop $262.58 unchanged. RTX drifted -0.32% intraday, cumulative -0.69% — still well above stop $159.29. CVX recovered +0.69% intraday (+2.04% cumulative) and XOM +0.27% intraday (+2.70% cumulative); energy thesis holding though below prior HWMs. No stop-tightening threshold reached (best: XOM +2.70%, short of +15%). All four 10% GTC trailing stops active and self-adjusting. Week 3 opens with 3 fresh trade slots.
+
+---
+
+### May 06 — EOD Snapshot (Day 9, Wednesday)
+**Portfolio:** $101,666.30 | **Cash:** $21,898.42 (21.5%) | **Day P&L:** +$205.39 (+0.20%) | **Phase P&L:** +$1,666.30 (+1.67%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $184.88 | -4.03% | -$347.76 (-1.71%) | $174.72 |
+| GE | 67 | $280.02 | $307.76 | +7.35% | +$1,858.58 (+9.91%) | $277.07 |
+| RTX | 115 | $174.65 | $177.74 | +2.81% | +$354.78 (+1.77%) | $160.28 |
+| XOM | 127 | $149.14 | $147.57 | -4.72% | -$199.30 (-1.05%) | $140.12 |
+
+**Notes:** Day 9 (Wednesday, Week 3). No trades; week stands at 0/3 slots used. GE dominated the session with a +7.35% surge — HWM updated to $307.86, trailing stop auto-tightened to $277.07 (10% trail); cumulative now +9.91%, approaching the +15% threshold where stop tightens to 7%. Energy names were hit hard: CVX -4.03% (cumulative -1.71%) and XOM -4.72% (cumulative -1.05%) both slipped below entry price but remain well above their stops ($174.72 and $140.12 respectively) — thesis under watch but no -7% threshold breach. RTX rebounded +2.81% intraday, solidly green at +1.77% cumulative. Portfolio squeezed out +$205.39 (+0.20%) on the day as GE and RTX gains offset energy drag. All four 10% GTC trailing stops active and self-adjusting. Thursday: assess energy selloff thesis integrity; monitor GE for +15% tighten trigger; pre-market scan for new trade catalyst.
