@@ -4,6 +4,51 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-07 — Pre-market Research
+
+### Account
+- Equity: $101,303.31 | Cash: $21,898.42 (21.6%) | Long MV: $79,404.89 (78.4% deployed — in band) ✓
+- Buying power: $123,201.73 (margin; using cash only)
+- Daytrade count: 0 | Positions: 4/6 | Week trades: 0/3 (2 slots remain + 2 position slots)
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Today | Stop | HWM |
+|---|---|---|---|---|---|---|---|---|
+| CVX | 108 | $188.10 | $182.81 | -$571.32 | -2.81% | -1.27% | $174.72 | $194.13 |
+| GE | 67 | $280.02 | $307.85 | +$1,864.61 | +9.94% | +0.66% | $277.53 | $308.37 |
+| RTX | 115 | $174.65 | $177.21 | +$294.40 | +1.47% | +0.27% | $160.28 | $178.09 |
+| XOM | 127 | $149.14 | $146.90 | -$284.38 | -1.50% | -1.20% | $140.12 | $155.69 |
+
+### Market Context
+- **WTI/Brent:** Brent $106.52 on May 6 morning (already down $10.03 from prior day); WTI prediction markets 61% odds ≥$100 on May 7 settle — 2nd consecutive day of oil declines driven by Iran peace deal rumors. Hormuz still closed.
+- **S&P 500 futures (ESM26):** ~7,379 (-0.14% premarket per CME). April S&P closed at all-time high 7,209; rallying on tech earnings and peace deal optimism. Market rotated: Tech +2% in April, Energy -14% in April.
+- **VIX:** 17.38 (May 5 close) — low/moderate. Low fear environment despite geopolitical overhang.
+- **Iran peace deal:** Trump hinted via Truth Social at Hormuz reopening if deal reached; Brent dropped 7% in two sessions on reports. Peace deal by May 31 at 21.5% probability (prediction markets). Hormuz still constrained. Oil thesis challenged but not confirmed broken.
+- **Today's releases:** Productivity/Unit Labor Costs at 7:30 AM ET (minor). **NFP (April) tomorrow May 8 at 8:30 AM ET — major risk event.**
+- **Earnings today BMO:** XPLR Infrastructure (minor). No major names.
+- **Sector momentum:** Energy +26% YTD (through March) but reversed -14% in April — momentum shifting. Materials +17% trailing 6 months. Tech/AI leading May breadth.
+
+### Ticker-Specific News
+- **CVX:** Slipping premarket on peace deal news. -2.81% cumulative. Energy/Hormuz thesis challenged. Stop $174.72 protects floor. Manual cut threshold: $174.93 (-7% from entry). Both trigger near same level.
+- **XOM:** Same driver as CVX. -1.50% cumulative. Stop $140.12 (HWM $155.69) — current $146.90 is 5.6% below HWM, stop self-adjusting lower via trail. -7% manual cut: $138.70; stop at $140.12 fires first.
+- **GE:** Thesis intact. Q1 beat (EPS $1.86 vs $1.60 est), defense backlog strong, $1B US manufacturing investment. +9.94% cumulative — approaching +15% tighten threshold ($322.02 trigger). HWM updated to $308.37, stop $277.53. No adverse May 7 news.
+- **RTX:** $6.6B engine contract confirmed (May 4). Pratt & Whitney + defense backlog intact. $8.6B US arms sales to Middle East allies ongoing. +1.47% cumulative. Thesis intact.
+
+### Trade Ideas
+1. **No new entries today** — NFP tomorrow is a major binary risk event. New position opened today faces immediate gap-down risk Friday if jobs data disappoints. Patience > activity; preserve 2 trade slots for post-NFP clarity.
+2. **Post-NFP setup (Friday or next week):** FCX (Freeport McMoRan) — copper/AI-infrastructure play in a rising Materials sector (+17% trailing 6 months). Catalyst: AI data center demand for copper + grid buildout. InvestorPlace top 2026 pick. Would be 5th position; 2:1 R:R feasible at current levels. Revisit after NFP.
+3. **Energy watch:** If CVX breaks $178 (~5.4% below entry) or XOM breaks $142 (~4.8% below entry) before market close, evaluate discretionary close before stops fire; flag thesis-broken condition if peace deal confirmed.
+
+### Risk Factors
+- **Iran peace deal confirmation** — primary risk: Hormuz reopening = WTI collapse = CVX/XOM thesis fully broken → close immediately per thesis-broken rule, even before -7%
+- **NFP tomorrow (May 8):** Weak print = growth fears = lower oil demand = accelerated energy decline; strong print = risk-on but energy thesis still macro-challenged
+- **Energy sector reversal:** April energy -14% signals structural momentum shift; CVX/XOM both now underwater cumulative
+- **GE stop:** If market gaps down on peace deal news, GE stop at $277.53 is only 10% trail from HWM $308.37 — monitor for breach near $277
+
+### Decision
+**HOLD** — No new trades. CVX/XOM thesis challenged (not yet broken) — Hormuz still closed, peace deal unconfirmed at only 21.5% probability. GTC trailing stops active on all four positions and protecting downside. GE approaching +15% stop-tighten at $322.02; watch closely at market-open. NFP tomorrow makes today the wrong day to enter new positions.
+
+---
+
 ## 2026-05-06 — Pre-market Research
 
 ### Account
