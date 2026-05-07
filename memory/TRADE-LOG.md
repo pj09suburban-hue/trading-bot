@@ -264,3 +264,31 @@ No positions yet. Bot launches tomorrow.
 | XOM | 127 | $149.14 | $147.57 | -4.72% | -$199.30 (-1.05%) | $140.12 |
 
 **Notes:** Day 9 (Wednesday, Week 3). No trades; week stands at 0/3 slots used. GE dominated the session with a +7.35% surge — HWM updated to $307.86, trailing stop auto-tightened to $277.07 (10% trail); cumulative now +9.91%, approaching the +15% threshold where stop tightens to 7%. Energy names were hit hard: CVX -4.03% (cumulative -1.71%) and XOM -4.72% (cumulative -1.05%) both slipped below entry price but remain well above their stops ($174.72 and $140.12 respectively) — thesis under watch but no -7% threshold breach. RTX rebounded +2.81% intraday, solidly green at +1.77% cumulative. Portfolio squeezed out +$205.39 (+0.20%) on the day as GE and RTX gains offset energy drag. All four 10% GTC trailing stops active and self-adjusting. Thursday: assess energy selloff thesis integrity; monitor GE for +15% tighten trigger; pre-market scan for new trade catalyst.
+
+---
+
+## 2026-05-07 — Midday Scan (Day 10, Thursday)
+
+| Symbol | Entry | Fill/Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| CVX | $188.10 | $181.48 (exit) | **-$714.96** | **-3.52%** | -1.99% | cancelled | $194.13 | **CLOSED** — thesis broken |
+| GE | $280.02 | $305.05 | +$1,677.28 | +8.94% | -0.25% | $279.00 | $310.00 | HOLD — thesis intact |
+| RTX | $174.65 | $175.08 | +$49.45 | +0.25% | -0.94% | $160.28 | $178.09 | HOLD — thesis intact |
+| XOM | $149.14 | $145.53 (exit) | **-$458.47** | **-2.42%** | -2.18% | cancelled | $155.69 | **CLOSED** — thesis broken |
+
+**Thesis-broken exits — CVX & XOM:**
+- Trigger: WTI collapsed to $92/bbl intraday (down ~11% in 2 days: May 6 open $102.70 → May 7 $92.62), driven by US-Iran consensus reports on peace deal/Hormuz reopening
+- Original thesis: Hormuz disruption → WTI $100+ → energy margin uplift. With WTI at $92 and market pricing in peace deal, thesis definitively broken
+- Cancelled both trailing stop GTC orders; submitted market sells; both filled within seconds
+- CVX: sold 108 @ $181.48 → realized **-$714.96 (-3.52%)**; held 10 days (Apr 27 → May 7)
+- XOM: sold 127 @ $145.53 → realized **-$458.47 (-2.42%)**; held 13 days (Apr 24 → May 7)
+- Combined energy realized loss: **-$1,173.43**
+- **Sector rule:** 2 consecutive failed energy trades (CVX -3.52%, XOM -2.42%) → no new energy sector entries
+
+**Remaining positions:**
+- GE and RTX trailing stops active; theses intact; no tightening triggered (GE best at +8.94%, under +15% threshold)
+
+**Portfolio after exits:**
+- Equity: $100,547.25 | Cash: $59,980.57 (59.7%) | Long MV: $40,566.68 (40.3%) — underdeployed
+- Phase P&L: +$547.25 (+0.55%) — erased most week-3 gains; back near breakeven
+- Redeployment plan: NFP tomorrow (May 8) is a binary risk event; hold cash today; post-NFP assess FCX (Materials, copper/AI) for 3rd–4th position; 3 trade slots remain this week

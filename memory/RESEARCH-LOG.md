@@ -6,6 +6,15 @@ Daily pre-market research entries will be appended here.
 
 ## 2026-05-07 — Pre-market Research
 
+### Afternoon Addendum (Midday Scan)
+- **WTI confirmed $92/bbl** — down ~11% in 2 days (May 6 open $102.70 → May 7 low $91.98); Perplexity: 7% intraday drop driven by US-Iran consensus on peace deal/gradual Hormuz reopening
+- **Peace deal status:** No formal signing. Iran expected to respond today to US MoU proposal (1-page memorandum); parties "closing in." Trump called May 1 response "not satisfied" but framework talks ongoing (Times of Israel May 6; YouTube May 7)
+- **Thesis verdict:** Energy thesis broken — market pricing peace deal even without formal signing; WTI at $92 removes the Hormuz supply-shock premium that underpinned CVX/XOM
+- **Action taken:** Closed CVX @ $181.48 (-3.52%) and XOM @ $145.53 (-2.42%) — thesis-broken rule executed before stops triggered
+- **Sector ban:** Energy sector banned per 2-consecutive-failure rule; no new energy entries
+- **Redeployment:** $59,980 cash, 2 positions (GE +8.94%, RTX +0.25%), 40.3% deployed — far below 75-85% target. NFP Friday May 8 = binary event; hold cash today. Post-NFP candidates: FCX (copper/AI-infrastructure, Materials momentum), potential industrials/tech proxy if NFP is strong
+- **GE/RTX thesis:** Both intact — defense sector unaffected by Iran peace deal (Hormuz closed for Iran war, not the only source of defense demand; ongoing procurement cycles, backlog multi-year)
+
 ### Account
 - Equity: $101,303.31 | Cash: $21,898.42 (21.6%) | Long MV: $79,404.89 (78.4% deployed — in band) ✓
 - Buying power: $123,201.73 (margin; using cash only)
