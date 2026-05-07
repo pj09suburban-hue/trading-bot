@@ -292,3 +292,15 @@ No positions yet. Bot launches tomorrow.
 - Equity: $100,547.25 | Cash: $59,980.57 (59.7%) | Long MV: $40,566.68 (40.3%) — underdeployed
 - Phase P&L: +$547.25 (+0.55%) — erased most week-3 gains; back near breakeven
 - Redeployment plan: NFP tomorrow (May 8) is a binary risk event; hold cash today; post-NFP assess FCX (Materials, copper/AI) for 3rd–4th position; 3 trade slots remain this week
+
+---
+
+### May 07 — EOD Snapshot (Day 10, Thursday)
+**Portfolio:** $100,618.18 | **Cash:** $59,980.57 (59.6%) | **Day P&L:** -$976.86 (-0.96%) | **Phase P&L:** +$618.18 (+0.62%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $304.03 | -0.59% | +$1,608.34 (+8.57%) | $279.00 |
+| RTX | 115 | $174.65 | $176.24 | -0.28% | +$182.85 (+0.91%) | $160.28 |
+
+**Notes:** Day 10 (Thursday, Week 3). Energy thesis broke at midday — CVX sold 108 @ $181.48 (realized -$714.96, -3.52%) and XOM sold 127 @ $145.53 (realized -$458.47, -2.42%) as WTI collapsed to ~$92/bbl on US-Iran peace deal reports, definitively invalidating the Hormuz disruption thesis. Combined energy loss: -$1,173.43. Sector rule triggered: no new energy positions. Portfolio down to 2 holdings (GE, RTX) with 59.6% cash — significantly underdeployed. GE held steady at $304.03 (+8.57% cumulative); RTX essentially flat (+0.91% cumulative). Day P&L -$976.86 (-0.96%) reflects realized energy losses and modest position drift; Phase P&L +$618.18 (+0.62%). 3 buy slots remain this week; NFP (May 8) is a binary risk event — hold cash until post-NFP; top candidate for redeployment is FCX (Materials/copper/AI infrastructure thesis).
