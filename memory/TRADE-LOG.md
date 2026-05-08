@@ -304,3 +304,15 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $176.24 | -0.28% | +$182.85 (+0.91%) | $160.28 |
 
 **Notes:** Day 10 (Thursday, Week 3). Energy thesis broke at midday — CVX sold 108 @ $181.48 (realized -$714.96, -3.52%) and XOM sold 127 @ $145.53 (realized -$458.47, -2.42%) as WTI collapsed to ~$92/bbl on US-Iran peace deal reports, definitively invalidating the Hormuz disruption thesis. Combined energy loss: -$1,173.43. Sector rule triggered: no new energy positions. Portfolio down to 2 holdings (GE, RTX) with 59.6% cash — significantly underdeployed. GE held steady at $304.03 (+8.57% cumulative); RTX essentially flat (+0.91% cumulative). Day P&L -$976.86 (-0.96%) reflects realized energy losses and modest position drift; Phase P&L +$618.18 (+0.62%). 3 buy slots remain this week; NFP (May 8) is a binary risk event — hold cash until post-NFP; top candidate for redeployment is FCX (Materials/copper/AI infrastructure thesis).
+
+---
+
+## 2026-05-08 — Market-Open Trades
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-05-08 | FCX | BUY | 300 | $62.004 (avg) | $55.836 (10% trail GTC, HWM $62.04) | Materials sector; structural copper demand (AI data centers + EV electrification + grid buildout); Grasberg mine secured to 2041; NFP +160K (vs 62K est) confirms demand outlook; near 50-day MA ~$60 support; 14% off 52-week high | $74.40 (+20%) | 2:1 |
+
+**Fill note:** Initial 300-share market order partially filled 228 sh @ $61.98 at open (9:31:44 ET); cancel attempt during wide opening spread ($65.10 ask) caught remaining 72 sh; 72 sh immediately re-bought @ $62.08 (9:33 ET) after confirming settled quote $62.09/$62.15. Blended avg $62.004.
+
+**Week trades:** 1/3 | **Open positions:** 3/6 | **Deployed:** ~$59,300 / $100,693 (58.9%) — below 75–85% target; one or two more positions needed next week
