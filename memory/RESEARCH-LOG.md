@@ -4,6 +4,57 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-08 — Pre-market Research
+
+### Account Snapshot
+- **Equity:** $100,689.09 | **Cash:** $59,980.53 (59.5%) | **Long MV:** $40,708.56 (40.4% — well below 75–85% target)
+- **Buying power:** $160,669.62 | **Daytrade count:** 0
+- **Positions:** 2/6 | **Week trades:** 0/3 (fresh week; 3 buy slots open)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $303.63 | +$1,581.87 | +8.43% | $279.00 (10% trail) | $310.00 |
+| RTX | 115 | $174.65 | $177.09 | +$280.60 | +1.40% | $160.28 (10% trail) | $178.09 |
+
+- GE trailing stop GTC active: stop $279.00, HWM $310.00
+- RTX trailing stop GTC active: stop $160.28, HWM $178.09
+
+### Market Context
+- **WTI (June futures):** ~$94.87–$96/bbl (high $97.28 on May 7); pulled back sharply from $105.48 peak; US-Iran tensions ongoing but reduced from prior Hormuz crisis premium. Energy thesis already invalidated (CVX/XOM closed May 7).
+- **Brent:** Est. ~$100–105 (WTI + $5–10 spread); no confirmed real-time print.
+- **S&P 500 futures:** Jun-26 closed $7,362.75 on May 7; pulled back as inflation expectations rose; E-mini modestly lower.
+- **VIX:** 17.08 (May 7 close); up from April lows (~10–11); moderate/elevated — geopolitical + macro risk.
+- **NFP (April 2026):** Released TODAY 8:30 AM ET. Forecast: +62–65K. ADP private sector (May 6): +109K (beat +99K est.) — bullish precursor. BLS official result not confirmed at research time; pending market reaction.
+- **Earnings BMO:** None confirmed before market open today.
+- **Sector momentum YTD (Apr 30 data):** Energy #1 (+26%; April -14% pullback); Consumer Staples #2 (+10.66%); Industrials #3 (+9.61%); Materials #4. Tech/Comm Disc lagging. **Energy banned (sector rule: 2 consecutive failures).**
+
+### Ticker News
+- **GE:** Thesis intact and strengthening. Q1 2026: orders +87% YoY, revenue +29% YoY, raised 2026 profit outlook by $1B. $190B backlog. Defense + commercial aviation both firing. Stock ~$303–305, down 18% from all-time high ~$330 — analyst consensus 60 Buys, 1 Hold; Street mean PT $351. Stop well placed at $279 (vs. HWM $310). No new negative news.
+- **RTX:** Thesis intact. Q1 2026: sales +10% organic, EPS $1.78 (+17% beat); raised FY 2026 EPS to $6.70–$6.90. Defense budget tailwind. RSI oversold (28.78); technically weak short-term — stock may drift to $173–174 near-term per models. Stop at $160.28 (HWM $178.09). Thesis intact; monitor thesis for deterioration.
+
+### Trade Ideas
+1. **FCX (Freeport-McMoRan)** — Materials sector; structural copper demand from AI data centers + EV electrification; Grasberg mine secured to 2041. Stock ~$60–61, pulled back ~14% from $70.97 52-week high, near 50-day MA (~$60) support. Q1 past (Apr 2026): earnings fine, sold off 7.4% post-print (now digested). Citi Buy, PT $66. 3rd position candidate.
+   - Entry: ~$60 at market confirm post-NFP (confirm sector green, no panic open)
+   - Stop: $54 (–10%)
+   - Target: $72 (~+20%, near Citi PT $66 intermediate; 2:1+ R:R)
+   - Size: ~$18,000 (179% ≈ ~300 shares @ $60) ← ≤18% equity ✓
+   - Gate: All checks pass (2 positions + 1 = 3 ≤ 6 ✓; 0 + 1 = 1 ≤ 3 ✓; ≤20% equity ✓; cash available ✓; catalyst: copper/AI demand + technical support ✓)
+   - **Condition:** Only if NFP actual ≥ 50K AND FCX opens near $58–62 without gap-up blow-off. If NFP misses badly (<30K) or market opens risk-off, SKIP.
+
+2. **HOLD second slot** — Reserve 5th position for next week once FCX thesis confirmed. Do not force 2 trades on NFP Friday.
+
+### Risk Factors
+- **NFP binary risk:** Primary mover today. Weak actual (<30K) = yields spike, risk-off open. Strong beat = bullish, supports FCX entry.
+- **Friday pattern:** Retail often sells into weekend; gap risk if NFP surprise large.
+- **RTX technical weakness:** RSI 28.78 oversold; models project $173–175 near-term. Thesis intact but may continue drifting; watch for break of $170 as thesis re-evaluation trigger.
+- **Underdeployment:** At 40% deployed vs. 75–85% target. Real cost of not acting. But forcing bad trades on a macro event day is worse.
+- **US-Iran:** Any further peace deal progress → oil dips, risk-on rotation to non-energy cyclicals (positive for FCX/Materials thesis).
+
+### Decision
+**TRADE-conditional (FCX)** — All gate checks pass; NFP is the swing factor. If actual ≥ 50K and market opens constructively, initiate FCX ~300 shares ~$60 at market-open workflow. If NFP misses or market opens red, revert to HOLD and re-evaluate Monday. Patience > activity — do not chase an adverse open.
+
+---
+
 ## 2026-05-07 — Pre-market Research
 
 ### Afternoon Addendum (Midday Scan)
