@@ -249,8 +249,6 @@ No positions yet. Bot launches tomorrow.
 
 **Notes:** Day 8 (Tuesday, week 3). No new trades; week stands at 0/3 slots used. All four positions moved constructively — GE led with +1.47% intraday, recovering from Monday's drag (cumulative now +1.65%); XOM added +0.68% intraday, new potential HWM approaching ($154.74 vs prior $155.69); CVX +0.41%; RTX continued slipping -0.39% intraday, cumulative now -1.39%, still well above stop $159.29. Portfolio +$188.04 (+0.19%) on the day; Phase P&L +$1,278.77 (+1.28%). No stop-tightening threshold breached (best: XOM +3.75%, short of +15%). All four 10% GTC trailing stops active. Wednesday: pre-market scan for trade catalyst to deploy one of 3 remaining weekly slots; watch RTX — two more losing days without thesis catalyst would warrant re-evaluation.
 
-**Notes:** Day 7 (Monday, start of week 3). No trades executed; COP skipped at market-open — energy sector opened red (CVX -0.10%, XOM -0.24%) failing the pre-market gate. Portfolio slipped -$235.92 (-0.23%) off Friday's Alpaca close. GE was the drag intraday (-1.91%), cumulative gain now nearly flat (+$67, +0.36%); HWM $291.76 intact, stop $262.58 unchanged. RTX drifted -0.32% intraday, cumulative -0.69% — still well above stop $159.29. CVX recovered +0.69% intraday (+2.04% cumulative) and XOM +0.27% intraday (+2.70% cumulative); energy thesis holding though below prior HWMs. No stop-tightening threshold reached (best: XOM +2.70%, short of +15%). All four 10% GTC trailing stops active and self-adjusting. Week 3 opens with 3 fresh trade slots.
-
 ---
 
 ### May 06 — EOD Snapshot (Day 9, Wednesday)
@@ -341,3 +339,16 @@ No positions yet. Bot launches tomorrow.
 **Portfolio:** $100,189.80 | **Cash:** $41,379.33 (41.3%) | **Long MV:** ~$58,797 (58.7%) | **Day P&L:** ~-$428 (-0.43%) | **Phase P&L:** +$189.80 (+0.19%)
 
 **Notes:** Day 11 (Friday, Week 3). FCX position opened this morning (1 trade slot used, 2 remain). All three positions holding — FCX slightly below entry on opening-day volatility, GE and RTX drifting with market. No theses broken, no stops approached, no tightening triggered. Still underdeployed at 58.7% vs 75–85% target; need 1–2 more positions next week. Daytrade count: 1 (FCX buy this morning).
+
+---
+
+### May 08 — EOD Snapshot (Day 11, Friday)
+**Portfolio:** $100,030.92 | **Cash:** $41,379.33 (41.4%) | **Day P&L:** -$555.52 (-0.55%) | **Phase P&L:** +$30.92 (+0.03%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| FCX | 300 | $62.004 | $61.32 | +1.17% | -$205.50 (-1.10%) | $55.98 |
+| GE | 67 | $280.02 | $298.51 | -1.36% | +$1,238.83 (+6.60%) | $279.00 |
+| RTX | 115 | $174.65 | $176.16 | -0.35% | +$173.65 (+0.87%) | $160.28 |
+
+**Notes:** Day 11 (Friday, end of Week 3). FCX settled its first full day at $61.32, -1.10% below blended entry of $62.004 — normal day-1 volatility on a new position; copper/AI infrastructure thesis intact, trailing stop active at $55.98 (GTC, HWM $62.20). GE retreated -1.36% intraday to $298.51 but remains +6.60% cumulative; stop firm at $279.00 (HWM $310.00). RTX slipped -0.35% intraday, still +0.87% cumulative with stop $160.28 (HWM $178.09). Portfolio Day P&L -$555.52 (-0.55%) driven by GE's intraday pullback; Phase P&L barely positive at +$30.92 (+0.03%), nearly at breakeven after yesterday's energy exits erased prior gains. Deployed 58.6% — below 75–85% target; 2 trade slots remaining this week (Saturday/Sunday market closed). Energy sector ban in effect. Priority for Monday pre-market: identify 1–2 non-energy momentum setups to close the deployment gap.
