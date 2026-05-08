@@ -316,3 +316,28 @@ No positions yet. Bot launches tomorrow.
 **Fill note:** Initial 300-share market order partially filled 228 sh @ $61.98 at open (9:31:44 ET); cancel attempt during wide opening spread ($65.10 ask) caught remaining 72 sh; 72 sh immediately re-bought @ $62.08 (9:33 ET) after confirming settled quote $62.09/$62.15. Blended avg $62.004.
 
 **Week trades:** 1/3 | **Open positions:** 3/6 | **Deployed:** ~$59,300 / $100,693 (58.9%) — below 75–85% target; one or two more positions needed next week
+
+---
+
+## 2026-05-08 — Midday Scan (Day 11, Friday)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| FCX | $62.004 | $61.00 | -$301.20 | -1.62% | +0.64% | $55.98 (10% trail) | $62.20 | HOLD — new position, thesis intact |
+| GE | $280.02 | $301.82 | +$1,460.60 | +7.79% | -0.27% | $279.00 (10% trail) | $310.00 | HOLD — thesis intact |
+| RTX | $174.65 | $176.31 | +$190.72 | +0.95% | -0.27% | $160.28 (10% trail) | $178.09 | HOLD — thesis intact |
+
+**No action taken.**
+
+- **Step 3 (cut losers):** No position at ≤ -7%. FCX -1.62% is normal day-1 price discovery; well above stop $55.98. No cuts.
+- **Step 4 (tighten stops):** GE +7.79% is highest cumulative gain — below +15% threshold. No tightening on any position.
+- **Step 5 (thesis check):**
+  - FCX: Slightly below blended entry ($62.004 → $61.00) but intraday +0.64% from yesterday's close ($60.61). Copper demand thesis (AI data centers, EV, grid) unchanged; NFP +160K catalyst confirmed this morning. Price near 50-day MA ~$60 support. Thesis intact.
+  - GE: Drifted -0.27% intraday alongside broad market softness. $190B backlog and raised 2026 outlook unchanged. Stop $279.00 at 7.56% below current — well-positioned. Thesis intact.
+  - RTX: Down -0.27% intraday. Defense procurement and Q1 beat (+10% organic, EPS $1.78) thesis intact. Stop $160.28 at 9.10% below current. Thesis intact.
+- **Step 6 (research):** No sharp unexplained moves; no Perplexity query needed.
+- **Step 7 (notification):** No action taken → no Slack sent.
+
+**Portfolio:** $100,189.80 | **Cash:** $41,379.33 (41.3%) | **Long MV:** ~$58,797 (58.7%) | **Day P&L:** ~-$428 (-0.43%) | **Phase P&L:** +$189.80 (+0.19%)
+
+**Notes:** Day 11 (Friday, Week 3). FCX position opened this morning (1 trade slot used, 2 remain). All three positions holding — FCX slightly below entry on opening-day volatility, GE and RTX drifting with market. No theses broken, no stops approached, no tightening triggered. Still underdeployed at 58.7% vs 75–85% target; need 1–2 more positions next week. Daytrade count: 1 (FCX buy this morning).
