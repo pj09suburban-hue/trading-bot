@@ -4,6 +4,60 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-11 — Pre-market Research (Week 4, Day 1 — Monday)
+
+### Account Snapshot
+- Equity: $100,034.12 | Cash: $41,379.33 (41.4%) | Long MV: $58,654.79 (58.6% deployed — below 75–85% target)
+- Buying power: $141,413.45 | Daytrade count: 0 | PDT: false
+- Positions: 3/6 | Trades this week: 0/3
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| FCX | 300 | $62.004 | $61.55 | -$136.20 | -0.73% | $55.98 | $62.20 |
+| GE | 67 | $280.02 | $297.83 | +$1,192.94 | +6.36% | $279.00 | $310.00 |
+| RTX | 115 | $174.65 | $175.96 | +$150.77 | +0.75% | $160.28 | $178.09 |
+
+### Market Context
+- **WTI:** ~$99.24/bbl (+0.37%), range $98.54–$100.35; up from $95.96 close May 8 — Hormuz tensions sustained
+- **Brent:** ~$101–$104 (est., WTI + typical spread; no direct quote retrieved)
+- **S&P 500 futures:** ~7,400 area (May 8 close 7,419; May 10 close 7,402.75); near flat
+- **VIX:** 18.13, **+5.47%** today — elevated and rising; market pricing uncertainty ahead of CPI
+- **Sector momentum YTD (thru Apr 30):** Energy +36.98% (BANNED) | Materials +28.20% | Industrials +25.99% | Tech +30.90%
+
+### Economic Calendar — Critical Week
+| Date | Event | Consensus |
+|---|---|---|
+| **Tue May 12** | April CPI (core MoM) | +0.3% MoM / +2.7% YoY — week's key catalyst |
+| **Wed May 13** | April PPI | validates producer inflation |
+| **Thu May 14** | April Retail Sales + Jobless Claims; AMAT earnings AMC | |
+| **Fri May 15** | UMich Consumer Sentiment; Powell term ends (Warsh confirmation expected) | |
+
+### BMO Earnings Today (May 11)
+- **CEG (Constellation Energy):** EPS est $2.56, Rev $8.46B — nuclear/AI power demand thesis; results released this morning
+- **B (Barrick Mining):** EPS est $0.79 (+125.71% YoY), Rev $4.78B (+52.73%)
+
+### Position News
+- **FCX:** Q1 beat on profits (+150% YoY) but Grasberg mine delays cut FY2026 volume guide to 3.1B lbs (from 3.4B). Morgan Stanley downgraded to Equal Weight, PT $66 (from $70); consensus $68. Copper demand thesis intact (AI data centers, EV, grid); -0.73% vs entry; stop $55.98 firm. HOLD — not at -7% threshold.
+- **GE:** Thesis intact — Q1 2026 EPS $1.86 (beat), orders +87%, guidance top of $7.40/share range. +6.36% cumulative; stop $279 (HWM $310). Monitoring oil risk to commercial aviation demand.
+- **RTX:** Thesis intact — Q1 2026 EPS $1.78 (+17% beat), organic +10%, raised FY guide to $6.70–$6.90. +0.75% cumulative; stop $160.28. Analyst avg PT $215.
+- **AKAM (not held):** Surged ~30% May 8 + another +24% premarket today. Catalyst: Q1 beat + $200M AI compute deal (NVIDIA Blackwell GPUs). Already too extended to chase — pass.
+
+### Trade Ideas
+1. **CEG (Constellation Energy) — CONDITIONAL, Tuesday post-CPI** — Nuclear + AI data center power (Microsoft/Google 24/7 clean power contracts). If CPI ≤ +0.3% core MoM: enter ~65 shares ~$305–$315 at Tuesday open (~$20K, 10% trailing stop GTC, target +20%). Gate checks: positions 3→4 ✓, trades 0→1 ✓, cost ≤ 20% equity ✓. Requires CPI in-line or better.
+
+2. **AMAT (Applied Materials) — Monitor, post-Thursday** — AI/HBM chip equipment; reports Q2 AMC May 14. EPS est $2.28–$2.68, Rev $6.55–$7.68B. Stock ~$435; if beat, enter Friday open (~46 shares ≈ $20K). Wait for print before committing.
+
+### Risk Factors
+- **CPI tomorrow (primary):** Core >0.3% MoM reprices rate-cut odds, pressures all holdings; do not enter new positions today
+- **VIX +5.47% today:** Rising uncertainty — hold cash ahead of data
+- **FCX volume risk:** Grasberg delays ongoing; MS downgrade; stop firm but thesis degrading slightly
+- **Fed Chair transition:** Warsh confirmation Friday; policy signal risk for rate-sensitive sectors
+
+### Decision
+**TRADE-conditional** — No new entries today (CPI eve + VIX rising). If April CPI core ≤ +0.3% MoM Tuesday: initiate CEG (~65 shares, ~$20K) at Tuesday market open. If hot CPI: hold all cash and reassess AMAT post-Thursday. All three existing positions above stops; no cuts needed.
+
+---
+
 ## 2026-05-08 — Pre-market Research
 
 ### Account Snapshot
