@@ -63,6 +63,11 @@ Daily pre-market research entries will be appended here.
 ### Decision
 **TRADE — CEG at market open. CPI trigger met (+0.2% MoM vs +0.3% threshold). Earnings risk cleared (Q1 beat May 11). Nuclear/AI power thesis intact. Size 63–65 shares, verify quote at open, 10% trailing stop GTC immediately after fill.**
 
+### Afternoon Addendum (Midday Scan)
+- **CEG:** Fell -3.43% intraday from yesterday's $299.69 → $289.42 (entry $297.48, unrealized -2.71%). Perplexity query: decline attributed to post-Q1-beat "sell the news" fading plus FY2026 guidance-below-consensus overhang (March 31 — already known at entry). No new negative catalysts. Nuclear/AI power thesis, Meta 1.1GW deal, MSFT contracts all intact. Stop $270.64 GTC active (HWM $300.71). HOLD.
+- **Market context:** All 4 positions down intraday (market red after May 11 record highs). No systemic or sector-specific breakdown. Broad retracement with no thesis-breaking news on any position.
+- **No action taken at midday.**
+
 ---
 
 ## 2026-05-11 — Pre-market Research (Week 4, Day 1 — Monday)
@@ -127,7 +132,7 @@ Daily pre-market research entries will be appended here.
 - **Positions:** 2/6 | **Week trades:** 0/3 (fresh week; 3 buy slots open)
 
 | Ticker | Shares | Entry | Current | Unreal P&L | % | Stop | HWM |
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---||---|
 | GE | 67 | $280.02 | $303.63 | +$1,581.87 | +8.43% | $279.00 (10% trail) | $310.00 |
 | RTX | 115 | $174.65 | $177.09 | +$280.60 | +1.40% | $160.28 (10% trail) | $178.09 |
 
@@ -373,7 +378,7 @@ TRADE or HOLD (default HOLD if no clear edge)
 - Sector momentum (6-month trailing): Energy (XLE) +40.4% #1 | Consumer Staples (XLP) +7.7% | Industrials (XLI) +5.5% | laggards: Tech (XLK) -7.8%, Financials (XLF) -7.5%, Consumer Discretionary -8.5%
 
 ### Trade Ideas
-1. **XOM** — Energy sector #1; WTI at $96+ and climbing on Iran tensions/supply premium; XOM direct oil price proxy. Entry ~$127, stop $114.30 (–10%), target $146.05 (+15%, 1.5:1 R:R). *Position size: $20,000 (~157 shares).*
+1. **XOM** — Energy sector #1; WTI at $96+ and climbing on Iran tensions/supply premium; XOM direct oil proxy. Entry ~$127, stop $114.30 (–10%), target $146.05 (+15%, 1.5:1 R:R). *Position size: $20,000 (~157 shares).*
 2. **GE Aerospace (GE)** — Industrials #3; defense/aerospace demand surging with geopolitical tensions; Iran conflict → sustained defense spending tailwind; strong order book. Entry ~$185, stop $166.50 (–10%), target $212.75 (+15%, 1.5:1 R:R). *Position size: $20,000 (~108 shares).*
 3. **CL (Colgate-Palmolive)** — Consumer Staples leading as defensive flight-to-safety (+7.7% 6M); reports BMO today — if beats expectations, enter on confirmed strength. Entry ~$102 (post-print), stop $91.80 (–10%), target $117.30 (+15%). *Position size: $20,000 (~196 shares). Conditional on clean print.*
 
