@@ -4,6 +4,67 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-12 — Pre-market Research (Week 4, Day 2 — Tuesday)
+
+### Account Snapshot
+- Equity: $101,303.74 | Cash: $41,379.33 (40.9%) | Long MV: $59,924.41 (59.2% deployed — below 75–85% target)
+- Buying power: $142,683.07 | Daytrade count: 0 | PDT: false
+- Positions: 3/6 | Trades this week: 0/3
+
+| Ticker | Shares | Entry | Pre-mkt | Unrealized P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| FCX | 300 | $62.004 | $63.92 | +$576.24 | +3.10% | $58.48 (10% trail) | $64.98 |
+| GE | 67 | $280.02 | $300.41 | +$1,366.13 | +7.28% | $279.00 (10% trail) | $310.00 |
+| RTX | 115 | $174.65 | $179.30 | +$534.75 | +2.66% | $161.94 (10% trail) | $179.93 |
+
+### Market Context
+- **WTI:** ~$94–100/bbl; June futures (CLM6) ~$94.68 (CME) to ~$100.37 (Barchart); Hormuz tensions ongoing; off Q1 peak of ~$118
+- **Brent:** ~$100–101 range; elevated vs historical but below April peak $116
+- **S&P 500:** Futures muted near 7,360–7,400; May 11 close ~7,402; prior range May 6–7 at 7,363–7,380
+- **VIX:** ~17.4–19.8 range; declining from May 11 elevated reading of 18.13+; futures high today ~19.80
+- **CPI (April 2026) — RELEASED TODAY 8:30 AM ET:** Core +0.2% MoM / +2.6% YoY — **BETTER than consensus (+0.3%/+2.7%)** → bullish; headline tracking ~3.8% YoY
+- **Sector momentum (YTD thru Apr 30):** Energy +37% (BANNED) | Tech +31% | Materials +28% | Industrials +26% | Consumer Staples +11%
+
+### Economic Calendar — Remaining This Week
+| Date | Event | Note |
+|---|---|---|
+| **Wed May 13** | April PPI | Validate producer-side inflation; expect in-line |
+| **Thu May 14** | Retail Sales + Jobless Claims; AMAT earnings AMC | AMAT potential setup |
+| **Fri May 15** | UMich Consumer Sentiment; Powell term ends; Warsh Senate floor vote expected | Policy signal risk |
+
+### Position News
+- **FCX:** Closed $64.37 (+4.41%) May 11. Pre-mkt $63.92 (-0.69%). Q1 2026 net income $881M; Grasberg Block Cave output strong; copper demand thesis intact (AI data centers, EV, grid). MS downgrade to Equal Weight $66 PT still above entry. Stop $58.48 firm (HWM $64.98). HOLD.
+- **GE:** Closed $300.77 May 11, pre-mkt $300.41. +7.28% cumulative. $190B backlog, guidance top of $7.40/share range. Stop $279.00 (HWM $310.00). HOLD.
+- **RTX:** Closed $178.61 May 11, pre-mkt $179.30 (+0.39% today). +2.66% cumulative. $268B backlog; $1.5T Trump defense budget; Bernstein PT $154; analyst avg PT $215. Recent Navy contracts. Stop $161.94 (HWM $179.93). HOLD.
+
+### Trade Ideas
+
+**1. CEG (Constellation Energy) — TRADE at market open (CPI trigger MET)**
+- **Catalyst:** Q1 2026 earnings BEAT reported May 11 — adjusted EPS $2.74 (vs $2.56 est, +7.0% beat); GAAP EPS $4.49; FY 2026 guidance affirmed $11–12/share. Earnings risk cleared.
+- **CPI trigger:** Core +0.2% MoM ≤ threshold of +0.3% ✓ — rate-cut odds supported, utilities/nuclear re-rates bullish
+- **Thesis:** Nuclear power for AI data centers — Meta 20-year 1.1GW deal (2027 start); Microsoft 24/7 clean power contract; AI data centers to 4× power demand by 2034; CEG largest U.S. nuclear fleet (21 reactors)
+- **Price:** May 11 range $288.83–$323.00; settled ~$307.13; ex-dividend $0.43 on May 15
+- **Entry plan:** Market order at open; verify live quote first. Size 63–65 shares targeting ~$20K (20% equity = $20,261 cap). At $307: 65 sh = $19,955 ✓; at $312+: reduce to 64 sh; at $321+: 63 sh. Gate checks:
+  - Positions 3→4 ✓ | Trades 0→1 ✓ | Cost ≤ 20% equity ✓ | Cash $41K ✓ | PDT 0/3 ✓ | Catalyst documented ✓ | Stock not option ✓
+- **Stop:** 10% trailing GTC immediately after fill
+- **Target:** +20% (~$369 from $307 entry); min R:R 2:1 vs ~10% stop risk
+- **Risk:** Post-earnings volatility; May 11 bottom was $288 (-11% from high) — stop at 10% trail absorbs normal swings; monitor for gap-up above $322 (size down to 62 sh)
+
+**2. AMAT (Applied Materials) — Monitor only, no action today**
+- Reports Q2 earnings AMC Thursday May 14. EPS est $2.28–$2.68, Rev $6.55–$7.68B. If beat → enter Friday May 15 open (2nd trade slot). AI/HBM chip equipment thesis.
+
+### Risk Factors
+- **PPI Wed May 13:** If hot, reverses today's CPI relief rally — watch impact on all positions
+- **Warsh Senate floor vote (May 15 area):** Powell term ends May 15; Warsh hawkish reputation; policy pivot risk for rate-sensitive sectors including CEG
+- **CEG post-earnings volatility:** Stock had $34 range on May 11; may gap on CPI — size-adjust pre-fill
+- **FCX:** MS downgrade overhang; Grasberg delays ongoing; copper near-term soft; thesis holds but monitor
+- **VIX still elevated ~17–20:** Not distressed but reflects residual Hormuz uncertainty; not a blocker
+
+### Decision
+**TRADE — CEG at market open. CPI trigger met (+0.2% MoM vs +0.3% threshold). Earnings risk cleared (Q1 beat May 11). Nuclear/AI power thesis intact. Size 63–65 shares, verify quote at open, 10% trailing stop GTC immediately after fill.**
+
+---
+
 ## 2026-05-11 — Pre-market Research (Week 4, Day 1 — Monday)
 
 ### Account Snapshot
