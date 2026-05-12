@@ -355,6 +355,16 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+## 2026-05-12 — Market-Open Trades
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-05-12 | CEG | BUY | 64 | $297.48 | $269.38 (10% trail GTC, HWM $299.31) | Nuclear/AI power — Q1 2026 EPS $2.74 beat (+7% vs est); CPI +0.2% MoM triggered rate-cut re-rate for utilities; Meta 20yr 1.1GW deal + MSFT 24/7 clean power contracts; largest US nuclear fleet 21 reactors; AI data center power demand 4× by 2034 | $356.98 (+20%) | 2:1 |
+
+**Week trades:** 1/3 | **Open positions:** 4/6 | **Deployed:** ~$78,571 / $100,912 (77.9%) ✓ in 75–85% target band
+
+---
+
 ### May 12 — EOD Snapshot (Day 13, Tuesday)
 **Portfolio:** $101,128.08 | **Cash:** $41,379.33 (40.9%) | **Day P&L:** +$1,094.35 (+1.09%) | **Phase P&L:** +$1,128.08 (+1.13%)**
 
