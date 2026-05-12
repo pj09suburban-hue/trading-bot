@@ -393,12 +393,13 @@ No positions yet. Bot launches tomorrow.
 ---
 
 ### May 12 — EOD Snapshot (Day 13, Tuesday)
-**Portfolio:** $101,128.08 | **Cash:** $41,379.33 (40.9%) | **Day P&L:** +$1,094.35 (+1.09%) | **Phase P&L:** +$1,128.08 (+1.13%)**
+**Portfolio:** $101,611.34 | **Cash:** $22,340.61 (22.0%) | **Day P&L:** +$229.27 (+0.23%) | **Phase P&L:** +$1,611.34 (+1.61%)**
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |---|---|---|---|---|---|---|
-| FCX | 300 | $62.004 | $64.80 | +5.11% | +$838.80 (+4.51%) | $58.48 (HWM $64.98) |
-| GE | 67 | $280.02 | $295.50 | -0.56% | +$1,037.16 (+5.53%) | $279.00 (HWM $310.00) |
-| RTX | 115 | $174.65 | $178.35 | +1.28% | +$425.50 (+2.12%) | $161.94 (HWM $179.93) |
+| CEG | 64 | $297.48 | $295.49 | -1.40% | -$127.36 (-0.67%) | $270.64 (HWM $300.71) |
+| FCX | 300 | $62.004 | $65.81 | +2.24% | +$1,141.80 (+6.14%) | $59.29 (HWM $65.88) |
+| GE | 67 | $280.02 | $297.94 | -0.94% | +$1,200.64 (+6.40%) | $279.00 (HWM $310.00) |
+| RTX | 115 | $174.65 | $179.63 | +0.57% | +$572.70 (+2.85%) | $161.94 (HWM $179.93) |
 
-**Notes:** Day 13 (Tuesday, Week 4). Strong positive day — FCX surged +5.11% intraday to $64.80 on copper demand momentum (AI data center buildout + EV electrification), HWM now $64.98 with trailing stop ratcheted to $58.48. GE slipped -0.56% to $295.50 but holds well above stop $279.00 (HWM $310.00); cumulative +5.53% — thesis intact. RTX gained +1.28% to $178.35; HWM now $179.93, stop $161.94; cumulative +2.12%. No trades today. Trades this week: 0/3. Phase P&L recovered to +$1,128.08 (+1.13%) — well above breakeven after energy exits. Deployed 59.1% ($59,748.75) — still below 75–85% target; no tightening triggered (all positions below +15% cumulative threshold). Energy sector ban in effect. Need 1–2 additional positions; pre-market Wednesday to identify momentum setups.
+**Notes:** Day 13 (Tuesday, Week 4). Market recovered from midday lows (-1.2% at noon) to close modestly positive (+0.23% day). FCX led +2.24% to $65.81 (HWM $65.88, stop ratcheted to $59.29); cumulative +6.14% — copper/AI thesis intact. GE -0.94% to $297.94 but +6.40% cumulative; HWM $310, stop $279 firm. RTX +0.57% to $179.63, +2.85% cumulative, HWM $179.93, stop $161.94. CEG opened today at $297.48 (1 trade slot used), closed -1.40% at $295.49; -0.67% unrealized on day-1 — nuclear/AI thesis intact, well above stop $270.64. Phase P&L +$1,611.34 (+1.61%). Deployed 78.0% ($79,270.73) — in 75–85% target band. No tightening triggered (highest cumulative GE +6.40%, threshold is +15%). Trades today: 1 (CEG BUY). Trades this week: 1/3. Energy sector ban in effect. 2 trade slots remain; pre-market Wednesday to identify 1 additional momentum setup to add conviction.
