@@ -1,0 +1,7 @@
+# Routine heartbeat log
+# Each cloud routine appends a `<UTC timestamp> <routine-id> started` line BEFORE STEP 0 runs,
+# then commits + pushes immediately. This makes silent failures visible:
+#   - heartbeat commit + workflow commit → routine completed
+#   - heartbeat commit only (no workflow commit) → routine started but died mid-flow
+#   - no heartbeat commit → routine never actually executed (infra issue)
+# Routine IDs: pm = pre-market, mo = market-open, mid = midday, eod = daily-summary, wr = weekly-review
