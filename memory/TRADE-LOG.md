@@ -365,6 +365,33 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+## 2026-05-12 — Midday Scan (Day 13, Tuesday)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| CEG | $297.48 | $289.42 | -$515.84 | -2.71% | -3.43% | $270.64 (10% trail) | $300.71 | HOLD — thesis intact |
+| FCX | $62.004 | $63.53 | +$457.80 | +2.46% | -1.31% | $58.48 (10% trail) | $64.98 | HOLD — thesis intact |
+| GE | $280.02 | $294.07 | +$941.02 | +5.02% | -2.23% | $279.00 (10% trail) | $310.00 | HOLD — thesis intact |
+| RTX | $174.65 | $178.29 | +$418.31 | +2.08% | -0.18% | $161.94 (10% trail) | $179.93 | HOLD — thesis intact |
+
+**No action taken.**
+
+- **Step 3 (cut losers):** No position at ≤ -7%. CEG -2.71% is the weakest — new position opened this morning, well above stop $270.64. No cuts.
+- **Step 4 (tighten stops):** Highest cumulative gain is GE +5.02% — below +15% threshold. No tightening on any position.
+- **Step 5 (thesis check):**
+  - CEG: Down -3.43% intraday to $289.42 (entry $297.48, -2.71% unrealized). Perplexity research: decline is "sell the news" post-Q1 beat fading + FY2026 guidance-below-consensus headwind from March 31 (already a known risk at entry). No new thesis-breaking catalyst today. Nuclear/AI power thesis (Meta 1.1GW deal, MSFT contracts, AI data center 4× demand by 2034) intact. Warsh/Fed risk still pending May 15. Stop $270.64 at 6.5% below current — adequate. HOLD.
+  - FCX: -1.31% intraday, +2.46% cumulative. Copper demand thesis (AI data centers, EV, grid) unchanged. Morgan Stanley downgrade already priced. HOLD.
+  - GE: -2.23% intraday, +5.02% cumulative. No GE-specific news. Broad market profit-taking after S&P 500 hit records May 11. $190B backlog and raised guidance intact. HOLD.
+  - RTX: -0.18% intraday, +2.08% cumulative. Essentially flat. Defense procurement thesis intact. HOLD.
+- **Step 6 (research):** CEG queried via Perplexity — decline attributed to earnings-beat fading and known guidance headwind, no new negative catalyst. Broad market context checked — no systemic selloff; routine retracement after May 11 records.
+- **Step 7 (notification):** No action taken → no Slack sent.
+
+**Portfolio (midday):** $100,161.33 | **Cash:** $22,340.61 (22.3%) | **Long MV:** $77,820.72 (77.7% deployed ✓) | **Day P&L:** -$1,220.74 (-1.20%) | **Phase P&L:** +$161.33 (+0.16%)
+
+**Notes:** Day 13 (Tuesday, Week 4). All 4 positions holding — broad market red day (-1% to -2% intraday across portfolio) with no thesis breaches. CEG underperforming on "sell the news" and known guidance-miss overhang but thesis intact and well above stop. Deployment at 77.7% — comfortably in 75–85% target band. 2 trade slots remaining this week. Energy sector ban in effect. No stops approached, no tightening triggered.
+
+---
+
 ### May 12 — EOD Snapshot (Day 13, Tuesday)
 **Portfolio:** $101,128.08 | **Cash:** $41,379.33 (40.9%) | **Day P&L:** +$1,094.35 (+1.09%) | **Phase P&L:** +$1,128.08 (+1.13%)**
 
