@@ -352,3 +352,16 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $176.16 | -0.35% | +$173.65 (+0.87%) | $160.28 |
 
 **Notes:** Day 11 (Friday, end of Week 3). FCX settled its first full day at $61.32, -1.10% below blended entry of $62.004 — normal day-1 volatility on a new position; copper/AI infrastructure thesis intact, trailing stop active at $55.98 (GTC, HWM $62.20). GE retreated -1.36% intraday to $298.51 but remains +6.60% cumulative; stop firm at $279.00 (HWM $310.00). RTX slipped -0.35% intraday, still +0.87% cumulative with stop $160.28 (HWM $178.09). Portfolio Day P&L -$555.52 (-0.55%) driven by GE's intraday pullback; Phase P&L barely positive at +$30.92 (+0.03%), nearly at breakeven after yesterday's energy exits erased prior gains. Deployed 58.6% — below 75–85% target; 2 trade slots remaining this week (Saturday/Sunday market closed). Energy sector ban in effect. Priority for Monday pre-market: identify 1–2 non-energy momentum setups to close the deployment gap.
+
+---
+
+### May 12 — EOD Snapshot (Day 13, Tuesday)
+**Portfolio:** $101,128.08 | **Cash:** $41,379.33 (40.9%) | **Day P&L:** +$1,094.35 (+1.09%) | **Phase P&L:** +$1,128.08 (+1.13%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| FCX | 300 | $62.004 | $64.80 | +5.11% | +$838.80 (+4.51%) | $58.48 (HWM $64.98) |
+| GE | 67 | $280.02 | $295.50 | -0.56% | +$1,037.16 (+5.53%) | $279.00 (HWM $310.00) |
+| RTX | 115 | $174.65 | $178.35 | +1.28% | +$425.50 (+2.12%) | $161.94 (HWM $179.93) |
+
+**Notes:** Day 13 (Tuesday, Week 4). Strong positive day — FCX surged +5.11% intraday to $64.80 on copper demand momentum (AI data center buildout + EV electrification), HWM now $64.98 with trailing stop ratcheted to $58.48. GE slipped -0.56% to $295.50 but holds well above stop $279.00 (HWM $310.00); cumulative +5.53% — thesis intact. RTX gained +1.28% to $178.35; HWM now $179.93, stop $161.94; cumulative +2.12%. No trades today. Trades this week: 0/3. Phase P&L recovered to +$1,128.08 (+1.13%) — well above breakeven after energy exits. Deployed 59.1% ($59,748.75) — still below 75–85% target; no tightening triggered (all positions below +15% cumulative threshold). Energy sector ban in effect. Need 1–2 additional positions; pre-market Wednesday to identify momentum setups.
