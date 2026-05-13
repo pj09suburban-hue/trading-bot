@@ -32,13 +32,13 @@ Total unrealized: +$2,305.77 (+2.28%) | All GTC trailing stops active, all valid
   3. Upcoming: Retail Sales May 14, Consumer Sentiment May 15
 
 ### Ticker Research
-- **CEG:** Q1 2026 beat — EPS +5.79% vs estimate, revenue +23.56% vs estimate. Stock +3.30% on May 11 (post-earnings pop). Sold off post-entry on "sell the news" + FY26 guidance slightly below consensus ($11–12 EPS). Gurufocus projects >20% earnings growth through 2029. Nuclear/AI power thesis (Meta 1.1GW, MSFT 24/7, AI data center demand 4× by 2034) intact. Warsh confirmation → rate-cut expectations → bullish for regulated utilities. Three Mile Island restart seeking regulatory acceleration; PJM timeline uncertain. HOLD — thesis intact, well above stop $270.64.
+- **CEG:** Q1 2026 beat — EPS +5.79% vs estimate, revenue +23.56% vs estimate. Stock +3.30% on May 11 (post-earnings pop). Sold off post-entry on "sell the news" + FY26 guidance slightly below consensus ($11–$12 EPS). Gurufocus projects >20% earnings growth through 2029. Nuclear/AI power thesis (Meta 1.1GW, MSFT 24/7, AI data center demand 4× by 2034) intact. Warsh confirmation → rate-cut expectations → bullish for regulated utilities. Three Mile Island restart seeking regulatory acceleration; PJM timeline uncertain. HOLD — thesis intact, well above stop $270.64.
 - **FCX:** Raymond James target $72 (current $65.79, 9.4% upside); 52-week high $70.97; HWM $66.37 (stop ratcheted to $59.73). Copper demand thesis intact (AI data centers, EV, grid buildout). Q1 earnings beat Apr 23; 2026 guidance 3.4B lbs copper. Iran tension reduction softened commodity risk premium but structural copper demand unchanged. HOLD.
 - **GE:** Iran war → increased defense orders; Q1 revenue +25% on defense/geopolitical demand. Bullish 2026 defense outlook. No new GE-specific news today. Stop $279.00 firm (HWM $310, current $295.65). HOLD.
 - **RTX:** $268B backlog ($161B commercial, $107B defense). Q1 beat; Raytheon book-to-bill 2.27. Defense spending tailwind from Trump administration and Iran conflict. Erste Group Buy, median target $210–230. Stop $161.94 firm. HOLD.
 
 ### Trade Ideas
-1. **CSCO (Cisco)** — After-close earnings today; consensus $0.92 EPS, ~$14B revenue. AI data center networking proxy (different sector from current 4 holdings). If strong beat + data center guidance raised → entry candidate Thursday market-open. Entry ~$60–65 range (confirm live quote), stop –10%, target +20% (2:1). Gate check: 4/6 positions, 1 trade slot used (CEG Mon), 2 remain — eligible. **Conditional on tonight's earnings.**
+1. **CSCO (Cisco)** — After-close earnings today; consensus $0.92 EPS, ~$14B revenue. AI data center networking proxy (different sector from current 4 holdings). If strong beat + data center guidance raised → entry candidate Thursday market-open. Entry ~$60–$65 range (confirm live quote), stop –10%, target +20% (2:1). Gate check: 4/6 positions, 1 trade slot used (CEG Mon), 2 remain — eligible. **Conditional on tonight's earnings.**
 2. **No other immediate setups** — Trump-Xi summit tomorrow is binary risk; hold cash to avoid forced entry into tech/semis ahead of event.
 
 ### Risk Factors
@@ -50,6 +50,14 @@ Total unrealized: +$2,305.77 (+2.28%) | All GTC trailing stops active, all valid
 
 ### Decision
 **HOLD** — Deployed 77.9% (in band). Adding pushes to ~97.7% above 85% cap. All 4 positions healthy, theses intact. No -7% cuts needed. Watch CSCO earnings tonight as conditional Thursday setup. 2 trade slots and 2 position slots remain for this week.
+
+### Afternoon Addendum (Midday Scan)
+- **CEG STOPPED OUT:** Trailing stop GTC (HWM $300.71, stop $270.639) triggered 10:00 AM ET; filled 64 sh @ $270.51. Realized -$1,726.08 (-9.06% from entry $297.48). Perplexity: FY2026 adj EPS guidance midpoint $11.50 missed consensus $11.60–$11.72 (extending post-Q1 selloff) + Calpine acquisition debt burden (net interest +73.3% YoY, cash $3.64B → $0.8B) + nuclear capacity factor decline 94.1% → 92.3%. 1st Utilities/Nuclear failure. No sector ban. Trailing stop system worked correctly.
+- **FCX +3.24% intraday ($68.17):** Copper at record ~$6/lb on strong industrial demand (China, EU, US construction/manufacturing) + supply constraints. Structural AI data center / EV / grid thesis fully intact. New HWM $68.335, stop self-adjusted to $61.50.
+- **GE -0.10%, RTX -0.29% intraday:** Both holding; no thesis-breaking news.
+- **Deployment:** 60.6% deployed ($60,892 long MV / $100,545 equity) — below 75–85% target. Need 1–2 new positions.
+- **Week trades:** 1/3 (CEG buy May 12). 2 slots remain. CSCO potential Thursday setup pending earnings assessment.
+- **No new positions opened at midday.**
 
 ---
 
@@ -89,7 +97,7 @@ Total unrealized: +$2,305.77 (+2.28%) | All GTC trailing stops active, all valid
 ### Trade Ideas
 
 **1. CEG (Constellation Energy) — TRADE at market open (CPI trigger MET)**
-- **Catalyst:** Q1 2026 earnings BEAT reported May 11 — adjusted EPS $2.74 (vs $2.56 est, +7.0% beat); GAAP EPS $4.49; FY 2026 guidance affirmed $11–12/share. Earnings risk cleared.
+- **Catalyst:** Q1 2026 earnings BEAT reported May 11 — adjusted EPS $2.74 (vs $2.56 est, +7.0% beat); GAAP EPS $4.49; FY 2026 guidance affirmed $11–$12/share. Earnings risk cleared.
 - **CPI trigger:** Core +0.2% MoM ≤ threshold of +0.3% ✓ — rate-cut odds supported, utilities/nuclear re-rates bullish
 - **Thesis:** Nuclear power for AI data centers — Meta 20-year 1.1GW deal (2027 start); Microsoft 24/7 clean power contract; AI data centers to 4× power demand by 2034; CEG largest U.S. nuclear fleet (21 reactors)
 - **Price:** May 11 range $288.83–$323.00; settled ~$307.13; ex-dividend $0.43 on May 15
@@ -190,7 +198,7 @@ Total unrealized: +$2,305.77 (+2.28%) | All GTC trailing stops active, all valid
 
 ### Market Context
 - **WTI (June futures):** ~$94.87–$96/bbl (high $97.28 on May 7); pulled back sharply from $105.48 peak; US-Iran tensions ongoing but reduced from prior Hormuz crisis premium. Energy thesis already invalidated (CVX/XOM closed May 7).
-- **Brent:** Est. ~$100–105 (WTI + $5–10 spread); no confirmed real-time print.
+- **Brent:** Est. ~$100–105 (WTI + $5–$10 spread); no confirmed real-time print.
 - **S&P 500 futures:** Jun-26 closed $7,362.75 on May 7; pulled back as inflation expectations rose; E-mini modestly lower.
 - **VIX:** 17.08 (May 7 close); up from April lows (~10–11); moderate/elevated — geopolitical + macro risk.
 - **NFP (April 2026):** Released TODAY 8:30 AM ET. Forecast: +62–65K. ADP private sector (May 6): +109K (beat +99K est.) — bullish precursor. BLS official result not confirmed at research time; pending market reaction.
@@ -202,13 +210,13 @@ Total unrealized: +$2,305.77 (+2.28%) | All GTC trailing stops active, all valid
 - **RTX:** Thesis intact. Q1 2026: sales +10% organic, EPS $1.78 (+17% beat); raised FY 2026 EPS to $6.70–$6.90. Defense budget tailwind. RSI oversold (28.78); technically weak short-term — stock may drift to $173–174 near-term per models. Stop at $160.28 (HWM $178.09). Thesis intact; monitor thesis for deterioration.
 
 ### Trade Ideas
-1. **FCX (Freeport-McMoRan)** — Materials sector; structural copper demand from AI data centers + EV electrification; Grasberg mine secured to 2041. Stock ~$60–61, pulled back ~14% from $70.97 52-week high, near 50-day MA (~$60) support. Q1 past (Apr 2026): earnings fine, sold off 7.4% post-print (now digested). Citi Buy, PT $66. 3rd position candidate.
+1. **FCX (Freeport-McMoRan)** — Materials sector; structural copper demand from AI data centers + EV electrification; Grasberg mine secured to 2041. Stock ~$60–$61, pulled back ~14% from $70.97 52-week high, near 50-day MA (~$60) support. Q1 past (Apr 2026): earnings fine, sold off 7.4% post-print (now digested). Citi Buy, PT $66. 3rd position candidate.
    - Entry: ~$60 at market confirm post-NFP (confirm sector green, no panic open)
    - Stop: $54 (–10%)
    - Target: $72 (~+20%, near Citi PT $66 intermediate; 2:1+ R:R)
    - Size: ~$18,000 (179% ≈ ~300 shares @ $60) ← ≤18% equity ✓
    - Gate: All checks pass (2 positions + 1 = 3 ≤ 6 ✓; 0 + 1 = 1 ≤ 3 ✓; ≤20% equity ✓; cash available ✓; catalyst: copper/AI demand + technical support ✓)
-   - **Condition:** Only if NFP actual ≥ 50K AND FCX opens near $58–62 without gap-up blow-off. If NFP misses badly (<30K) or market opens risk-off, SKIP.
+   - **Condition:** Only if NFP actual ≥ 50K AND FCX opens near $58–$62 without gap-up blow-off. If NFP misses badly (<30K) or market opens risk-off, SKIP.
 
 2. **HOLD second slot** — Reserve 5th position for next week once FCX thesis confirmed. Do not force 2 trades on NFP Friday.
 
