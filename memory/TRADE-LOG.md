@@ -392,6 +392,36 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+## 2026-05-13 — Midday Scan (Day 14, Wednesday)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| CEG | $297.48 | $270.51 (exit) | **-$1,726.08** | **-9.06%** | — | cancelled | $300.71 | **STOPPED OUT** — trailing stop GTC triggered 10:00 AM ET |
+| FCX | $62.004 | $68.17 | +$1,849.80 | +9.95% | +3.24% | $61.50 (10% trail) | $68.335 | HOLD — copper record highs, thesis confirmed |
+| GE | $280.02 | $297.165 | +$1,148.72 | +6.12% | -0.10% | $279.00 (10% trail) | $310.00 | HOLD — thesis intact |
+| RTX | $174.65 | $178.38 | +$428.95 | +2.14% | -0.29% | $161.94 (10% trail) | $179.93 | HOLD — thesis intact |
+
+**CEG trailing stop exit:**
+- Stop GTC (HWM $300.71, stop $270.639) triggered automatically; fill: 64 sh @ **$270.51**
+- Realized P&L: **-$1,726.08 (-9.06%)** from entry $297.48; held 1 day (May 12 → May 13)
+- Catalyst: FY2026 adj EPS guidance midpoint $11.50 missed consensus $11.60–$11.72 (extending post-Q1 "sell the news" selloff) + Calpine acquisition debt burden (net interest +73.3% YoY, cash $3.64B → $0.8B) + nuclear capacity factor decline (94.1% → 92.3%)
+- 1st failed trade in Utilities/Nuclear sector — **no sector ban** (need 2 consecutive)
+
+**Step 3 (cut losers):** CEG stopped automatically. FCX/GE/RTX all positive — no manual cuts.
+**Step 4 (tighten stops):** FCX +9.95%, GE +6.12%, RTX +2.14% — none at +15% threshold. No tightening.
+**Step 5 (thesis check):**
+- FCX: Perplexity confirmed copper at record ~$6/lb on strong industrial demand (China, EU, US) + supply constraints. Structural AI/EV/grid thesis fully intact.
+- GE: -0.10% intraday drift. Defense/aerospace backlog and raised guidance unchanged. HOLD.
+- RTX: -0.29% intraday. Defense procurement thesis intact. HOLD.
+**Step 6 (research):** CEG queried — decline driven by known/extended guidance miss + Calpine debt overhang. FCX queried — up on record copper prices. No unexplained sharp moves.
+**Step 7 (notification):** Action taken (CEG stop-out) → Slack sent.
+
+**Portfolio (midday):** $100,545.20 | **Cash:** $39,653.25 (39.5%) | **Long MV:** $60,891.95 (60.6% deployed — below 75–85% target) | **Day P&L:** -$896.31 (-0.88%) | **Phase P&L:** +$545.20 (+0.55%)
+
+**Notes:** Day 14 (Wednesday, Week 4). CEG trailing stop GTC fired at 10:00 AM ET as stock fell ~7% intraday on FY2026 guidance miss and Calpine acquisition headwinds — stop system worked as designed. Realized -$1,726 (-9.06%). 1st Utilities/Nuclear failure; no sector ban. Portfolio now 3 positions, 60.6% deployed — need 1–2 new positions to return to 75–85% band. FCX surging +3.24% intraday on record copper; GE/RTX holding. Week: 1/3 trades used; 2 slots remain. Pre-market Thursday: identify non-energy, non-utilities catalyst for redeployment. CSCO earnings were after close yesterday — assess Thursday.
+
+---
+
 ### May 12 — EOD Snapshot (Day 13, Tuesday)
 **Portfolio:** $101,611.34 | **Cash:** $22,340.61 (22.0%) | **Day P&L:** +$229.27 (+0.23%) | **Phase P&L:** +$1,611.34 (+1.61%)**
 
