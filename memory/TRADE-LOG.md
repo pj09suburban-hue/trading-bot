@@ -433,3 +433,16 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $179.63 | +0.57% | +$572.70 (+2.85%) | $161.94 (HWM $179.93) |
 
 **Notes:** Day 13 (Tuesday, Week 4). Market recovered from midday lows (-1.2% at noon) to close modestly positive (+0.23% day). FCX led +2.24% to $65.81 (HWM $65.88, stop ratcheted to $59.29); cumulative +6.14% — copper/AI thesis intact. GE -0.94% to $297.94 but +6.40% cumulative; HWM $310, stop $279 firm. RTX +0.57% to $179.63, +2.85% cumulative, HWM $179.93, stop $161.94. CEG opened today at $297.48 (1 trade slot used), closed -1.40% at $295.49; -0.67% unrealized on day-1 — nuclear/AI thesis intact, well above stop $270.64. Phase P&L +$1,611.34 (+1.61%). Deployed 78.0% ($79,270.73) — in 75–85% target band. No tightening triggered (highest cumulative GE +6.40%, threshold is +15%). Trades today: 1 (CEG BUY). Trades this week: 1/3. Energy sector ban in effect. 2 trade slots remain; pre-market Wednesday to identify 1 additional momentum setup to add conviction.
+
+---
+
+### May 13 — EOD Snapshot (Day 14, Wednesday)
+**Portfolio:** $100,111.88 | **Cash:** $39,653.25 (39.6%) | **Day P&L:** -$1,329.63 (-1.31%) | **Phase P&L:** +$111.88 (+0.11%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| FCX | 300 | $62.004 | $67.25 | +1.85% | +$1,573.80 (+8.46%) | $61.97 (HWM $68.85) |
+| GE | 67 | $280.02 | $295.64 | -0.61% | +$1,046.54 (+5.58%) | $279.00 (HWM $310.00) |
+| RTX | 115 | $174.65 | $178.05 | -0.47% | +$391.00 (+1.95%) | $161.94 (HWM $179.93) |
+
+**Notes:** Day 14 (Wednesday, Week 4). CEG trailing stop GTC fired at 10:00 AM ET — realized -$1,726.08 (-9.06%). Day P&L -$1,329.63 (-1.31%) dragged by CEG exit + broad market softness (-0.47% to -0.61% on GE/RTX). FCX bucked the trend +1.85% to $67.25 on record copper; new HWM $68.85, stop ratcheted to $61.97. GE -0.61% to $295.64, cumulative +5.58%; HWM $310, stop $279 firm. RTX -0.47% to $178.05, cumulative +1.95%; HWM $179.93, stop $161.94. Portfolio now 3 positions, 60.4% deployed — below 75–85% target band. Phase P&L compresses to +$111.88 (+0.11%). Trades today: 1 (CEG stop-out). Trades this week: 1 new buy (CEG May 12); 2 buy slots remain. Energy sector ban in effect. Pre-market Thursday: identify 1–2 non-energy, non-utilities momentum setups to redeploy ~$15–20k and restore target deployment.
