@@ -4,6 +4,55 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-13 — Pre-market Research (Week 4, Day 3 — Wednesday)
+
+### Account Snapshot
+- Equity: $101,132.39 | Cash: $22,340.61 (22.1%) | Long MV: $78,791.78 (77.9% deployed — ✓ in 75–85% band)
+- Buying power: $123,473 | Daytrade count: 0 | Positions: 4/6 | Week trades: 1/3
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Today | Stop | HWM |
+|---|---|---|---|---|---|---|---|---|
+| CEG | 64 | $297.48 | $292.93 | -$291.03 | -1.53% | -0.23% | $270.64 | $300.71 |
+| FCX | 300 | $62.004 | $65.79 | +$1,135.89 | +6.11% | -0.36% | $59.73 | $66.37 |
+| GE | 67 | $280.02 | $295.65 | +$1,047.21 | +5.58% | -0.61% | $279.00 | $310.00 |
+| RTX | 115 | $174.65 | $178.25 | +$413.70 | +2.06% | -0.36% | $161.94 | $179.93 |
+
+Total unrealized: +$2,305.77 (+2.28%) | All GTC trailing stops active, all valid.
+
+### Market Context
+- **WTI:** ~$101–103/bbl (down from $109 last week; Iran de-escalation expectations reducing Hormuz risk premium)
+- **Brent:** ~$108–110/bbl (Fortune: $110.43 at May 12 open)
+- **S&P 500 futures (ESM6):** 7,427.50 (+0.01%) — essentially flat; recent close May 7: 7,363; April closed at record 7,209 (+10.5% monthly, strongest since 2020)
+- **VIX:** 18.38 (May 11 close, FRED); range 17–20 in early May — moderate, not elevated
+- **PPI April (8:30 AM ET):** Actual +0.5% MoM, matching +0.5% forecast — no inflation surprise, neutral for markets
+- **Earnings before open today:** HMC, TSEM, SE (Sea Limited +34% rev est), JD, Venture Global — no direct impact on holdings. CSCO reports after close today (AI networking proxy, potential Thursday setup)
+- **Key catalysts:**
+  1. Warsh Fed Chair final confirmation vote today — Board seat confirmed May 12; Chair vote pending (bullish, rate-cut expectations, Powell out May 15)
+  2. Trump-Xi summit May 14–15 — AI guardrails focus; binary event for semis/tech
+  3. Upcoming: Retail Sales May 14, Consumer Sentiment May 15
+
+### Ticker Research
+- **CEG:** Q1 2026 beat — EPS +5.79% vs estimate, revenue +23.56% vs estimate. Stock +3.30% on May 11 (post-earnings pop). Sold off post-entry on "sell the news" + FY26 guidance slightly below consensus ($11–12 EPS). Gurufocus projects >20% earnings growth through 2029. Nuclear/AI power thesis (Meta 1.1GW, MSFT 24/7, AI data center demand 4× by 2034) intact. Warsh confirmation → rate-cut expectations → bullish for regulated utilities. Three Mile Island restart seeking regulatory acceleration; PJM timeline uncertain. HOLD — thesis intact, well above stop $270.64.
+- **FCX:** Raymond James target $72 (current $65.79, 9.4% upside); 52-week high $70.97; HWM $66.37 (stop ratcheted to $59.73). Copper demand thesis intact (AI data centers, EV, grid buildout). Q1 earnings beat Apr 23; 2026 guidance 3.4B lbs copper. Iran tension reduction softened commodity risk premium but structural copper demand unchanged. HOLD.
+- **GE:** Iran war → increased defense orders; Q1 revenue +25% on defense/geopolitical demand. Bullish 2026 defense outlook. No new GE-specific news today. Stop $279.00 firm (HWM $310, current $295.65). HOLD.
+- **RTX:** $268B backlog ($161B commercial, $107B defense). Q1 beat; Raytheon book-to-bill 2.27. Defense spending tailwind from Trump administration and Iran conflict. Erste Group Buy, median target $210–230. Stop $161.94 firm. HOLD.
+
+### Trade Ideas
+1. **CSCO (Cisco)** — After-close earnings today; consensus $0.92 EPS, ~$14B revenue. AI data center networking proxy (different sector from current 4 holdings). If strong beat + data center guidance raised → entry candidate Thursday market-open. Entry ~$60–65 range (confirm live quote), stop –10%, target +20% (2:1). Gate check: 4/6 positions, 1 trade slot used (CEG Mon), 2 remain — eligible. **Conditional on tonight's earnings.**
+2. **No other immediate setups** — Trump-Xi summit tomorrow is binary risk; hold cash to avoid forced entry into tech/semis ahead of event.
+
+### Risk Factors
+- Adding any position today would push deployed to ~97.7%, exceeding 85% cap — cash constraint is binding for new entries
+- Trump-Xi summit May 14–15: AI guardrails discussion could spike or crater semis/tech; avoid new tech exposure until outcome known
+- Warsh not yet confirmed as Chair; if blocked, rate expectations reprice downward (negative for CEG)
+- WTI $101 softness reflects Iran de-escalation; energy ban remains in effect (2 consecutive losses)
+- GE HWM $310 vs current $295.65 — stop $279 is 5.6% below current; no near-term risk but monitor if broader market sells off
+
+### Decision
+**HOLD** — Deployed 77.9% (in band). Adding pushes to ~97.7% above 85% cap. All 4 positions healthy, theses intact. No -7% cuts needed. Watch CSCO earnings tonight as conditional Thursday setup. 2 trade slots and 2 position slots remain for this week.
+
+---
+
 ## 2026-05-12 — Pre-market Research (Week 4, Day 2 — Tuesday)
 
 ### Account Snapshot
@@ -132,7 +181,7 @@ Daily pre-market research entries will be appended here.
 - **Positions:** 2/6 | **Week trades:** 0/3 (fresh week; 3 buy slots open)
 
 | Ticker | Shares | Entry | Current | Unreal P&L | % | Stop | HWM |
-|---|---|---|---|---|---||---|
+|---|---|---|---|---|---||---||
 | GE | 67 | $280.02 | $303.63 | +$1,581.87 | +8.43% | $279.00 (10% trail) | $310.00 |
 | RTX | 115 | $174.65 | $177.09 | +$280.60 | +1.40% | $160.28 (10% trail) | $178.09 |
 
