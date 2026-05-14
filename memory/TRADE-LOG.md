@@ -379,7 +379,7 @@ No positions yet. Bot launches tomorrow.
 - **Step 3 (cut losers):** No position at ≤ -7%. CEG -2.71% is the weakest — new position opened this morning, well above stop $270.64. No cuts.
 - **Step 4 (tighten stops):** Highest cumulative gain is GE +5.02% — below +15% threshold. No tightening on any position.
 - **Step 5 (thesis check):**
-  - CEG: Down -3.43% intraday to $289.42 (entry $297.48, -2.71% unrealized). Perplexity research: decline is "sell the news" post-Q1 beat fading + FY2026 guidance-below-consensus headwind from March 31 (already a known risk at entry). No new thesis-breaking catalyst today. Nuclear/AI power thesis (Meta 1.1GW deal, MSFT contracts, AI data center 4× demand by 2034) intact. Warsh/Fed risk still pending May 15. Stop $270.64 at 6.5% below current — adequate. HOLD.
+  - CEG: Down -3.43% intraday to $289.42 (entry $297.48, -2.71% unrealized). Perplexity research: decline is "sell the news" post-Q1 beat fading + FY2026 guidance-below-consensus headwind from March 31 (already a known risk at entry). No new thesis-breaking catalyst today. Nuclear/AI power thesis (Meta 1.1GW deal, MSFT contracts, AI data center 4× demand by 2034) intact. Warsh/Fed risk still pending May 15. Stop $270.64 GTC active (HWM $300.71). HOLD.
   - FCX: -1.31% intraday, +2.46% cumulative. Copper demand thesis (AI data centers, EV, grid) unchanged. Morgan Stanley downgrade already priced. HOLD.
   - GE: -2.23% intraday, +5.02% cumulative. No GE-specific news. Broad market profit-taking after S&P 500 hit records May 11. $190B backlog and raised guidance intact. HOLD.
   - RTX: -0.18% intraday, +2.08% cumulative. Essentially flat. Defense procurement thesis intact. HOLD.
@@ -446,3 +446,15 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $178.05 | -0.47% | +$391.00 (+1.95%) | $161.94 (HWM $179.93) |
 
 **Notes:** Day 14 (Wednesday, Week 4). CEG trailing stop GTC fired at 10:00 AM ET — realized -$1,726.08 (-9.06%). Day P&L -$1,329.63 (-1.31%) dragged by CEG exit + broad market softness (-0.47% to -0.61% on GE/RTX). FCX bucked the trend +1.85% to $67.25 on record copper; new HWM $68.85, stop ratcheted to $61.97. GE -0.61% to $295.64, cumulative +5.58%; HWM $310, stop $279 firm. RTX -0.47% to $178.05, cumulative +1.95%; HWM $179.93, stop $161.94. Portfolio now 3 positions, 60.4% deployed — below 75–85% target band. Phase P&L compresses to +$111.88 (+0.11%). Trades today: 1 (CEG stop-out). Trades this week: 1 new buy (CEG May 12); 2 buy slots remain. Energy sector ban in effect. Pre-market Thursday: identify 1–2 non-energy, non-utilities momentum setups to redeploy ~$15–20k and restore target deployment.
+
+---
+
+## 2026-05-14 — Market-Open Trades
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-05-14 | NUE | SKIP | — | — | — | Retail Sales April +0.34% MoM missed +0.8% consensus — pre-market gate requires neutral/strong print; plan explicit: hold, reassess at midday | — | — |
+| 2026-05-14 | LHX | SKIP | — | — | — | Conditional on NUE fill (NUE skipped); also opened at $350.27 vs plan $302–$310 — far above range | — | — |
+
+**Week trades:** 1/3 (CEG May 12) | **Open positions:** 3/6 | **Deployed:** ~$60,657 / $100,311 (60.5%) — below 75–85% target
+**NUE note:** Price $234.27 at open — within $238 gap-up limit but retail sales gate failed. Reassess at midday.
