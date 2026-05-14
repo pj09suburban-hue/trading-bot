@@ -458,3 +458,24 @@ No positions yet. Bot launches tomorrow.
 
 **Week trades:** 1/3 (CEG May 12) | **Open positions:** 3/6 | **Deployed:** ~$60,657 / $100,311 (60.5%) — below 75–85% target
 **NUE note:** Price $234.27 at open — within $238 gap-up limit but retail sales gate failed. Reassess at midday.
+
+---
+
+## 2026-05-14 — Midday Scan
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| FCX | $62.004 | $65.73 | +$1,117.80 | +6.01% | -2.13% | $61.965 (10% trail) | $68.85 | HOLD — thesis intact |
+| GE | $280.02 | $290.57 | +$706.85 | +3.77% | -1.41% | $279.00 (10% trail) | $310.00 | HOLD — thesis intact |
+| RTX | $174.65 | $175.96 | +$150.65 | +0.75% | -1.21% | $161.937 (10% trail) | $179.93 | HOLD — thesis intact |
+
+**Cut losers (-7%):** None — all positions positive cumulative; no threshold breach.
+**Stop tightening (+15%/+20%):** None — best gain FCX +6.01%, short of +15% threshold.
+**Thesis check:**
+- FCX: -2.13% intraday pullback from near-HWM. Perplexity: "market consolidation near record highs despite bullish analyst activity" — no new negative catalyst. Grasberg delays known/priced. Copper/AI/EV/grid thesis intact. Stop $61.965 (HWM $68.85); current $65.73 is 6.1% above stop.
+- GE: -1.41% intraday with broad market. No GE-specific news. Defense/aerospace $190B backlog and raised guidance unchanged. Stop $279.00 (HWM $310.00); current $290.57 is 4.1% above stop.
+- RTX: -1.21% intraday with broad market. Defense procurement thesis intact. Stop $161.937 (HWM $179.93); current $175.96 is 8.7% above stop.
+**NUE midday reassessment:** Trading $231–$234 range; absorbed retail sales miss without collapsing. Gate condition (retail sales miss) was the trigger for today's skip — not overridden at midday. Market broadly red; no new positive catalyst; patience > activity. HOLD cash; reassess Monday.
+**No action taken.** All three 10% trailing-stop GTC orders active.
+
+**Portfolio (midday):** ~$99,076 | **Cash:** $39,653.25 (40.0%) | **Long MV:** ~$59,423 (60.0% deployed — below 75–85% target) | **Day P&L:** ~-$954 (-0.95%) | **Phase P&L:** ~-$924 (-0.92%)

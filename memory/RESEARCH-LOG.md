@@ -73,6 +73,14 @@ Daily pre-market research entries will be appended here.
 - LHX conditional: only if NUE filled AND deployment still below 75% AND 1 slot remains
 - FCX / GE / RTX: HOLD — no -7% triggers, theses intact
 
+### Afternoon Addendum (Midday Scan)
+- **Broad market red:** All 3 positions down intraday (FCX -2.13%, GE -1.41%, RTX -1.21%). No thesis-breaking news on any position.
+- **FCX -2.13%:** Perplexity query — "market consolidation near record highs despite bullish analyst activity." No new May 14 negative catalyst. Grasberg delays already priced. Copper/AI/EV thesis intact. Stop $61.965 (HWM $68.85). HOLD.
+- **GE / RTX:** Broad market drift. Theses intact. Stops well below current prices.
+- **NUE midday reassessment:** Trading $231–$234 range ($233.42 open, $234.21 high, $230.80 low) — held range despite retail sales miss. However: market broadly red, no new positive catalyst, original gate condition (retail sales miss) not overridden. HOLD; enter on constructive green day next week.
+- **Portfolio midday:** ~$99,076 equity | $59,423 long MV (60.0% deployed — below 75–85% target) | Day P&L ~-$954 (-0.95%) | Phase P&L ~-$924 (-0.92%)
+- **No action taken at midday. No Slack sent.**
+
 ---
 
 ## 2026-05-13 — Pre-market Research (Week 4, Day 3 — Wednesday)
