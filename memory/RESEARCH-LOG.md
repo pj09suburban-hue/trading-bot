@@ -4,6 +4,77 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-14 — Pre-market Research
+
+### Account
+- Equity: $100,233.03 | Cash: $39,653.23 (39.6%) | Long MV: $60,579.80 (**60.4% deployed — BELOW 75–85% target**)
+- Buying power: $139,886.26 (margin; using cash only)
+- Daytrade count: 0 | Positions: 3/6 | Week trades: 1/3 (CEG buy May 12)
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| FCX | 300 | $62.004 | $67.35 | +$1,603.80 | +8.62% | $61.965 (10% trail GTC) | $68.85 |
+| GE | 67 | $280.02 | $296.40 | +$1,097.46 | +5.85% | $279.00 (10% trail GTC) | $310.00 |
+| RTX | 115 | $174.65 | $178.40 | +$431.25 | +2.15% | $161.94 (10% trail GTC) | $179.93 |
+
+### Market Context
+- **WTI:** ~$90.77/bbl — sharp drop from $103–$105 range; testing $90.10 support; RSI 31.5 (near oversold); CME futures up +0.49% overnight. Positive for GE (lower fuel costs → more flight demand)
+- **Brent:** ~$95–$100/bbl est. (WTI +$5–$10 typical spread)
+- **S&P 500 futures (ESM6):** 7,484.25 +14.75 (+0.20%) — near record highs; prior close 7,478.50; market constructive
+- **VIX:** 17.87 (May 13 spot) — moderate, not elevated; down from 18.38 on May 11; normal trading environment
+- **Today's economic data (8:30 AM ET):** Advance Retail Sales (Apr), Initial Claims (wk May 9), Import/Export Prices (Apr). Key risk: Retail Sales miss → cyclicals/materials selloff
+- **CPI:** Released May 12 (mild, triggered rate-cut re-rate). **PPI:** Released May 13. Both now in the rear-view — no FOMC event today
+- **Trump-Xi Summit (May 14–15):** Focus on AI guardrails. Outcome unknown → semis/tech uncertainty; could move NVDA, CSCO, AMAT sharply either direction
+- **CSCO:** 52-week high at $98.72 after Q3 FY26 beat — AI orders $2.1B Q2 (matching full FY25); hyperscaler demand triple-digit growth. Trading at 38x fwd P/E
+
+### Sector Momentum
+- **Leading YTD:** Energy (+38.3% — BANNED sector for us), Materials (cup-and-handle breakout, XLB), Consumer Staples, Industrials
+- **Lagging/Weakening:** Technology, Financials, Health Care, Communications
+- **Improving:** Real Estate, Utilities (1 failure: CEG — no ban yet)
+
+### Current Holdings News
+- **FCX:** Up 48% in 6 months on copper; Q1 EPS $0.57 (beat by $0.11); Zacks/JPM/Wells bullish; analyst median target $68 — near HWM $68.85. Thesis intact; slightly extended
+- **GE:** Down 14% over 30 days broadly but +5.85% from our $280 entry; Q1 EPS $1.57 (est. $1.43) beat; $190B backlog; FY26 guidance $7.10–$7.40. WTI drop to $90 helps (lower fuel = more engine demand). Thesis intact
+- **RTX:** Q1 EPS $1.78 (+17% beat); raised FY26 to $6.70–$6.90. RSI exiting oversold; Aroon flagging some downward pressure. $206M Navy GPS + $370M F135 contracts. Thesis intact but weakest cumulative gain (+2.15%)
+
+### Trade Ideas
+
+**Idea 1: NUE (Nucor Steel) — PRIMARY SETUP**
+- **Catalyst:** Q1 2026 EPS $3.23 (beat $2.82 consensus by $0.41, above $2.80 guidance ceiling); net sales $9.5B (+21% YoY); record steel mill shipments; Q2 2026 guidance: higher earnings across all segments. Zacks just raised Q2 EPS to $5.44 (from $3.19) on May 13. Momentum score 91.73
+- **Macro tailwinds:** Tariffs cut steel imports 40% YoY → domestic demand surge; reshoring, AI data centers, infrastructure all driving backlog +40% YoY. Materials sector in "Leading" momentum quadrant
+- **Sector check:** Materials — no prior failed trades in this sector (FCX also Materials; acceptable to hold 2)
+- **Entry:** ~$229–$232 at market open (confirm live quote). Size: ~86 shares @ $230 ≈ $19,780 (~19.7% equity ✓)
+- **Stop:** 10% trailing GTC (initial stop ~$207). Hard cut at -7% from entry (~$213)
+- **Target:** +20% = ~$276 (2.9:1 R:R vs. 7% hard stop)
+- **Gate check:** Positions after fill 4/6 ✓ | Week trades 2/3 ✓ | Cost ≤ 20% equity ✓ | Cash available $39.6k ✓ | PDT count 0 ✓ | Catalyst documented ✓ | Stock ✓
+- **Condition:** Confirm live price ≤ $238 before submitting (gap-up protection); wait for retail sales 8:30 ET — if miss worsens cyclicals, delay or skip
+
+**Idea 2: LHX (L3Harris Technologies) — CONDITIONAL (slot 3 only)**
+- **Catalyst:** Pentagon $1B equity investment in Missile Solutions business (Apr 23); $400M THAAD contract; IPO of Missile Solutions unit H2 2026; $27.8B backlog
+- **Concern:** Already hold GE + RTX in Industrials/Defense — sector concentration risk; only pursue if NUE fills and deployment still below 75% with 1 slot remaining
+- **Entry:** ~$302–$310 at market open (confirm live quote). Size: ~64 shares @ $305 ≈ $19,520 (~19.5% equity ✓)
+- **Stop:** 10% trailing GTC (~$272). Target: +20% = ~$366 (2.9:1)
+
+**Idea 3: CSCO — SKIP**
+- 38x fwd P/E at 52-week high post-earnings pop; buying extended breakout after move. Trump-Xi summit adds tech uncertainty. Pass.
+
+### Risk Factors
+- **Retail Sales (8:30 ET):** Miss → cyclical/materials selloff; wait for print before entering NUE
+- **Trump-Xi summit outcome:** Unknown; tech/semi names could swing sharply; not held in portfolio — monitor for sentiment contagion
+- **FCX extended:** Near analyst median target $68, HWM $68.85 — less upside remaining; stop $61.97 intact
+- **WTI at $90:** Sharp drop from $103; further decline risks Hormuz resolution narrative (GE/RTX immune; FCX neutral)
+- **RTX Aroon signal:** Flagging near-term weakness; stop $161.94 well below $178.40 — no action needed
+
+### Decision
+**TRADE — NUE primary setup at market-open**
+- Buy ~86 shares NUE at market, confirm live price ≤ $238 first; wait for 8:30 ET retail sales print
+- If retail sales strong/neutral + NUE ≥ $225 open → execute
+- If retail sales miss → hold, reassess at midday
+- LHX conditional: only if NUE filled AND deployment still below 75% AND 1 slot remains
+- FCX / GE / RTX: HOLD — no -7% triggers, theses intact
+
+---
+
 ## 2026-05-13 — Pre-market Research (Week 4, Day 3 — Wednesday)
 
 ### Account Snapshot
@@ -189,7 +260,7 @@ Total unrealized: +$2,305.77 (+2.28%) | All GTC trailing stops active, all valid
 - **Positions:** 2/6 | **Week trades:** 0/3 (fresh week; 3 buy slots open)
 
 | Ticker | Shares | Entry | Current | Unreal P&L | % | Stop | HWM |
-|---|---|---|---|---|---||---||
+|---|---|---|---||---||---||---|
 | GE | 67 | $280.02 | $303.63 | +$1,581.87 | +8.43% | $279.00 (10% trail) | $310.00 |
 | RTX | 115 | $174.65 | $177.09 | +$280.60 | +1.40% | $160.28 (10% trail) | $178.09 |
 
