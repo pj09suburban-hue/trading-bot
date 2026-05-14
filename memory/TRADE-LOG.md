@@ -479,3 +479,15 @@ No positions yet. Bot launches tomorrow.
 **No action taken.** All three 10% trailing-stop GTC orders active.
 
 **Portfolio (midday):** ~$99,076 | **Cash:** $39,653.25 (40.0%) | **Long MV:** ~$59,423 (60.0% deployed — below 75–85% target) | **Day P&L:** ~-$954 (-0.95%) | **Phase P&L:** ~-$924 (-0.92%)
+---
+
+### May 14 — EOD Snapshot (Day 15, Thursday)
+**Portfolio:** $99,159.23 | **Cash:** $39,653.23 (40.0%) | **Day P&L:** -$870.22 (-0.87%) | **Phase P&L:** -$840.77 (-0.84%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| FCX | 300 | $62.004 | $66.07 | -1.62% | +$1,219.80 (+6.56%) | $61.965 (HWM $68.85) |
+| GE | 67 | $280.02 | $290.86 | -1.31% | +$726.28 (+3.87%) | $279.00 (HWM $310.00) |
+| RTX | 115 | $174.65 | $175.63 | -1.39% | +$112.70 (+0.56%) | $161.937 (HWM $179.93) |
+
+**Notes:** Day 15 (Thursday, Week 4). No trades executed — NUE skipped (retail sales miss gate failure) and LHX skipped (conditional on NUE + price far above plan range). Market broadly red: FCX -1.62%, GE -1.31%, RTX -1.39%. No new HWMs; no stop adjustments warranted. All three 10% trailing-stop GTC orders active and intact. Portfolio 60.0% deployed — below 75–85% target band; 2 buy slots remain. Phase P&L slips to -$840.77 (-0.84%). Trades this week: 1/3 (CEG May 12 stop-out). Pre-market Friday: research 1–2 non-energy, non-utilities momentum setups to restore deployment to target band.
