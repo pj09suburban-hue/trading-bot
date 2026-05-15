@@ -170,3 +170,73 @@ Template for each entry:
 
 ### Overall Grade: B
 *Week 2 — first full 5-day week. Deployed capital correctly (fixed cash drag). Energy thesis intact and profitable. Underperformed S&P by 44bp due to mixed sector performance (RTX lagging). No rule violations aside from minor CVX gap-sizing breach. No closed trades yet — execution quality on exits unproven. Solid but not exceptional.*
+
+---
+
+*Note: Week 3 (ending 2026-05-08) review was not formally written. Summary: CVX + XOM thesis-broken exits on May 7 when WTI collapsed to ~$92 on US-Iran peace deal (combined realized -$1,173.43; energy sector ban triggered). FCX bought May 8 post-NFP (+160K beat). Portfolio ended week 3 at $100,030.92 (-1.31% from week 2 end).*
+
+---
+
+## Week ending 2026-05-15
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,034.12 |
+| Ending portfolio | $96,404.38 |
+| Week return | -$3,629.74 (-3.63%) |
+| S&P 500 week | ~+0.8% est (May 8 ~7,363 → May 15 ~7,420) |
+| Bot vs S&P | ~-4.43% |
+| Phase return | -$3,595.62 (-3.60% from $100k baseline) |
+| Phase bot vs S&P | ~-7.16% (phase S&P ~+3.56% Apr 24 start 7,165) |
+| Trades | 2 new (W:0 / L:2 / open:3) |
+| Win rate | 0% (0/2 closed this week; 0/4 all-time) |
+| Best trade | FCX -0.33% (trailing stop) |
+| Worst trade | CEG -9.06% (trailing stop) |
+| Profit factor | N/A — 0 winners all-time |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| CEG | $297.48 | $270.51 | -$1,726.08 (-9.06%) | 1-day hold (May 12→13); trailing stop GTC triggered on FY2026 guidance miss + Calpine debt overhang |
+| FCX | $62.004 | $61.802 | -$60.52 (-0.33%) | 7-day hold (May 8→15); trailing stop GTC triggered on gap-down at open |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| GE | $280.02 | $281.53 | +$101.17 (+0.54%) | $279.00 (HWM $310.00) |
+| NVDA | $228.43 | $224.75 | -$290.59 (-1.61%) | $208.35 (HWM $231.50) |
+| RTX | $174.65 | $170.77 | -$446.20 (-2.22%) | $161.937 (HWM $179.93) |
+
+### What Worked
+- Stop system executed flawlessly: both CEG and FCX stops fired automatically with no override; contained losses without manual intervention
+- NVDA entry discipline: gap-up gate respected ($228.43 ≤ $247 limit); H200 China clearance (75k chips × 10 firms) is a genuine fresh catalyst with direct TAM
+- NUE skip (May 14): retail-sales gate failure correctly enforced; NUE held $231–$234 range all day — patience preserved capital; setup remains valid for next week
+- GE and RTX: held theses correctly through noisy macro days; stop GTC managing risk on both without requiring manual decisions
+- Week 4 milestone: 4 full trading weeks completed — first validation criterion met (≥4 weeks); gating factor now closed-trade count (4 of 6 required)
+
+### What Didn't Work
+- CEG thesis selection: entered 1 day post-Q1 earnings into a known FY2026 guidance overhang + Calpine debt burden; "sell the news" risk was flagged but underweighted; -$1,726 in 24 hours
+- 0% all-time win rate: all 4 closed trades are losses; GE was +10% on May 7, RTX was +2.85% on May 12 — open gains never locked in via a winning exit
+- S&P massively outperformed: market hit record highs on Trump-Xi summit while our portfolio saw idiosyncratic sector selloffs (-$3.6% vs ~+0.8%)
+- Deployment still below target: ended week at 58.4% vs 75–85% target; NVDA entry only partially restored; two consecutive forced exits (energy, CEG) left persistent cash drag
+- FCX: redeployment trade post-energy-ban produced minimal thesis conviction; Grasberg delays + copper near-HWM = thin upside; stopped out for near-breakeven with no learning value
+
+### Key Lessons
+- "Sell the news" entries (1–3 days post-earnings) carry amplified downside continuation risk; 10% initial trailing stop is too wide for this pattern; 6–7% would have been more appropriate for CEG
+- No winning exits in 4 weeks means exit quality is completely unvalidated; unrealized gains (GE peaked +10%) have not been converted to realized P&L
+- Redeployment after thesis-broken exit (FCX after energy ban) moved too fast; should wait for a full pre-market cycle to establish fresh conviction before entering
+- Validation progress: 4/4 weeks done, 4/6 closed trades required; need 2 more closed trades before paper→live; current equity $96,404 is below baseline — do not consider live transition until equity recovers above $100k
+
+### Adjustments for Next Week
+- NVDA is the primary watch: Q1 FY2027 earnings due May 20 (AMC); if beat + strong data-center guidance → hold; if miss or weak guidance → exit immediately per thesis-broken rule regardless of stop level
+- GE stop at $279 is 0.9% below current $281.53 — extremely tight; any Monday gap-down exits automatically; do not manually adjust; let GTC work
+- RTX at -2.22% cumulative: 4 weeks in Industrials/Defense with never crossing +3%; if another losing week sets a new 4-week low → sector review trigger (CEG stop in Utilities counts as 1st failure in a separate sector, not this one)
+- Pre-market Monday: research NUE (thesis intact, gate condition was macro-specific), AMAT (post-earnings), or a second tech/semiconductor name to close deployment gap to 75–85%
+- Informal rule for next entry: if entering a "sell the news" setup within 3 days of earnings, target 6–7% initial stop; document in research log but do not update TRADING-STRATEGY.md until 2+ weeks of evidence
+
+### Overall Grade: D+
+*Week 4 — stop system worked correctly; no rule violations; 4-week milestone met. But 0% all-time win rate, -3.63% week, ~-4.4% vs S&P, and phase P&L now -3.60% below baseline is a poor result. Root cause: thesis selection (CEG sell-the-news, FCX redeployment) and failure to lock in any unrealized gains. NVDA is the week's thesis; its outcome determines week 5 direction.*
