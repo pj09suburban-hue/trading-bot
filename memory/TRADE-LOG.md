@@ -491,3 +491,17 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $175.63 | -1.39% | +$112.70 (+0.56%) | $161.937 (HWM $179.93) |
 
 **Notes:** Day 15 (Thursday, Week 4). No trades executed — NUE skipped (retail sales miss gate failure) and LHX skipped (conditional on NUE + price far above plan range). Market broadly red: FCX -1.62%, GE -1.31%, RTX -1.39%. No new HWMs; no stop adjustments warranted. All three 10% trailing-stop GTC orders active and intact. Portfolio 60.0% deployed — below 75–85% target band; 2 buy slots remain. Phase P&L slips to -$840.77 (-0.84%). Trades this week: 1/3 (CEG May 12 stop-out). Pre-market Friday: research 1–2 non-energy, non-utilities momentum setups to restore deployment to target band.
+
+---
+
+## 2026-05-15 — Market-Open Trades
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-05-15 | FCX | STOP-OUT | 300 | $62.004 (entry) | — | Trailing stop GTC (10%, HWM $68.85) triggered at open; FCX gapped down through stop $61.965; filled avg $61.802 | — | — |
+| 2026-05-15 | NVDA | BUY | 79 | $228.43 (avg) | $203.37 (10% trail GTC, HWM $225.97 at placement) | H200 chip sales cleared to 10 Chinese firms (Alibaba, Tencent, ByteDance et al); 75k chips/buyer; Jensen Huang in Beijing with Trump delegation; direct TAM catalyst; opened below $247 gate | $274.12 (+20%) | 2:1 |
+
+**FCX realized P&L:** 300 sh × ($61.802 - $62.004) = **-$60.52 (-0.33%)** from entry. Trail fired ~7.2% below HWM $68.85.
+**NVDA fill note:** Market order placed pre-open; filled in three tranches at open — 6 sh @ $229.29, 39 sh @ ~$228.77, 34 sh @ ~$228.28; blended avg $228.43. Gap-up gate passed ($228.43 ≤ $247). 10% trailing stop GTC placed immediately post-fill (stop $203.37, expires 2026-08-13).
+
+**Week trades:** 2/3 (CEG May 12 stop-out + NVDA May 15 buy) | **Open positions:** 3/6 (GE, RTX, NVDA) | **Deployed:** ~$57,300 / ~$97,400 (≈58.8%) — below 75–85% target; 1 buy slot remains
