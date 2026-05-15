@@ -733,3 +733,60 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ### Decision
 **HOLD** — All 4 positions healthy, no -7% cuts needed. Energy thesis confirmed by WTI $103–$105+. Week resets with 3 fresh trade slots and 2 open position slots. Monitor market open: if energy sector opens green, **COP is the top candidate for a new entry at market-open workflow**. Do not force entry on a red open. Patience > activity.
+
+---
+
+## 2026-05-15 — Pre-market Research
+
+### Account
+- Equity: $98,025.58 | Cash: $39,653.23 (40.4%) | Long MV: $58,372.35 (59.5% deployed — below 75–85% target)
+- Buying power: $137,678.81 (margin; using cash only)
+- Daytrade count: 0 | Positions: 3/6 | Week trades: 1/3 (CEG May 12) | 2 buy slots remain
+- **Week 4 ends today** — ≥4 full trading weeks complete after close (validation milestone met)
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Today | Stop | HWM |
+|---|---|---|---|---|---|---|---|---|
+| FCX | 300 | $62.004 | $63.11 | +$331.80 | +1.78% | -4.58% | $61.965 | $68.85 |
+| GE | 67 | $280.02 | $287.45 | +$497.81 | +2.65% | -1.40% | $279.00 | $310.00 |
+| RTX | 115 | $174.65 | $175.48 | +$95.45 | +0.48% | -0.11% | $161.937 | $179.93 |
+
+**Alerts:**
+- FCX: 1.8% above trailing stop ($63.11 vs $61.965). High stop-out risk.
+- GE: Departure forecast cut to flat-to-low-single-digit growth (from mid-single-digit). Potential premarket drop of 5%+ that could breach stop at $279. Trailing stop GTC set — let system work.
+
+### Market Context
+- **WTI:** ~$104.75 (May 15 futures, investing.com) | Brent EIA forecast ~$106/bbl
+- **S&P 500 futures (ESM26):** ~7,468 premarket — strong risk-on rally driven by Trump-Xi summit
+- **VIX:** 17.27 (May 14 close) — declining trend from March highs; moderate fear
+- **CPI (April, released May 12):** +3.8% YoY / +0.6% MoM — hotter than prior month (+3.3%)
+- **PPI (April):** +6.0% YoY final demand — very hot
+- **Retail Sales (April):** +0.5% MoM — in line with forecasts
+- **NFP (April):** +115,000 — below expectations; labor market slowing
+- **UMich Consumer Sentiment (May prelim., released May 8):** 48.2 — 74-year record low (missed 49.5 est.); year-ahead inflation expectations 4.5%
+- **Today's catalysts:** Trump-Xi summit concluding May 14–15. US cleared H200 chip sales to 10 Chinese firms (Alibaba, Tencent, ByteDance, JD.com, Lenovo, Foxconn); 75,000 chips per buyer. Boeing 200-jet China commitment (market reaction negative May 14, down 4.4%). No major economic releases today.
+- **Sector momentum YTD:** Energy #1 (banned), Consumer Staples #2 (+11%), Industrials #3 (+10%), Technology lagging but China catalyst could re-ignite tech
+
+### Ticker News
+- **FCX:** Q1 beat (EPS $0.57 vs $0.47 est). Grasberg Block Cave ramp-up delayed — 2026 copper production cut to 3.1B lbs (from 3.4B); Q2 copper sales -32% YoY; rising unit costs. +48% in 6 months. Near stop; copper/AI/EV demand thesis intact but Grasberg execution risk elevated. UBS $74, Goldman $68 Buy, Morgan Stanley $66 Equal Weight.
+- **GE:** Adjusted 2026 departure growth to flat-to-low-single-digit (from mid-single-digit); cites Middle East instability and elevated jet-fuel costs. Q1 beat (EPS $1.86 vs $1.60). Defense thesis intact ($190B backlog, $1.4B recent defense award). Morgan Stanley kept Overweight, cut target $425→$400. Stop at $279 — if fires, thesis not fully broken (defense intact) but commercial aviation tailwind is gone. Slot opens if stopped.
+- **RTX:** $3.7B Patriot GEM-T interceptor contract for Ukraine (Apr 14). $980.5M AN/TPY-2 radar award (Mar). Raised FY2026 EPS guidance to $6.70–$6.90. Defense procurement cycle accelerating globally. Thesis fully intact.
+
+### Trade Ideas
+1. **NVDA — H200 China Clearance Catalyst (PRIMARY)**
+   - Catalyst: US cleared H200 sales to 10 Chinese firms; 75k chips/buyer; Jensen Huang in Beijing with Trump delegation. Fresh, specific, large TAM catalyst.
+   - Entry: Live quote at market-open. EOD bid ~$235. Gap-up check: confirm fill price × shares ≤ 20% equity (~$19,600 max) before submitting.
+   - Setup: ~83 shares at $235 = $19,505. Stop: 10% below fill (~$211–$212). Target: +20% (~$282). R:R ≈ 2:1.
+   - Buy-side gate: 3→4 positions (≤6 ✓), 1→2 trades this week (≤3 ✓), cost ≤20% equity ✓, cash $39,653 ✓, PDT 0 ✓, catalyst documented ✓, stock ✓.
+   - Condition: Proceed only if NVDA opens ≤$247 (~5% gap from $235). If gap >5%, skip — risk/reward deteriorates and premarket "sell the news" risk is high.
+2. **Second slot:** Reserve. If GE stops out, consider Industrials or Consumer Staples after seeing market-open direction. No second specific catalyst identified today.
+
+### Risk Factors
+- **Friday hold-over-weekend:** Geopolitical events (Iran/Hormuz, Taiwan) can gap positions Monday; weekend = 2 days of unhedged exposure
+- **Stagflation signals:** CPI +3.8%, PPI +6.0%, NFP +115k, UMich 74-year sentiment low — Fed constrained; growth premium at risk
+- **GE stop-out risk at open:** -5.37% premarket move reported; if confirmed, trailing stop at $279 fires. Let stop work.
+- **FCX stop proximity:** $63.11 vs stop $61.965 = 1.8% buffer; another down day exits position.
+- **Trump-Xi "sell the news" risk:** Premarket rally may be fully priced; headlines don't include a full tech détente.
+- **NVDA gap-up:** If price opens >$247, risk/reward worsens materially.
+
+### Decision
+**TRADE-conditional** — NVDA if price opens ≤$247 (~5% above $235 EOD bid). GE and FCX trailing stops protect downside — do not override. Reserve second slot unless a compelling Industrials/Staples catalyst emerges at open. Patience > activity on a Friday with macro headwinds.
