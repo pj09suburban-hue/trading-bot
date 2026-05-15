@@ -790,3 +790,10 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ### Decision
 **TRADE-conditional** — NVDA if price opens ≤$247 (~5% above $235 EOD bid). GE and FCX trailing stops protect downside — do not override. Reserve second slot unless a compelling Industrials/Staples catalyst emerges at open. Patience > activity on a Friday with macro headwinds.
+
+### Afternoon Addendum (Midday Scan)
+- **GE (-2.95% intraday, $282.935):** No new negative catalyst. Decline reflects pre-existing departure growth guidance cut (flat-to-low-single-digit). Defense backlog $190B and defense award intact. Stop at $279.00 only 1.4% below — trailing GTC managing risk. No manual exit.
+- **NVDA (-3.41% intraday, $227.70):** Sell-the-news on H200 clearance expected; Jensen Huang excluded from Trump China trip earlier this week (China uncertainty overhang). BofA raised target to $320. Earnings May 20 (Q1 FY2027) creating caution. No new bearish catalyst — H200 thesis intact. Stop $206.262 (HWM $229.18).
+- **RTX (-1.67% intraday, $172.755):** Broad market move; no company-specific news. Defense procurement thesis fully intact. Stop $161.94 (HWM $179.93).
+- **Broad market:** S&P futures had opened risk-on on Trump-Xi summit; midday shows "sell the news" across all positions. No panic indicators.
+- **No action taken.** Weekend hold: GE stop proximity is key risk — if gap-down Monday, stop fires automatically.

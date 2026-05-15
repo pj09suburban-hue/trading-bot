@@ -505,3 +505,23 @@ No positions yet. Bot launches tomorrow.
 **NVDA fill note:** Market order placed pre-open; filled in three tranches at open — 6 sh @ $229.29, 39 sh @ ~$228.77, 34 sh @ ~$228.28; blended avg $228.43. Gap-up gate passed ($228.43 ≤ $247). 10% trailing stop GTC placed immediately post-fill (stop $203.37, expires 2026-08-13).
 
 **Week trades:** 2/3 (CEG May 12 stop-out + NVDA May 15 buy) | **Open positions:** 3/6 (GE, RTX, NVDA) | **Deployed:** ~$57,300 / ~$97,400 (≈58.8%) — below 75–85% target; 1 buy slot remains
+
+---
+
+## 2026-05-15 — Midday Scan
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $282.935 | +$195.31 | +1.04% | -2.95% | $279.00 (10% trail) | $310.00 | HOLD — no new catalyst; stop 1.4% away |
+| NVDA | $228.43 | $227.70 | -$57.54 | -0.32% | -3.41% | $206.262 (10% trail) | $229.18 | HOLD — sell-the-news; H200 thesis intact |
+| RTX | $174.65 | $172.755 | -$217.93 | -1.09% | -1.67% | $161.937 (10% trail) | $179.93 | HOLD — broad market; thesis intact |
+
+**Cut losers (-7%):** None — no position breached threshold.
+**Stop tightening (+15%/+20%):** None — best cumulative gain GE +1.04%, short of +15%.
+**Thesis check:**
+- GE: Down 2.95% intraday ($291.54 → $282.935); stop $279.00 only 1.4% below current. No new negative catalyst — departure growth guidance cut already known. Defense backlog $190B unchanged. Let trailing stop GTC manage risk.
+- NVDA: Down 3.41% intraday ($235.74 → $227.70). Sell-the-news on H200 clearance + China uncertainty (Jensen excluded from Trump trip) + earnings nervousness (Q1 FY2027 due May 20). BofA raised target to $320. No new bearish catalyst. H200 thesis intact.
+- RTX: Down 1.67% with broad market. Defense procurement thesis fully intact. Stop $161.937, well protected.
+**No action taken.** All three trailing-stop GTC orders active.
+
+**Portfolio (midday):** $96,976.51 | **Cash:** $40,148.07 (41.4%) | **Long MV:** $56,828.44 (58.6% deployed — below 75–85% target) | **Day P&L:** -$2,255.10 (-2.27%) | **Phase P&L:** -$3,023.49 (-3.02%)
