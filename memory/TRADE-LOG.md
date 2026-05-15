@@ -525,3 +525,18 @@ No positions yet. Bot launches tomorrow.
 **No action taken.** All three trailing-stop GTC orders active.
 
 **Portfolio (midday):** $96,976.51 | **Cash:** $40,148.07 (41.4%) | **Long MV:** $56,828.44 (58.6% deployed — below 75–85% target) | **Day P&L:** -$2,255.10 (-2.27%) | **Phase P&L:** -$3,023.49 (-3.02%)
+
+---
+
+### May 15 — EOD Snapshot (Day 16, Friday)
+**Portfolio:** $96,858.63 | **Cash:** $40,148.07 (41.5%) | **Day P&L:** -$2,372.98 (-2.39%) | **Phase P&L:** -$3,141.37 (-3.14%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $282.38 | -3.14% | +$158.12 (+0.84%) | $279.00 (HWM $310.00) |
+| NVDA | 79 | $228.43 | $228.70 | -2.99%* | +$21.46 (+0.12%) | $208.35 (HWM $231.50) |
+| RTX | 115 | $174.65 | $171.525 | -2.37% | -$359.38 (-1.79%) | $161.937 (HWM $179.93) |
+
+*NVDA entered today; day chg shown vs prior close $235.74.
+
+**Notes:** Day 16 (Friday, Week 4). Two actions at open: FCX trailing stop (10%, HWM $68.85) triggered on gap-down, filled avg $61.802 — realized -$60.52 (-0.33%); NVDA 79sh bought at $228.43 avg (H200 chip clearance to 10 Chinese firms catalyst). Broad market selloff: GE -3.14%, NVDA -2.99%, RTX -2.37%. No position breached -7% cut threshold; RTX nearest at -1.79% cumulative. No +15%/+20% stop tightening warranted. All three 10% trailing-stop GTC orders active and intact. Portfolio 58.5% deployed — below 75–85% target band; 3 open positions, 3 slots remain but week trades at cap (2/3). Phase P&L deteriorates to -$3,141.37 (-3.14%). Weekly review fires 4 PM ET. Monday: research 1–2 non-energy momentum setups; NUE reassessment and LHX revisit at lower prices on watchlist.
