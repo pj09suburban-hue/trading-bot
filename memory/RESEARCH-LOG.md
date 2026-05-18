@@ -4,6 +4,51 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-18 — Pre-Market Research (WebSearch fallback — Perplexity curl error exit 1)
+
+### Account Snapshot
+- **Equity:** $96,768.92 | **Cash:** $40,148.02 (41.5%) | **Long MV:** $56,620.90 (58.5% deployed — below 75–85% target)
+- **Buying power:** $136,916.94 (margin; using cash only)
+- **Daytrade count:** 0 | **Positions:** 3/6 (GE, NVDA, RTX) | **Week trades:** 0/3 (new week) | **3 buy slots remain**
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $281.65 | +$109.26 | +0.58% | $279.00 (10% trail) | $310.00 | **0.94% — CRITICAL** |
+| NVDA | 79 | $228.43 | $228.20 | -$18.04 | -0.10% | $208.35 (10% trail) | $231.50 | 9.56% |
+| RTX | 115 | $174.65 | $171.50 | -$362.25 | -1.80% | $161.937 (10% trail) | $179.93 | 5.97% |
+
+All three 10% trailing-stop GTC orders confirmed active.
+
+### Market Context
+- **WTI:** ~$101–$104 | **Brent:** ~$110–$112 — elevated; Strait of Hormuz effectively closed; oil +11% past week
+- **S&P 500 futures:** -0.6% premarket; SPY -0.23% at $737.47 — risk-off open driven by UAE nuclear plant drone strike
+- **VIX:** 18.43 — moderate-elevated; persistent since Hormuz crisis onset
+- **Key catalyst today:** Drone strike on UAE Barakah nuclear plant (overnight May 17) — fire at perimeter electrical generator; radiation normal; 2 of 3 drones intercepted; UN condemning. US and Iran signaling readiness to resume war. Market firmly risk-off.
+- **Oil macro:** 1 billion barrels trapped behind Hormuz; no resolution signal
+- **Economic releases this week:** GDP Final (Q1), UMich Consumer Sentiment Final (May) — nothing major Monday itself
+- **Earnings this week:** NVDA (AMC Wed May 20) dominant market event; Walmart, Target; Baidu today (Mon); ~50 reports
+
+### Ticker News
+- **GE ($281.65):** Q1 beat confirmed (EPS $1.86 vs $1.60; orders +87%; backlog $210B+). Risk: Iran fuel cost surge → airlines slow capacity → fewer engine orders. Stock -11% past month. Trailing stop $279.00 is 0.94% below current — one weak open fires it. Let GTC manage; do not override.
+- **NVDA ($228.20):** Earnings AMC May 20 — consensus $1.76 EPS, $79.2B rev. BofA target $320 (AI data center TAM $1.7T by 2030). Premarket +1.28%. H200 clearance thesis intact. High event risk Wed — hold; stop $208.35 manages downside.
+- **RTX ($171.50):** SeaRAM Australia contract (Collins Aerospace). Q1 rev +9% to $22B; missile sales surging. Defense thesis actively enhanced by Barakah/Hormuz escalation. Stop $161.937; 5.97% buffer. Thesis strongest of the three.
+
+### Trade Ideas
+1. **No new buys today** — S&P futures -0.6%, VIX 18.43, GE near stop, NVDA pre-earnings; patience > activity
+2. **Post-NVDA (Thu–Fri):** If beats big → evaluate AMD/AVGO to fill deployment gap; if escalation continues → LHX (defense) as 4th position
+
+### Risk Factors
+- GE stop proximity (0.94%): risk-off open could fire trailing stop; let GTC work
+- NVDA event risk: earnings AMC May 20; miss or weak guidance = gap-down through stop possible
+- Iran-UAE escalation: Barakah drone + Hormuz closure = oil stays high; broad market headwind
+- Stagflation (CPI +3.8%, PPI +6.0%, UMich 74-yr low): Fed constrained; growth premium under pressure
+- Portfolio 58.5% deployed but adding into risk-off is wrong answer
+
+### Decision
+**HOLD** — No new trades today. Risk-off open, GE at stop edge, NVDA earnings Wednesday. Reassess Thursday pre-market post-NVDA.
+
+---
+
 ## 2026-05-14 — Pre-market Research
 
 ### Account
