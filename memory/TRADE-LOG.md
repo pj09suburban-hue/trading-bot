@@ -540,3 +540,26 @@ No positions yet. Bot launches tomorrow.
 *NVDA entered today; day chg shown vs prior close $235.74.
 
 **Notes:** Day 16 (Friday, Week 4). Two actions at open: FCX trailing stop (10%, HWM $68.85) triggered on gap-down, filled avg $61.802 — realized -$60.52 (-0.33%); NVDA 79sh bought at $228.43 avg (H200 chip clearance to 10 Chinese firms catalyst). Broad market selloff: GE -3.14%, NVDA -2.99%, RTX -2.37%. No position breached -7% cut threshold; RTX nearest at -1.79% cumulative. No +15%/+20% stop tightening warranted. All three 10% trailing-stop GTC orders active and intact. Portfolio 58.5% deployed — below 75–85% target band; 3 open positions, 3 slots remain but week trades at cap (2/3). Phase P&L deteriorates to -$3,141.37 (-3.14%). Weekly review fires 4 PM ET. Monday: research 1–2 non-energy momentum setups; NUE reassessment and LHX revisit at lower prices on watchlist.
+
+---
+
+## 2026-05-18 — Midday Scan
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $283.56 | +$237.18 | +1.26% | +0.72% | $279.00 (10% trail) | $310.00 | HOLD — recovered from stop edge; thesis intact |
+| NVDA | $228.43 | $222.00 | -$508.23 | -2.82% | -1.48% | $208.35 (10% trail) | $231.50 | HOLD — pre-earnings drift; H200 thesis intact |
+| RTX | $174.65 | $174.13 | -$59.80 | -0.30% | +1.72% | $161.937 (10% trail) | $179.93 | HOLD — recovering; defense thesis intact |
+
+**Cut losers (-7%):** None — worst is NVDA at -2.82% (cut threshold $212.44); all above threshold.
+**Stop tightening (+15%/+20%):** None — best gain GE +1.26%, short of +15%.
+**Thesis check:**
+- GE: Recovered from critical 0.94% stop buffer at premarket; +0.72% intraday. Iran/Hormuz escalation (Barakah drone strike) a headwind for commercial aviation but defense backlog $190B+ unchanged. No thesis break. Let trailing stop GTC manage.
+- NVDA: -1.48% intraday, -2.82% cumulative. NVDA earnings AMC May 20 (consensus $1.76 EPS, $79.2B rev). No new negative catalyst — pre-earnings drift. H200 clearance to 10 Chinese firms thesis intact; BofA target $320. HWM updated to $231.50 (today's intraday high); trailing stop tracking at $208.35. Risk: gap-down through stop on earnings miss. No action — stop manages.
+- RTX: +1.72% intraday recovery; essentially flat cumulative (-0.30%). $6.6B engine contract confirmed. Hormuz/Barakah escalation actively strengthens defense procurement thesis. Strongest thesis of three.
+**No action taken.** All three 10% trailing-stop GTC orders active and confirmed.
+
+**Portfolio (midday):** $96,679.65 | **Cash:** $40,148.02 (41.5%) | **Long MV:** $56,531.63 (58.5% deployed — below 75–85% target) | **Day P&L:** +$183.14 (+0.19%) | **Phase P&L:** -$3,141.37 + $183.14 = -$2,958.23 (-3.06%)*
+**Week trades:** 0/3 (new week — Week 5) | **Open positions:** 3/6 | **Key risk:** NVDA earnings AMC May 20 — gap-down could breach stop.
+
+*Phase P&L approximated from last EOD snapshot.

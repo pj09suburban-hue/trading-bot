@@ -47,6 +47,12 @@ All three 10% trailing-stop GTC orders confirmed active.
 ### Decision
 **HOLD** — No new trades today. Risk-off open, GE at stop edge, NVDA earnings Wednesday. Reassess Thursday pre-market post-NVDA.
 
+### Afternoon Addendum (Midday Scan)
+- **GE (+0.72% intraday, $283.56):** Recovered from premarket stop-edge risk (was 0.94% above $279 stop). No new negative catalyst. Iran/Hormuz escalation hurts commercial aviation (airline demand) but defense backlog $190B+ enhanced. Stop $279.00, HWM $310.00. Thesis intact.
+- **NVDA (-1.48% intraday, $222.00):** Pre-earnings drift continues. HWM updated $231.50 (today's intraday high); trailing stop at $208.35 confirmed. No new bearish catalyst — Perplexity found no company-specific news; normal volatility ahead of May 20 earnings (consensus $1.76 EPS, $79.2B rev). BofA target $320. H200 thesis intact. Risk: earnings gap-down could pierce stop.
+- **RTX (+1.72% intraday, $174.13):** Recovery day. $6.6B engine contract (tikr.com May 4). Defense procurement accelerating with Hormuz/Barakah escalation. Thesis strongest of three. Stop $161.937, HWM $179.93.
+- **No action taken.** Key event: NVDA earnings AMC May 20. Pre-market Thursday will determine post-earnings posture and whether to add a 4th position.
+
 ---
 
 ## 2026-05-14 — Pre-market Research
