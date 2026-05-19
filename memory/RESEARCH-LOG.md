@@ -4,6 +4,52 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-19 Pre-Market Research
+
+### Account
+- **Equity:** $96,856.21 | **Cash:** $40,148.02 (41.5%) | **Long MV:** $56,708.19 (58.6% deployed — below 75–85% target)
+- **Buying power:** $137,004.23 (margin; using cash only)
+- **Daytrade count:** 0 | **Positions:** 3/6 | **Week trades:** 0/3 | 3 buy slots remain
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Today | Stop | HWM |
+|---|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $285.17 | +$345.05 | +1.84% | -0.29% | $279.00 | $310.00 |
+| NVDA | 79 | $228.43 | $220.25 | -$646.09 | -3.58% | -0.93% | $208.35 | $231.50 |
+| RTX | 115 | $174.65 | $175.67 | +$117.30 | +0.58% | -0.16% | $161.937 | $179.93 |
+
+**Alerts:**
+- **NVDA earnings AMC May 20 (TOMORROW):** 79sh held. Street consensus ~$78B revenue / $1.76 EPS; avg target $269 (57 Buy), BofA $320. Key metric: Data Center revenue (~90%+ of sales). Gap-down risk through stop $208.35; current buffer 5.4% ($220.25 → $208.35).
+- **GE stop proximity:** $285.17 vs $279.00 = 2.2% buffer. Any intraday red session risks stop-out.
+
+### Market Context
+- **WTI:** ~$103.12/bbl | **Brent:** ~$105–106/bbl
+- **S&P 500 futures:** 6,657.50, +0.10% — flat premarket, mild risk-on tone
+- **VIX:** 17.82 (May 18 close); May 19 futures ~17.75 — moderate, declining trend from March highs
+- **Today's releases:** NAHB Housing Market Index 2:00 PM ET (minor); no CPI/PPI/jobs data today
+- **Sector momentum:** Energy +30.3% (6mo, leading but banned); Industrials +11.4%; Materials +17.2%; Technology lagging but AI tailwind intact; Consumer Staples and Defense elevated
+- **Macro overhang:** CPI +3.8% YoY, PPI +6.0% — hot inflation constraining Fed; "higher for longer" bond pressure weighing on valuations. Consumers still spending; earnings broadly resilient.
+
+### Ticker News
+- **GE:** Analyst avg target $348.22 (21 analysts, Moderate Buy). Commercial Engines & Services growing; defense backlog $190B+. No new catalyst today. 2026 guidance: low-double-digit revenue growth. Stop $279.00, 2.2% buffer — trailing GTC manages.
+- **NVDA:** Q4 FY2026 revenue $68.1B record (+73% YoY). Q1 FY2027 report AMC tomorrow (May 20). Street consensus ~$78B revenue; Data Center key (~90%+ of revenue). 57 Buy/2 Hold/1 Sell, avg target $269, BofA $320. Stock -3.58% from $228.43 entry on pre-earnings drift. H200 clearance thesis intact; China commentary will be closely watched.
+- **RTX:** $6.6B engine contract confirmed May 4. Pratt & Whitney production expanding. Global defense procurement accelerating (NATO + Middle East). Thesis fully intact. Stop $161.937 (8% buffer from $175.67).
+
+### Trade Ideas
+1. **NVDA — hold, no action:** Binary event AMC tomorrow. -3.58% cumulative; stop $208.35 provides 5.4% buffer. Bull case: Data Center beats + strong guidance → gap up toward $250+. Bear case: guidance miss → gap through stop (max loss ~$927 if filled at stop). Do not add or cut before the print — let trailing GTC manage.
+2. **Post-earnings slot: AMAT or LHX (conditional, Wed/Thu):** If NVDA beats big, AMAT (Applied Materials, semiconductor equipment) leverages Data Center capex cycle — add on open confirmation. LHX (L3Harris, defense) remains watchlist for filling third portfolio slot on any sector dip. No action today; evaluate post-NVDA.
+
+### Risk Factors
+- **NVDA earnings gap risk:** Guidance miss could gap through stop $208.35 at open May 21. Would realize ~-$927 (-5.1%) on position.
+- **GE stop proximity:** 2.2% buffer — single red session could trigger stop-out, freeing a slot.
+- **Higher-rate pressure:** Bond market "higher for longer" narrative weighing on growth premiums; elevated CPI/PPI limits Fed flexibility.
+- **Oil $103/bbl:** Elevated fuel costs compound GE's already-cut departure growth guidance (flat-to-low single-digit 2026).
+- **Pre-earnings drift:** NVDA may continue drifting lower into tomorrow's print; stop at $208.35 is firm protection.
+
+### Decision
+**HOLD** — no new trades today. NVDA earnings AMC tomorrow is the dominant binary event; deploying fresh capital into this environment adds unnecessary risk. Portfolio 58.6% deployed. Post-NVDA (Wednesday open): evaluate AMAT (if beats) or LHX (defense, thesis-independent) to restore deployment toward 75–85% target with 0/3 weekly trade slots used.
+
+---
+
 ## 2026-05-18 — Pre-Market Research (WebSearch fallback — Perplexity curl error exit 1)
 
 ### Account Snapshot
