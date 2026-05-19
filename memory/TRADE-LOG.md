@@ -597,3 +597,16 @@ No positions yet. Bot launches tomorrow.
 
 **Portfolio (midday):** ~$96,912 | **Cash:** $40,148.02 (41.5%) | **Long MV:** $56,764 (58.5% deployed — below 75–85% target) | **Day P&L:** ~-$195 (-0.20%) | **Phase P&L:** ~-$3,088 (-3.09%)
 **Week trades:** 0/3 (Week 5) | **Open positions:** 3/6 | **Key event:** NVDA earnings AMC May 20 — final trading day before print.
+
+---
+
+### May 19 — EOD Snapshot (Day 18, Tuesday)
+**Portfolio:** $96,967.69 | **Cash:** $40,148.02 (41.4%) | **Day P&L:** -$139.19 (-0.14%) | **Phase P&L:** -$3,032.31 (-3.03%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $284.94 | -0.37% | +$329.64 (+1.76%) | $279.00 (HWM $310.00) |
+| NVDA | 79 | $228.43 | $222.42 | +0.04% | -$475.05 (-2.63%) | $208.35 (HWM $231.50) |
+| RTX | 115 | $174.65 | $175.28 | -0.38% | +$72.74 (+0.36%) | $161.937 (HWM $179.93) |
+
+**Notes:** Day 18, Week 5. No trades executed. Quiet mixed session ahead of NVDA earnings AMC tonight: GE -0.37%, NVDA +0.04% (recovering slightly), RTX -0.38%. No position breached -7% cut threshold; NVDA nearest at -2.63% cumulative, stop $208.35 (6.32% buffer). No stop tightening warranted (best gain GE +1.76%, short of +15%). All three 10% trailing-stop GTC orders active and intact. Portfolio 58.6% deployed — below 75–85% target; 3 open positions, 3 slots remain, 3 trade slots available this week. Key overnight risk: NVDA gap through stop on earnings miss. Phase P&L -3.03%.
