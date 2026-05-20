@@ -631,3 +631,16 @@ No positions yet. Bot launches tomorrow.
 
 **Portfolio (midday):** ~$97,931 | **Cash:** $40,148.02 (41.0%) | **Long MV:** $57,931.71 (59.2% deployed — below 75–85% target) | **Intraday P&L:** +$1,323.39 (+1.37%) | **Phase P&L:** ~-$2,068 (-2.07%)*
 **Week trades:** 0/3 (Week 5) | **Open positions:** 3/6 | **Key event:** NVDA earnings AMC tonight — gap risk in either direction.
+
+---
+
+### May 20 — EOD Snapshot (Day 19, Wednesday)
+**Portfolio:** $97,948.39 | **Cash:** $40,148.02 (41.0%) | **Day P&L:** +$980.70 (+1.01%) | **Phase P&L:** -$2,051.61 (-2.05%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $298.80 | +4.74% | +$1,258.26 (+6.71%) | $279.00 (HWM $310.00) |
+| NVDA | 79 | $228.43 | $222.75 | +0.97% | -$448.59 (-2.49%) | $208.35 (HWM $231.50) |
+| RTX | 115 | $174.65 | $175.49 | +0.57% | +$96.60 (+0.48%) | $161.937 (HWM $179.93) |
+
+**Notes:** Day 19, Week 5. No trades placed. Strong day led by GE (+4.74%) on USAF GE426 engine contract + Japan Airlines 787 maintenance deal — cumulative gain now +6.71%, still short of +15% stop-tighten trigger ($322.02). NVDA recovered +0.97% ahead of Q1 FY2027 earnings AMC tonight (consensus $78.4B rev, $72.8B Data Center) — cumulative -2.49%, stop $208.35 at 6.32% buffer; trailing GTC manages gap risk. RTX quietly +0.57%, cumulative +0.48%, defense procurement thesis intact. No stop tightening warranted (no position ≥+15%). Portfolio 59.0% deployed — below 75–85% target; 3 open positions, 3 slots remain, 0 trades placed this week (3 slots available). Tomorrow: NVDA post-earnings gap assessment at pre-market — stop may trigger overnight; if exit, scout replacement momentum setup. Phase P&L -2.05%.
