@@ -48,6 +48,12 @@ Daily pre-market research entries will be appended here.
 ### Decision
 **HOLD** — no new trades today. NVDA earnings AMC tomorrow is the dominant binary event; deploying fresh capital into this environment adds unnecessary risk. Portfolio 58.6% deployed. Post-NVDA (Wednesday open): evaluate AMAT (if beats) or LHX (defense, thesis-independent) to restore deployment toward 75–85% target with 0/3 weekly trade slots used.
 
+### Afternoon Addendum (Midday Scan — May 20)
+- **GE +5.07% intraday ($299.74):** Catalyst confirmed — USAF GE426 engine contract + 10yr Japan Airlines Boeing 787 maintenance deal; ongoing defense/commercial wins. Cumulative +7.04%. Stop $279.00 (HWM $310.00 not yet exceeded — no auto-tighten). Thesis intact and strengthening.
+- **NVDA +2.04% intraday ($225.12):** Pre-print recovery. Q1 FY2027 earnings AMC tonight 5PM ET; consensus $78.4B revenue / $72.8B Data Center. Stop $208.35 (7.43% buffer). Hold — let trailing GTC manage.
+- **RTX flat ($174.48):** Thesis intact. Stop $161.937 (7.18% buffer). No new catalyst.
+- **No action taken.** Portfolio ~$97,931, 59.2% deployed. Post-NVDA Thursday: evaluate AMAT (beat) or LHX (defense) to restore deployment.
+
 ---
 
 ## 2026-05-18 — Pre-Market Research (WebSearch fallback — Perplexity curl error exit 1)

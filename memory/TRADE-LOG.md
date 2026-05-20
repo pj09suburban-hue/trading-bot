@@ -610,3 +610,24 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $175.28 | -0.38% | +$72.74 (+0.36%) | $161.937 (HWM $179.93) |
 
 **Notes:** Day 18, Week 5. No trades executed. Quiet mixed session ahead of NVDA earnings AMC tonight: GE -0.37%, NVDA +0.04% (recovering slightly), RTX -0.38%. No position breached -7% cut threshold; NVDA nearest at -2.63% cumulative, stop $208.35 (6.32% buffer). No stop tightening warranted (best gain GE +1.76%, short of +15%). All three 10% trailing-stop GTC orders active and intact. Portfolio 58.6% deployed — below 75–85% target; 3 open positions, 3 slots remain, 3 trade slots available this week. Key overnight risk: NVDA gap through stop on earnings miss. Phase P&L -3.03%.
+
+---
+
+## 2026-05-20 — Midday Scan (Day 19, Wednesday)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $299.74 | +$1,321.24 | +7.04% | +5.07% | $279.00 (10% trail) | $310.00 | HOLD — new contract wins; thesis confirmed |
+| NVDA | $228.43 | $225.12 | -$261.36 | -1.45% | +2.04% | $208.35 (10% trail) | $231.50 | HOLD — earnings AMC tonight; stop manages |
+| RTX | $174.65 | $174.48 | -$20.13 | -0.10% | -0.009% | $161.937 (10% trail) | $179.93 | HOLD — thesis intact |
+
+**Cut losers (-7%):** None — no position breached threshold (worst RTX -0.10%).
+**Stop tightening (+15%/+20%):** None — best cumulative gain GE +7.04%, short of +15% threshold ($322.02).
+**Thesis check:**
+- GE: +5.07% intraday surge to $299.74. Perplexity confirmed catalyst: USAF GE426 engine program contract + 10-year Japan Airlines Boeing 787 maintenance deal announced today; ongoing defense/commercial aviation momentum. Q1 $23B orders (+87%) and $190B+ backlog intact. HWM $310.00 — current price below prior HWM, trailing stop self-managing at $279.00. Thesis confirmed and strengthening.
+- NVDA: +2.04% intraday to $225.12, recovering from Monday's $219.92 close. NVDA Q1 FY2027 earnings AMC tonight at 5PM ET — consensus $78.4B total revenue, $72.8B Data Center. Pre-market strategy: hold, let trailing GTC manage. Stop $208.35 (7.43% buffer from current). H200 clearance to 10 Chinese firms thesis intact.
+- RTX: Essentially flat intraday (-0.009%). Defense procurement thesis intact (Hormuz/Barakah escalation, $6.6B engine contract). Stop $161.937, 7.18% buffer. HOLD.
+**No action taken.** All three 10% trailing-stop GTC orders confirmed active.
+
+**Portfolio (midday):** ~$97,931 | **Cash:** $40,148.02 (41.0%) | **Long MV:** $57,931.71 (59.2% deployed — below 75–85% target) | **Intraday P&L:** +$1,323.39 (+1.37%) | **Phase P&L:** ~-$2,068 (-2.07%)*
+**Week trades:** 0/3 (Week 5) | **Open positions:** 3/6 | **Key event:** NVDA earnings AMC tonight — gap risk in either direction.
