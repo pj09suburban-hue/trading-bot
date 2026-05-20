@@ -894,3 +894,52 @@ TRADE or HOLD (default HOLD if no clear edge)
 - **RTX (-1.67% intraday, $172.755):** Broad market move; no company-specific news. Defense procurement thesis fully intact. Stop $161.94 (HWM $179.93).
 - **Broad market:** S&P futures had opened risk-on on Trump-Xi summit; midday shows "sell the news" across all positions. No panic indicators.
 - **No action taken.** Weekend hold: GE stop proximity is key risk — if gap-down Monday, stop fires automatically.
+
+---
+
+## 2026-05-20 — Pre-market Research
+
+### Account
+- Equity: $97,142.60 | Cash: $40,148.02 (41.3%) | Long MV: $56,994.58 (58.7% deployed — below 75–85% target)
+- Buying power: $137,290.62 (margin; using cash only)
+- Daytrade count: 0 | Positions: 3/6 | Week trades: 0/3 (Week 5)
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $286.38 | +$426.12 | +2.27% | $279.00 (10% trail) | $310.00 |
+| NVDA | 79 | $228.43 | $224.13 | -$339.57 | -1.88% | $208.35 (10% trail) | $231.50 |
+| RTX | 115 | $174.65 | $174.79 | +$16.10 | +0.08% | $161.937 (10% trail) | $179.93 |
+
+**Stop proximity:**
+- GE: $286.38 vs stop $279.00 = 2.58% buffer
+- NVDA: $224.13 vs stop $208.35 = 7.04% buffer — **EARNINGS AMC TONIGHT**; ±8% implied options move; a -7%+ overnight gap fires the stop
+- RTX: $174.79 vs stop $161.937 = 7.35% buffer
+
+### Market Context
+- **WTI:** ~$102.00/bbl (down -2.06% May 19; off highs of $115 in early May; Middle East shut-ins still > 10M bbl/day but resolving concerns weighing on price)
+- **S&P 500 futures (ES):** ~7,364, -0.19% (slightly red premarket; last 7,364 as of May 19 close)
+- **VIX:** ~18.23 (Cboe spot May 19; modestly elevated vs 17.26 earlier in week; rising trend)
+- **Treasury yields:** Spiking — identified by Schwab as key headwind today; pressure on risk assets
+- **Macro releases today:** None — next CPI/PPI/Jobs not until June 10–12
+- **FOMC:** No meeting/statement today
+- **Sector momentum YTD:** Energy #1 (~+22–26%); Consumer Staples and Industrials also "Leading"; Technology in "Lagging" quadrant; Health Care "Weakening"
+- **Key macro context:** CPI +3.8% YoY / PPI +6.0% YoY (April prints) — stagflationary; NFP +115k (slowing); UMich consumer sentiment 74-year low (48.2); yield spike today adds to stagflation narrative
+
+### Ticker News
+- **GE:** No fresh May 20 catalyst. Prior guidance cut (flat-to-low-single-digit departure growth) already priced in. Tracking toward top of FY2026 EPS range ($7.10–$7.40). Median analyst target $286.77. Stop $279.00, 2.58% buffer (HWM $310.00). Thesis: defense backlog $190B+ intact; commercial softness already known. HOLD — no new action.
+- **NVDA:** **Q1 FY2027 earnings AMC tonight (2 PM PT / 5 PM ET conf call)**. Consensus: $1.76–$1.78 EPS, ~$79.2B revenue (+16% vs Q4 $68.1B). H200 clearance to 10 Chinese firms thesis intact. Options market implies ±8% post-earnings move. An 8% decline from $224 → ~$206, which fires the trailing stop at $208.35. A strong beat could push a new HWM well above $231.50. Do NOT add before the print; let trailing stop manage downside. HOLD — decision deferred to post-print.
+- **RTX:** Q1 beat (EPS $1.78 vs $1.52 est). Trump pushed $1.5T defense budget; threatened RTX over buybacks, but this pressures spending up not down. $6.6B+ engine contract. Defense procurement cycle accelerating. Strongest thesis of three positions. HOLD — no new action.
+
+### Trade Ideas
+1. **LHX (L3Harris Technologies)** — Defense/surveillance; direct beneficiary of Trump $1.5T defense budget and Hormuz escalation. Radar, C2, ISR systems. No consecutive failures in defense sector. Entry: live quote needed (~$240–$250 range); size ~$19k (83–79 shares); stop 10% below entry; target +20% (2:1 R:R). *Conditional:* only valid once NVDA earnings event clears and market confirms stable open. Buy-side gate: positions 3→4 (≤6 ✓), week 0→1 (≤3 ✓), cost ≤20% ✓, catalyst needs today's research-log ✓, stock ✓. **Not placing today — defer to Thursday post-print.**
+2. **NVDA post-earnings reassessment** — If Q1 FY27 beat is strong (rev >$80B, EPS >$1.80, guide up), consider adding 20–30 shares at Thursday open (≤$250 fill cap). If miss or guide down → stop fires, cash freed, scan for Industrials/Consumer Staples momentum name next week.
+
+### Risk Factors
+- **NVDA earnings binary (primary):** AMC tonight; ±8% implied; gap below $208.35 triggers stop — ~$1,600 realized loss on 79 shares (~1.6% portfolio hit)
+- **Treasury yield spike:** Rising 10-year yield compresses risk premiums; headwind for growth/tech exposure
+- **Stagflation signal reinforcing:** CPI +3.8% + PPI +6.0% + weak labor + record-low sentiment; limits Fed pivot optionality
+- **WTI softening:** $102 vs $115 peak; GE oil-risk thesis (elevated fuel costs slowing departure growth) marginally validates; not yet a stop catalyst
+- **GE stop proximity (2.58%):** Any 3%+ intraday drop fires trailing stop; defense backlog provides floor but commercial headwinds remain
+
+### Decision
+**HOLD** — NVDA earnings AMC tonight is the dominant event. Yield spike + slightly red futures = no clean entry setup today. No new specific catalyst for LHX or any other name sufficient to justify same-day buy with NVDA binary overhead. Portfolio at 58.7% deployed — below target but patience justified. Post-print decision tree: NVDA beat → assess LHX or NVDA add Thursday; NVDA miss/stop-out → scan replacement next week. No trades today.
