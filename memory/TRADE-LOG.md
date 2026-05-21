@@ -681,3 +681,17 @@ No positions yet. Bot launches tomorrow.
 
 **Portfolio (midday):** $97,334.93 | **Cash:** $21,639.37 (22.2%) | **Long MV:** $75,695.56 (77.8% deployed — within 75–85% target ✓) | **Day P&L:** -$613.46 (-0.63%) | **Phase P&L:** -$2,665.07 (-2.67%)
 **Week trades:** 1/3 (Week 5) | **Open positions:** 4/6 | **No notification sent (no action taken)**
+
+---
+
+### May 21 — EOD Snapshot (Day 20, Thursday)
+**Portfolio:** $97,735.61 | **Cash:** $21,639.37 (22.1%) | **Day P&L:** -$285.68 (-0.29%) | **Phase P&L:** -$2,264.39 (-2.26%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $299.68 | -0.17% | +$1,316.89 (+7.02%) | $279.00 (HWM $310.00) |
+| LHX | 60 | $308.48 | $306.32 | -0.92% | -$129.75 (-0.70%) | $277.05 (HWM $307.83) |
+| NVDA | 79 | $228.43 | $219.37 | -1.84% | -$715.62 (-3.97%) | $208.35 (HWM $231.50) |
+| RTX | 115 | $174.65 | $176.66 | +1.04% | +$231.15 (+1.15%) | $161.94 (HWM $179.93) |
+
+**Notes:** Day 20, Week 5. One trade executed today: LHX BUY 60 shares at $308.4775 avg (Trump $1.5T defense budget + Hormuz escalation catalyst; DoD ISR/C2/radar procurement thesis). Portfolio now 77.9% deployed — back within the 75–85% target band with 4 open positions. Broad market mild weakness: NVDA -1.84%, LHX -0.92%, GE -0.17%; RTX bucked the trend +1.04%. No position breached the -7% cut threshold (NVDA worst at -3.97% cumulative, $10.68/share buffer before stop at $208.35). GE at +7.02% cumulative — approaching +15% tighten trigger ($322.02) but not there yet. All four 10% trailing-stop GTC orders active. Week trades: 1/3 used. Phase P&L -2.26%.
