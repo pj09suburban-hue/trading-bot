@@ -644,3 +644,17 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $175.49 | +0.57% | +$96.60 (+0.48%) | $161.937 (HWM $179.93) |
 
 **Notes:** Day 19, Week 5. No trades placed. Strong day led by GE (+4.74%) on USAF GE426 engine contract + Japan Airlines 787 maintenance deal — cumulative gain now +6.71%, still short of +15% stop-tighten trigger ($322.02). NVDA recovered +0.97% ahead of Q1 FY2027 earnings AMC tonight (consensus $78.4B rev, $72.8B Data Center) — cumulative -2.49%, stop $208.35 at 6.32% buffer; trailing GTC manages gap risk. RTX quietly +0.57%, cumulative +0.48%, defense procurement thesis intact. No stop tightening warranted (no position ≥+15%). Portfolio 59.0% deployed — below 75–85% target; 3 open positions, 3 slots remain, 0 trades placed this week (3 slots available). Tomorrow: NVDA post-earnings gap assessment at pre-market — stop may trigger overnight; if exit, scout replacement momentum setup. Phase P&L -2.05%.
+
+---
+
+## 2026-05-21 — Market-Open Trades (Day 20, Thursday)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-05-21 | LHX | BUY | 60 | $308.4775 | $276.83 (10% trail GTC, HWM $307.59) | Trump $1.5T defense budget + Hormuz/Middle East escalation; DoD ISR/C2/radar procurement surge; defense sector #1 Industrials sub-sector momentum; no consecutive failures in defense | $370.17 (+20%) | 2:1 |
+
+**Gate checks passed:** Positions 3→4 ≤ 6 ✓ | Week trades 0→1 ≤ 3 ✓ | Cost $18,509 = 18.9% equity ✓ | Cash $40,148 available ✓ | PDT 0/3 ✓ | Catalyst in RESEARCH-LOG ✓ | Stock ✓
+**NVDA post-earnings condition:** Massive beat (rev $81.6B vs $78.4B, EPS $1.87 vs $1.76, Q2 guide $91B vs $87.4B). Sell-the-news — pre-market flat at $222.62. Meets "flat = constructive" condition; stop $208.35 intact, no gap-down. LHX proceeded.
+**NVDA add:** SKIP — pre-market $222.62 < $240 threshold.
+
+**Week trades:** 1/3 (Week 5) | **Open positions:** 4/6 | **Deployed:** ~$76,114 / $97,754 ≈ 77.9% ✓ (in 75–85% target band)
