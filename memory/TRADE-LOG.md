@@ -658,3 +658,26 @@ No positions yet. Bot launches tomorrow.
 **NVDA add:** SKIP — pre-market $222.62 < $240 threshold.
 
 **Week trades:** 1/3 (Week 5) | **Open positions:** 4/6 | **Deployed:** ~$76,114 / $97,754 ≈ 77.9% ✓ (in 75–85% target band)
+
+---
+
+## 2026-05-21 — Midday Scan (Day 20, Thursday)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $295.15 | +$1,013.38 | +5.40% | -1.67% | $279.00 (10% trail) | $310.00 | HOLD |
+| LHX | $308.4775 | $306.55 | -$115.65 | -0.63% | -0.84% | $276.83 (10% trail) | $307.59 | HOLD |
+| NVDA | $228.43 | $219.93 | -$671.38 | -3.72% | -1.58% | $208.35 (10% trail) | $231.50 | HOLD |
+| RTX | $174.65 | $174.94 | +$33.36 | +0.17% | +0.05% | $161.937 (10% trail) | $179.93 | HOLD |
+
+**Cut losers (-7%):** None — cut thresholds: GE $260.42, LHX $286.88, NVDA $212.44, RTX $162.42. All well above.
+**Stop tightening (+15%/+20%):** None — best cumulative gain GE +5.40%, short of +15% trigger ($322.02).
+**Thesis check:**
+- GE: -1.67% intraday to $295.15, +5.40% cumulative. No new company-specific negative catalyst. Post-Q1 technical/macro drift (oil prices, aviation headwinds from prior Q1 guidance-no-raise). Defense/aerospace backlog $190B+ intact, analyst mean target ~$361. Stop $279.00 at 5.46% buffer (HWM $310.00). HOLD.
+- LHX: -0.84% intraday, -0.63% cumulative. Normal post-entry consolidation. Defense thesis intact — Trump $1.5T budget, Hormuz escalation, DoD ISR/C2 procurement. Stop $276.83 at 9.7% buffer. HOLD.
+- NVDA: -1.58% intraday, -3.72% cumulative. Post-earnings sell-the-news continues. KEY NEW FINDING: Earnings call revealed mgmt expects no China data center revenue — partially weakens H200 clearance thesis. Broader Blackwell GPU demand and hyperscaler capex thesis intact; Truist raised PT to $307. Not a full thesis break — no new entry-invalidating event. Stop $208.35 at 5.03% buffer from $219.93. Trailing GTC manages. HOLD.
+- RTX: +0.05% intraday, +0.17% cumulative. Defense procurement thesis intact ($6.6B engine contract, $74B backlog, Hormuz/Barakah escalation). Stop $161.937 at 7.10% buffer. HOLD.
+**No action taken.** All four trailing-stop GTC orders confirmed active.
+
+**Portfolio (midday):** $97,334.93 | **Cash:** $21,639.37 (22.2%) | **Long MV:** $75,695.56 (77.8% deployed — within 75–85% target ✓) | **Day P&L:** -$613.46 (-0.63%) | **Phase P&L:** -$2,665.07 (-2.67%)
+**Week trades:** 1/3 (Week 5) | **Open positions:** 4/6 | **No notification sent (no action taken)**

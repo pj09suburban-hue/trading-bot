@@ -1003,3 +1003,8 @@ TRADE or HOLD (default HOLD if no clear edge)
 ### Decision
 **TRADE-conditional** — LHX if market opens stable, NVDA reaction constructive (gap-up or flat, NOT gap-down below HWM $231.50), and live LHX quote confirms entry × shares ≤ 20% equity. NVDA trailing GTC manages post-earnings gap automatically — no manual intervention. GE and RTX: HOLD, theses intact. Portfolio currently 58.9% deployed — deploying ~$19.5k in LHX brings to ~72% deployed, approaching target band. Week 5: 0/3 trades used.
 
+### Afternoon Addendum (Midday Scan)
+- **NVDA — China DC revenue warning (NEW):** Earnings call (AMC May 20) revealed mgmt expects no China data center revenue going forward. H200 clearance to 10 Chinese firms confirmed but revenue not materializing. Partially weakens original China clearance catalyst. Broader thesis (Blackwell demand, hyperscaler capex: $91B Q2 guide) remains intact. Truist raised PT $287→$307, Buy maintained. Stock -1.58% intraday to $219.93 (-3.72% cumulative). Stop $208.35 at 5.03% buffer — trailing GTC managing. Thesis not fully broken; HOLD.
+- **GE — technical drift only:** -1.67% intraday, no new company catalyst. Post-Q1 pattern (guidance not raised) + macro (oil, aviation sentiment). Defense/aerospace backlog $190B+ and analyst consensus ($361 target, 85% Buy) unchanged. HOLD.
+- **LHX / RTX:** No news, normal session. Defense thesis intact. HOLD both.
+
