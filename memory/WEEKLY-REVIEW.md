@@ -240,3 +240,70 @@ Template for each entry:
 
 ### Overall Grade: D+
 *Week 4 — stop system worked correctly; no rule violations; 4-week milestone met. But 0% all-time win rate, -3.63% week, ~-4.4% vs S&P, and phase P&L now -3.60% below baseline is a poor result. Root cause: thesis selection (CEG sell-the-news, FCX redeployment) and failure to lock in any unrealized gains. NVDA is the week's thesis; its outcome determines week 5 direction.*
+
+---
+
+## Week ending 2026-05-22
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $96,768.92 |
+| Ending portfolio | $97,995.52 |
+| Week return | +$1,226.60 (+1.27%) |
+| S&P 500 week | +2.42% (7,403 → 7,582) |
+| Bot vs S&P | -1.15% |
+| Phase return | -$2,004.48 (-2.00% from $100k baseline) |
+| Phase bot vs S&P | -7.82% (phase S&P +5.82% from Apr 24 start 7,165) |
+| Trades | 1 new (W:0 / L:0 / open:4) |
+| Win rate | N/A — no closed trades this week (0/6 all-time) |
+| Best trade | GE +8.15% unrealized |
+| Worst trade | NVDA -5.85% unrealized |
+| Profit factor | N/A — 0 winners all-time |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| GE | $280.02 | $302.84 | +$1,528.94 (+8.15%) | $279.00 (HWM $310.00) |
+| LHX | $308.48 | $311.98 | +$210.15 (+1.14%) | $280.41 (HWM $311.57) |
+| NVDA | $228.43 | $215.07 | -$1,054.92 (-5.85%) | $208.35 (HWM $231.50) |
+| RTX | $174.65 | $177.01 | +$271.40 (+1.35%) | $161.94 (HWM $179.93) |
+
+### What Worked
+- LHX entry disciplined: waited for NVDA earnings to clear (May 20 AMC), entered May 21 on fresh defense catalyst (Trump $1.5T budget + Hormuz escalation); immediately constructive; stop 9.9% buffer
+- GE continues as portfolio anchor — +8.15% cumulative across 5 weeks; approaching +15% stop-tighten trigger ($322.02); patience rewarded
+- RTX defense thesis validated — held all 5 weeks, +1.35% cumulative; earning its keep; "2 consecutive failed" rule not triggered (only non-wins, no hard stops)
+- Week P&L positive (+1.27%) despite NVDA drag; 3 of 4 positions net positive on the week
+- Stop system: no rule violations all week; NVDA managed by trailing GTC without emotional overrides
+
+### What Didn't Work
+- Bot underperformed S&P by -1.15% this week; S&P ripped to all-time highs (7,582) while portfolio dragged by NVDA
+- NVDA sell-the-news extended: earnings call revealed no China DC revenue, removing a key pillar of the H200 thesis; now -5.85% cumulative, $2.63/share from manual cut level $212.44
+- Underdeployed first 4 days (3 positions, ~58.7% deployed vs 75–85% target) — missed the bulk of S&P's weekly surge before LHX Thursday fill
+- Cumulative phase gap is now -7.82% vs S&P; 0 winning exits in 5 weeks; exit quality completely unvalidated
+- NVDA thesis weakened post-earnings: "sell-the-news + no China revenue" is a two-layer negative revision; original catalyst was H200 clearance but monetization timing is now uncertain
+
+### Key Lessons
+- Post-earnings sell-the-news for AI/semis can persist 1–2 weeks; the H200 clearance catalyst was accurate but the "no China DC revenue" disclosure created a second negative revision 5 days post-entry; next time: de-risk AI names before earnings if the thesis depends on China monetization
+- NVDA is now the 7th consecutive non-winning trade across 5 weeks (0/6 realized wins, NVDA open and losing); the portfolio urgently needs one quality winning exit to validate the stop/entry discipline
+- LHX entry proves the model works when disciplined: clear catalyst, fresh entry, immediate stop placed, no gap-up sizing breach; same discipline applied to RTX and GE entries historically
+- GE at +8.15% is approaching the +15% tighten trigger ($322.02); whenever a position approaches 15% gain, pre-plan the exact stop tightening action to avoid hesitation at the moment
+- Phase underperformance (-7.82% vs S&P) is driven almost entirely by realized losses in Energy (CVX/XOM -$1,173) and CEG (-$1,726); GE/RTX/LHX are holding or gaining — sector selection is the root cause, not execution
+
+### Adjustments for Next Week
+- NVDA: Tuesday May 27 open — if $215 hold is lost or any further thesis deterioration confirmed, manual cut at $212.44 per -7% rule; do not wait for $208.35 trailing stop if thesis is broken
+- GE: $322.02 is the +15% trigger; be ready to immediately tighten trail to 7% ($299.48 stop) on any session GE closes at or above $322.02; target for full position +20% = $336.02
+- Week 6 resets 3 trade slots; 2 position slots open; top candidates: NUE (thesis intact from May 14 research, steel/materials) or XOM/EOG if Energy momentum accelerates; require fresh pre-market catalyst, no repeat of FCX-style thesis-light redeployment
+- LHX and RTX: both hold; defense sector is the single best-performing subsector in Industrials; no rule-mandated action unless price breaks below respective stops
+- Pre-market Monday: verify NVDA after holiday weekend gap — any gap below $212.44 is a mandatory manual cut
+
+### Overall Grade: C
+*Week 5 — first positive week after the -3.63% Week 4 disaster; stop system working; no rule violations; LHX entry disciplined. But portfolio still underperforming S&P by wide cumulative margin (-7.82%), 0 winning exits in 5 weeks, and NVDA approaching the -7% cut level. The C reflects improved execution quality and a positive week while acknowledging the persistent structural problem: no profitable realized trades yet, and a deteriorating NVDA position that remains the portfolio's biggest risk going into Week 6.*
