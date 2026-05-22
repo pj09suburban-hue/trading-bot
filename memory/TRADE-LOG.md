@@ -719,3 +719,17 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $97,881.25 | **Cash:** $21,639.37 (22.1%) | **Long MV:** $76,241.88 (77.9% deployed — within 75–85% target ✓) | **Day P&L:** +$65.17 (+0.07%) | **Phase P&L:** -$2,118.75 (-2.12%)
 **Week trades:** 1/3 (Week 5) | **Open positions:** 4/6 | **No notification sent (no action taken)**
 **Watch:** NVDA $217.03 — manual cut $212.44 is 2.12% away; pre-holiday thin volume amplifies gap risk. Memorial Day weekend; Tuesday May 27 is next opportunity window.
+
+---
+
+### May 22 — EOD Snapshot (Day 21, Friday)
+**Portfolio:** $97,953.21 | **Cash:** $21,639.37 (22.1%) | **Day P&L:** +$137.13 (+0.14%) | **Phase P&L:** -$2,046.79 (-2.05%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $302.32 | +0.19% | +$1,494.10 (+7.96%) | $279.00 (HWM $310.00) |
+| LHX | 60 | $308.48 | $310.89 | +1.49% | +$144.75 (+0.78%) | $280.41 (HWM $311.57) |
+| NVDA | 79 | $228.43 | $215.59 | -1.79% | -$1,014.23 (-5.62%) | $208.35 (HWM $231.50) |
+| RTX | 115 | $174.65 | $177.16 | +0.67% | +$288.65 (+1.44%) | $161.94 (HWM $179.93) |
+
+**Notes:** Day 21 (Friday, Week 5 — end of week). No trades today; week closes at 1/3 slots used. Portfolio mixed: LHX led +1.49% intraday reaching new HWM $311.57 (stop auto-ratcheted to $280.41); RTX +0.67%; GE +0.19% holding at +7.96% cumulative; NVDA -1.79% intraday, deepening to -5.62% cumulative — manual cut level $212.44 is $3.15 below current $215.59, trailing stop $208.35 remains the backstop. No -7% cut threshold breached; no +15% stop-tighten triggered. Portfolio 77.9% deployed — in target band. Memorial Day weekend — markets closed Monday May 26; next session Tuesday May 27. Pre-market Tuesday: NVDA close watch, 2 remaining trade slots (week resets).
