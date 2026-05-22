@@ -1008,3 +1008,58 @@ TRADE or HOLD (default HOLD if no clear edge)
 - **GE — technical drift only:** -1.67% intraday, no new company catalyst. Post-Q1 pattern (guidance not raised) + macro (oil, aviation sentiment). Defense/aerospace backlog $190B+ and analyst consensus ($361 target, 85% Buy) unchanged. HOLD.
 - **LHX / RTX:** No news, normal session. Defense thesis intact. HOLD both.
 
+
+---
+
+## 2026-05-22 — Pre-market Research (Day 21, Friday — Week 5)
+
+### Account
+- **Equity:** $97,850.73 | **Cash:** $21,639.37 (22.1%) | **Long MV:** $76,211.36 (77.9% deployed — within 75–85% target ✓)
+- **Buying power:** $119,490.10 (margin; using cash only)
+- **Daytrade count:** 0 | **Positions:** 4/6 | **Week trades:** 1/3 (Week 5)
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $302.10 | +$1,479.36 | +7.89% | $279.00 (10% trail) | $310.00 |
+| LHX | 60 | $308.48 | $306.33 | -$128.85 | -0.70% | $277.05 (10% trail) | $307.83 |
+| NVDA | 79 | $228.43 | $220.49 | -$627.13 | -3.48% | $208.35 (10% trail) | $231.50 |
+| RTX | 115 | $174.65 | $175.41 | +$87.40 | +0.44% | $161.94 (10% trail) | $179.93 |
+
+**Stop proximity (cut at -7% from entry):**
+- GE: $302.10 vs stop $279.00 = 7.65% buffer (cut level $260.42)
+- LHX: $306.33 vs stop $277.05 = 9.56% buffer (cut level $286.88)
+- NVDA: $220.49 vs stop $208.35 = 5.51% buffer (cut level $212.44)
+- RTX: $175.41 vs stop $161.94 = 7.67% buffer (cut level $162.42)
+
+**All four trailing-stop GTC orders active and confirmed.**
+
+### Market Context
+- **WTI:** ~$98.45/bbl (+2.18% today) — recovering; Middle East supply risk (Hormuz) ongoing
+- **Brent:** ~$106.52/bbl
+- **S&P 500 futures (ES):** ~7,487.50, +20.50 pts (+0.27%) premarket — mildly constructive; near all-time highs
+- **VIX:** 16.76 (down -3.90% from 17.44 prev day) — fear easing, low/moderate; constructive
+- **10Y Treasury yield:** Elevated (hit 1-year high on May 18); stabilizing but still compressing risk premiums
+- **Today's macro releases:** BLS State Employment & Unemployment (April) @ 10:00 AM ET — state-level, low market impact; no CPI/PPI/FOMC today
+- **Pre-holiday context:** Memorial Day weekend (May 25 holiday) → light volume/liquidity today; wider spreads possible
+- **Sector momentum (YTD):** Energy #1 (+22%), Materials +17%, Industrials +11%, Consumer Staples +7%; Technology lagging; Defense sub-sector within Industrials leading
+- **Earnings today BMO:** No major S&P 500 BMO reporters; Richemont (luxury) only notable name
+
+### Ticker News
+- **GE:** No new catalyst. GE426 USAF contract (May 19) and Japan Airlines 787 deal absorbed. Q1 2026 strong (deliveries +26%, aftermarket +26%); $190B+ backlog intact. Analyst avg target ~$361, 85% Buy. Stop $279.00 at 7.65% buffer. Approaching +15% tighten trigger ($322.02) — $302.10 is $19.92 below. HOLD.
+- **LHX:** Q1 2026 strong results (April 30). Consensus analyst target $354.75 (+15.77% upside). Defense thesis intact — Trump $1.5T budget, Hormuz/DoD ISR/C2. Stop $277.05 at 9.56% buffer. Slightly underwater (-0.70%), no new negative catalyst. HOLD.
+- **NVDA:** Post-Q1 beat sell-the-news extends; minor intraday recovery (+0.45%). Street consensus Buy, avg target $294-$296. No China DC revenue (known); Blackwell/hyperscaler thesis intact. Stop $208.35 at 5.51% buffer — tightest margin; trailing GTC manages. HOLD.
+- **RTX:** Quiet. Defense procurement thesis intact — $6.6B+ engine contract, $74B backlog, Hormuz/Barakah escalation. Stop $161.94 at 7.67% buffer. HOLD.
+
+### Trade Ideas
+1. **Energy single-stock (exploratory — NOT today):** WTI +2.18%; Energy YTD #1 (+22%). Could scout XOM/CVX/EOG if fresh company catalyst emerges next week. No specific catalyst today; pre-holiday thin volume; deployed already in target band.
+2. **No actionable setup today.** 77.9% deployed (within target). Defense already 3/4 positions — adding more concentration without fresh catalyst violates discipline. Pre-Memorial Day Friday is not the day.
+
+### Risk Factors
+- **Elevated 10Y yield:** Primary macro headwind; 10Y near 1-year high; any further spike pressures equities
+- **NVDA stop proximity:** 5.51% buffer ($220.49 vs stop $208.35) — smallest of four; continued drift could approach trigger
+- **Pre-holiday liquidity:** Memorial Day weekend = thin volume, wider spreads, amplified gap risk
+- **Defense concentration:** 3/4 positions in defense/industrials; sector correlation risk if defense sentiment reverses
+- **Stagflation backdrop:** CPI +3.8%, PPI +6.0%, NFP +115k, consumer sentiment 74-yr low — structural macro headwind persists
+
+### Decision
+**HOLD** — No fresh catalyst for a new trade today. Portfolio 77.9% deployed, within target band. Pre-Memorial Day Friday = reduced liquidity, not the time to initiate. All four trailing stops active; no -7% cut threshold breached. Week 5: 1/3 trades used, 2 slots available. NVDA stop proximity the only elevated watch item; trailing GTC manages. Next opportunity window: Tuesday May 27 post-holiday open — watch Energy/Industrials momentum continuation and NVDA recovery signal.
