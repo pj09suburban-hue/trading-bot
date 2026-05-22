@@ -1063,3 +1063,11 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ### Decision
 **HOLD** — No fresh catalyst for a new trade today. Portfolio 77.9% deployed, within target band. Pre-Memorial Day Friday = reduced liquidity, not the time to initiate. All four trailing stops active; no -7% cut threshold breached. Week 5: 1/3 trades used, 2 slots available. NVDA stop proximity the only elevated watch item; trailing GTC manages. Next opportunity window: Tuesday May 27 post-holiday open — watch Energy/Industrials momentum continuation and NVDA recovery signal.
+
+### Afternoon Addendum (Midday Scan — NVDA Research)
+**NVDA intraday -1.13% ($217.03) while portfolio peers green:** Perplexity query run at midday scan.
+- Cause: post-Q1 FY2027 beat sell-the-news continues (earnings May 20 AMC); broader semiconductor sector under pressure
+- CNBC/Bloomberg noted "big earnings beat met with skepticism" — market reset expectations after record print
+- Supply constrained through Vera Rubin cycle (demand > supply); no new company-specific negative
+- 37 analyst consensus Buy; avg target $296.57; Blackwell/hyperscaler thesis intact
+- **Conclusion:** No thesis break. Continued drift is expected post-earnings behavior. Manual cut level $212.44 is $4.59 below current — trailing GTC at $208.35 is the exit mechanism. HOLD through holiday weekend.

@@ -695,3 +695,27 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $176.66 | +1.04% | +$231.15 (+1.15%) | $161.94 (HWM $179.93) |
 
 **Notes:** Day 20, Week 5. One trade executed today: LHX BUY 60 shares at $308.4775 avg (Trump $1.5T defense budget + Hormuz escalation catalyst; DoD ISR/C2/radar procurement thesis). Portfolio now 77.9% deployed — back within the 75–85% target band with 4 open positions. Broad market mild weakness: NVDA -1.84%, LHX -0.92%, GE -0.17%; RTX bucked the trend +1.04%. No position breached the -7% cut threshold (NVDA worst at -3.97% cumulative, $10.68/share buffer before stop at $208.35). GE at +7.02% cumulative — approaching +15% tighten trigger ($322.02) but not there yet. All four 10% trailing-stop GTC orders active. Week trades: 1/3 used. Phase P&L -2.26%.
+
+---
+
+## 2026-05-22 — Midday Scan (Day 21, Friday — Week 5)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $302.27 | +$1,490.75 | +7.95% | +0.17% | $279.00 (10% trail) | $310.00 | HOLD |
+| LHX | $308.48 | $309.06 | +$34.95 | +0.19% | +0.89% | $278.46 (10% trail) | $309.40 | HOLD |
+| NVDA | $228.43 | $217.03 | -$900.47 | -4.99% | -1.13% | $208.35 (10% trail) | $231.50 | HOLD — post-earnings drift; stop 4.00% away; cut level $212.44 (2.12% away) |
+| RTX | $174.65 | $176.46 | +$208.15 | +1.04% | +0.27% | $161.94 (10% trail) | $179.93 | HOLD |
+
+**Cut losers (-7%):** None — cut thresholds: GE $260.42, LHX $286.88, NVDA $212.44, RTX $162.42. No breach (NVDA nearest at -4.99%; $4.59/share buffer above manual cut level).
+**Stop tightening (+15%/+20%):** None — best cumulative gain GE +7.95%, short of +15% trigger ($322.02).
+**Thesis check:**
+- GE: +0.17% intraday, +7.95% cumulative. No new negative catalyst. Defense/commercial aviation backlog $190B+ intact; GE426 + Japan Airlines deals absorbed. Stop $279.00 at 7.70% buffer (HWM $310.00). HOLD.
+- LHX: +0.89% intraday, +0.19% cumulative. Recovering after yesterday's post-entry weakness. Defense thesis intact — Trump $1.5T budget, Hormuz escalation, DoD ISR/C2/radar. Stop $278.46 at 9.90% buffer (HWM $309.40). HOLD.
+- NVDA: -1.13% intraday, -4.99% cumulative. Perplexity (May 22): continued post-earnings sell-the-news + semiconductor sector pressure; no new company-specific catalyst. Supply constrained through Vera Rubin cycle; consensus Buy at avg $296.57. Blackwell/hyperscaler thesis intact — no thesis break. ELEVATED WATCH: manual cut level $212.44 is $4.59 (2.12%) below current $217.03; trailing stop $208.35 at 4.00% buffer. Trailing GTC manages exit. HOLD.
+- RTX: +0.27% intraday, +1.04% cumulative. Defense procurement thesis intact ($6.6B engine contract, $74B backlog, Hormuz/Barakah escalation). Stop $161.94 at 8.23% buffer. HOLD.
+**No action taken.** All four trailing-stop GTC orders confirmed active (LHX HWM $309.40, GE HWM $310.00, NVDA HWM $231.50, RTX HWM $179.93).
+
+**Portfolio (midday):** $97,881.25 | **Cash:** $21,639.37 (22.1%) | **Long MV:** $76,241.88 (77.9% deployed — within 75–85% target ✓) | **Day P&L:** +$65.17 (+0.07%) | **Phase P&L:** -$2,118.75 (-2.12%)
+**Week trades:** 1/3 (Week 5) | **Open positions:** 4/6 | **No notification sent (no action taken)**
+**Watch:** NVDA $217.03 — manual cut $212.44 is 2.12% away; pre-holiday thin volume amplifies gap risk. Memorial Day weekend; Tuesday May 27 is next opportunity window.
