@@ -1011,6 +1011,63 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ---
 
+## 2026-05-25 — Pre-market Research (Day 22 — Memorial Day; markets CLOSED; Tuesday May 27 setup)
+
+### Account (as of Friday May 22 close — no trading today)
+- **Equity:** $98,015.67 | **Cash:** $21,639.37 (22.1%) | **Long MV:** $76,376.30 (77.9% deployed — within 75–85% target ✓)
+- **Buying power:** $119,655.04 (margin; using cash only)
+- **Daytrade count:** 0 | **Positions:** 4/6 | **Week trades:** 0/3 (Week 6 — new week)
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $302.84 | +$1,528.94 | +8.15% | $279.00 (10% trail) | $310.00 |
+| LHX | 60 | $308.48 | $311.98 | +$210.15 | +1.14% | $281.03 (10% trail) | $312.26 |
+| NVDA | 79 | $228.43 | $215.33 | -$1,034.77 | -5.73% | $208.35 (10% trail) | $231.50 |
+| RTX | 115 | $174.65 | $177.01 | +$271.40 | +1.35% | $161.94 (10% trail) | $179.93 |
+
+**Stop proximity (critical watch):**
+- **NVDA: $215.33 vs manual cut $212.44 = $2.89 (1.34%) buffer. Any gap-down ≥1.4% at Tuesday open → cut immediately.**
+- GE: stop $279.00 at 7.87% buffer (cut level $260.42)
+- LHX: stop $281.03 at 9.92% buffer (cut level $286.88)
+- RTX: stop $161.94 at 8.52% buffer (cut level $162.42)
+
+**All four trailing-stop GTC orders active.**
+
+### Market Context
+- **WTI:** ~$91.65/bbl (CME, May 24 close) — notable pullback from ~$98 last week (-6.9%); Middle East supply risk easing (US-Iran diplomacy signals per Schwab May 22)
+- **Brent:** EIA forecast ~$106/bbl for May-June; WTI-Brent spread wide (~$11-14); Brent likely high $90s–low $100s
+- **S&P 500 futures (ES):** 7,537.00 (+46, +0.61%) as of Sunday May 24 CME snapshot — mildly constructive heading into Tuesday open
+- **VIX:** 16.70 (from 16.76 prev day) — low/moderate; constructive; VIX futures June settle 19.53 (slightly elevated forward curve)
+- **This week's macro calendar (key releases):**
+  - Tue May 27: May Consumer Confidence (Conference Board, 10 AM ET) — sentiment gauge; potential market mover
+  - Wed May 28: April New Home Sales
+  - Thu May 29: Q1 2026 GDP (2nd estimate) + **April PCE inflation** (Fed's preferred gauge) — highest-impact release of the week
+- **Earnings this week:** Tue: AZO, ZS | Wed: MRVL, CRM, SNPS, SNOW, DKS | Thu: DELL, DLTR, MDB, BBY, COST, ADSK, GAP
+- **Sector momentum YTD:** Energy #1 (though WTI pulling back); Defense/Industrials solid; Technology lagging in rotation. Momentum ETFs outperforming: iShares MSCI USA Momentum +20%+ YTD vs S&P 500 +8%.
+
+### Ticker News
+- **NVDA:** Post-Q1 FY2027 sell-the-news continues; closed $215.33 (from peak $231.50). Weekend: Vera CPU deliveries to OpenAI/Anthropic/SpaceX AI/Oracle confirmed; Dell expanded partnership; analyst PT raises (KeyBanc $300, Morgan Stanley $285, BofA $320). No new company-specific negative over Memorial Day weekend. Blackwell Ultra ramping; Rubin/Vera production targeted Q3. Thesis intact — but stock momentum negative. **CRITICAL: $212.44 manual cut only $2.89 away.**
+- **GE:** No new negative catalyst weekend. Analyst "buying opportunity" view intact; mean target ~$400 vs current ~$303; +8.15% cumulative. Stop $279.00 at 7.87% buffer. HOLD.
+- **LHX:** LHX $1B+ solid rocket motor expansion (April — confirmed). Defense thesis intact — Trump $1.5T budget, DoD ISR/C2/radar procurement. At +1.14% cumulative; stop $281.03 at 9.92% buffer. HOLD. **Risk: US-Iran diplomacy (oil down 7%) could signal reduced geopolitical premium; watch defense sentiment Tuesday.**
+- **RTX:** Defense procurement thesis intact ($6.6B+ engine contract, $74B backlog). Strong analyst view (Morgan Stanley $220 PT vs $177 current). At +1.35% cumulative; stop $161.94 at 8.52% buffer. HOLD. Same Iran-diplomacy risk note as LHX.
+
+### Risk Factors
+- **NVDA stop proximity:** Manual cut $212.44 is 1.34% below current $215.33 — any gap-down Tuesday immediately actionable
+- **US-Iran diplomacy:** WTI -6.9% this past week signals geopolitical de-escalation. Could bleed the defense premium that supports GE/LHX/RTX; monitor Tuesday open carefully
+- **April PCE Thursday:** Fed's inflation gauge; a hot print could spike yields and pressure growth equities (NVDA especially)
+- **Defense concentration:** 3/4 positions in defense/industrials — single-sector event could be painful
+- **Holiday gap risk:** 3-day weekend; more time for news/gap vs a normal overnight
+
+### Trade Ideas
+1. **MRVL (Marvell Technology) — CONDITIONAL pre-earnings setup (report Wed May 28 AMC):** AI data center silicon (custom ASICs, interconnects) — direct beneficiary of Blackwell/hyperscaler capex NVDA confirmed. Potential 2:1+ R:R if earnings beat with strong DC guidance. Gate: verify quote and sector momentum Tuesday; must document specific catalyst in Tuesday's log before any entry. Risk: pre-earnings miss = gap-down. **Do NOT enter today (markets closed). Evaluate Tuesday.**
+2. **Energy (XOM/CVX/EOG) — SKIP:** WTI -6.9% from ~$98 to $91.65 this week weakens the Energy entry thesis. No specific company catalyst today. Pass.
+3. **Defense add — SKIP:** Already 3/4 positions in defense/industrials. Concentration at limit. No add without sector conviction reset.
+
+### Decision
+**HOLD** — Markets closed (Memorial Day). No action possible today. **Tuesday priority: check NVDA open immediately. If opens ≤$212.44 → execute manual cut at market open.** MRVL setup conditional on Tuesday's research and live conditions. Week 6 starts fresh: 0/3 trades used, 2 position slots open, $21.6k cash available.
+
+---
+
 ## 2026-05-22 — Pre-market Research (Day 21, Friday — Week 5)
 
 ### Account
