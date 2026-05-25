@@ -1128,3 +1128,17 @@ TRADE or HOLD (default HOLD if no clear edge)
 - Supply constrained through Vera Rubin cycle (demand > supply); no new company-specific negative
 - 37 analyst consensus Buy; avg target $296.57; Blackwell/hyperscaler thesis intact
 - **Conclusion:** No thesis break. Continued drift is expected post-earnings behavior. Manual cut level $212.44 is $4.59 below current — trailing GTC at $208.35 is the exit mechanism. HOLD through holiday weekend.
+
+---
+
+## 2026-05-25 — Memorial Day (no pre-market; markets closed)
+
+*Midday scan ran on holiday; prices stale at Friday May 22 close.*
+
+### NVDA Holiday Weekend Research (Perplexity — midday scan)
+- No new negative catalysts over Memorial Day weekend
+- Q1 FY2027 beat (May 20): EPS $1.87 vs $1.76 est, $50B buyback authorized — both intact
+- 37 analyst consensus Buy; avg target $296.57 (Public.com, updated May 24)
+- Blackwell/hyperscaler demand thesis unchanged; post-earnings sell-the-news drift continues
+- **CRITICAL WATCH entering Tuesday May 27:** $215.33 vs manual cut $212.44 = $2.89 (1.34%) buffer. Any gap-down at Tuesday open could trigger immediate cut per -7% rule. Trailing GTC $208.35 is backstop.
+- **Conclusion:** No thesis break. Elevated proximity watch. If Tuesday opens below $212.44, cut per rule.

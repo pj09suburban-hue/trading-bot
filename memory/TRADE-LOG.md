@@ -732,4 +732,30 @@ No positions yet. Bot launches tomorrow.
 | NVDA | 79 | $228.43 | $215.59 | -1.79% | -$1,014.23 (-5.62%) | $208.35 (HWM $231.50) |
 | RTX | 115 | $174.65 | $177.16 | +0.67% | +$288.65 (+1.44%) | $161.94 (HWM $179.93) |
 
-**Notes:** Day 21 (Friday, Week 5 — end of week). No trades today; week closes at 1/3 slots used. Portfolio mixed: LHX led +1.49% intraday reaching new HWM $311.57 (stop auto-ratcheted to $280.41); RTX +0.67%; GE +0.19% holding at +7.96% cumulative; NVDA -1.79% intraday, deepening to -5.62% cumulative — manual cut level $212.44 is $3.15 below current $215.59, trailing stop $208.35 remains the backstop. No -7% cut threshold breached; no +15% stop-tighten triggered. Portfolio 77.9% deployed — in target band. Memorial Day weekend — markets closed Monday May 26; next session Tuesday May 27. Pre-market Tuesday: NVDA close watch, 2 remaining trade slots (week resets).
+**Notes:** Day 21 (Friday, Week 5 — end of week). No trades today; week closes at 1/3 slots used. Portfolio mixed: LHX led +1.49% intraday reaching new HWM $311.57 (stop auto-ratcheted to $280.41); RTX +0.67%; GE +0.19% holding at +7.96% cumulative; NVDA -1.79% intraday, deepening to -5.62% cumulative — manual cut level $212.44 is $3.15 below current $215.59, trailing stop $208.35 remains the backstop. No -7% cut threshold breached; no +15% stop-tighten triggered. Portfolio 77.9% deployed — in target band. Memorial Day weekend — markets closed Monday May 25; next session Tuesday May 27. Pre-market Tuesday: NVDA close watch, 2 remaining trade slots (week resets).
+
+---
+
+## 2026-05-25 — Midday Scan (Day 22, Monday — Memorial Day, markets closed)
+
+*Markets closed. Prices reflect Friday May 22 close. All change_today = 0.*
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $302.84 | +$1,528.94 | +8.15% | 0% | $279.00 (10% trail) | $310.00 | HOLD |
+| LHX | $308.48 | $311.98 | +$210.15 | +1.14% | 0% | $281.03 (10% trail) | $312.26 | HOLD |
+| NVDA | $228.43 | $215.33 | -$1,034.77 | -5.73% | 0% | $208.35 (10% trail) | $231.50 | HOLD |
+| RTX | $174.65 | $177.01 | +$271.40 | +1.35% | 0% | $161.94 (10% trail) | $179.93 | HOLD |
+
+**Cut losers (-7%):** None — cut thresholds: GE $260.42, LHX $286.88, NVDA $212.44, RTX $162.42. No breach. NVDA nearest: $215.33 vs cut $212.44 = $2.89 (1.34%) buffer.
+**Stop tightening (+15%/+20%):** None — best cumulative GE +8.15%, below +15% trigger ($322.02).
+**Thesis check (holiday weekend Perplexity research):**
+- GE: No new catalyst. Commercial aviation + defense backlog $190B+ intact. Stop $279.00 at 7.70% buffer (HWM $310.00). HOLD.
+- LHX: No new catalyst. Defense thesis intact. Stop auto-ratcheted to $281.03 (HWM $312.26). HOLD.
+- NVDA: No new negative catalysts over Memorial Day weekend. Analyst consensus Buy (37 analysts, avg $296.57); $50B buyback intact; Blackwell/hyperscaler thesis intact. Post-Q1 beat sell-the-news continues. **CRITICAL WATCH**: cut level $212.44 is $2.89 (1.34%) below $215.33 — any Tuesday gap-down could trigger manual cut at open.
+- RTX: No new catalyst. Defense procurement thesis intact ($6.6B engine contract, $74B backlog). Stop $161.94 at 8.51% buffer (HWM $179.93). HOLD.
+**No action taken.** All four trailing-stop GTC orders active.
+
+**Portfolio (holiday prices):** ~$98,015.67 | **Cash:** $21,639.37 (22.1%) | **Long MV:** $76,376.30 (77.9% deployed — within 75–85% target ✓) | **Phase P&L:** -$1,985.07 (-1.98%)
+**Week trades:** 0/3 (Week 6 begins) | **Open positions:** 4/6 | **No notification sent (no action taken)**
+**Watch:** NVDA $215.33 — manual cut $212.44 is 1.34% away; Tuesday open is critical. GE $302.84 — +15% tighten trigger $322.02 is $19.18 away.
