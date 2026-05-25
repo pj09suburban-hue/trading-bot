@@ -759,3 +759,17 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (holiday prices):** ~$98,015.67 | **Cash:** $21,639.37 (22.1%) | **Long MV:** $76,376.30 (77.9% deployed — within 75–85% target ✓) | **Phase P&L:** -$1,985.07 (-1.98%)
 **Week trades:** 0/3 (Week 6 begins) | **Open positions:** 4/6 | **No notification sent (no action taken)**
 **Watch:** NVDA $215.33 — manual cut $212.44 is 1.34% away; Tuesday open is critical. GE $302.84 — +15% tighten trigger $322.02 is $19.18 away.
+
+---
+
+### May 25 — EOD Snapshot (Day 22, Monday — Memorial Day, markets closed)
+**Portfolio:** $98,015.67 | **Cash:** $21,639.37 (22.1%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** -$1,984.33 (-1.98%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $302.84 | 0% | +$1,528.94 (+8.15%) | $279.00 (HWM $310.00) |
+| LHX | 60 | $308.48 | $311.98 | 0% | +$210.15 (+1.14%) | $281.03 (HWM $312.26) |
+| NVDA | 79 | $228.43 | $215.33 | 0% | -$1,034.77 (-5.73%) | $208.35 (HWM $231.50) |
+| RTX | 115 | $174.65 | $177.01 | 0% | +$271.40 (+1.35%) | $161.94 (HWM $179.93) |
+
+**Notes:** Day 22 (Monday, Memorial Day — markets closed). No trades, no price movement. All four 10% trailing-stop GTC orders active and confirmed. NVDA is critical watch: -5.73% cumulative, manual cut level $212.44 is only $2.89 (1.34%) below current $215.33 — any Tuesday gap-down through $212.44 triggers immediate exit. GE +8.15% cumulative, stop-tighten trigger at $322.02 ($19.18 away); LHX trailing stop auto-ratcheted to $281.03 (HWM $312.26 from Friday's intraday high). RTX defense thesis strongest, +1.35% cumulative, stop $161.94 at 8.51% buffer. Portfolio 77.9% deployed — in 75–85% target band. Phase P&L -$1,984.33 (-1.98%). Week 6 begins Tuesday May 27 with 3 fresh trade slots.
