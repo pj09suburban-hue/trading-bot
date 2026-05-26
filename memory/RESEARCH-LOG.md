@@ -1142,3 +1142,55 @@ TRADE or HOLD (default HOLD if no clear edge)
 - Blackwell/hyperscaler demand thesis unchanged; post-earnings sell-the-news drift continues
 - **CRITICAL WATCH entering Tuesday May 27:** $215.33 vs manual cut $212.44 = $2.89 (1.34%) buffer. Any gap-down at Tuesday open could trigger immediate cut per -7% rule. Trailing GTC $208.35 is backstop.
 - **Conclusion:** No thesis break. Elevated proximity watch. If Tuesday opens below $212.44, cut per rule.
+
+---
+
+## 2026-05-26 — Pre-market Research (Day 23, Tuesday — Week 6)
+
+### Account
+- **Equity:** $98,595.87 | **Cash:** $21,639.37 (22.1%) | **Long MV:** $76,956.50 (77.9% deployed — within 75–85% target ✓)
+- **Buying power:** $120,235.24 (margin; using cash only)
+- **Daytrade count:** 0 | **Positions:** 4/6 | **Week trades:** 0/3 (Week 6)
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $305.97 | +$1,738.48 | +9.27% | $279.00 (10% trail) | $310.00 |
+| LHX | 60 | $308.48 | $313.93 | +$327.15 | +1.77% | $281.03 (10% trail) | $312.26→$313.93 new HWM |
+| NVDA | 79 | $228.43 | $218.19 | -$808.71 | -4.48% | $208.35 (10% trail) | $231.50 |
+| RTX | 115 | $174.65 | $177.25 | +$299.00 | +1.49% | $161.94 (10% trail) | $179.93 |
+
+**All four trailing-stop GTC orders active and confirmed.** LHX auto-ratcheting: current $313.93 > prior HWM $312.26 → new HWM ~$313.93, stop auto-ratchets to ~$282.54.
+**Stop proximity (cut at -7% from entry):**
+- GE: $305.97 vs cut $260.42 — 14.9% buffer. Stop $279.00 at HWM $310.00.
+- LHX: $313.93 vs cut $286.88 — 8.6% buffer. Stop ratcheting to ~$282.54.
+- NVDA: $218.19 vs cut $212.44 — **2.64% buffer** (RELIEVED from 1.34% at Friday close — opened UP, not gapped down).
+- RTX: $177.25 vs cut $162.42 — 8.37% buffer.
+
+### Market Context
+- **WTI:** $92.59/bbl (-4.15% today) — oil pulling back sharply post-holiday; despite U.S.-Iran tensions, market pricing some de-escalation or demand concern
+- **Brent:** ~$100-$105/bbl estimated (EIA: $118 end-of-1Q26; now well off highs)
+- **S&P 500 futures (ES):** 7,548.25, +57.25 pts (+0.76%) — strong post-Memorial Day open expected; S&P near all-time highs
+- **VIX:** 16.85 (+1.57%) — modest uptick but low/moderate; constructive overall
+- **Today's macro releases:** Consumer Confidence @ 10:00 AM ET — most significant today; Fed speakers possible. No CPI/PPI/FOMC today.
+- **Sector momentum (YTD):** Energy +22% (#1), Consumer Staples (all-time highs), Industrials/Defense — all Leading quadrant. Technology Lagging. Healthcare Weakening.
+
+### Ticker News
+- **GE (+1.03%, +9.27% cumul):** GE Aerospace adjusted 2026 departure forecast downward (from mid-single-digit to flat/low-single-digit growth) citing Middle East instability — stock dipped, but strong bottom-line beat and guidance reiterated at high end of range. Analysts still bullish: Jefferies Buy $365 (cut from $375), Morgan Stanley Overweight $400 (cut from $425), JPMorgan raised to $335. No thesis break. Defense/commercial aviation $190B+ backlog intact. Watch: +15% tighten trigger at $322.02 is $16.05 above current. HOLD.
+- **LHX (+0.63%, +1.77% cumul):** Defense thesis intact; defense stocks broadly strong on Trump $1.5T budget narrative and Hormuz escalation. LHX new intraday HWM ~$313.93; stop auto-ratchets. HOLD.
+- **NVDA (+1.33%, -4.48% cumul):** Post-earnings bounce on first post-holiday session. Opened UP, not gapped down — critical risk resolved. Vera Rubin Q3 shipments confirmed on schedule; $20B standalone Vera CPU revenue visibility. 37 analyst consensus Buy, avg target $296.57. Bearish pressure: AI-chip spending skepticism, higher memory costs; one analyst flagged possible pullback below $200. No thesis break. Manual cut $212.44 = $5.75 below current (2.64% buffer — improved). Trailing GTC $208.35 is backstop. HOLD.
+- **RTX (+0.14%, +1.49% cumul):** Defense thesis intact ($6.6B engine contract, $74B backlog, Hormuz/Barakah). Minimal intraday move. HOLD.
+
+### Trade Ideas
+1. **MRVL — SKIP (earnings tomorrow):** Reports fiscal Q1 2027 on May 27. Options pricing ~13.6% move; 52-week high area. Bullish AI/custom ASIC thesis; fiscal 2026 revenue $8.2B record (+42% YoY); 30%+ fiscal 2027 growth guidance. BUT buying pre-earnings = gap risk. Violates discipline. If reports strong and stock confirms, evaluate next week.
+2. **Energy single-stock — SKIP (WTI headwind):** Energy YTD +22% leads all sectors, but WTI -4.15% today creates near-term headwind. No specific company catalyst today. Wait for oil to find support and sector to resume momentum.
+3. **No actionable new position today.** 4/6 positions at 77.9% deployed — in target band. Defense already 3/4 positions; adding more concentration without fresh catalyst violates discipline.
+
+### Risk Factors
+- **NVDA proximity:** 2.64% buffer above cut level ($218.19 vs $212.44) — improved but still the closest position to cut threshold. Trailing GTC manages exit.
+- **WTI -4.15%:** Significant oil pullback may weaken energy and defense-adjacent sentiment if it continues; could pressure GE/RTX if supply risk narrative eases.
+- **Consumer Confidence @ 10:00 AM:** If weak print, could cap post-holiday rally despite strong futures.
+- **Defense concentration:** 3/4 positions in defense/industrials; sector correlation risk remains.
+- **GE departure forecast revision:** Modest negative catalyst absorbed; any further airline/travel demand softness could revisit.
+
+### Decision
+**HOLD** — No fresh catalyst for new position. Portfolio 77.9% deployed, in target band. MRVL earnings tomorrow = no pre-earnings entry. WTI -4.15% headwind negates energy setup today. All four trailing-stop GTC orders active; no -7% threshold breached. Week 6 opens with 3 trade slots available. **Key watch:** Consumer Confidence at 10 AM; NVDA recovery continuation; GE closing in on +15% tighten trigger ($322.02). MRVL post-earnings Thursday+ is the next candidate to evaluate.
