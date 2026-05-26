@@ -4,6 +4,38 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-26 — Pre-Market Research (inline — pre-market routine did not commit)
+
+### Account
+- **Equity:** $98,534.57 | **Cash:** $21,639.37 (22.0%) | **Long MV:** $76,895.20 (78.0% deployed — ✓ in 75–85% target band)
+- **Buying power:** $120,173.94 (margin; using cash only)
+- **Daytrade count:** 0 | **Positions:** 4/6 | **Week trades:** 0/3 (Week 6, fresh) | 2 position slots, 3 trade slots remain
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Today | Stop | HWM |
+|---|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $306.17 | +$1,752.36 | +9.34% | +1.10% | $279.00 (10% trail) | $310.00 |
+| LHX | 60 | $308.48 | $312.11 | +$217.95 | +1.18% | +0.04% | $281.03 (10% trail) | $312.26 |
+| NVDA | 79 | $228.43 | $218.29 | -$801.14 | -4.44% | +1.37% | $208.35 (10% trail) | $231.50 |
+| RTX | 115 | $174.65 | $177.48 | +$325.45 | +1.62% | +0.27% | $161.94 (10% trail) | $179.93 |
+
+All four 10% trailing-stop GTC orders confirmed active.
+
+### Market Context
+- **S&P 500 futures:** +0.10% premarket — modestly positive post-holiday open
+- **Nasdaq 100 futures:** +0.07% — tech sector muted despite NVDA earnings beat
+- **Macro:** US-Iran peace talks progressing; Warsh (new Fed Chair) taking oath — rate-policy signal risk; no major economic data today
+- **Sector momentum:** Defense/Industrials elevated on Middle East tensions; Tech AI tailwind intact but NVDA post-earnings drift ongoing
+
+### Sell-Side Check (opens)
+- **NVDA:** $218.29, -4.44% cumulative. Manual cut threshold $212.44 (–7% from entry $228.43). Buffer: $5.85 (2.68%). Stop GTC $208.35. NOT triggered.
+- **GE:** $306.17, +9.34% cumulative. Stop-tighten trigger +15% = $322.02. NOT triggered.
+- **LHX / RTX:** Both positive cumulative, stops intact, theses intact.
+
+### Decision
+**HOLD — no new trades.** Portfolio 78.0% deployed (in band). No documented catalyst for a new position. NVDA recovering from critical zone — patience warranted on first trading day post-Memorial Day. All four GTC trailing stops active.
+
+---
+
 ## 2026-05-19 Pre-Market Research
 
 ### Account
