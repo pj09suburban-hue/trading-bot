@@ -1226,3 +1226,13 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ### Decision
 **HOLD** — No fresh catalyst for new position. Portfolio 77.9% deployed, in target band. MRVL earnings tomorrow = no pre-earnings entry. WTI -4.15% headwind negates energy setup today. All four trailing-stop GTC orders active; no -7% threshold breached. Week 6 opens with 3 trade slots available. **Key watch:** Consumer Confidence at 10 AM; NVDA recovery continuation; GE closing in on +15% tighten trigger ($322.02). MRVL post-earnings Thursday+ is the next candidate to evaluate.
+
+### Afternoon Addendum (Midday Scan — NVDA Research)
+**NVDA intraday -1.198% ($212.75) — approaching -7% cut level ($212.44):** Perplexity query run at midday scan.
+- Cause: continued post-Q1 FY2027 sell-the-news; broad chip-sector pressure (positioning/valuation-driven, not new fundamental event)
+- No new company-specific negative catalyst — no downgrade, no earnings warning, no guidance cut
+- Market "digesting" earnings beat with skepticism; one analyst reiterated potential pullback to $200-$180 range in volatility
+- Blackwell/hyperscaler thesis intact; $50B buyback intact; 37 analyst consensus Buy avg $296.57
+- Vera Rubin Q3 shipments on schedule; supply constrained (demand > supply)
+- ⚠️ CRITICAL proximity: $212.75 vs manual cut level $212.44 = $0.31 (0.14%) buffer. Trailing GTC $208.35 is backstop.
+- **Conclusion:** No thesis break. Cut rule at -7% not triggered (-6.864% cumulative). Continued drift is positioning-driven; trailing GTC manages exit. HOLD.

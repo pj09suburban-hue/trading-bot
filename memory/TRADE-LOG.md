@@ -773,3 +773,32 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $177.01 | 0% | +$271.40 (+1.35%) | $161.94 (HWM $179.93) |
 
 **Notes:** Day 22 (Monday, Memorial Day — markets closed). No trades, no price movement. All four 10% trailing-stop GTC orders active and confirmed. NVDA is critical watch: -5.73% cumulative, manual cut level $212.44 is only $2.89 (1.34%) below current $215.33 — any Tuesday gap-down through $212.44 triggers immediate exit. GE +8.15% cumulative, stop-tighten trigger at $322.02 ($19.18 away); LHX trailing stop auto-ratcheted to $281.03 (HWM $312.26 from Friday's intraday high). RTX defense thesis strongest, +1.35% cumulative, stop $161.94 at 8.51% buffer. Portfolio 77.9% deployed — in 75–85% target band. Phase P&L -$1,984.33 (-1.98%). Week 6 begins Tuesday May 27 with 3 fresh trade slots.
+
+---
+
+## 2026-05-26 — Midday Scan (Day 23, Tuesday — Week 6)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $310.975 | +$2,073.985 | +11.055% | +2.686% | $281.034 (10% trail) | $312.26 | HOLD |
+| LHX | $308.4775 | $311.14 | +$159.75 | +0.863% | -0.269% | $283.041 (10% trail) | $314.49 | HOLD |
+| NVDA | $228.43 | $212.75 | -$1,238.59 | -6.864% | -1.198% | $208.35 (10% trail) | $231.50 | HOLD — ⚠️ CRITICAL WATCH: $0.31 above -7% cut level ($212.44) |
+| RTX | $174.65 | $177.295 | +$304.175 | +1.514% | +0.161% | $161.937 (10% trail) | $179.93 | HOLD |
+
+**Cut losers (-7%):** None triggered — cut thresholds: GE $260.42 (14.9% buffer), LHX $286.88 (8.0% buffer), NVDA $212.44 ($0.31 / 0.14% buffer — CRITICAL), RTX $162.42 (8.4% buffer). NVDA at -6.864%, NOT yet ≤ -7%.
+**Stop tightening (+15%/+20%):** None — best cumulative gain GE +11.055%, short of +15% trigger ($322.02, $11.05 above current).
+**Trailing stop status (live orders):**
+- GE: GTC active, stop $281.034, HWM $312.26 (ratcheted intraday from $310.00 as GE hit new highs)
+- LHX: GTC active, stop $283.041, HWM $314.49 (new intraday HWM today, up from $312.26)
+- NVDA: GTC active, stop $208.35, HWM $231.50 (HWM not updated since May 15; stop fixed)
+- RTX: GTC active, stop $161.937, HWM $179.93
+**Thesis check:**
+- GE: +2.686% intraday, +11.055% cumulative. No new negative catalyst. Pre-market GE departure forecast revision (flat/low-single-digit from mid-single-digit) absorbed — analysts remain bullish (Jefferies Buy $365, Morgan Stanley OW $400, JPMorgan raised to $335). $190B+ backlog intact. Stop $281.034 at 9.64% buffer (HWM $312.26). Watch: +15% tighten trigger $322.02 is $11.05 away. HOLD.
+- LHX: -0.269% intraday (pulled back from intraday HWM $314.49), +0.863% cumulative. Defense thesis intact — Trump $1.5T budget, Hormuz escalation, DoD ISR/C2/radar. New HWM $314.49 means trailing stop auto-ratcheted to $283.041. HOLD.
+- NVDA: -1.198% intraday, -6.864% cumulative. Perplexity research (midday): No new company-specific negative catalyst. Continued post-earnings sell-the-news + broad chip-sector pressure (positioning/valuation-driven). Blackwell/hyperscaler demand thesis intact; $50B buyback intact; 37 analyst consensus Buy avg $296.57; Vera Rubin Q3 shipments on schedule. ⚠️ CRITICAL: current $212.75 vs manual cut level $212.44 = $0.31 (0.14%) buffer. Trailing stop GTC $208.35 is backstop. Rule requires cut only if ≤ -7% realized; at -6.864% not triggered. No thesis break. HOLD.
+- RTX: +0.161% intraday, +1.514% cumulative. Defense procurement thesis intact ($6.6B engine contract, $74B backlog, Hormuz/Barakah escalation). Stop $161.937 at 8.37% buffer. HOLD.
+**No action taken.** All four trailing-stop GTC orders confirmed active.
+
+**Portfolio (midday):** $98,339.28 | **Cash:** $21,639.37 (22.0%) | **Long MV:** $76,699.91 (78.0% deployed — within 75–85% target ✓) | **Day P&L:** +$323.60 (+0.33%) | **Phase P&L:** -$1,660.72 (-1.66%)
+**Week trades:** 0/3 (Week 6) | **Open positions:** 4/6 | **No notification sent (no action taken)**
+**⚠️ Watch:** NVDA $212.75 — manual cut level $212.44 is $0.31 (0.14%) away; any further intraday decline breaches -7% rule → immediate close. Trailing GTC $208.35 backstop. GE $310.975 — +15% tighten trigger $322.02 is $11.05 (+3.55%) away.
