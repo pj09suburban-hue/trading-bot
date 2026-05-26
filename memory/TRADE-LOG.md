@@ -802,3 +802,19 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $98,339.28 | **Cash:** $21,639.37 (22.0%) | **Long MV:** $76,699.91 (78.0% deployed — within 75–85% target ✓) | **Day P&L:** +$323.60 (+0.33%) | **Phase P&L:** -$1,660.72 (-1.66%)
 **Week trades:** 0/3 (Week 6) | **Open positions:** 4/6 | **No notification sent (no action taken)**
 **⚠️ Watch:** NVDA $212.75 — manual cut level $212.44 is $0.31 (0.14%) away; any further intraday decline breaches -7% rule → immediate close. Trailing GTC $208.35 backstop. GE $310.975 — +15% tighten trigger $322.02 is $11.05 (+3.55%) away.
+
+---
+
+### May 26 — EOD Snapshot (Day 23, Tuesday — Week 6)
+**Portfolio:** $98,752.05 | **Cash:** $21,639.37 (21.9%) | **Day P&L:** +$736.38 (+0.75%) | **Phase P&L:** -$1,247.95 (-1.25%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $313.57 | +3.54% | +$2,247.85 (+11.98%) | $282.21 (HWM $313.57) |
+| LHX | 60 | $308.48 | $311.74 | -0.08% | +$195.45 (+1.06%) | $283.04 (HWM $314.49) |
+| NVDA | 79 | $228.43 | $213.51 | -0.85% | -$1,178.55 (-6.53%) | $208.35 (HWM $231.50) |
+| RTX | 115 | $174.65 | $178.54 | +0.86% | +$447.35 (+2.23%) | $161.94 (HWM $179.93) |
+
+**Notes:** Day 23 (Tuesday, Week 6 — first trading day back from Memorial Day). No trades today; week opens at 0/3 slots used. GE surged +3.54% intraday to a new HWM $313.57 (+11.98% cumulative); trailing stop auto-ratcheted to $282.21 — +15% tighten trigger $322.02 is $8.45 (2.70%) away. NVDA continued declining -0.85% to $213.51 (-6.53% cumulative); manual cut level $212.44 is $1.07 (0.50%) below current; trailing stop $208.35 is backstop. LHX essentially flat (-0.08%), stop $283.04 (HWM $314.49). RTX +0.86% to $178.54, cumulative +2.23%, defense procurement thesis intact. First positive trading day since May 20. Portfolio 78.1% deployed — within 75–85% target band. Phase P&L -$1,247.95 (-1.25%).
+
+---
