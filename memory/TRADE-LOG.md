@@ -865,3 +865,17 @@ No positions yet. Bot launches tomorrow.
 **Week trades:** 0/3 (Week 6) | **Open positions:** 3/6 | **Action taken → Slack notification sent**
 **⚠️ Deployment gap:** 61.1% deployed vs 75–85% target — $14–24k underdeployed. No pre-market catalyst documented for a new buy today. CRM earnings AMC adds tech uncertainty. Scout replacement position at pre-market tomorrow. GE $315.34 — +15% tighten trigger $322.02 is $6.68 (2.12%) away; intraday trigger possible.
 
+
+---
+
+### May 27 — EOD Snapshot (Day 24, Wednesday — Week 6)
+**Portfolio:** $98,580.12 | **Cash:** $38,309.80 (38.9%) | **Day P&L:** -$493.77 (-0.50%) | **Phase P&L:** -$1,419.88 (-1.42%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $318.77 | +1.36% | +$2,596.25 (+13.84%) | $288.43 (HWM $320.48) |
+| LHX | 60 | $308.48 | $309.08 | -1.40% | +$35.85 (+0.19%) | $283.04 (HWM $314.49) |
+| RTX | 115 | $174.65 | $177.12 | -1.04% | +$283.48 (+1.41%) | $161.94 (HWM $179.93) |
+| NVDA | — | $228.43 | — | — | CLOSED -$1,375.41 (-7.62%) | — |
+
+**Notes:** Day 24 (Wednesday, Week 6). NVDA cut at midday per -7% rule (79 shares @ $211.0181, realized -$1,375.41). Portfolio holds 3 positions with 38.9% cash — significantly below 75–85% deployment target. GE +1.36% today, HWM attempt stalled at $320.48; cumulative +13.84%, within $3.25 (+1.02%) of +15% tighten trigger ($322.02). LHX -1.40% today (post-high consolidation), cumulative +0.19%, stop $283.04 (8.5% buffer). RTX -1.04% today, cumulative +1.41%, defense procurement thesis intact. All three GTC trailing stops active and self-adjusting. Week 6: 0 new buys (NVDA sell was rule-triggered close). CRM earnings AMC today — tech signal for tomorrow. Tomorrow pre-market: scout 1–2 replacement positions to close the $14–24k deployment gap.
