@@ -4,6 +4,62 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-27 — Pre-Market Research
+
+### Account
+- **Equity:** $98,979.00 | **Cash:** $21,639.37 (21.9%) | **Long MV:** $77,339.63 (78.1% deployed — ✓ in 75–85% target band)
+- **Buying power:** $120,618.37 (margin; using cash only)
+- **Daytrade count:** 0 | **Positions:** 4/6 | **Week trades:** 0/3 (Week 6, fresh) | 2 position slots, 3 trade slots remain
+
+| Ticker | Shares | Entry | Price | Unreal P&L | % | Today | Stop | HWM |
+|---|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $316.00 | +$2,410.66 | +12.85% | +0.48% | $283.48 (10% trail) | $314.98 |
+| LHX | 60 | $308.48 | $311.60 | +$187.39 | +1.01% | -0.60% | $283.04 (10% trail) | $314.49 |
+| NVDA | 79 | $228.43 | $215.20 | -$1,045.04 | -5.79% | +0.16% | $208.35 (10% trail) | $231.50 |
+| RTX | 115 | $174.65 | $178.00 | +$385.25 | +1.92% | -0.54% | $161.94 (10% trail) | $179.93 |
+
+All four 10% trailing-stop GTC orders confirmed active.
+
+### Sell-Side Check (pre-market)
+- **GE $316.00 (+12.85%):** +15% tighten trigger = $322.02. Buffer: $6.02 (1.90%). **WATCH — approaching tighten threshold.**
+- **NVDA $215.20 (-5.79%):** Manual cut threshold = $212.44 (–7% from entry). Buffer: $2.76 (1.29%). **CRITICAL WATCH.**
+- **LHX $311.60 (+1.01%):** No issues. Stop $283.04.
+- **RTX $178.00 (+1.92%):** No issues. Stop $161.94.
+
+### Market Context
+- **S&P 500 futures:** ESM6 7,541.50 +4.50 (+0.06%) — muted post-holiday open, range 7,538–7,543
+- **VIX:** ~16.70 (May 23 close; May 22: 16.76) — moderate, declining from 20+ in March; healthy environment
+- **WTI:** ~$97–99/bbl (prediction markets imply above $96.99); Brent est. ~$102–104/bbl
+- **GDP:** Q1 2026 real GDP +2.0% annualized (BEA advance) — solid macro backdrop; second estimate due today
+- **Consumer sentiment:** Conference Board 93.1 in May (slight dip –0.7pt); UMich 44.80 in May (near 74-year low, stagflation concerns)
+- **Today's macro data:** Q1 GDP second estimate (BEA, 8:30 AM ET); Conference Board Consumer Confidence possibly also today
+- **Earnings BMO:** No major market-moving names
+- **Earnings AMC: Salesforce (CRM)** — consensus $3.12 EPS / $11.06B revenue. AI-growth narrative; market catalyst for tech sector tomorrow
+- **Sector momentum:** Industrials/Defense strong YTD (+16–22%); Materials strong; Energy BANNED; Technology lagging but AI tailwind; Consumer Staples defensive leader
+
+### Position News
+- **GE ($316.00):** CEO Culp presenting at Bernstein Strategic Decisions Conference today (11:00–11:50 AM ET). No new negative catalyst. Analyst consensus Buy, avg target $348.55. Defense/commercial aviation $190B+ backlog intact. Approaching +15% tighten trigger ($322.02) — intraday trigger possible.
+- **LHX ($311.60):** Space propulsion business sale to AE Industrial Partners (~$845M EV, 60% stake) — portfolio reshaping positive; defense ISR/C2/radar thesis unchanged. Zacks consensus +7.2% revenue / +8.9% EPS growth 2026. No new negative.
+- **NVDA ($215.20):** Q1 FY2027 massive beat ($81.6B vs $78.4B consensus; EPS $1.87 vs $1.76; Q2 guide $91B vs $87.4B). Post-earnings sell-the-news continues. Mgmt explicitly excluded China data center revenue from Q2 guidance — partially weakens H200 thesis but Blackwell/hyperscaler demand intact. $50B buyback active. 37-analyst Buy consensus, avg target $296.57. CRITICAL: $212.44 cut level is $2.76 below current. Trailing GTC $208.35 backstop.
+- **RTX ($178.00):** Defense procurement thesis intact. $6.6B engine contract, $74B backlog. Hormuz/Barakah geopolitical tailwind. No new issues.
+
+### Trade Ideas
+1. **No new buys today** — 78.1% deployed (in 75–85% band); no clear catalyst for 5th position; CRM earnings AMC adds tech-sector uncertainty; NVDA at critical watch zone.
+2. **GE +15% tighten (intraday rule):** If GE trades through $322.02, tighten trailing stop GTC from 10% to 7% (cancel existing order → replace with 7% trailing stop GTC). Pre-authorized by rules; execute at market-open workflow or midday if triggered.
+3. **NVDA -7% exit (rule):** If NVDA closes at or below $212.44, close position immediately. Would free ~$17k cash; scout replacement next session (RTX is only defense name — could add AMD or another AI proxy on a constructive read, or Materials momentum play).
+
+### Risk Factors
+- **NVDA $212.44 proximity:** $2.76 (1.29%) buffer — any modest intraday dip could trigger -7% manual cut rule. Trailing GTC $208.35 is backstop even if manual cut triggers after hours.
+- **CRM earnings AMC:** Salesforce report tonight could shift tech sentiment meaningfully either way (consensus $3.12 EPS / $11.06B rev). May affect NVDA/LHX/GE positioning tomorrow.
+- **GE at $322 tighten:** If GE triggers +15%, must tighten stop — be ready to execute cancel/replace intraday.
+- **Consumer sentiment fragility:** UMich at 74-year lows; Conference Board 93.1 declining — consumer weakness is a macro headwind even if defense/industrial thesis holds.
+- **Post-holiday low volume:** Memorial Day hangover typically brings thin volume Wednesday; amplifies intraday moves (both up and down).
+
+### Decision
+**HOLD** — 78.1% deployed (in band). No new catalyst for additional position. All four trailing-stop GTC orders active. Two intraday action-triggers on watch: GE +15% tighten ($322.02) and NVDA -7% cut ($212.44).
+
+---
+
 ## 2026-05-26 — Pre-Market Research (inline — pre-market routine did not commit)
 
 ### Account
