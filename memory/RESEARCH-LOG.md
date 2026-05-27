@@ -1292,3 +1292,12 @@ TRADE or HOLD (default HOLD if no clear edge)
 - Vera Rubin Q3 shipments on schedule; supply constrained (demand > supply)
 - ⚠️ CRITICAL proximity: $212.75 vs manual cut level $212.44 = $0.31 (0.14%) buffer. Trailing GTC $208.35 is backstop.
 - **Conclusion:** No thesis break. Cut rule at -7% not triggered (-6.864% cumulative). Continued drift is positioning-driven; trailing GTC manages exit. HOLD.
+
+### 2026-05-27 — Afternoon Addendum (Midday Scan)
+
+**NVDA CUT EXECUTED:** NVDA closed at market $211.0181 × 79 shares. Realized P&L -$1,375.41 (-7.62%). Unrealized hit -7.73% intraday — mechanical -7% rule triggered. Perplexity (midday): no new company-specific negative; sector-wide AI/chip selloff driven by macro/positioning pressure. China data center exclusion from Q2 guidance (known since May earnings call) was the fundamental thesis weakener. Stop $208.35 (10% GTC) pre-canceled to free shares before close.
+
+**Post-cut state:** 3 open positions (GE, LHX, RTX), 61.1% deployed — below 75–85% target. No catalyst for immediate replacement; CRM earnings AMC tonight adds tech-sector uncertainty. Scout replacement tomorrow pre-market.
+
+**GE watch:** HWM $320.48 today (Alpaca trailing stop self-ratcheting). +15% tighten trigger $322.02 is $6.68 away — intraday trigger possible if GE continues higher.
+

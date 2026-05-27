@@ -818,3 +818,50 @@ No positions yet. Bot launches tomorrow.
 **Notes:** Day 23 (Tuesday, Week 6 — first trading day back from Memorial Day). No trades today; week opens at 0/3 slots used. GE surged +3.54% intraday to a new HWM $313.57 (+11.98% cumulative); trailing stop auto-ratcheted to $282.21 — +15% tighten trigger $322.02 is $8.45 (2.70%) away. NVDA continued declining -0.85% to $213.51 (-6.53% cumulative); manual cut level $212.44 is $1.07 (0.50%) below current; trailing stop $208.35 is backstop. LHX essentially flat (-0.08%), stop $283.04 (HWM $314.49). RTX +0.86% to $178.54, cumulative +2.23%, defense procurement thesis intact. First positive trading day since May 20. Portfolio 78.1% deployed — within 75–85% target band. Phase P&L -$1,247.95 (-1.25%).
 
 ---
+
+## 2026-05-27 — Midday Scan (Day 24, Wednesday — Week 6)
+
+### NVDA EXIT — Cut at -7% Rule
+| Field | Value |
+|---|---|
+| Symbol | NVDA |
+| Side | SELL (close) |
+| Shares | 79 |
+| Entry | $228.43 |
+| Exit Fill | $211.0181 |
+| Realized P&L | -$1,375.41 (-7.62%) |
+| Reason | Unrealized P&L breached -7% rule (hit -7.73% intraday); cut at -7% per rule — no exceptions |
+| Stop Canceled | Order 5d60f072 (10% trailing GTC) canceled prior to close |
+| Order Filled | 2026-05-27T16:11:34Z |
+
+**Thesis status at exit:** Post-Q1-earnings sell-the-news continued. Mgmt explicitly excluded China data center revenue from Q2 guidance (weakening H200 thesis). Sector-wide AI/chip selloff May 27 (Perplexity confirms: no new company-specific catalyst — macro/positioning driven). Blackwell/hyperscaler demand thesis remained intact but -7% rule is mechanical; no exceptions.
+
+**Closed trades to date:** 1 (NVDA at -7.62%). Validation criterion: ≥6 closed trades still needed.
+
+---
+
+### Midday Scan — Remaining Positions (post-NVDA cut)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $315.34 | +$2,361.34 | +12.61% | +0.27% | $288.43 (10% trail) | $320.48 | HOLD |
+| LHX | $308.48 | $310.68 | +$128.85 | +0.71% | -0.89% | $283.04 (10% trail) | $314.49 | HOLD |
+| RTX | $174.65 | $177.35 | +$288.65 | +1.55% | -0.91% | $161.94 (10% trail) | $179.93 | HOLD |
+
+**Cut losers (-7%):** NVDA executed (see above). Remaining positions: GE +12.61%, LHX +0.71%, RTX +1.55% — all well above threshold.
+**Stop tightening (+15%/+20%):** None — best cumulative gain GE +12.61%, short of +15% trigger ($322.02). GE HWM $320.48 (10% trail auto-ratcheting) — $1.54 below tighten trigger.
+**Trailing stop status (live orders):**
+- GE: GTC active, stop $288.43, HWM $320.48 (self-adjusting intraday from $282.21)
+- LHX: GTC active, stop $283.04, HWM $314.49
+- RTX: GTC active, stop $161.94, HWM $179.93
+**Thesis check:**
+- GE: +0.27% intraday, +12.61% cumulative. CEO Culp presenting at Bernstein Strategic Decisions Conference today (11:00–11:50 AM ET) — no negative catalyst. Defense/commercial aviation $190B+ backlog intact. Stop $288.43 at 8.53% buffer (HWM $320.48). Watch: +15% tighten trigger $322.02 is $6.68 (+2.12%) away. HOLD.
+- LHX: -0.89% intraday, +0.71% cumulative. Post-entry consolidation. LHX space propulsion sale to AE Industrial Partners (~$845M EV) positive portfolio reshaping. Defense ISR/C2/radar thesis intact. Stop $283.04 at 8.89% buffer (HWM $314.49). HOLD.
+- RTX: -0.91% intraday, +1.55% cumulative. Defense procurement thesis intact ($6.6B engine contract, $74B backlog, Hormuz/Barakah escalation). Stop $161.94 at 8.69% buffer (HWM $179.93). HOLD.
+
+**Action taken:** NVDA closed (cut at -7% rule). Trailing stop canceled, position closed at market. Realized P&L -$1,375.41.
+
+**Portfolio (midday):** $98,466.43 | **Cash:** $38,309.80 (38.9%) | **Long MV:** $60,156.63 (61.1% deployed — ⚠️ BELOW 75–85% target band) | **Intraday P&L:** -$615.46 (-0.62%) | **Phase P&L:** ~-$1,533.57 (-1.53%)*
+**Week trades:** 0/3 (Week 6) | **Open positions:** 3/6 | **Action taken → Slack notification sent**
+**⚠️ Deployment gap:** 61.1% deployed vs 75–85% target — $14–24k underdeployed. No pre-market catalyst documented for a new buy today. CRM earnings AMC adds tech uncertainty. Scout replacement position at pre-market tomorrow. GE $315.34 — +15% tighten trigger $322.02 is $6.68 (2.12%) away; intraday trigger possible.
+
