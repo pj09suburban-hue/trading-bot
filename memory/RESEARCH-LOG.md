@@ -4,6 +4,65 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-28 — Pre-market Research (Day 25, Thursday — Week 6)
+
+### Account
+- **Equity:** $98,706.50 | **Cash:** $38,309.78 (38.8%) | **Long MV:** $60,396.72 (61.2% deployed — ⚠️ BELOW 75–85% target)
+- **Buying power:** $137,016.28 (margin; using cash only)
+- **Daytrade count:** 0 | **Positions:** 3/6 | **Week trades:** 0/3 (Week 6)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $317.90 | +$2,538.08 | +13.53% | $288.43 (10% trail) | $320.48 |
+| LHX | 60 | $308.48 | $311.95 | +$208.35 | +1.13% | $283.04 (10% trail) | $314.49 |
+| RTX | 115 | $174.65 | $177.22 | +$295.55 | +1.47% | $161.94 (10% trail) | $179.93 |
+
+**All three GTC trailing stops confirmed active.** GE +15% tighten trigger $322.02 = $4.12 (1.30%) above current — could trigger today intraday.
+
+### Market Context
+- **WTI:** ~$92.03/bbl (recovering from May 26 dip to $88.59; CLN26 futures)
+- **Brent:** ~$106/bbl
+- **S&P 500 futures (ESM26):** +0.36% (MRVL/CRM earnings beats driving overnight strength)
+- **VIX:** 17.01 (May 26 close; slight uptick from 16.59; moderate fear, not elevated)
+- **⚠️ CRITICAL macro today 8:30 AM ET:** GDP Q1 2026 second estimate + PCE April 2026 (Fed's preferred inflation gauge) + initial/continuing jobless claims — all simultaneous. Highest macro risk day of the week.
+- **Sector momentum (YTD):** Energy +22% (#1, leading), Industrials/Defense strong, Real Estate/Utilities improving, Healthcare weakening, Technology/Consumer Disc/Financials lagging.
+
+### Ticker News
+- **GE ($317.90, +13.53% cumul):** No new negative catalyst. Q1 FY2026 beat ($1.86 EPS vs $1.60 est); full-year guidance held at high end. Air Force contract May 19 (GE426 engine for ACP). Analysts remain bullish (Morgan Stanley OW $400, JPMorgan $335, Jefferies Buy $365). ⚠️ +15% tighten trigger $322.02 is $4.12 (1.30%) above current — monitor at open for intraday trigger. Stop $288.43 (HWM $320.48). HOLD.
+- **LHX ($311.95, +1.13% cumul):** Post-high consolidation. Defense ISR/C2/radar thesis intact. Space propulsion sale to AE Industrial (~$845M EV) positive portfolio reshape. Trump $1.5T budget narrative. Stop $283.04 (HWM $314.49, 8.5% buffer). HOLD.
+- **RTX ($177.22, +1.47% cumul):** Defense procurement thesis intact ($6.6B engine contract, $74B backlog). No new catalyst. Stop $161.94 (HWM $179.93, 8.7% buffer). HOLD.
+- **MRVL (earnings AMC May 27 — new):** Q1 FY2027 record revenue $2.418B (+28% YoY); Q2 guide $2.7B midpoint (+35% YoY). Premarket $213.82, volume 2.0M (2× 30-day avg). 52-week high area. AI custom ASIC/data infrastructure demand accelerating. STRONG positive earnings reaction.
+- **CRM (earnings AMC May 27 — new):** Q1 FY2027 revenue $11.13B (+13% YoY), EPS $3.88 vs $2.96 est (+31% beat). cRPO $33.6B (+14%). Strong AI CRM demand. No confirmed premarket price — evaluate next week once settled.
+
+### Trade Ideas
+
+**1. MRVL — TRADE-CONDITIONAL (primary setup)**
+- **Catalyst:** Q1 FY2027 record revenue $2.418B (+28% YoY); Q2 guide $2.7B (+35% YoY); AI custom ASIC demand, hyperscaler build-out intact; positive post-earnings gap in premarket ($213.82). Pre-earnings gap risk resolved — gapped UP.
+- **Sector:** Tech (lagging YTD) — individual catalyst overrides sector headwind; post-earnings momentum is its own catalyst.
+- **Entry:** ~$215 (after 8:30 AM macro data absorbed; enter at open only if PCE benign and stock ≥$210)
+- **Stop:** $194 (10% trailing from entry ~$215 = $21 risk)
+- **Target:** $255 (2:1 R:R on $21 risk = $40 upside from $215)
+- **Shares:** 92 at $215 = $19,780 (20.0% of $98,706.50 equity ✓)
+- **Gate check:** 4 positions ≤ 6 ✓ | 1/3 weekly trades ✓ | cost ~$19.8k ≤ 20% equity ✓ | cash $38.3k sufficient ✓ | daytrade 0 ✓ | catalyst documented ✓ | stock ✓
+- **Condition:** Enter only if (1) 8:30 AM PCE/GDP benign, (2) MRVL ≥ $210 at open, (3) ESM26 not materially negative post-data.
+
+**2. CRM — SKIP (watchlist next week)**
+- Beat was strong but need post-earnings settlement; no confirmed premarket price; insufficient setup for today.
+
+**3. Energy (XOM/CVX) — SKIP**
+- WTI recovering $92 but no single-stock catalyst today. Wait for clean sector entry.
+
+### Risk Factors
+- **8:30 AM ET macro bomb:** GDP + PCE + jobless claims simultaneously. Hot PCE (>2.7% core) → rate cut delay → broad selloff, MRVL setup invalidated, existing positions pressured.
+- **GE tighten trigger:** +15% rule triggers at $322.02 (1.30% above premarket). Positive discipline action but requires attention at open.
+- **Deployment gap:** 61.2% deployed, $14–$24k underdeployed. MRVL fills this gap structurally — 4 positions at ~$80k deployed = 81% of equity (in target band ✓).
+- **Defense concentration:** 3 of 4 current positions in defense/industrials (GE, LHX, RTX). MRVL adds AI/tech diversification.
+
+### Decision
+**TRADE-CONDITIONAL (MRVL)** — Specific catalyst exists (Q1 FY2027 earnings beat + guide raise). Deployment gap requires a 4th position. Conditions for entry: 8:30 AM data benign, MRVL ≥ $210 at open, ESM26 not materially red. If macro data hot/ugly, default to HOLD and revisit Friday. GE: monitor +15% tighten trigger ($322.02 intraday); execute stop-tighten to 7% if triggered.
+
+---
+
 ## 2026-05-27 — Pre-Market Research
 
 ### Account
