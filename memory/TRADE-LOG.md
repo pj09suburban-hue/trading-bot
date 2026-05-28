@@ -924,3 +924,16 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $99,360.48 | **Cash:** $38,309.78 (38.6%) | **Long MV:** $61,050.70 (61.4% deployed — ⚠️ BELOW 75–85% target) | **Day P&L:** +$946.78 (+0.96%) | **Phase P&L:** -$639.52 (-0.64%)
 **Week trades:** 0/3 (Week 6) | **Open positions:** 3/6 | **Slack notification sent**
 **⚠️ Deployment gap:** 61.4% deployed vs 75–85% target — ~$14–24k underdeployed. MRVL missed $210 condition today; scout Friday pre-market. Next GE tighten trigger: +20% = $336.02 ($15.00 / +4.67% away).
+
+---
+
+### May 28 — EOD Snapshot (Day 25, Thursday)
+**Portfolio:** $99,300.67 | **Cash:** $38,309.78 (38.6%) | **Day P&L:** +$886.97 (+0.90%) | **Phase P&L:** -$699.33 (-0.70%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $321.07 | +1.22% | +$2,750.35 (+14.66%) | $298.83 (7% trail, HWM $321.32) |
+| LHX | 60 | $308.48 | $313.72 | +1.51% | +$314.25 (+1.70%) | $283.85 (10% trail, HWM $315.39) |
+| RTX | 115 | $174.65 | $179.62 | +1.72% | +$571.55 (+2.85%) | $163.40 (10% trail, HWM $181.55) |
+
+**Notes:** Day 25 (Thursday, Week 6). No new buys or sells today; week stands at 0 buys, 3 slots available (NVDA cut yesterday was rule-triggered, not a discretionary buy slot). Key action: GE trailing stop tightened 10% → 7% at midday when HWM $322.32 crossed the +15% trigger ($322.02) — stop improved from $290.09 → $298.83 (HWM $321.32 per Alpaca EOD). All three positions closed green — GE +1.22%, LHX +1.51%, RTX +1.72%. GE cumulative +14.66%, next stop-tighten trigger at +20% = $336.02 (~4.66% away). Portfolio 61.4% deployed — below 75–85% target band; $14–24k redeployment gap persists. MRVL skipped (midday $200–202, below $210 entry condition). Energy sector ban still in effect. Tomorrow (Friday — weekly review day): pre-market scan for 1–2 non-energy momentum setups; MRVL revisit if above $210; assess whether to deploy remaining slot(s) or preserve them.
