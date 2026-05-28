@@ -879,3 +879,48 @@ No positions yet. Bot launches tomorrow.
 | NVDA | — | $228.43 | — | — | CLOSED -$1,375.41 (-7.62%) | — |
 
 **Notes:** Day 24 (Wednesday, Week 6). NVDA cut at midday per -7% rule (79 shares @ $211.0181, realized -$1,375.41). Portfolio holds 3 positions with 38.9% cash — significantly below 75–85% deployment target. GE +1.36% today, HWM attempt stalled at $320.48; cumulative +13.84%, within $3.25 (+1.02%) of +15% tighten trigger ($322.02). LHX -1.40% today (post-high consolidation), cumulative +0.19%, stop $283.04 (8.5% buffer). RTX -1.04% today, cumulative +1.41%, defense procurement thesis intact. All three GTC trailing stops active and self-adjusting. Week 6: 0 new buys (NVDA sell was rule-triggered close). CRM earnings AMC today — tech signal for tomorrow. Tomorrow pre-market: scout 1–2 replacement positions to close the $14–24k deployment gap.
+
+---
+
+## 2026-05-28 — Midday Scan (Day 25, Thursday — Week 6)
+
+### GE Stop Tightened — +15% Rule Triggered
+| Field | Value |
+|---|---|
+| Symbol | GE |
+| Action | Trailing stop tightened: 10% → 7% |
+| Trigger | HWM $322.32 crossed +15% threshold ($322.023 = $280.02 × 1.15) |
+| Old stop | $290.088 (10% trail, order 9e2774f6) — canceled |
+| New stop | $298.74 (7% trail, order 371795d6, HWM $321.23) |
+| Current price | $321.06 (+14.66% cumul at time of action) |
+| 3% buffer check | Stop $298.74 is 7.0% below current — outside 3% constraint ✓ |
+| Next tighten trigger | +20% = $280.02 × 1.20 = $336.02 |
+
+### MRVL — Not Traded (condition not met)
+| Field | Value |
+|---|---|
+| Setup | Pre-market: trade conditional on MRVL ≥ $210 at open and PCE benign |
+| Actual | MRVL midday ~$200–202; sell-the-news after Q1 earnings beat; sector rotation in AI/semis |
+| Decision | SKIP — entry condition not met. No company-specific negative catalyst. Revisit Friday pre-market. |
+
+### Position Summary (midday)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $321.06 | +$2,749.68 | +14.66% | +1.21% | $298.74 (7% trail) | $321.23 | STOP TIGHTENED ✓ |
+| LHX | $308.48 | $313.28 | +$287.85 | +1.55% | +1.37% | $283.85 (10% trail) | $315.39 | HOLD |
+| RTX | $174.65 | $180.19 | +$637.10 | +3.17% | +2.04% | $163.40 (10% trail) | $181.55 | HOLD |
+
+**Cut losers (-7%):** None — all positions profitable.
+**Stop tightening:** GE triggered — HWM $322.32 crossed +15% threshold ($322.023). Old 10% stop $290.09 → new 7% stop $298.74.
+**Thesis check:**
+- GE: +1.21% intraday, +14.66% cumulative. HWM $322.32 confirmed +15% trigger was reached. Stop tightened to 7%. Aviation/defense $190B+ backlog intact. Next trigger: +20% = $336.02.
+- LHX: +1.37% intraday, +1.55% cumulative. New HWM $315.39. Defense ISR/C2/radar thesis intact. HOLD.
+- RTX: +2.04% intraday, +3.17% cumulative. New HWM $181.55. Defense procurement thesis intact. HOLD.
+- MRVL (not held): $200–202 midday — below $210 pre-market entry condition. Sell-the-news, no company-specific negative. Revisit Friday.
+
+**Action taken:** GE trailing stop tightened 10% → 7% per rule (HWM crossed +15% threshold). Stop improved $290.09 → $298.74 (+$8.65).
+
+**Portfolio (midday):** $99,360.48 | **Cash:** $38,309.78 (38.6%) | **Long MV:** $61,050.70 (61.4% deployed — ⚠️ BELOW 75–85% target) | **Day P&L:** +$946.78 (+0.96%) | **Phase P&L:** -$639.52 (-0.64%)
+**Week trades:** 0/3 (Week 6) | **Open positions:** 3/6 | **Slack notification sent**
+**⚠️ Deployment gap:** 61.4% deployed vs 75–85% target — ~$14–24k underdeployed. MRVL missed $210 condition today; scout Friday pre-market. Next GE tighten trigger: +20% = $336.02 ($15.00 / +4.67% away).

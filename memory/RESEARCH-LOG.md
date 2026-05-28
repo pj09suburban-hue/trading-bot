@@ -1360,3 +1360,11 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 **GE watch:** HWM $320.48 today (Alpaca trailing stop self-ratcheting). +15% tighten trigger $322.02 is $6.68 away — intraday trigger possible if GE continues higher.
 
+---
+
+## 2026-05-28 — Afternoon Addendum (Midday Scan)
+
+- **MRVL ($200–202 midday):** Sell-the-news / profit-taking post Q1 FY2027 beat; no company-specific negative catalyst. Pre-market $213.82 → midday ~$200–202 (~-6–7%). Sector rotation in AI/semis. Long-term AI custom ASIC thesis intact. Pre-market entry condition ($210) was not met → no trade. Revisit Friday pre-market if price stabilizes or sector reverses.
+- **Defense sector (GE +1.21%, LHX +1.37%, RTX +2.04%):** All three up solidly at midday. Suggests 8:30 AM macro data (GDP Q1 second estimate + PCE April + jobless claims) was benign — no broad selloff. Defense momentum continues.
+- **GE HWM $322.32:** Confirmed +15% tighten rule triggered intraday. Stop replaced: 10% → 7% (order 371795d6, stop $298.74). Next trigger: +20% = $336.02.
+
