@@ -949,3 +949,26 @@ No positions yet. Bot launches tomorrow.
 **⚠️ Entry condition miss:** Research condition was MRVL ≥ $210 at open. Pre-market data used was Thursday May 28's pre-market reading ($213.82) — stale; actual May 28 close was $204.83; today's open fill was $203.11 (below $210 threshold). All hard strategy rules passed (positions 4/6, trades 1/3, cost $18,686 = 18.9% equity, PDT 1/3, catalyst documented, stock). Thesis intact; position held with 10% trailing stop GTC immediately placed.
 
 **Week trades:** 1/3 (Week 6) | **Open positions:** 4/6 | **Deployed:** ~$79,123 / $98,746 (80.1%) ✓ in 75–85% target band | **Daytrade count:** 1
+
+---
+
+## 2026-05-29 — Midday Scan (Day 26, Friday — Week 6)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $325.00 | +$3,013.66 | +16.06% | +1.30% | $302.715 (7% trail) | $325.50 | HOLD — 7% stop active; +20% trigger $336.02 not yet reached |
+| LHX | $308.48 | $313.46 | +$298.95 | +1.62% | -0.42% | $283.851 (10% trail) | $315.39 | HOLD — thesis intact |
+| MRVL | $203.11 | $202.935 | -$16.10 | -0.09% | -0.93% | $187.884 (10% trail) | $208.76 | HOLD — day-1 noise; thesis intact |
+| RTX | $174.65 | $179.51 | +$558.90 | +2.78% | +0.31% | $163.395 (10% trail) | $181.55 | HOLD — thesis intact |
+
+**Cut losers (-7%):** None — worst MRVL -0.09% (cut level $188.89; current $202.94 is 7.4% above cut). No action.
+**Stop tightening (+15%/+20%):** GE +16.06% — already at 7% trail (tightened May 28). +20% trigger $336.02 not reached ($11.02 away). No new tightening warranted. LHX/MRVL/RTX below +15% threshold.
+**Thesis check:**
+- GE: +1.30% intraday; new HWM $325.50 (7% stop auto-ratcheted to $302.715 — 6.86% buffer). Defense/commercial aviation $190B+ backlog intact. Next tighten: +20% = $336.02. HOLD.
+- LHX: -0.42% intraday, +1.62% cumulative. Defense ISR/C2/radar thesis intact. Stop $283.851 (HWM $315.39, 9.4% buffer). HOLD.
+- MRVL: -0.93% intraday, -0.09% cumulative. Day-1 position; no new negative catalyst. AI custom ASIC/hyperscaler thesis intact (Q2 guide +35% YoY). Stop $187.884 (HWM $208.76, 7.4% buffer from current). HOLD.
+- RTX: +0.31% intraday, +2.78% cumulative. Defense procurement thesis intact ($6.6B engine contract, $74B backlog). Stop $163.395 (HWM $181.55, 9.0% buffer). HOLD.
+**No action taken.** All four 10%/7% trailing-stop GTC orders active and self-adjusting. No Slack notification sent.
+
+**Portfolio (midday):** ~$99,520 | **Cash:** $19,623.66 (19.7%) | **Long MV:** $79,896.27 (80.3% deployed ✓) | **Day P&L:** ~+$219 (+0.22%) | **Phase P&L:** ~-$480 (-0.48%)
+**Week trades:** 1/3 (Week 6) | **Open positions:** 4/6 | **Daytrade count:** 1
