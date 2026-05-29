@@ -307,3 +307,70 @@ Template for each entry:
 
 ### Overall Grade: C
 *Week 5 — first positive week after the -3.63% Week 4 disaster; stop system working; no rule violations; LHX entry disciplined. But portfolio still underperforming S&P by wide cumulative margin (-7.82%), 0 winning exits in 5 weeks, and NVDA approaching the -7% cut level. The C reflects improved execution quality and a positive week while acknowledging the persistent structural problem: no profitable realized trades yet, and a deteriorating NVDA position that remains the portfolio's biggest risk going into Week 6.*
+
+---
+
+## Week ending 2026-05-29
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,534.57 |
+| Ending portfolio | $99,747.28 |
+| Week return | +$1,212.71 (+1.23%) |
+| S&P 500 week | +1.50% (7,473.47 → 7,585.33) |
+| Bot vs S&P | -0.27% |
+| Phase return | -$252.72 (-0.25% from $100k baseline) |
+| Phase bot vs S&P | -6.12% (phase S&P +5.87% from Apr 24 start 7,165) |
+| Trades | 2 (W:0 / L:1 / open:4) |
+| Win rate | 0% (0/1 closed this week; 0/5 all-time) |
+| Best trade | GE +15.62% unrealized |
+| Worst trade | NVDA -7.62% (realized) |
+| Profit factor | N/A — 0 winners all-time |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| NVDA | $228.43 | $211.02 | -$1,375.41 (-7.62%) | Cut May 27 per -7% rule; 12-day hold; post-Q1 sell-the-news + no China DC revenue excluded from Q2 guide |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| GE | $280.02 | $323.76 | +$2,930.58 (+15.62%) | $303.11 (7% trail, HWM $325.92) |
+| LHX | $308.48 | $315.18 | +$402.15 (+2.17%) | $283.85 (10% trail, HWM $315.39) |
+| MRVL | $203.11 | $205.00 | +$173.88 (+0.93%) | $187.88 (10% trail, HWM $208.76) |
+| RTX | $174.65 | $179.66 | +$576.15 (+2.87%) | $163.40 (10% trail, HWM $181.55) |
+
+### What Worked
+- NVDA -7% cut executed on May 27 with zero exceptions — mechanical rule applied, no hope trade, capital freed for MRVL 2 days later
+- GE +15% stop-tighten executed correctly on May 28 — HWM $322.32 crossed trigger, old 10% stop canceled, new 7% stop placed; $303.11 now protects $1,555 of unrealized gain
+- Defense core (GE, LHX, RTX) all profitable and intact at week end — sector thesis delivering across all three names for 6+ weeks
+- MRVL day-1 close +0.93%; AI custom ASIC/hyperscaler thesis valid; all hard gate rules passed despite entry condition miss
+- Phase P&L recovered from -$2,004.48 (-2.00%) to -$252.72 (-0.25%) — largest single-week phase improvement since launch
+
+### What Didn't Work
+- Bot lagged S&P by -0.27% this week (bot +1.23% vs S&P +1.50%) — NVDA realized loss dragged weekly performance
+- MRVL entry condition miss: pre-market data from May 28 used for May 29 setup; actual open $203.11 was below the $210 gate; entry should have been reconsidered or the condition verified against May 28 close ($204.83)
+- 0/5 all-time closed-trade win rate — portfolio has never produced a realized gain; 6 weeks in with no winning exits is unsustainable
+- Portfolio underdeployed (3 positions, ~61%) for 4 of 5 trading days following Wednesday's NVDA cut
+- Phase bot vs S&P: -6.12% cumulative — deep hole vs benchmark despite this week's recovery
+
+### Key Lessons
+- The -7% rule is the single most important mechanical rule: NVDA was cut without debate or delay on May 27; this is the execution standard
+- GE at 6-week hold (+15.62%) validates the "patience > activity" principle — a position doesn't need to be churned to deliver alpha
+- Pre-market entry conditions must use same-day data: MRVL's $210 gate was set using May 28 pre-market pricing; the actual May 28 close ($204.83) and May 29 open ($203.11) were both below it; always cross-check any price-threshold condition against yesterday's close before placing an order
+- Defense/Industrials (GE, LHX, RTX) is the only sector with zero stop-outs in the phase; every other sector thesis (Energy, Utilities, AI/Semis) produced losses; sector selection quality matters more than individual entry timing
+- Validation criterion: 5/6 closed trades met; need 1 more closed trade; GE or RTX at a winning exit would satisfy both the validation gate and break the 0-for-5 streak
+
+### Adjustments for Next Week
+- GE: +20% trigger at $336.02 ($12.26 / +3.78% from current $323.76); be ready to tighten 7% → 5% immediately on any session GE hits $336.02 or HWM crosses that threshold
+- MRVL: Day-1 position; watch Monday open closely — if gap-down toward $188.89 (-7% from entry) or thesis break, cut immediately; confirmation of AI/hyperscaler demand thesis comes from any hyperscaler capex news
+- LHX (+2.17%) and RTX (+2.87%): HOLD; defense procurement thesis intact; no approaching stop levels; no action unless thesis breaks
+- 1 position slot, 2 trade slots remain; identify 1 non-energy momentum setup with documented May/June catalyst — NUE (steel/tariffs thesis still valid), or a second AI/tech name if MRVL confirms
+- Pre-market data discipline: before finalizing any price-threshold entry condition, explicitly verify yesterday's close via `bash scripts/alpaca.sh quote SYM`
+
+### Overall Grade: C+
+*Week 6 — positive week (+1.23%) but lagged S&P by 0.27%; phase recovered from -2.00% to -0.25% (most improvement in a single week since launch). NVDA -7% cut and GE +15% stop tighten were both executed correctly. MRVL entry had a procedural data miss. The 0-for-5 all-time closed-trade record is the portfolio's defining weakness — 6 weeks without a realized gain means the strategy's upside execution remains completely unvalidated.*
