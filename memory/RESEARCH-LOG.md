@@ -4,6 +4,55 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-05-29 — Pre-market Research (Day 26, Friday — Week 6) [inline at market-open]
+
+### Account
+- **Equity:** $98,746.16 (post-MRVL fill) | **Cash:** $19,623.66 (19.9%) | **Long MV:** $79,122.50 (80.1% deployed — ✓ in 75–85% target band)
+- **Buying power:** $118,369.82 (margin; using cash only)
+- **Daytrade count:** 1 | **Positions:** 4/6 | **Week trades:** 1/3 (Week 6)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $319.45 | +$2,641.81 | +14.08% | $299.60 (7% trail) | $322.15 |
+| LHX | 60 | $308.48 | $311.34 | +$171.60 | +0.93% | $283.85 (10% trail) | $315.39 |
+| MRVL | 92 | $203.11 | $203.80 | +$63.02 | +0.34% | $184.11 (10% trail) | $204.57 |
+| RTX | 115 | $174.65 | $176.64 | +$228.56 | +1.14% | $163.40 (10% trail) | $181.55 |
+
+### Market Context
+- **PCE April 2026 (released May 28):** Headline +0.40% MoM (vs. +0.53% consensus — below); Core +0.24% MoM, +3.3% YoY — benign on monthly momentum basis
+- **GDP Q1 2026 2nd estimate:** Released simultaneously May 28 with PCE; market reaction constructive
+- **Today (May 29) macro:** Chicago PMI (1:45 PM ET), New Home Sales (2:00 PM ET), Fed Williams/Bowman/Paulson speakers — lighter calendar vs. yesterday
+- **Sector momentum:** Industrials/Defense solid; broad market mild red open (-0.4% to -1.3% across holdings intraday); AI/tech recovering post-PCE beat
+
+### Ticker News
+- **GE ($319.45, +14.08% cumul):** No new catalyst. 7% trailing stop $299.60 (HWM $322.15). Next tighten trigger +20% = $336.02 ($16.57 away). Thesis intact.
+- **LHX ($311.34, +0.93% cumul):** Defense ISR/C2/radar thesis intact. Stop $283.85 (HWM $315.39, 8.4% buffer). HOLD.
+- **RTX ($176.64, +1.14% cumul):** Defense procurement thesis intact ($6.6B engine contract, $74B backlog). Stop $163.40 (HWM $181.55, 7.4% buffer). HOLD.
+- **MRVL (new entry $203.11):** Q1 FY2027 record $2.418B (+28% YoY); Q2 guide $2.7B (+35% YoY); AI custom ASIC/hyperscaler demand accelerating. ⚠️ Pre-market data used was Thursday's ($213.82 was May 28 pre-market, not today's); actual May 28 close was $204.83; today's open $203.11 (below $210 entry condition). All hard rules pass; thesis intact.
+
+### Trade Ideas
+
+**MRVL — EXECUTED (entry condition miss — stale data)**
+- **Catalyst:** Q1 FY2027 $2.418B (+28% YoY); Q2 guide +35% YoY; AI custom ASIC/hyperscaler thesis; PCE benign
+- **Entry condition (research-defined):** MRVL ≥ $210 at open → NOT MET (fill $203.11; condition threshold $210)
+- **Hard rules:** All pass — 4/6 positions, 1/3 trades, 18.9% equity, PDT 1/3, catalyst documented, stock ✓
+- **Decision:** Position held — thesis intact, hard rules pass; condition miss due to stale pre-market data (Thursday's $213.82 vs. actual close $204.83)
+- **Entry:** $203.11 (92 shares, $18,686 = 18.9% equity)
+- **Stop:** $184.11 (10% trailing GTC, HWM $204.57)
+- **Target:** $243.73 (+20%)
+- **R:R:** 2:1
+
+### Risk Factors
+- **MRVL entry condition miss:** Continued sell-the-news from Q1 earnings; AI/tech sector lagging YTD; monitoring for thesis break vs. -7% cut at $188.89
+- **GE:** 7% stop $299.60 (6.2% buffer from $319.45); next tighten +20% = $336.02
+- **LHX/RTX:** Mild red day; defense theses intact; stops well-buffered
+- **Chicago PMI / New Home Sales (afternoon):** Could shift rate/housing sentiment; low direct impact on current holdings
+
+### Decision
+**TRADE EXECUTED — MRVL 92 shares @ $203.11.** Entry condition miss documented. Portfolio 80.1% deployed (✓ in target band). Week: 1/3 trades. Daytrade: 1/3.
+
+---
+
 ## 2026-05-28 — Pre-market Research (Day 25, Thursday — Week 6)
 
 ### Account

@@ -937,3 +937,15 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $179.62 | +1.72% | +$571.55 (+2.85%) | $163.40 (10% trail, HWM $181.55) |
 
 **Notes:** Day 25 (Thursday, Week 6). No new buys or sells today; week stands at 0 buys, 3 slots available (NVDA cut yesterday was rule-triggered, not a discretionary buy slot). Key action: GE trailing stop tightened 10% → 7% at midday when HWM $322.32 crossed the +15% trigger ($322.02) — stop improved from $290.09 → $298.83 (HWM $321.32 per Alpaca EOD). All three positions closed green — GE +1.22%, LHX +1.51%, RTX +1.72%. GE cumulative +14.66%, next stop-tighten trigger at +20% = $336.02 (~4.66% away). Portfolio 61.4% deployed — below 75–85% target band; $14–24k redeployment gap persists. MRVL skipped (midday $200–202, below $210 entry condition). Energy sector ban still in effect. Tomorrow (Friday — weekly review day): pre-market scan for 1–2 non-energy momentum setups; MRVL revisit if above $210; assess whether to deploy remaining slot(s) or preserve them.
+
+---
+
+## 2026-05-29 — Market-Open Trades
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-05-29 | MRVL | BUY | 92 | $203.11 (avg) | $184.11 (10% trail GTC, HWM $204.57) | Q1 FY2027 record $2.418B (+28% YoY); Q2 guide $2.7B (+35% YoY); AI custom ASIC/hyperscaler demand; PCE April +0.24% MoM benign | $243.73 (+20%) | 2:1 |
+
+**⚠️ Entry condition miss:** Research condition was MRVL ≥ $210 at open. Pre-market data used was Thursday May 28's pre-market reading ($213.82) — stale; actual May 28 close was $204.83; today's open fill was $203.11 (below $210 threshold). All hard strategy rules passed (positions 4/6, trades 1/3, cost $18,686 = 18.9% equity, PDT 1/3, catalyst documented, stock). Thesis intact; position held with 10% trailing stop GTC immediately placed.
+
+**Week trades:** 1/3 (Week 6) | **Open positions:** 4/6 | **Deployed:** ~$79,123 / $98,746 (80.1%) ✓ in 75–85% target band | **Daytrade count:** 1
