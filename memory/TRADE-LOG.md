@@ -972,3 +972,19 @@ No positions yet. Bot launches tomorrow.
 
 **Portfolio (midday):** ~$99,520 | **Cash:** $19,623.66 (19.7%) | **Long MV:** $79,896.27 (80.3% deployed ✓) | **Day P&L:** ~+$219 (+0.22%) | **Phase P&L:** ~-$480 (-0.48%)
 **Week trades:** 1/3 (Week 6) | **Open positions:** 4/6 | **Daytrade count:** 1
+
+---
+
+### May 29 — EOD Snapshot (Day 26, Friday)
+**Portfolio:** $99,558.84 | **Cash:** $19,623.66 (19.7%) | **Day P&L:** +$258.17 (+0.26%) | **Phase P&L:** -$441.16 (-0.44%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $323.65 | +0.88% | +$2,922.88 (+15.58%) | $303.11 (7% trail, HWM $325.92) |
+| LHX | 60 | $308.48 | $313.31 | -0.47% | +$289.95 (+1.57%) | $283.85 (10% trail, HWM $315.39) |
+| MRVL | 92 | $203.11 | $205.41 | +1.13%* | +$211.14 (+1.13%) | $187.88 (10% trail, HWM $208.76) |
+| RTX | 115 | $174.65 | $178.74 | -0.12% | +$470.35 (+2.34%) | $163.40 (10% trail, HWM $181.55) |
+
+*MRVL bought today; day chg vs entry.
+
+**Notes:** Day 26 (Friday, Week 6). One trade: MRVL BUY 92sh @ $203.11 avg (AI custom ASIC/hyperscaler thesis, Q2 guide +35% YoY; entry was below the $210 gate due to stale pre-market data, but all hard strategy rules passed and stop placed immediately). Portfolio 4 positions, 80.3% deployed — within 75–85% target band. GE extended to +15.58% cumulative; 7% trailing stop active at $303.11 (HWM $325.92); next stop-tighten trigger +20% = $336.02 ($12.37 / +3.82% away). LHX -0.47% intraday, +1.57% cumulative; stop $283.85 intact. MRVL closed at $205.41, +1.13% vs entry; AI ASIC thesis intact. RTX -0.12% intraday, +2.34% cumulative; defense procurement thesis strongest across the book. All four GTC trailing stops active and self-adjusting. Week 6: 1/3 trade slots used; energy sector ban in effect. Weekly review fires this afternoon. Next session Monday June 1.
