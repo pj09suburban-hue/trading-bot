@@ -1368,3 +1368,62 @@ TRADE or HOLD (default HOLD if no clear edge)
 - **Defense sector (GE +1.21%, LHX +1.37%, RTX +2.04%):** All three up solidly at midday. Suggests 8:30 AM macro data (GDP Q1 second estimate + PCE April + jobless claims) was benign — no broad selloff. Defense momentum continues.
 - **GE HWM $322.32:** Confirmed +15% tighten rule triggered intraday. Stop replaced: 10% → 7% (order 371795d6, stop $298.74). Next trigger: +20% = $336.02.
 
+
+---
+
+## 2026-05-29 — Pre-market Research (Day 26, Friday — Week 6)
+
+### Account
+- **Equity:** $99,092.03 | **Cash:** $38,309.78 (38.7%) | **Long MV:** $60,782.25 (61.3% deployed — ⚠️ BELOW 75–85% target)
+- **Buying power:** $137,401.81 | **Daytrade count:** 0 | **Positions:** 3/6 | **Week trades:** 0/3 (Week 6)
+
+| Ticker | Shares | Entry | Pre-Mkt | Unreal P&L | % | Stop | HWM | Note |
+|---|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $320.20 | +$2,692.06 | +14.35% | $299.60 (7% trail) | $322.15 | Next tighten +20% = $336.02 |
+| LHX | 60 | $308.48 | $313.26 | +$286.95 | +1.55% | $283.85 (10% trail) | $315.39 | HOLD |
+| RTX | 115 | $174.65 | $178.55 | +$448.50 | +2.23% | $163.40 (10% trail) | $181.55 | HOLD |
+
+### Market Context
+- **WTI:** ~$88.63/bbl (-0.30%) — off recent $92–97 range; Iran skirmish risk still priced, some de-escalation drift
+- **S&P 500 futures (ES):** ~6,657.50, +0.10% — mild positive bias; not a risk-on surge
+- **VIX:** 16.29 (down from 17.01) — low/moderate; constructive backdrop
+- **PCE:** Released yesterday May 28 — reaction subdued ("Stocks Flat Following Iran Skirmishes, PCE Data" per Schwab); no new inflation surprise
+- **Today (May 29):** No major macro releases scheduled — light calendar. Next PCE: June 25.
+- **Earnings BMO:** None confirmed today.
+- **Sector momentum (YTD):** Energy +22%+ (#1, BANNED — 2 consecutive failed sector trades policy under review), Consumer Staples, Industrials/Defense in Leading quadrant. Technology Lagging.
+
+### Ticker News
+- **GE (+14.35% cumul):** Q1 beat intact; aviation/defense $190B+ backlog. Pre-mkt -0.19% — minor drift, no news catalyst today. GTC 7% trail active (stop $299.60, HWM $322.15). +20% trigger $336.02 is $15.82 (+4.94%) away. HOLD.
+- **LHX (+1.55% cumul):** Pre-mkt -0.48%. Tickeron flagged 30-day pressure (~-12%) on broader profit-taking from highs — but record backlog $40.7B and defense ISR/C2 thesis intact. No new negative catalyst. HOLD.
+- **RTX (+2.23% cumul):** Pre-mkt -0.23%. Q1 raised guidance intact; $74B backlog; defense procurement thesis intact. HOLD.
+- **MRVL (~$204):** Yesterday range $191.84–$211.00. HSBC upgraded Hold→Buy (target $300, +44% upside). RBC raised PT. Q1 FY2027 EPS $0.80 vs $0.79 est — beat. Sell-the-news consolidation phase (peaked near $213 pre-earnings). Pre-market ~$204 — BELOW $210 entry condition. Analyst support building; AI custom ASIC (Amazon/Google co-design) thesis intact.
+
+### Trade Ideas
+
+**1. MRVL — TRADE-CONDITIONAL (primary)**
+- Condition: Opens and sustains ≥ $210 at market open
+- Entry: Market at open (or limit $210) if condition met; skip if opens < $210
+- Shares: 94 (≤20% equity at $210 = $19,740)
+- Stop: 10% trailing GTC, ~$189–190 if filled $210
+- Target: $231+ (2:1 R:R on $21 risk = $42 target from $210 → $252; conservative target $231 = 1:1.5 R:R minimum)
+- Catalyst: HSBC upgrade, Q1 beat, AI custom ASIC thesis (Amazon co-design custom chips), post-earnings consolidation completing
+- Sector: Technology/Semis (Lagging YTD — risk factor; AI custom ASIC sub-theme diverging from broad semi weakness)
+- Deployment impact: +$19.7k → 81.0% deployed ✓ (within 75–85% target band)
+- Gate check: 4/6 positions ✓ | 1/3 trades ✓ | ≤20% equity ✓ | cash sufficient ✓ | daytrade count 0 ✓ | not an option ✓
+
+**2. No additional position today (secondary / HOLD)**
+- 3 trade slots remain available (Week 6, last day) but today is also weekly review day
+- Patience > activity; forcing a second trade without catalyst violates discipline
+- If MRVL skipped, scout 1–2 setups for Week 7 during weekly review
+
+### Risk Factors
+- **Deployment gap:** 61.3% deployed — $14–24k underdeployed all week. MRVL is the best near-term fix IF entry condition met.
+- **MRVL sell-the-news:** $204 pre-mkt is below $210 threshold. A gap-fill back above $210 on open would be valid; a weak open stays HOLD.
+- **LHX proximity to cost:** +1.55% cumulative; trailing stop at $283.85 — only 9.4% buffer. Prolonged consolidation keeps LHX at risk of stop-out.
+- **Defense sector concentration:** 3/3 positions in defense/industrials; MRVL would diversify into tech.
+- **Friday liquidity:** Vol can thin into close; avoid size-up late in day.
+- **GE tighten trigger $336.02:** May not reach today on quiet Friday; watch intraday if GE gaps up.
+
+### Decision
+**TRADE-conditional** — Execute MRVL if ≥ $210 at open; HOLD if below. No other trades today regardless. Weekly review at 4 PM ET will assess Week 6 and set strategy for Week 7.
+
