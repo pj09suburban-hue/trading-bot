@@ -1012,3 +1012,17 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $99,733.54 | **Cash:** $19,623.66 (19.7%) | **Long MV:** $80,109.88 (80.3% deployed ✓) | **Day P&L:** +$21.00 (+0.02%) | **Phase P&L:** -$266.46 (-0.27%)
 **Week trades:** 0/3 (Week 7) | **Open positions:** 4/6 | **Daytrade count:** 0
 **Note:** MRVL stop improvement: $187.88→$198.17 (+$10.29) as HWM advanced $208.76→$220.19. Next tighten triggers: MRVL +15% = $233.58 ($18.86 away); GE +20% = $336.02 ($15.81 away).
+
+---
+
+### Jun 01 — EOD Snapshot (Day 27, Monday)
+**Portfolio:** $100,757.05 | **Cash:** $19,623.66 (19.5%) | **Day P&L:** +$1,009.77 (+1.01%) | **Phase P&L:** +$757.05 (+0.76%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $325.21 | +0.45% | +$3,027.73 (+16.14%) | $303.55 (7% trail, HWM $326.40) |
+| LHX | 60 | $308.48 | $311.63 | -1.13% | +$189.15 (+1.02%) | $283.85 (10% trail, HWM $315.39) |
+| MRVL | 92 | $203.11 | $222.29 | +8.43% | +$1,764.10 (+9.44%) | $202.63 (10% trail, HWM $225.14) |
+| RTX | 115 | $174.65 | $175.62 | -2.25% | +$111.55 (+0.55%) | $163.40 (10% trail, HWM $181.55) |
+
+**Notes:** Day 27 (Monday, Week 7). No new trades today; Week 7 stands at 0/3 slots used. MRVL was the standout: +8.43% intraday on HSBC upgrade (Hold→Buy, target $300) and COMPUTEX June 2 keynote anticipation; HWM advanced $220.19→$225.14 with stop auto-ratcheted to $202.63 — now 7 cents below entry, effectively protected. GE +0.45% intraday, +16.14% cumulative; 7% trailing stop holds at $303.55 (HWM $326.40); +20% tighten trigger ($336.02) is $10.81 away. LHX and RTX both declined on US-Iran ceasefire narrative compressing defense-sector risk premium; no thesis breaks, stops intact. Portfolio crossed into positive phase territory for the first time: +$757.05 (+0.76%) vs $100,000 starting equity. All four GTC trailing stops active and self-adjusting. 4/6 positions, 80.5% deployed (within 75–85% band). Trades this week: 0/3. Tomorrow (Tuesday June 2): COMPUTEX keynote — key MRVL catalyst; pre-market scan for Week 7 momentum setups.
