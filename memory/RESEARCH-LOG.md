@@ -1476,3 +1476,49 @@ TRADE or HOLD (default HOLD if no clear edge)
 ### Decision
 **TRADE-conditional** — Execute MRVL if ≥ $210 at open; HOLD if below. No other trades today regardless. Weekly review at 4 PM ET will assess Week 6 and set strategy for Week 7.
 
+
+## 2026-06-01 — Pre-market Research (Day 27, Monday — Week 7)
+
+### Account
+- **Equity:** $98,947.70 | **Cash:** $19,623.66 (19.9%) | **Long MV:** $79,324.04 (80.2% deployed ✓)
+- **Buying power:** $118,571.36 | **Daytrade count:** 0 | **Positions:** 4/6 | **Week trades:** 0/3 (Week 7)
+
+| Ticker | Shares | Entry | Pre-Mkt | Unreal P&L | % | Stop | HWM | Note |
+|---|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $321.50 | +$2,779.16 | +14.81% | $303.11 (7% trail) | $325.92 | Next tighten +20% = $336.02 |
+| LHX | 60 | $308.48 | $316.46 | +$478.95 | +2.59% | $283.85 (10% trail) | $315.39→$316.46 | New HWM today; stop auto-ratcheting |
+| MRVL | 92 | $203.11 | $198.22 | -$449.88 | -2.41% | $187.88 (10% trail) | $208.76 | ⚠️ -3.31% today; cut at $188.89; 5.2% buffer |
+| RTX | 115 | $174.65 | $178.78 | +$474.95 | +2.37% | $163.40 (10% trail) | $181.55 | Thesis intact |
+
+### Market Context
+- **WTI crude:** ~$87.36/bbl (June 2026 futures, Barchart) — elevated but off recent highs; Iran risk residual
+- **S&P 500 futures (ESM26):** ~+0.20%, ~7,600 — mild positive pre-market; "new highs but momentum fading?" (YouTube June 1)
+- **VIX:** 15.92 (Jun 1 open, Investing.com) vs 15.74 Friday close — slight uptick, still low/moderate; constructive backdrop
+- **ISM Manufacturing PMI:** 10:00 AM ET today. Prior 52.7, consensus 52.6–53.3. Manufacturing expanding above 50. Key intraday catalyst.
+- **Earnings:** HPE BMO today (already reported); CRDO AMC today; AVGO and CRWD later this week — AI/tech earnings remain dominant theme
+- **No FOMC/CPI/jobs data today.** Week is lighter on macro until Friday non-farm payrolls
+- **Sector momentum YTD:** Technology +28.52% (#1), Energy +20.96% (#2, BANNED), Transportation +17.17%, Industrials/Capital Goods strong
+
+### Ticker News
+- **GE (+14.81% cumul):** Analyst support intact. Rose +6% last week per TIKR. $190B+ backlog, commercial services strong. Q1 EPS beat, full-year guidance maintained. No new negative catalyst today. 7% trail at $303.11. Next trigger +20% = $336.02 (+4.51% from current). HOLD.
+- **LHX (+2.59% cumul):** Defense ISR/C2/radar thesis intact. RTX vs LHX comparison coverage bullish on both. Pre-mkt +0.41% — new HWM $316.46 (above prior $315.39). Stop auto-ratchets to ~$284.81. HOLD.
+- **MRVL (-2.41% cumul):** AI custom ASIC thesis still intact. Q1 FY2027 EPS $0.80, revenue $2.42B in-line. Barclays Overweight, HSBC Buy ($300 PT), RBC raised PT. Stock up 50%+ YTD before sell-the-news. Today's -3.31% pre-market from $205 close to $198.22 — no company-specific negative. 1-year high was $217.45 (May 26). Monitoring closely: cut level -7% = $188.89 ($9.33 / 4.7% cushion above cut). Trailing stop $187.88 is backstop. HOLD — thesis intact, not averaging down.
+- **RTX (+2.37% cumul):** New DARPA contract (solid rocket motor technology), Javelin deliveries, Citi positive. $74B backlog. Defense procurement thesis strongest in book. HOLD.
+
+### Trade Ideas
+
+**No new trades today — HOLD**
+- Portfolio 80.2% deployed — already in 75–85% target band. No need to force a 5th position.
+- MRVL -3.31% today is the priority watch; if thesis breaks or price approaches $188.89, cut immediately.
+- **Potential catalyst trade (later this week):** MU (Micron) — AI memory momentum flagged by WallStreetZen; AI infrastructure spending accelerating. Would research Tuesday if sector confirms after ISM PMI data today.
+- Week 7: 2 open slots (positions) and 3 trade slots available. Patience > activity.
+
+### Risk Factors
+- **MRVL drift:** -2.41% cumul and -3.31% today. No thesis break, but approaching territory where one bad day could hit stop. Watch HWM $208.76 — stop frozen there until price recovers.
+- **Sector rotation risk:** Tech +28.52% YTD is crowded. If AI narrative cools (no near-term catalyst), broad tech selloff could hit MRVL further.
+- **ISM PMI surprise:** A miss below 50 (contraction) would be bearish for industrials (GE, RTX); a strong print above 53 is constructive for defense/industrial thesis.
+- **GE concentration:** GE +14.81% is approaching +15% tighten (already tightened to 7%); +20% trigger $336.02 is intraday-reachable on a good day.
+- **Defense sector concentration:** 3/4 positions in defense/industrials. Still in 75–85% deployment — OK but limited diversification.
+
+### Decision
+**HOLD** — No new trades today. Monitor MRVL closely through ISM PMI print (10 AM ET). Any close below $188.89 (-7% from entry) triggers immediate cut. All four GTC trailing stops active and self-adjusting.
