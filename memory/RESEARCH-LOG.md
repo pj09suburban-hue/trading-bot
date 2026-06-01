@@ -41,6 +41,11 @@ All four GTC trailing stops confirmed active.
 ### Decision
 **HOLD — NO NEW TRADES.** Portfolio in target deployment band. NFP week; no catalyst warranting new position today. All four stops active and confirmed.
 
+### June 1 — Afternoon Addendum (Midday Scan)
+- **MRVL +4.74% intraday catalyst confirmed:** HSBC upgrade Hold→Buy, aggressive price target hike to $300 (from $85); additional analyst (Tom O'Malley) Overweight from Equalweight, target $150 from $105. AI semiconductor / optical interconnect sector momentum. COMPUTEX 2026 keynote scheduled June 2 — near-term catalyst. Stop auto-ratcheted $187.88→$198.17 as HWM advanced $208.76→$220.19. Thesis strongly intact.
+- **Defense sector (GE -1.10%, LHX -1.20%, RTX -1.98%):** Broad pullback attributed to US-Iran tentative ceasefire MOU/extension narrative compressing defense risk premium. Not a thesis break: GE commercial aviation $190B+ backlog is primary driver; LHX/RTX have structural backlogs ($74B RTX, long-term ISR/C2 contracts LHX) independent of geopolitical risk premium. Monitoring for ceasefire deal breakdown/escalation that could reverse the sector.
+- **No action taken.** All four GTC trailing stops active.
+
 ---
 
 ## 2026-05-29 — Pre-market Research (Day 26, Friday — Week 6) [inline at market-open]

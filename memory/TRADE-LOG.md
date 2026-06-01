@@ -988,3 +988,27 @@ No positions yet. Bot launches tomorrow.
 *MRVL bought today; day chg vs entry.
 
 **Notes:** Day 26 (Friday, Week 6). One trade: MRVL BUY 92sh @ $203.11 avg (AI custom ASIC/hyperscaler thesis, Q2 guide +35% YoY; entry was below the $210 gate due to stale pre-market data, but all hard strategy rules passed and stop placed immediately). Portfolio 4 positions, 80.3% deployed — within 75–85% target band. GE extended to +15.58% cumulative; 7% trailing stop active at $303.11 (HWM $325.92); next stop-tighten trigger +20% = $336.02 ($12.37 / +3.82% away). LHX -0.47% intraday, +1.57% cumulative; stop $283.85 intact. MRVL closed at $205.41, +1.13% vs entry; AI ASIC thesis intact. RTX -0.12% intraday, +2.34% cumulative; defense procurement thesis strongest across the book. All four GTC trailing stops active and self-adjusting. Week 6: 1/3 trade slots used; energy sector ban in effect. Weekly review fires this afternoon. Next session Monday June 1.
+
+---
+
+## 2026-06-01 — Midday Scan (Day 27, Monday — Week 7)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $320.21 | +$2,692.40 | +14.35% | -1.10% | $303.11 (7% trail) | $325.92 | HOLD — 7% stop active; +20% trigger $336.02 not reached |
+| LHX | $308.48 | $311.40 | +$175.35 | +0.95% | -1.20% | $283.85 (10% trail) | $315.39 | HOLD — thesis intact |
+| MRVL | $203.11 | $214.72 | +$1,068.12 | +5.72% | +4.74% | $198.17 (10% trail) | $220.19 | HOLD — analyst upgrade catalyst; stop auto-ratcheted $187.88→$198.17 |
+| RTX | $174.65 | $176.11 | +$167.90 | +0.84% | -1.98% | $163.40 (10% trail) | $181.55 | HOLD — broad defense pullback; thesis intact |
+
+**Cut losers (-7%):** None — all profitable.
+**Stop tightening:** None — GE at +14.35% (already on 7% trail; +20% trigger $336.02 not reached). MRVL +5.72%, LHX +0.95%, RTX +0.84% — all below +15% threshold. MRVL stop auto-ratcheted by Alpaca ($187.88→$198.17) as HWM moved $208.76→$220.19.
+**Thesis check:**
+- GE: -1.10% intraday. Broad defense sector pullback (US-Iran ceasefire narrative). Not a thesis break — GE driven primarily by commercial aviation $190B+ backlog. 7% stop $303.11 (5.3% buffer from $320.21). HOLD.
+- LHX: -1.20% intraday. Sector-wide decline, no company-specific news. ISR/C2/radar thesis intact. Stop $283.85 (9.1% buffer). HOLD.
+- MRVL: +4.74% intraday, HWM $220.19. HSBC upgrade Hold→Buy, target $300; COMPUTEX June 2 keynote upcoming. AI custom ASIC/hyperscaler thesis strongly intact. HOLD.
+- RTX: -1.98% intraday (largest decliner). US-Iran ceasefire narrative compressing defense risk premium. $6.6B engine contract, $74B backlog unchanged. Stop $163.40 (7.2% buffer from $176.11). HOLD.
+**No action taken.** All four GTC trailing-stop orders active and self-adjusting. No Slack notification sent.
+
+**Portfolio (midday):** $99,733.54 | **Cash:** $19,623.66 (19.7%) | **Long MV:** $80,109.88 (80.3% deployed ✓) | **Day P&L:** +$21.00 (+0.02%) | **Phase P&L:** -$266.46 (-0.27%)
+**Week trades:** 0/3 (Week 7) | **Open positions:** 4/6 | **Daytrade count:** 0
+**Note:** MRVL stop improvement: $187.88→$198.17 (+$10.29) as HWM advanced $208.76→$220.19. Next tighten triggers: MRVL +15% = $233.58 ($18.86 away); GE +20% = $336.02 ($15.81 away).
