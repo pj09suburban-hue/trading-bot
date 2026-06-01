@@ -4,6 +4,45 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-06-01 — Pre-market Research (Day 27, Monday — Week 7) [inline at market-open]
+
+### Account
+- **Equity:** $98,880.72 | **Cash:** $19,623.66 (19.9%) | **Long MV:** $79,257.06 (80.2% deployed — ✓ in 75–85% target band)
+- **Buying power:** $118,504.38 (margin; using cash only)
+- **Daytrade count:** 0 | **Positions:** 4/6 | **Week trades:** 0/3 (Week 7, fresh)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $320.90 | +$2,738.96 | +14.60% | $303.11 (7% trail) | $325.92 |
+| LHX | 60 | $308.48 | $314.30 | +$349.35 | +1.89% | $283.85 (10% trail) | $315.39 |
+| MRVL | 92 | $203.11 | $199.60 | -$322.91 | -1.73% | $187.88 (10% trail) | $208.76 |
+| RTX | 115 | $174.65 | $178.57 | +$450.80 | +2.24% | $163.40 (10% trail) | $181.55 |
+
+All four GTC trailing stops confirmed active.
+
+### Sell-Side Check
+- **GE $320.90 (+14.60%):** 7% stop $303.11 (HWM $325.92, 5.5% buffer). Next tighten trigger +20% = $336.02 ($15.12 away). HOLD.
+- **LHX $314.30 (+1.89%):** Stop $283.85 (HWM $315.39, 9.7% buffer). HOLD.
+- **MRVL $199.60 (-1.73%):** Stop $187.88 (HWM $208.76). -7% cut level = $188.89 ($10.71 / 5.4% buffer). ⚠️ Watch. Thesis intact — AI ASIC/hyperscaler thesis confirmed by continued AI infrastructure demand; no new negative catalyst.
+- **RTX $178.57 (+2.24%):** Stop $163.40 (HWM $181.55, 8.5% buffer). HOLD.
+
+### Market Context
+- **S&P 500 futures (ESM26):** +0.18% to +0.20% — mildly positive open
+- **US-Iran:** Tentative 60-day ceasefire MOU/extension — "largely negotiated" per Trump (Truth Social) but NOT finalized; fresh Hormuz confrontations over the weekend. Deal progress is a mild headwind for defense risk-premium but no confirmed reopening. Not a thesis break for GE/LHX/RTX.
+- **NFP week:** ADP (Wed), Jobless Claims (Thu), Non-Farm Payrolls (Fri June 5, 8:30 AM ET) — binary risk event at week-end. Patience warranted.
+- **AI/semiconductor sector:** AI infrastructure, custom silicon, and optical connectivity narratives remain intact. MRVL AI ASIC thesis supported by sector trends.
+- **Cash constraint:** $19,623 available vs 20% equity cap = $19,776 — essentially at limit for one new position.
+
+### Trade Ideas
+1. **No new buys today** — portfolio 80.2% deployed (in 75–85% band); no specific catalyst documented for a new position; cash at limit; NFP Friday = binary risk event.
+2. **GE watch:** +20% trigger = $336.02 ($15.12 away). If GE approaches, prepare cancel/replace to 5% trailing stop.
+3. **MRVL watch:** -7% manual cut at $188.89. Thesis intact at current -1.73%. If sell-the-news extends, monitor closely.
+
+### Decision
+**HOLD — NO NEW TRADES.** Portfolio in target deployment band. NFP week; no catalyst warranting new position today. All four stops active and confirmed.
+
+---
+
 ## 2026-05-29 — Pre-market Research (Day 26, Friday — Week 6) [inline at market-open]
 
 ### Account
