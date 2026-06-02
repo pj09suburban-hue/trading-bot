@@ -1566,3 +1566,59 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ### Decision
 **HOLD** — No new trades today. Monitor MRVL closely through ISM PMI print (10 AM ET). Any close below $188.89 (-7% from entry) triggers immediate cut. All four GTC trailing stops active and self-adjusting.
+
+---
+
+## 2026-06-02 — Pre-market Research (Day 28, Tuesday — Week 7)
+
+### Account
+- **Equity:** $103,936.65 | **Cash:** $19,623.66 (18.9%) | **Long MV:** $84,312.99 (81.1% deployed ✓)
+- **Phase P&L:** +$3,936.65 (+3.94%) — new all-time high for the phase ✓
+- **Buying power:** $123,560.31 | **Daytrade count:** 0 | **Positions:** 4/6 | **Week trades:** 0/3 (Week 7)
+
+| Ticker | Shares | Entry | Pre-Mkt | Unreal P&L | % | Stop | HWM | Note |
+|---|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $324.23 | +$2,962.07 | +15.79% | $303.55 (7% trail) | $326.40 | Next tighten +20% = $336.02 ($11.79 away) |
+| LHX | 60 | $308.48 | $309.59 | +$66.75 | +0.36% | $283.85 (10% trail) | $315.39 | -12% in 30 days per Tickeron (profit-taking); Q1 thesis intact |
+| MRVL | 92 | $203.11 | $260.74 | +$5,301.96 | +28.37% | $248.06 (5% trail ← TIGHTENED ✓) | $261.12 | ⚡ COMPUTEX: Jensen Huang + Matt Murphy joint keynote, NVIDIA-Marvell strategic partnership |
+| RTX | 115 | $174.65 | $174.14 | -$58.65 | -0.29% | $163.40 (10% trail) | $181.55 | Slightly red; -7% cut $162.42 is $11.72 away |
+
+### Stop Action Taken (pre-market)
+- **MRVL trailing stop TIGHTENED: 10% → 5%** per rule (position at +28.37%, above +20% trigger)
+- Old: order ac375d29, stop $202.626, HWM $225.14 → CANCELLED
+- New: order 2b3fde6e, stop $248.063, HWM $261.12 → PLACED GTC ✓
+- Protection improvement: +$45.44/share / +$4,180 total additional downside protection
+
+### Market Context
+- **WTI crude:** ~$91–96/bbl (range across sources); Brent ~$103–106/bbl — elevated; Iran risk residual
+- **S&P 500 futures (ESM26):** ~7,595–7,604 — mildly mixed premarket, near flat
+- **VIX:** ~16.05–17.95 (Cboe futures 17.95; last official close 15.32 on May 29) — slight uptick but still moderate; constructive
+- **JOLTS Job Openings:** 10:00 AM ET today (key labor market read; relevant to Fed path)
+- **Jobs report:** Friday June 5, 8:30 AM ET — week's main macro event
+- **CPI:** June 10 | **PPI:** June 11 — not today
+- **No FOMC this week**
+- **COMPUTEX 2026 (TODAY):** NVIDIA GTC Taipei + Marvell joint keynote — Jensen Huang + Matt Murphy presenting NVIDIA-Marvell strategic partnership. AI connectivity/custom ASIC thesis fully confirmed at highest visibility level.
+- **Sector momentum:** Industrials remains strong (Schwab "More Favored," +23.7% trailing 12mo); Technology momentum cooled relative to last year but AI capex narrative accelerating; Defense (within Industrials) supported by higher spending backdrop.
+
+### Ticker News
+- **GE (+15.79% cumul):** Raised FY2026 guidance; largest-ever widebody engine deal (400+ engines for Qatar Airways); commercial revenue +30%. Pre-market +0.20%. Aviation/defense $190B+ backlog intact. 7% trail at $303.55 (HWM $326.40). Next tighten: +20% = $336.02 ($11.79 away). HOLD.
+- **LHX (+0.36% cumul):** Tickeron flags -12% in past 30 days (profit-taking from highs); Q1 beat intact (revenue +12% to $5.74B, EPS +33% to $2.72, backlog record $40.7B). Pre-market flat ($309.59). No new negative catalyst. Defense ISR/C2/radar thesis intact. Stop $283.85 (9.1% buffer). HOLD — watch for any sustained move below entry $308.48 as early thesis-break signal.
+- **MRVL (+28.37% cumul):** COMPUTEX June 2 keynote driving today's +18.83% pre-market surge. Jensen Huang (NVIDIA) joining Matt Murphy on stage; new NVIDIA-Marvell strategic partnership announced (AI custom ASIC, copper/optical interconnects, custom CPUs). Highest-visibility confirmation of AI infrastructure connectivity thesis. Stop tightened 10%→5% (new stop $248.06). HOLD — let the stop manage exit.
+- **RTX (-0.29% cumul):** No new company-specific catalyst. Defense sector mild macro headwinds (Iran ceasefire narrative). $6.6B engine contract, $74B backlog intact. Stop $163.40 ($10.74 below current). -7% cut at $162.42 — safe for now. HOLD.
+
+### Trade Ideas
+**No new trades — HOLD**
+- Portfolio 81.1% deployed (in 75–85% band), 4/6 positions — no need to force entry
+- COMPUTEX MRVL catalyst is already in the book — best action is to let the stop manage the position
+- JOLTS at 10 AM ET: if labor market weakens sharply, reassess industrial/defense positioning
+- Week 7: 2 open position slots, 3 trade slots available — patience > activity
+
+### Risk Factors
+- **MRVL post-keynote volatility:** +18.83% pre-market move often invites profit-taking at open. Stop at $248.06 (5% trail from $261.12 HWM) provides protection but allows normal intraday chop. Do not manually override the stop.
+- **LHX proximity to entry:** +0.36% cumulative; 30-day pressure from Tickeron. If LHX closes below entry $308.48 for two consecutive sessions, revisit thesis.
+- **RTX slightly underwater:** -0.29% cumul; -7% hard cut at $162.42. Broad defense sector pressure is the culprit, not company-specific weakness. Stop $163.40 backstop. Monitor.
+- **JOLTS miss:** Weak JOLTS at 10 AM could signal rate-cut probability shift, impacting risk appetite broadly.
+- **Defense concentration:** GE/LHX/RTX = 3/4 positions in defense/industrials. VIX uptick + geopolitical calm = risk of sector decompression. MRVL provides diversification.
+
+### Decision
+**HOLD** — MRVL stop already tightened pre-market per rule. No new buys today. Monitor JOLTS at 10 AM, watch MRVL open (expect volatility), confirm RTX does not breach -7% cut level ($162.42). All four GTC trailing stops active.
