@@ -1026,3 +1026,32 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $175.62 | -2.25% | +$111.55 (+0.55%) | $163.40 (10% trail, HWM $181.55) |
 
 **Notes:** Day 27 (Monday, Week 7). No new trades today; Week 7 stands at 0/3 slots used. MRVL was the standout: +8.43% intraday on HSBC upgrade (Hold→Buy, target $300) and COMPUTEX June 2 keynote anticipation; HWM advanced $220.19→$225.14 with stop auto-ratcheted to $202.63 — now 7 cents below entry, effectively protected. GE +0.45% intraday, +16.14% cumulative; 7% trailing stop holds at $303.55 (HWM $326.40); +20% tighten trigger ($336.02) is $10.81 away. LHX and RTX both declined on US-Iran ceasefire narrative compressing defense-sector risk premium; no thesis breaks, stops intact. Portfolio crossed into positive phase territory for the first time: +$757.05 (+0.76%) vs $100,000 starting equity. All four GTC trailing stops active and self-adjusting. 4/6 positions, 80.5% deployed (within 75–85% band). Trades this week: 0/3. Tomorrow (Tuesday June 2): COMPUTEX keynote — key MRVL catalyst; pre-market scan for Week 7 momentum setups.
+
+---
+
+## 2026-06-02 — Midday Scan (Day 28, Tuesday — Week 7)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $319.43 | +$2,640.47 | +14.07% | -1.59% | $303.552 (7% trail) | $326.40 | HOLD |
+| LHX | $308.48 | $308.77 | +$17.56 | +0.10% | -0.27% | $283.851 (10% trail) | $315.39 | HOLD |
+| MRVL | $203.11 | $282.84 | +$7,335.16 | +39.26% | +28.90% | $270.769 (5% trail) | $285.02 | HOLD — stop auto-ratcheted as HWM advances |
+| RTX | $174.65 | $174.06 | -$67.85 | -0.34% | -0.20% | $163.395 (10% trail) | $181.55 | HOLD |
+
+**Cut losers (-7%):** None — worst RTX -0.34% (cut level $162.42); well above threshold.
+**Stop tightening (+15%/+20%):** None — GE +14.07% on 7% trail (tightened May 28; +20% trigger $336.02 not reached). MRVL already on 5% trail (tightened pre-market at +28.37%). No new tightening warranted.
+**Trailing stop status (live orders):**
+- GE: GTC active (order 371795d6), stop $303.552, HWM $326.40 — 7% trail
+- LHX: GTC active (order 9e8f2f79), stop $283.851, HWM $315.39 — 10% trail
+- MRVL: GTC active (order 2b3fde6e), stop $270.769, HWM $285.02 — 5% trail (auto-ratcheted from $248.06 placed pre-market as MRVL surged intraday)
+- RTX: GTC active (order 8a67337a), stop $163.395, HWM $181.55 — 10% trail
+**Thesis check:**
+- GE: -1.59% intraday ($324.60 → $319.43), +14.07% cumulative. Broad market pullback alongside MRVL's profit-taking dynamic. No new negative company catalyst — Qatar Airways widebody deal ($190B+ backlog) and raised FY2026 guidance from pre-market intact. 7% stop $303.552 at 5.0% buffer from current. HOLD.
+- LHX: -0.27% intraday, +0.10% cumulative. Hovering just above entry. No new company-specific negative catalyst. Defense ISR/C2/radar thesis intact (Trump $1.5T budget, Hormuz backdrop). Stop $283.851 at 8.1% buffer. HOLD.
+- MRVL: +28.90% intraday (surged from $219.43 to $282.84). COMPUTEX keynote catalyst fully confirmed: Jensen Huang + Matt Murphy on stage, NVIDIA-Marvell strategic partnership announced for AI custom ASIC, copper/optical interconnects, custom CPUs. This is the highest-visibility confirmation of the AI infrastructure connectivity thesis. Pre-market stop (5% trail, $248.06 from HWM $261.12) has auto-ratcheted to $270.769 as HWM advanced to $285.02. Thesis overwhelmingly intact — trailing stop GTC manages exit. HOLD.
+- RTX: -0.20% intraday, -0.34% cumulative. Defense procurement thesis intact ($6.6B engine contract, $74B backlog). Stop $163.395 at 5.8% buffer from $174.06. -7% cut level $162.42 is $11.64 away. HOLD.
+**No action taken.** All four trailing-stop GTC orders active and self-adjusting.
+
+**Portfolio (midday):** $105,563.41 | **Cash:** $19,623.66 (18.6%) | **Long MV:** $85,939.75 (81.4% deployed ✓) | **Intraday P&L:** ~+$5,398 (+5.39%) | **Phase P&L:** +$5,563.41 (+5.56%) — new phase all-time high ✓
+**Week trades:** 0/3 (Week 7) | **Open positions:** 4/6 | **No notification sent (no action taken)**
+**Note:** MRVL's 5% trailing stop has auto-ratcheted $248.06 → $270.769 as HWM advanced $261.12 → $285.02 — protecting ~$6,227 of unrealized gain. GE +20% tighten trigger $336.02 is $16.59 away. Next key event: NFP Friday June 5.
