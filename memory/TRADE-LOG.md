@@ -1055,3 +1055,18 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $105,563.41 | **Cash:** $19,623.66 (18.6%) | **Long MV:** $85,939.75 (81.4% deployed ✓) | **Intraday P&L:** ~+$5,398 (+5.39%) | **Phase P&L:** +$5,563.41 (+5.56%) — new phase all-time high ✓
 **Week trades:** 0/3 (Week 7) | **Open positions:** 4/6 | **No notification sent (no action taken)**
 **Note:** MRVL's 5% trailing stop has auto-ratcheted $248.06 → $270.769 as HWM advanced $261.12 → $285.02 — protecting ~$6,227 of unrealized gain. GE +20% tighten trigger $336.02 is $16.59 away. Next key event: NFP Friday June 5.
+
+---
+
+### Jun 02 — EOD Snapshot (Day 28, Tuesday)
+**Portfolio:** $105,684.27 | **Cash:** $19,623.66 (18.6%) | **Day P&L:** +$5,492.30 (+5.48%) | **Phase P&L:** +$5,684.27 (+5.68%) — new phase high
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $318.47 | -1.89% | +$2,576.15 (+13.73%) | $303.552 (7% trail, HWM $326.40) |
+| LHX | 60 | $308.48 | $308.83 | -0.25% | +$21.15 (+0.11%) | $283.851 (10% trail, HWM $315.39) |
+| MRVL | 92 | $203.11 | $284.12 | +29.48% | +$7,452.46 (+39.88%) | $272.042 (5% trail, HWM $286.36) |
+| RTX | 115 | $174.65 | $174.43 | +0.01% | -$25.88 (-0.13%) | $163.395 (10% trail, HWM $181.55) |
+
+**Notes:** Day 28 (Tuesday, Week 7). No trades today; week stands at 0/3 slots used. MRVL was the session story: +29.48% intraday on COMPUTEX keynote confirmation — Jensen Huang and Matt Murphy on stage, NVIDIA-Marvell strategic partnership announced for AI custom ASICs, copper/optical interconnects, and custom CPUs. Unrealized gain now +$7,452 (+39.88% from $203.11 entry). 5% trailing stop auto-ratcheted to $272.042 (HWM $286.36), protecting ~$6,348 of gain. GE -1.89% intraday, +13.73% cumulative; 7% stop $303.552 intact; +20% tighten trigger $336.02 is $17.55 away. LHX -0.25% intraday, barely above breakeven (+0.11%); stop $283.851 well clear. RTX essentially flat (+0.01%), -0.13% cumulative; thesis intact, -7% cut at $162.42 is $12.00 away. Portfolio: 4/6 positions, 81.4% deployed (within 75–85% band). Phase P&L +$5,684.27 (+5.68%) — new phase high. All four GTC trailing stops active. Daytrade count: 0. Next key event: NFP Friday June 5.
+**Note:** MRVL's 5% trailing stop has auto-ratcheted $248.06 → $270.769 as HWM advanced $261.12 → $285.02 — protecting ~$6,227 of unrealized gain. GE +20% tighten trigger $336.02 is $16.59 away. Next key event: NFP Friday June 5.
