@@ -1,13 +1,16 @@
 # Project Context
 
 ## Overview
-- **What:** Autonomous trading bot challenge
-- **Starting capital:** ~$10,000
-- **Platform:** Alpaca
-- **Trial end criterion (set 2026-05-05):** ≥6 closed trades AND ≥4 full trading weeks completed. Until both are met, bot stays on paper. Rationale: live trial is meaningless until exit/stop discipline has been observed under real conditions; pure unrealized P&L on paper is not a validation signal.
-- **Trial start:** 2026-04-24 (Week 1, partial Friday launch)
-- **Earliest possible live-go date:** End of Week 5 (~2026-05-22) — and only if the 6-closed-trades floor is met by then
-- **Strategy:** Swing trading stocks only — no options
+- **What:** Autonomous trading bot — live execution
+- **Initial capital:** $700 (deposited 2026-06-01); capital will be added regularly from commissions
+- **Platform:** Alpaca **live** brokerage
+- **Mode:** Live trading — paper trial complete (2026-04-24 → 2026-05-29), archived at `memory/trial-archive/`
+- **Strategy:** Swing trading stocks only — no options, whole shares only
+
+## Trial summary (paper, archived)
+- 4 closed trades, all losses, total -$2,960 on $100k paper
+- Patterns identified: concentration in single macro thesis, entry near HWM, trail stops worked cleanly
+- 5 rule edits applied for live: whole shares only, 1-share-fits cap, 60–85% deployment band, macro-cluster cap, no-buy-near-HWM
 
 ## Collaboration
 - This is the shared strategy repo. Each trader (Parker + Dad) runs their own fork.

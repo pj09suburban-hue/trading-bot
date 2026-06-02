@@ -76,14 +76,18 @@ Open these in order before doing anything:
 ## Strategy Hard Rules (non-negotiable)
 
 - **NO OPTIONS — ever.** Stocks only.
+- **Whole shares only** — no fractional, no notional orders (fractional shares cannot hold GTC stop orders on Alpaca).
 - Max **5–6 open positions** at a time.
-- Max **20% of equity** per position (~$2,000 on a $10k account).
+- Max **20% of equity** per position. All sizing is percentage-based and auto-scales with deposits — bot reads current equity at every routine.
+- **Skip entry if 1 whole share at current price > 20% of equity** — natural universe filter at small account sizes; auto-widens as account grows.
+- **Max 1 position per macro-thesis cluster** (e.g., one energy bet, not two; one AI-power bet, not two).
 - Max **3 new trades per week.**
-- Target **75–85% capital deployed.**
+- Target **60–85% capital deployed** (wider band accommodates share-price granularity at small accounts; non-binding once account is large).
 - Every position gets a **10% trailing stop** placed as a real GTC order on Alpaca. Never mental.
 - Cut any losing position at **-7% from entry.** No hoping. No averaging down.
 - Tighten trailing stop to **7% when up +15%**, to **5% when up +20%.**
 - Never tighten a stop within 3% of current price. **Never move a stop down.**
+- **No entries within 0.5% of current-day HWM** — wait for one pullback day after catalyst, or document this as a pullback re-entry.
 - Follow sector momentum. **Exit a sector after 2 consecutive failed trades.**
 - Patience > activity. A week with zero trades can be the right answer.
 
@@ -96,10 +100,13 @@ All checks must pass before placing any buy. If any fail, skip the trade and log
 - [ ] Total positions after fill ≤ 6
 - [ ] Trades placed this week (including this one) ≤ 3
 - [ ] Position cost ≤ 20% of account equity
+- [ ] **1 whole share at current price ≤ 20% of equity** (universe filter)
 - [ ] Position cost ≤ available cash
 - [ ] PDT day-trade count leaves room (< 3 on sub-$25k account)
 - [ ] Specific catalyst documented in today's `RESEARCH-LOG.md`
-- [ ] Instrument is a stock (not an option, not anything else)
+- [ ] Instrument is a stock (not an option, not anything else) — **whole share, no fractional/notional**
+- [ ] **No existing position in the same macro-thesis cluster**
+- [ ] **Entry price ≥ 0.5% below current-day HWM** (or documented as pullback re-entry)
 
 ---
 
