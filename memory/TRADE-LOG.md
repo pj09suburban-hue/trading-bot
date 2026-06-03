@@ -1070,3 +1070,36 @@ No positions yet. Bot launches tomorrow.
 
 **Notes:** Day 28 (Tuesday, Week 7). No trades today; week stands at 0/3 slots used. MRVL was the session story: +29.48% intraday on COMPUTEX keynote confirmation — Jensen Huang and Matt Murphy on stage, NVIDIA-Marvell strategic partnership announced for AI custom ASICs, copper/optical interconnects, and custom CPUs. Unrealized gain now +$7,452 (+39.88% from $203.11 entry). 5% trailing stop auto-ratcheted to $272.042 (HWM $286.36), protecting ~$6,348 of gain. GE -1.89% intraday, +13.73% cumulative; 7% stop $303.552 intact; +20% tighten trigger $336.02 is $17.55 away. LHX -0.25% intraday, barely above breakeven (+0.11%); stop $283.851 well clear. RTX essentially flat (+0.01%), -0.13% cumulative; thesis intact, -7% cut at $162.42 is $12.00 away. Portfolio: 4/6 positions, 81.4% deployed (within 75–85% band). Phase P&L +$5,684.27 (+5.68%) — new phase high. All four GTC trailing stops active. Daytrade count: 0. Next key event: NFP Friday June 5.
 **Note:** MRVL's 5% trailing stop has auto-ratcheted $248.06 → $270.769 as HWM advanced $261.12 → $285.02 — protecting ~$6,227 of unrealized gain. GE +20% tighten trigger $336.02 is $16.59 away. Next key event: NFP Friday June 5.
+
+---
+
+## 2026-06-03 — Midday Scan (Day 29, Wednesday — Week 7)
+
+### MRVL EXIT — Trailing Stop Triggered
+- **Closed:** MRVL 92 shares @ $306.197 avg (trailing stop, GTC order 2b3fde6e)
+- **HWM:** $324.16 | **Stop triggered at:** $307.952 (5% below HWM) | **Fill:** $306.197 (slippage -$1.755 vs stop price)
+- **Entry:** $203.11 (May 29, 2026) | **Hold:** 5 trading days
+- **Cost basis:** $18,686.12 | **Proceeds:** $28,170.12
+- **Realized P&L: +$9,483.96 (+50.77%)** — trailing stop worked as designed; profit-taking after COMPUTEX catalyst fully priced in
+- **Trailing stop progression:** $187.88 (10% trail at entry) → $202.63 → $248.06 → $270.769 → $272.042 → $276.73 → $307.952 (5% trail after tighten at +20%)
+- Note: AVGO earnings are AMC today (not BMO as pre-market log noted) — no AVGO entry today; evaluate post-print tomorrow
+
+### Remaining Positions Scan
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $316.95 | +$2,474.31 | +13.19% | -0.24% | $303.552 (7% trail) | $326.40 | HOLD — below +20% tighten trigger $336.02 |
+| LHX | $308.48 | $307.12 | -$81.45 | -0.44% | -0.33% | $283.851 (10% trail) | $315.39 | HOLD — persistent below-entry weakness; no thesis break yet; on watch |
+| RTX | $174.65 | $176.09 | +$165.60 | +0.83% | +1.05% | $163.395 (10% trail) | $181.55 | HOLD — showing relative strength today; thesis intact |
+
+**Cut losers (-7%):** None — worst LHX -0.44% (cut level $286.89; current $307.12 is well above).
+**Stop tightening (+15%/+20%):** None — GE +13.19% on 7% trail (below +20% trigger $336.02). LHX/RTX below +15%.
+**Thesis check:**
+- GE: -0.24% intraday. Commercial aviation $190B+ backlog, raised FY2026 guidance intact. 7% stop $303.552 at $13.40 buffer from $316.95. HOLD.
+- LHX: -0.33% intraday, -0.44% cumulative. Third consecutive close below entry. No company-specific thesis break — defense ISR/C2 thesis intact. Stop $283.851 at $23.27 buffer. Persistent below-entry drift is early warning; monitor. HOLD.
+- RTX: +1.05% intraday, +0.83% cumulative. Showing relative strength in defense today. $6.6B engine contract, $74B backlog intact. Stop $163.395 at $12.70 buffer. HOLD.
+
+**Portfolio (midday):** $107,717.75 | **Cash:** $47,793.74 (44.4%) | **Long MV:** $59,924.01 (55.6%) | **Phase P&L:** +$7,717.75 (+7.72%)
+**Week trades:** 0/3 (Week 7) | **Open positions:** 3/6 | **Daytrade count:** 0
+⚠️ **Deployment alert:** 55.6% deployed — below 75–85% target band. MRVL exit freed $28,170 cash. Evaluate redeployment: AVGO post-AMC earnings tonight (est. EPS $2.40, Q2 rev est. ~$22B); if strong print + constructive setup, potential entry tomorrow at market open.
+**GTC trailing stops active:** GE (371795d6, 7% trail), LHX (9e8f2f79, 10% trail), RTX (8a67337a, 10% trail)

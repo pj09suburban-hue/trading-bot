@@ -1679,3 +1679,9 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ### Decision
 **HOLD** — Portfolio at phase all-time high (+9.22%). MRVL stop auto-ratchets at open providing ~$9,711 protection at current price. No manual stop actions needed. Monitor ISM Services PMI at 10 AM ET; watch AVGO post-earnings for potential conditional entry. RTX and LHX on watch. All four GTC trailing stops active and self-adjusting.
+
+### 2026-06-03 — Afternoon Addendum (Midday Scan)
+- **MRVL trailing stop triggered 9:39 AM ET:** 92sh @ $306.197 avg (5% stop, HWM $324.16 → triggered at $307.952, slight gap fill). Profit-taking after COMPUTEX catalyst fully priced. Realized +$9,483.96 (+50.77%). No action needed — stop did its job.
+- **AVGO correction:** Pre-market log noted BMO earnings — confirmed AMC (5 PM ET call). Q2 FY26 consensus: EPS $2.40, revenue ~$22B. Evaluate post-print tomorrow: if beat + constructive setup, potential entry within 20% equity limit. MRVL's exit removes AI-semis concentration concern.
+- **Deployment:** Now 55.6% deployed ($47,793 cash, 3 positions). Below 75–85% target. Redeployment candidates for tomorrow: AVGO (primary), plus any momentum setup from pre-market scan.
+- **GE/LHX/RTX:** No new company-specific catalysts today. LHX persistent weakness flag noted — third session below entry. No thesis break.
