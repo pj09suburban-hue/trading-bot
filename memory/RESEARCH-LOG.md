@@ -1622,3 +1622,60 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ### Decision
 **HOLD** — MRVL stop already tightened pre-market per rule. No new buys today. Monitor JOLTS at 10 AM, watch MRVL open (expect volatility), confirm RTX does not breach -7% cut level ($162.42). All four GTC trailing stops active.
+
+---
+
+## 2026-06-03 — Pre-market Research (Day 29, Wednesday — Week 7)
+
+### Account
+- **Equity:** $109,220.88 | **Cash:** $19,623.66 (18.0%) | **Long MV:** $89,597.22 (82.0% deployed ✓)
+- **Phase P&L:** +$9,220.88 (+9.22%) — new phase all-time high ✓
+- **Buying power:** $128,844.54 | **Daytrade count:** 0 | **Positions:** 4/6 | **Week trades:** 0/3 (Week 7)
+
+| Ticker | Shares | Entry | Pre-Mkt | Unreal P&L | % | Stop | HWM | Note |
+|---|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $316.14 | +$2,420.04 | +12.90% | $303.55 (7% trail) | $326.40 | +20% tighten trigger $336.02 is $19.88 away |
+| LHX | 60 | $308.48 | $307.69 | -$46.97 | -0.25% | $283.85 (10% trail) | $315.39 | Hovering just below entry; no thesis break |
+| MRVL | 92 | $203.11 | $326.23 | +$11,327.04 | +60.62% | $276.73* (5% trail, HWM $291.29) | $291.29 | ⚡ Stop will auto-ratchet to ~$309.92 at open (5% below ~$326) |
+| RTX | 115 | $174.65 | $173.40 | -$143.75 | -0.72% | $163.40 (10% trail) | $181.55 | -7% cut at $162.42 is $10.98 away; defense headwinds continue |
+
+*MRVL stop $276.73 reflects EOD HWM $291.29 from yesterday. At market open, as MRVL trades at ~$326, Alpaca trailing stop will auto-ratchet HWM to ~$326 and stop to ~$309.92 — protecting ~$9,711 of unrealized gain. No manual action needed.
+
+### Stop Tighten Check
+- **MRVL +60.62%:** Already on 5% trail (max per rules). No further tighten available. Stop auto-ratchets automatically.
+- **GE +12.90%:** On 7% trail (tightened at +15% on May 28). +20% trigger $336.02 not yet reached. Hold.
+- **LHX -0.25%:** On 10% trail. No tighten warranted.
+- **RTX -0.72%:** On 10% trail. No tighten warranted.
+
+### Market Context
+- **WTI crude:** ~$89-95/bbl (front-month futures ~$89.39 CME Jul); **Brent:** ~$106/bbl per EIA June outlook — elevated; Iran risk residual
+- **S&P 500 futures (ESM26):** ~7,620, -0.05% — essentially flat premarket
+- **VIX:** ~15.8–16.1 (VIX spot ~16.05 June 1 close) — moderate/benign; constructive
+- **ISM Services PMI (May):** 10:00 AM ET today — prior 53.6, forecast 53.7–53.8; leading indicator for services sector health
+- **Broadcom (AVGO) earnings:** BMO today — key AI semiconductor print; high-visibility AI infrastructure read
+- **Salesforce (CRM) earnings:** AMC today
+- **NFP (Non-Farm Payrolls):** Friday June 5, 8:30 AM ET — week's main macro event
+- **No FOMC this week** | CPI June 10 | PPI June 11
+- **Sector momentum:** Industrials in Leading quadrant (Schwab); Technology in Lagging quadrant per sector rotation analysis but AI capex narrative re-accelerating; defense supported by higher spending backdrop
+
+### Ticker News
+- **GE (+12.90% cumul):** No fresh company-specific news today. Qatar Airways deal, FY2026 raised guidance, $190B+ backlog intact. Pre-market -0.50% intraday. 7% stop $303.55 (HWM $326.40) at 4.0% buffer from $316.14. HOLD.
+- **LHX (-0.25% cumul):** No fresh news. Hovering just below entry; defense ISR/C2/radar thesis intact. Stop $283.85 at 8.0% buffer. Two consecutive sessions below entry would be early thesis-break signal — none yet. HOLD.
+- **MRVL (+60.62% cumul):** Q1 FY27 beat (May 27): $2.42B rev vs $2.40B est, EPS $0.80 vs $0.75 est; FY27 guidance raised +$0.5B, FY28 raised +$1.15B. Data center +46% YoY FY26, projected +50% FY27/+55% FY28. COMPUTEX June 2 keynote fully confirmed NVIDIA-Marvell strategic partnership. Pre-market +12.19% today (+$3,260 intraday). Note: Morningstar raises FV to $235 (still on sell list at $326 — ignore; conservative value shop). Trailing stop manages exit. HOLD.
+- **RTX (-0.72% cumul):** Pre-market -0.49%. Defense sector macro headwinds (US-Iran ceasefire narrative compressing defense risk premium). $6.6B engine contract, $74B backlog intact. -7% cut level $162.42 at $10.98 from current $173.40. HOLD — no thesis break, just sector pressure.
+
+### Trade Ideas
+**No new trades — HOLD**
+1. **AVGO (Broadcom) — CONDITIONAL/WATCH:** Earnings BMO today. AI custom ASIC for Google TPU, VMware. If print beats and stock pulls back constructively after any gap (buy the dip, not the gap), could be a clean entry. Catalyst: Q2 FY26 earnings + raised AI infrastructure guidance. Entry window: post-open, if $240–260 range after gap reaction. Risk: already have MRVL in same AI-chip sector — concentration. Stop: 10% below entry. Target: 20% above entry (2:1 R:R). **Gate check: need earnings print first — do not buy pre-open.** Would bring positions to 5/6.
+2. Portfolio already at 82% deployed (within band). 2 open slots, 3 trade slots available — patience is still the right posture absent a clean catalyst.
+
+### Risk Factors
+- **MRVL stop gap risk:** Pre-market price $326.23 vs order HWM $291.29. The stop is temporarily below where it will ratchet once regular session opens. A gap-down open below $276.73 before ratchet would close the position — very unlikely from $326.23 pre-market but worth noting. Trailing stop is working as intended.
+- **RTX thesis fragility:** Three consecutive sessions near/below entry. Not at -7%, but cumulative defense-sector pressure warrants close watch. If RTX closes below $162.42, cut immediately.
+- **LHX below entry:** Consecutive closes below entry $308.48 are early warning signal per thesis-break rule. Currently -0.25% — monitor.
+- **ISM Services miss:** A reading below 53.0 would signal services slowdown; could compress industrial/defense sentiment. Broad portfolio impact.
+- **AVGO concentration risk:** Buying AVGO post-earnings would add AI/semis exposure alongside MRVL. Manage total sector weight.
+- **NFP Friday:** All positions at risk of macro shock Friday. GTC stops are the backstop.
+
+### Decision
+**HOLD** — Portfolio at phase all-time high (+9.22%). MRVL stop auto-ratchets at open providing ~$9,711 protection at current price. No manual stop actions needed. Monitor ISM Services PMI at 10 AM ET; watch AVGO post-earnings for potential conditional entry. RTX and LHX on watch. All four GTC trailing stops active and self-adjusting.
