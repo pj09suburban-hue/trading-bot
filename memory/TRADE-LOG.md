@@ -1103,3 +1103,16 @@ No positions yet. Bot launches tomorrow.
 **Week trades:** 0/3 (Week 7) | **Open positions:** 3/6 | **Daytrade count:** 0
 ⚠️ **Deployment alert:** 55.6% deployed — below 75–85% target band. MRVL exit freed $28,170 cash. Evaluate redeployment: AVGO post-AMC earnings tonight (est. EPS $2.40, Q2 rev est. ~$22B); if strong print + constructive setup, potential entry tomorrow at market open.
 **GTC trailing stops active:** GE (371795d6, 7% trail), LHX (9e8f2f79, 10% trail), RTX (8a67337a, 10% trail)
+
+---
+
+### Jun 03 — EOD Snapshot (Day 29, Wednesday — Week 7)
+**Portfolio:** $107,052.96 | **Cash:** $47,793.74 (44.6%) | **Day P&L:** +$1,368.69 (+1.29%) | **Phase P&L:** +$7,052.96 (+7.05%) — new phase high
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $315.65 | -0.65% | +$2,387.21 (+12.72%) | $303.552 (7% trail, HWM $326.40) |
+| LHX | 60 | $308.48 | $302.53 | -1.81% | -$356.85 (-1.93%) | $283.851 (10% trail, HWM $315.39) |
+| RTX | 115 | $174.65 | $173.54 | -0.42% | -$128.23 (-0.64%) | $163.395 (10% trail, HWM $181.55) |
+
+**Notes:** Day 29 (Wednesday, Week 7). Key event: MRVL trailing stop triggered at midday — closed 92 shares at $306.197 avg, realizing +$9,483.96 (+50.77%) in 5 trading days; trailing stop progressed from 10% at entry through two tightens to 5% after the +20% threshold, capturing the post-COMPUTEX move. Cash now $47,793.74 (44.6%), deployment at 55.4% — below the 75–85% target. Remaining three positions all closed lower on the day: GE -0.65% (+12.72% cumulative, 7% stop $303.552, tighten trigger at $336.02 is $20.37 away); LHX -1.81% (-1.93% cumulative, 4th consecutive close below entry; -7% cut level $286.88, current $302.53 is $15.65 above — no action, but thesis drift watch active); RTX -0.42% (-0.64% cumulative, stop $163.395, thesis intact). Week: 0/3 new buys (3 slots open). AVGO reports AMC tonight — strong print + constructive setup would warrant a pre-market eval for tomorrow entry. NFP Friday June 5 is the next macro event. Daytrade count: 0.
