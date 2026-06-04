@@ -1131,3 +1131,33 @@ No positions yet. Bot launches tomorrow.
 **Gate checks passed:** Positions 3→4 ≤ 6 ✓ | Week trades 0→1 ≤ 3 ✓ | Cost 15.2% ≤ 20% equity ✓ | Cash $47,793 available ✓ | PDT 0/3 ✓ | Catalyst documented ✓ | Stock ✓
 
 **Week trades:** 1/3 (Week 7) | **Open positions:** 4/6 | **Deployed:** ~$76,737 / $108,110 ≈ 71.0% (approaching 75–85% target band)
+
+---
+
+## 2026-06-04 — Midday Scan (Day 30, Thursday — Week 7)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| AVGO | $409.57 | $408.29 | -$51.06 | -0.31% | -0.31% | $373.50 (10% trail, HWM $415) | $415.00 | HOLD — stabilized near entry post gap-down |
+| GE | $280.02 | $325.53 | +$3,049.17 | +16.25% | +3.46% | $303.552 (7% trail, HWM $326.40) | $326.40 | HOLD — approaching +20% tighten trigger $336.02 |
+| LHX | $308.48 | $307.68 | -$47.85 | -0.26% | +1.39% | $283.851 (10% trail, HWM $315.39) | $315.39 | HOLD — recovering after 5 sessions near/below entry |
+| RTX | $174.65 | $178.22 | +$409.98 | +2.04% | +3.28% | $163.395 (10% trail, HWM $181.55) | $181.55 | HOLD — defense strength |
+
+**Cut losers (-7%):** None. Worst AVGO -0.31% ($380.90 cut level, $408.29 current — $27.39 above). All clear.
+**Stop tightening (+15%/+20%):** None. GE +16.25% on 7% trail (tightened May 28); +20% trigger $336.02 is $10.49 away. AVGO/LHX/RTX all below +15%. No tighten warranted.
+**Trailing stop status (live GTC orders):**
+- AVGO: order 778cbce6 active, 10% trail, HWM $415, stop $373.50 (auto-managed by Alpaca)
+- GE: order 371795d6 active, 7% trail, HWM $326.40, stop $303.552
+- LHX: order 9e8f2f79 active, 10% trail, HWM $315.39, stop $283.851
+- RTX: order 8a67337a active, 10% trail, HWM $181.55, stop $163.395
+**Thesis check:**
+- AVGO: Gap-down sell-the-news from pre-market stabilized ~entry price. AI custom ASIC Q3 guide ($29.4B, +84% YoY) unchanged — thesis intact. Cash flow from earnings beat provides fundamental support. HWM $415 suggests brief pop at open before settling. NFP tomorrow introduces macro risk. HOLD.
+- GE: +3.46% intraday. Perplexity confirms new US Air Force GE426 engine contract adding positive sentiment. Qatar Airways $190B+ backlog and raised FY2026 guidance intact. Strong Industrials sector leadership. HWM $326.40 auto-tracking — GTC stop manages exit. +20% tighten trigger ($336.02) now $10.49 away; watch for approach. HOLD.
+- LHX: +1.39% intraday recovery — first positive intraday session after 5 sessions near/below entry. Defense ISR/C2 thesis intact (Trump $1.5T defense budget; defense sector broadly strong today). Stop $283.851 at $23.83 buffer from $307.68. Recovery is encouraging — thesis-drift watch downgraded to monitor. HOLD.
+- RTX: +3.28% intraday, +2.04% cumulative. Broad defense sector strength. $6.6B engine contract, $74B backlog intact. Showing relative strength. Stop $163.395 at $14.82 buffer. HOLD.
+
+**No action taken.** All four GTC trailing stops active and self-managing.
+**Portfolio (midday):** $108,567.11 | **Cash:** $31,411.05 (28.9%) | **Long MV:** $77,156.06 (71.1% deployed) | **Intraday P&L:** ~+$1,584 (+1.46%) | **Phase P&L:** +$8,567.11 (+8.57%) — new phase all-time high ✓
+**Week trades:** 1/3 (Week 7) | **Open positions:** 4/6 | **No notification sent (no action taken)**
+**Deployment:** 71.1% — below 75–85% band. 2 trade slots remain this week. Holding for post-NFP clarity; no new positions today into binary macro risk.
+**Key watch:** GE +20% tighten trigger $336.02 is $10.49 away; if touched, tighten trail to 5% (do not tighten within 3% of price — verify buffer before action). NFP June 5 is tomorrow's dominant macro event.
