@@ -1685,3 +1685,76 @@ TRADE or HOLD (default HOLD if no clear edge)
 - **AVGO correction:** Pre-market log noted BMO earnings — confirmed AMC (5 PM ET call). Q2 FY26 consensus: EPS $2.40, revenue ~$22B. Evaluate post-print tomorrow: if beat + constructive setup, potential entry within 20% equity limit. MRVL's exit removes AI-semis concentration concern.
 - **Deployment:** Now 55.6% deployed ($47,793 cash, 3 positions). Below 75–85% target. Redeployment candidates for tomorrow: AVGO (primary), plus any momentum setup from pre-market scan.
 - **GE/LHX/RTX:** No new company-specific catalysts today. LHX persistent weakness flag noted — third session below entry. No thesis break.
+
+---
+
+## 2026-06-04 — Pre-market Research (Day 30, Thursday — Week 7)
+
+### Account
+- **Equity:** $107,665.64 | **Cash:** $47,793.71 (44.4%) | **Long MV:** $59,871.93 (55.6% deployed)
+- **Phase P&L:** +$7,665.64 (+7.67%) | **Buying power:** $310,918.70 | **Daytrade count:** 0
+- **Positions:** 3/6 | **Week trades:** 0/3 (Week 7)
+
+| Ticker | Shares | Entry | Last Close | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $315.65 | +$2,387 | +12.72% | $303.552 (7% trail) | $326.40 |
+| LHX | 60 | $308.48 | $302.53 | -$357 | -1.93% | $283.851 (10% trail) | $315.39 |
+| RTX | 115 | $174.65 | $173.54 | -$128 | -0.64% | $163.395 (10% trail) | $181.55 |
+
+### Stop Tighten Check
+- **GE +12.72%:** 7% trail (tightened at +15% on May 28). +20% trigger $336.02 not reached ($315.65 is $20.37 below). HOLD.
+- **LHX -1.93%:** 10% trail. No tighten. On thesis-drift watch (5th session below entry).
+- **RTX -0.64%:** 10% trail. No tighten warranted.
+
+### Market Context
+- **WTI:** ~$95–96/bbl | **Brent:** ~$103/bbl — elevated; geopolitical risk from US-Iran tension
+- **S&P 500 futures (ESM26):** ~7,545, -0.35% — mild risk-off premarket
+- **VIX:** ~16.56 (benign/moderate; above May lows of ~15.8)
+- **Today's releases:** Initial Claims + Productivity & Costs (Revised) at 8:30 AM ET — watch for any labor market surprise
+- **Tomorrow:** NFP (Non-Farm Payrolls) June 5, 8:30 AM ET — week's dominant macro event; all positions at binary risk
+- **No CPI/PPI/FOMC today.** Next CPI: June 11. Next FOMC later June.
+- **Earnings BMO today:** CIEN (Ciena, $1.46 EPS est) — AI optical networking; LHX-adjacent infrastructure read
+- **Earnings AMC yesterday:** AVGO Q2 FY26 — beat on all metrics; see below
+
+### AVGO Earnings Deep-Read
+- **Print:** Rev $22.187B (+48% YoY), EPS $2.44 vs $2.40 est ✓; AI semiconductor rev $10.8B (+143% YoY) ✓
+- **Q3 guidance:** Rev $29.4B (strong raise); AI rev $16.0B next quarter (massive raise)
+- **AH reaction:** Sell-the-news — stock declined in AH; AH Alpaca quote bid $460.37 / ask $500.20 (wide, illiquid); prior close likely ~$530+ range; AH midpoint ~$480 implies ~$50–70 down move
+- **Read:** Classic "buy the rumor, sell the news" after AI narrative was fully priced; not a thesis break — business fundamentals accelerating
+
+### Sector Momentum (YTD June 2026)
+- **#1 Energy** (>+22%), **#2 Consumer Staples** (+13%), **#3 Industrials** (+16%)
+- Technology in recovery after Q1 lagging; AI capex narrative re-accelerating
+- Defense sector under ongoing ceasefire-narrative pressure (LHX, RTX)
+
+### Ticker News
+- **GE (+12.72%):** No fresh catalyst. Qatar Airways $190B+ backlog, raised FY2026 guidance intact. Industrials leading sector. 7% stop $303.552 provides $12+ buffer. HOLD.
+- **LHX (-1.93%):** Fifth consecutive close below or at entry. Defense ISR/C2 thesis intact (Trump $1.5T defense budget). -7% cut level $286.89 is $15.64 above $302.53. No forced exit, but thesis drift is a concern. Stop $283.851 holds. HOLD — active watch.
+- **RTX (-0.64%):** Defense sector headwinds from ceasefire narrative. $6.6B engine contract, $74B backlog intact. Stop $163.395, cut level $162.42 is $11.12 away from $173.54. HOLD — thesis intact, watching for relative strength return.
+
+### Trade Ideas
+
+**Idea 1: AVGO (Broadcom) — CONDITIONAL/WATCH**
+- **Catalyst:** Q2 FY26 beat + massive AI revenue raise ($10.8B → $16B next Q). AI custom ASICs for Google, Meta, Apple; AI networking infrastructure. AH sell-the-news creates potential dip-buy entry.
+- **Gate:** Do NOT buy at open; wait for opening auction to clear and price to stabilize. Must see: (a) gap-down stabilizes with rising volume, (b) no further cascade below $450 support zone, (c) reversal candle by 10–11 AM ET.
+- **Entry window:** ~$460–$490 (if constructive, not chasing gap)
+- **Sizing:** 20% equity = $21,533 max → ~44–47 shares at $460–490
+- **Stop:** 10% below entry (~$414–441)
+- **Target:** 20% above entry (~$552–588); 2:1+ R:R
+- **Risk:** Buying into negative AH momentum; NFP tomorrow = binary risk day; if AVGO fails to stabilize, do not force
+- **Position count after fill:** 4/6 (within rules)
+- **Trades used after fill:** 1/3 (within rules)
+
+**Idea 2: No secondary idea — HOLD remaining slots for NFP clarity**
+- With NFP tomorrow (binary risk), opening a 2nd new position today introduces unnecessary double-barrel risk. One slot reserved post-NFP if market cooperates.
+
+### Risk Factors
+- **NFP tomorrow:** All four positions (including any new AVGO) face binary risk. GTC stops are backstop. Consider NOT adding AVGO if setup is at all ambiguous — one clean setup is better than forcing redeployment.
+- **AVGO sell-the-news cascade:** Earnings beats that gap down can continue lower for days. The -13% AH estimate from one source (vs Alpaca's ~$480 midpoint) shows wide uncertainty in AH pricing. Must see stabilization before entry.
+- **LHX thesis drift:** 5 sessions near/below entry with no company-specific catalyst to reverse. If closes below $300 today, reassess.
+- **Oil elevated ($95–96 WTI):** Supports Energy sector (not held) but compresses consumer discretionary; mixed for Industrials.
+- **Deployment gap:** 55.6% vs 75–85% target — urgency to redeploy, but patience is more important than speed. One good trade beats two rushed ones.
+
+### Decision
+**CONDITIONAL — AVGO at open, pending stabilization**
+Default stance is HOLD until opening price action confirms. If AVGO opens and stabilizes constructively by 10–11 AM (above ~$455, reversal volume), execute 1 buy via market-open workflow within 20% equity. Otherwise no trades today — preserve slots for post-NFP setup tomorrow or next week.
