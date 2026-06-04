@@ -4,6 +4,55 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-06-04 — Pre-market Research (Day 30, Thursday — Week 7) [inline at market-open]
+
+### Account
+- **Equity:** $107,671.11 | **Cash:** $47,793.71 (44.4%) | **Long MV:** $59,877.40 (55.6% deployed — ⚠️ BELOW 75–85% target)
+- **Buying power:** $310,929.64 (margin; using cash only)
+- **Daytrade count:** 0 | **Positions:** 3/6 | **Week trades:** 0/3 (Week 7)
+
+| Ticker | Shares | Entry | Pre-mkt | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $317.40 | +$2,504.46 | +13.35% | $303.552 (7% trail) | $326.40 |
+| LHX | 60 | $308.48 | $305.81 | -$160.05 | -0.87% | $283.851 (10% trail) | $315.39 |
+| RTX | 115 | $174.65 | $176.20 | +$178.25 | +0.89% | $163.395 (10% trail) | $181.55 |
+
+All three GTC trailing stops confirmed active.
+
+### Sell-Side Check
+- **GE $317.40 (+13.35%):** 7% stop $303.552 (HWM $326.40, 4.26% buffer). +20% trigger $336.02 ($18.62 away). HOLD.
+- **LHX $305.81 (-0.87%):** Stop $283.851 (HWM $315.39, 7.2% buffer). -7% cut level $286.88 ($18.93 buffer). Recovering today (+0.78% pre-mkt). HOLD.
+- **RTX $176.20 (+0.89%):** Stop $163.395 (HWM $181.55, 7.27% buffer). HOLD.
+
+### Market Context
+- **S&P 500 futures (ESM26):** ~7,537 — flat/slightly positive; no breakdown
+- **NFP Friday June 5 (8:30 AM ET):** Week's dominant macro risk event. No new major macro data today.
+- **Sector momentum:** AI/tech leading (MRVL, AVGO confirming hyperscaler custom ASIC theme); defense sector soft on US-Iran ceasefire narrative
+- **AVGO earnings AMC June 3 (KEY CATALYST):** Q2 revenue $22.2B (+48% YoY, BEAT vs ~$22.1B est); Q3 guidance $29.4B (+84% YoY — extraordinary guide-up); AI semiconductor Q2 revenue $10.8B → Q3 guidance $16.0B (+200%+ YoY); EPS $2.44 vs $2.32 estimate. Custom AI accelerators and AI networking for hyperscalers — directly confirms AI infrastructure investment supercycle.
+
+### Trade Ideas
+
+**AVGO — TRADE (primary setup)**
+- **Catalyst:** Q2 +48% rev beat + Q3 +84% guide = one of the strongest earnings/guidance beats in AI semiconductor history; AI semi Q3 $16B; custom ASIC/hyperscaler theme directly confirmed
+- **Sector:** Technology/Semiconductors — no consecutive failures (NVDA failed, MRVL succeeded; no ban)
+- **Pre-market quote:** AVGO last ask $500.20 / bid $460.37 (after-hours June 3; live open price unknown)
+- **Gap-up protection:** At 40 shares, cost stays ≤ 20% equity ($21,534) up to ~$538/share. If fill above $538: minor cap overage per CVX precedent; document
+- **Stop:** 10% trailing GTC immediately after fill
+- **Target:** +20% from entry (~2:1 R:R vs 7-10% stop)
+- **Gate check:** Positions 3→4 ≤ 6 ✓ | Week trades 0→1 ≤ 3 ✓ | Cost ≤ 20% equity ✓ | Cash $47,793 available ✓ | PDT 0/3 ✓ | Catalyst documented ✓ | Stock ✓
+- **Order placed:** 40 shares, market order, day TIF — submitted 12:44:35Z pre-market, pending fill at open
+
+### Risk Factors
+- **NFP Friday June 5:** Binary risk at week-end; broad market impact; all positions exposed
+- **AVGO gap-up price uncertainty:** After-hours quote stale; could open 10-20% above regular close; 40-share order may be fractionally over 20% cap if fill > $538
+- **Deployment concentration:** After AVGO, deployment ~$80k/107k = 74% — approaching but within 75-85% band
+- **Defense sector (GE/LHX/RTX):** All soft on US-Iran ceasefire narrative; GE primary driver is commercial aviation (thesis intact); LHX/RTX defense procurement backlog unchanged
+
+### Decision
+**TRADE — AVGO 40 shares at market open.** Extraordinary Q3 guide (+84% YoY) with AI semiconductor revenue confirmation. Portfolio needs redeployment (55.6% deployed → ~74% post-AVGO = at lower end of 75-85% band). All hard gates pass. NFP Friday is known risk — position with 10% trailing stop manages downside.
+
+---
+
 ## 2026-06-01 — Pre-market Research (Day 27, Monday — Week 7) [inline at market-open]
 
 ### Account
