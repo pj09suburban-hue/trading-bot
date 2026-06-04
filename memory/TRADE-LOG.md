@@ -1116,3 +1116,18 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $173.54 | -0.42% | -$128.23 (-0.64%) | $163.395 (10% trail, HWM $181.55) |
 
 **Notes:** Day 29 (Wednesday, Week 7). Key event: MRVL trailing stop triggered at midday — closed 92 shares at $306.197 avg, realizing +$9,483.96 (+50.77%) in 5 trading days; trailing stop progressed from 10% at entry through two tightens to 5% after the +20% threshold, capturing the post-COMPUTEX move. Cash now $47,793.74 (44.6%), deployment at 55.4% — below the 75–85% target. Remaining three positions all closed lower on the day: GE -0.65% (+12.72% cumulative, 7% stop $303.552, tighten trigger at $336.02 is $20.37 away); LHX -1.81% (-1.93% cumulative, 4th consecutive close below entry; -7% cut level $286.88, current $302.53 is $15.65 above — no action, but thesis drift watch active); RTX -0.42% (-0.64% cumulative, stop $163.395, thesis intact). Week: 0/3 new buys (3 slots open). AVGO reports AMC tonight — strong print + constructive setup would warrant a pre-market eval for tomorrow entry. NFP Friday June 5 is the next macro event. Daytrade count: 0.
+
+---
+
+## 2026-06-04 — Market-Open Trades (Day 30, Thursday — Week 7)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-06-04 | AVGO | BUY | 40 | $409.5665 (avg) | $365.10 (10% trail GTC, HWM $405.665, order 778cbce6) | Q2 FY2026 revenue $22.2B (+48% YoY beat); Q3 guide $29.4B (+84% YoY); AI semiconductor Q3 $16B (+200%+ YoY); custom ASIC/hyperscaler supercycle confirmed by earnings | $491.48 (+20%) | 2:1 |
+
+**⚠️ Gap-down note:** AVGO regular close June 3 was $479.23; opened June 4 at ~$409–410 (-14.6% gap-down) on sell-the-news and market disappointment that Broadcom left its FY2027 AI revenue target unchanged. Underlying Q3 revenue guidance remains extraordinary ($29.4B, +84% YoY). Thesis intact — gap reflects over-bullish expectations into earnings, not a fundamental change in AI custom ASIC demand. 10% trailing stop placed immediately; stop $365.10 protects -10.9% from fill (HWM-based) or -7% manual cut at $380.90 fires first.
+**Cost basis:** $16,382.66 = 15.2% of equity ($108,110) ✓ (well within 20% cap)
+
+**Gate checks passed:** Positions 3→4 ≤ 6 ✓ | Week trades 0→1 ≤ 3 ✓ | Cost 15.2% ≤ 20% equity ✓ | Cash $47,793 available ✓ | PDT 0/3 ✓ | Catalyst documented ✓ | Stock ✓
+
+**Week trades:** 1/3 (Week 7) | **Open positions:** 4/6 | **Deployed:** ~$76,737 / $108,110 ≈ 71.0% (approaching 75–85% target band)
