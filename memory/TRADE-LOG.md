@@ -1161,3 +1161,18 @@ No positions yet. Bot launches tomorrow.
 **Week trades:** 1/3 (Week 7) | **Open positions:** 4/6 | **No notification sent (no action taken)**
 **Deployment:** 71.1% — below 75–85% band. 2 trade slots remain this week. Holding for post-NFP clarity; no new positions today into binary macro risk.
 **Key watch:** GE +20% tighten trigger $336.02 is $10.49 away; if touched, tighten trail to 5% (do not tighten within 3% of price — verify buffer before action). NFP June 5 is tomorrow's dominant macro event.
+
+---
+
+### Jun 04 — EOD Snapshot (Day 30, Thursday — Week 7)
+**Portfolio:** $109,070.62 | **Cash:** $31,411.05 (28.8%) | **Day P&L:** +$2,145.78 (+2.01%) | **Phase P&L:** +$9,070.62 (+9.07%) — new phase high
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AVGO | 40 | $409.57 | $416.69 | +1.74% vs entry* | +$284.94 (+1.74%) | $383.83 (10% trail, HWM $426.48) |
+| GE | 67 | $280.02 | $327.46 | +4.07% | +$3,178.48 (+16.94%) | $304.67 (7% trail, HWM $327.61) |
+| LHX | 60 | $308.48 | $307.95 | +1.48% | -$31.65 (-0.17%) | $283.85 (10% trail, HWM $315.39) |
+| RTX | 115 | $174.65 | $178.89 | +3.67% | +$487.60 (+2.43%) | $163.395 (10% trail, HWM $181.55) |
+
+**Notes:** Day 30 (Thursday, Week 7). AVGO entered at market-open ($409.57 avg) on Q3 earnings beat (revenue guide $29.4B, +84% YoY); gap-down from $479 prior close absorbed — closed $416.69 (+1.74% from entry). GE ran to +16.94%, closing within $8.56 of +20% tighten trigger ($336.02); 7% trail at HWM $327.61, stop $304.67. LHX recovered to near-flat (-0.17% cumulative) after a +1.48% intraday session, thesis-drift watch easing. RTX +2.43% on broad defense strength. Portfolio reached new phase high $9,070.62 (+9.07%). Deployment 71.2% — below 75–85% target; holding cash reserves into NFP (June 5) macro event. No additional trades. Week: 1/3.
+*AVGO: Alpaca shows -13.05% vs Jun 3 close ($479.23) due to earnings gap-down at open; performance vs our actual entry is +1.74%.
