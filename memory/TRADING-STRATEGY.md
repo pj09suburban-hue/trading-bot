@@ -23,6 +23,7 @@ Beat the S&P 500 over the challenge window. Stocks only — no options, ever.
 9. Follow sector momentum — don't force a thesis if the sector is rolling over
 10. Exit a sector after 2 consecutive failed trades in that sector
 11. Patience > activity — a week with zero trades can be the right answer
+12. Post-earnings entries (entry within 3 days of earnings print): set initial trailing stop at 7% instead of 10%. The -7% manual cut rule still applies normally. Rationale: sell-the-news dynamics produce elevated near-term volatility; 3 instances confirmed (CEG -9.06%, NVDA -7.62%, AVGO -6.06%) across weeks 4–7. (Added 2026-06-05)
 
 ## Entry Checklist
 Before placing any buy, document all four:

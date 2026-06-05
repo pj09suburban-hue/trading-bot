@@ -374,3 +374,72 @@ Template for each entry:
 
 ### Overall Grade: C+
 *Week 6 — positive week (+1.23%) but lagged S&P by 0.27%; phase recovered from -2.00% to -0.25% (most improvement in a single week since launch). NVDA -7% cut and GE +15% stop tighten were both executed correctly. MRVL entry had a procedural data miss. The 0-for-5 all-time closed-trade record is the portfolio's defining weakness — 6 weeks without a realized gain means the strategy's upside execution remains completely unvalidated.*
+
+---
+
+## Week ending 2026-06-05
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,747.28 |
+| Ending portfolio | $108,117.39 |
+| Week return | +$8,370.11 (+8.39%) |
+| S&P 500 week | ~-1.64% (7,585.33 → ~7,461) |
+| Bot vs S&P | +10.03% |
+| Phase return | +$8,117.39 (+8.12% from $100k baseline) |
+| Phase bot vs S&P | +3.99% (bot +8.12% vs S&P +4.13% from Apr 24 start 7,165.08) |
+| Trades | 2 (W:1 / L:0 / open:4) |
+| Win rate | 100% this week (1/1 closed); 16.7% all-time (1/6 closed) |
+| Best trade | MRVL +50.77% (+$9,483.96 realized) |
+| Worst trade | AVGO -6.06% (open, near trailing stop) |
+| Profit factor | 2.19 all-time ($9,483.96 / $4,335.44) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| MRVL | $203.11 | $306.197 avg | +$9,483.96 (+50.77%) | Trailing stop GTC fired June 3; 5-day hold (May 29→Jun 3); COMPUTEX keynote catalyst (NVIDIA-Marvell AI partnership); stop progressed 10%→7%→5% |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AVGO | $409.57 | $384.73 | -$993.46 (-6.06%) | $383.83 (10% trail, HWM $426.48) — ⚠️ $0.90 above stop |
+| GE | $280.02 | $328.00 | +$3,214.66 (+17.13%) | $309.21 (7% trail, HWM $332.49) |
+| LHX | $308.48 | $307.83 | -$38.85 (-0.21%) | $283.85 (10% trail, HWM $315.39) |
+| RTX | $174.65 | $181.49 | +$786.60 (+3.92%) | $164.28 (10% trail, HWM $182.53) |
+
+### What Worked
+- MRVL trailing stop progression: entry 10% trail → 7% (at +15%) → 5% (at +20%) → autonomous ratchet to $307.95; captured +50.77% in 5 days with zero manual intervention
+- First realized profit in 6 weeks of trading — stop discipline and mechanical execution validated end-to-end
+- AVGO entry thesis intact: post-earnings gap-down correctly identified as sell-the-news (not thesis break); AI custom ASIC/hyperscaler Q3 guide $29.4B unchanged; entered at gap-down price
+- GE patience continues to pay: +17.13% cumulative over 6+ weeks; stop tighten at +15% (May 28) protected $1,555+ of gain; approaching +20% trigger $336.02
+- Portfolio crossed from -$2,004 (-2.00%) to +$8,117 (+8.12%) phase return in one week — single quality catalyst reverses multi-week drawdown
+
+### What Didn't Work
+- AVGO post-earnings sell-the-news more persistent than modeled: -6.06% after 2 days, stop $383.83 at $0.90 buffer; 10% initial trailing stop too wide for gap-down entry; 7% stop would have matched -7% manual cut and exited earlier
+- Deployment missed target all week: MRVL exit freed $28k; AVGO redeployment brought only 70.9% deployed vs 75-85% target; 2 position slots idle
+- LHX occupying a slot for 15 sessions with -0.21% cumulative return; no realized loss, but no value creation; opportunity cost vs a fresh catalyst
+- S&P had a down week (-1.64%) making outperformance structurally easier; true stress test is beating a strong up week
+- 3-week pattern of post-earnings sell-the-news underperformance (CEG, NVDA, AVGO) confirms the 10% initial stop is too wide for this setup type; rule formalized in TRADING-STRATEGY.md this week
+
+### Key Lessons
+- Stop system works exactly as designed: MRVL's 10%→7%→5% auto-progression and final triggered exit required zero emotional decisions; this is the execution standard
+- One quality thesis (MRVL COMPUTEX, 5 days) generated more P&L (+$9,484) than 7 weeks of multi-position management combined; selectivity beats activity
+- Post-earnings entries now have 3 documented instances of elevated sell-the-news volatility (CEG -9.06%, NVDA -7.62%, AVGO -6.06%) — 7% initial stop is the correct setting, not 10%; this rule is now codified in TRADING-STRATEGY.md
+- Phase inflection: the portfolio has gone from -6.12% vs S&P (week 6) to +3.99% vs S&P (week 7) in a single week; preservation of capital through stops and a single clean winner drove the entire turnaround
+- Validation gate update: 6/6 closed trades + 7 full weeks → paper validation criteria now met (≥6 closed trades AND ≥4 full weeks); however equity must first clear $100k consistently before considering live transition per prior guidance
+
+### Adjustments for Next Week
+- AVGO: Monday open is the critical event — if gap-down through $383.83 GTC stop fires automatically; if $383.83 holds and AVGO recovers above $392+, post-NFP selling may have exhausted; manual -7% cut at $380.90 applies if stop doesn't fire first; do not override the stop
+- GE: +20% tighten trigger $336.02 is $8.02 away (HWM $332.49); on any session GE hits $336.02 intraday, immediately tighten trail 7%→5% (stop moves from ~$309 to ~$319); verify not within 3% of price before placing
+- LHX: 15-session hold with near-zero return; monitor — if another week with no new defense catalyst and no price momentum, consider closing to free slot for a fresh setup; thesis not broken but slot efficiency is poor
+- RTX: Hold; defense outperformer (+3.92%); stop $164.28 provides adequate buffer; no action needed
+- If AVGO exits: 2 position slots available, 2 trade slots remain this week; wait for a quality pre-market catalyst before deploying; priority sectors: Industrials (GE momentum confirmed), AI/semiconductor (if semis recover), or fresh momentum name with documented catalyst; no energy (sector ban in effect)
+
+### Overall Grade: A-
+*Week 7 — breakthrough week. First realized profit in the phase (+50.77% MRVL). Portfolio phase return flipped from -2.00% to +8.12% in one week, now leading the S&P benchmark by +3.99%. Trailing stop system fully validated through a complete lifecycle. AVGO's post-earnings sell-the-news deterioration is the only blemish — it forced a strategy rule update (post-earnings initial stop 7% vs 10%) and sits $0.90 above its trailing stop entering the weekend. Grade A- reflects the transformative performance week tempered by the live AVGO risk and continued deployment shortfall.*
+
+---
