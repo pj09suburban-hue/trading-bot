@@ -1807,3 +1807,69 @@ TRADE or HOLD (default HOLD if no clear edge)
 ### Decision
 **CONDITIONAL — AVGO at open, pending stabilization**
 Default stance is HOLD until opening price action confirms. If AVGO opens and stabilizes constructively by 10–11 AM (above ~$455, reversal volume), execute 1 buy via market-open workflow within 20% equity. Otherwise no trades today — preserve slots for post-NFP setup tomorrow or next week.
+
+---
+
+## 2026-06-05 Pre-Market Research (Day 31, Friday — Week 7 — NFP Day)
+
+### Account Snapshot
+- **Equity:** $108,880.48 | **Cash:** $31,411.04 (28.8%) | **Long MV:** $77,469.44 (71.2% deployed)
+- **Positions:** 4/6 (AVGO, GE, LHX, RTX) | **Week trades:** 1/3 | **Daytrade count:** 0
+- **Deployment:** 71.2% — below 75–85% target; 2 trade slots remain this week
+
+### Positions (pre-market)
+| Symbol | Shares | Entry | Pre-mkt | Unrealized | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| AVGO | 40 | $409.57 | $409.85 | +$11.34 | +0.07% | $383.83 (10% trail) | $426.48 |
+| GE | 67 | $280.02 | $326.42 | +$3,108.80 | +16.57% | $306.40 (7% trail) | $329.46 |
+| LHX | 60 | $308.48 | $308.00 | -$28.65 | -0.15% | $283.851 (10% trail) | $315.39 |
+| RTX | 115 | $174.65 | $180.22 | +$640.55 | +3.19% | $163.395 (10% trail) | $181.55 |
+
+### Market Context
+- **WTI:** ~$92.50/bbl (down from ~$95-96 yesterday — easing slightly) | **Brent:** ~$95.75/bbl
+- **S&P 500 Futures (ESM26):** ~7,564 (+0.36%) — constructive mild risk-on
+- **VIX:** ~15.40 (closed 16.06 June 3; trending lower — benign/complacent)
+- **Dominant event today: NFP (Non-Farm Payrolls) 8:30 AM ET** — May jobs report; consensus 85K, prior 115K. Binary macro risk. All positions exposed.
+- **No BMO earnings today** — 0 companies reporting pre-market per Digrin calendar
+- **Sector momentum YTD (June 2026):** Energy #1 (~+22%), Industrials #2 (~+16%), Consumer Staples #3 (~+13%). Technology recovering. Defense broadly stable with ceasefire-narrative headwinds.
+
+### Ticker News
+- **AVGO ($409.85, +0.07% from entry):** Post-earnings gap-down sell-the-news stabilizing. AI custom ASIC thesis intact (Q3 guide $29.4B, +84% YoY; Q3 AI rev guide $16B, +200%+). Market Chameleon coverage notes persistent AI infrastructure demand narrative from hyperscaler partners. HWM $426.48 shows brief post-entry pop that retraced. GTC stop $383.83 manages downside. HOLD — thesis intact, still digesting gap.
+- **GE ($326.42, +16.57%):** Premarket market chameleon referenced $340.76 in early AH/PM data — possible brief spike. IR and live Alpaca data show $326.42. GE426 engine contract (U.S. Air Force ACP program) positive. Analyst consensus ~$348 target. +20% tighten trigger $336.02 = $9.60 from current HWM ($329.46). Watch at market open — if price surges toward/past $336.02, tighten trail to 7%→5% at midday/market-open workflow.
+- **LHX ($308.00, -0.15%):** L3Harris IR shows $309.06, +1.85% — recovering from recent drift. Q1 2026 beat: EPS $2.72 vs $2.57 est; revenue $5.744B vs $5.473B est. Defense ISR/C2 thesis intact. Solid rocket motor facility expansion (Huntsville, $25M). Quarterly dividend raised to $1.25/share. Thesis-drift watch easing. Stop $283.851 ($24.15 buffer). HOLD.
+- **RTX ($180.22, +3.19%):** $6.6B engine contract intact. BofA PT raised to $215. Q1 beat (EPS $1.78 vs $1.52). $74B backlog. Javelin CLU delivery to Army (May). DARPA solid rocket contract with Northrop. Defense sector showing relative strength. Stop $163.395 ($16.83 buffer). HOLD.
+
+### Stop Tighten Check
+- **GE +16.57%:** Already on 7% trail (tightened at +15% in May). +20% tighten trigger → 5% trail at $336.02 (HWM $329.46, trigger $6.56 above HWM). Watch — could trigger at/after open if market rallies post-NFP. Do NOT tighten within 3% of price.
+- **AVGO +0.07%:** No tighten. -7% cut level = $380.90 (current $409.85 is $28.95 above).
+- **LHX -0.15%:** No tighten. -7% cut level = $286.88 (current $308 is $21.12 above).
+- **RTX +3.19%:** No tighten. -7% cut level = $162.42 (current $180.22 is $17.80 above).
+
+### Trade Ideas
+
+**Idea 1: Energy sector entry (XOM or COP) — CONDITIONAL POST-NFP**
+- **Catalyst:** Energy #1 sector YTD (+22%); WTI $92.50 (elevated, geopolitical support from US-Iran tension); NFP miss/goldilocks print would boost risk appetite and rate-sensitive energy.
+- **Entry condition:** NFP prints moderate (70-110K) → risk-on → energy sector leadership confirms → evaluate XOM or COP at market open for constructive setup. If NFP hot (>130K) → yields spike, energy mixed → skip. If NFP miss (<50K) → recession fears → skip.
+- **Gate checks (pro forma):** Positions 4→5 ≤ 6 ✓ | Week trades 1→2 ≤ 3 ✓ | Size ~20% equity ~$21.7K | PDT 0/3 ✓ | Instrument stock ✓
+- **Stop:** 10% below entry | **Target:** +20% above entry (2:1+ R:R)
+- **Risk:** Energy sector move already well advanced YTD; late entry risk; oil price could reverse on Fed hawkishness from hot NFP
+
+**Idea 2: GE stop tighten action (not a new trade)**
+- GE approaching +20% tighten trigger $336.02. If GE trades at or above $336.02 at market open, tighten GTC trailing stop from 7% → 5%. This is mandatory per strategy rules. NOT a new trade — just a stop update on existing position.
+
+**Idea 3: No additional ideas — HOLD**
+- With NFP as binary event, opening new positions before the print is not disciplined. Market-open workflow executes after NFP lands.
+
+### Risk Factors
+- **NFP binary risk:** All 4 positions face macro exposure. Hot print → yields spike → growth/industrial under pressure. Miss → recession fear → broad risk-off. In-line → goldilocks, favorable.
+- **AVGO digestion risk:** Stock bought into a gap-down; if sell-the-news continues past our -7% cut level ($380.90), stop manages exit. Thesis intact but sentiment fragile.
+- **GE tighten trigger risk:** If GE spikes through $336.02 and immediately reverses, 5% trail will be much tighter; could stop out on normal volatility. Only tighten if price is NOT within 3% of current price (i.e., do not tighten if current price is within $10 of stop level).
+- **Deployment gap:** 71.2% vs 75-85% target. Energy position would bring to ~90% — slightly above target. Size carefully.
+- **Oil price reversal:** WTI dropped ~$3 overnight ($95→$92.50). If trend continues, energy thesis weakens.
+
+### Decision
+**TRADE-conditional (Energy post-NFP) | Default: HOLD until market-open**
+- Pre-market stance is HOLD. Market-open workflow evaluates Energy setup after NFP prints (8:30 AM ET).
+- Trigger for TRADE: NFP 70-110K + market opens positive + Energy sector (XOM/COP) shows constructive setup + no other gate failures.
+- Trigger for HOLD: NFP hot (>120K), market risk-off, or no clean setup identified.
+- Stop-tighten action: GE → 5% trail if price reaches $336.02 at/after open.
