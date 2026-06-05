@@ -1205,3 +1205,17 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $108,640.37 | **Cash:** $31,411.04 (28.9%) | **Long MV:** $77,229.33 (71.1% deployed) | **Intraday P&L:** -$698.57 (-0.64%) | **Phase P&L:** +$8,640.37 (+8.64%)
 **Week trades:** 1/3 (Week 7) | **Open positions:** 4/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
 **Key watch:** AVGO stop ($383.83) is 2.55% from current ($393.87) — GTC stop auto-exits if selling accelerates. GE +20% tighten trigger $336.02 approaching; tighten to 5% trail if/when reached (verify not within 3% of price). No new positions today — NFP day, 2 trade slots remain this week.
+
+---
+
+### Jun 05 — EOD Snapshot (Day 31, Friday — NFP Day — Week 7)
+**Portfolio:** $108,080.77 | **Cash:** $31,411.04 (29.1%) | **Day P&L:** -$1,258.17 (-1.15%) | **Phase P&L:** +$8,080.77 (+8.08%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AVGO | 40 | $409.57 | $388.99 | -7.14% | -$823.06 (-5.02%) | $383.83 (10% trail, HWM $426.48) |
+| GE | 67 | $280.02 | $326.74 | -0.28% | +$3,130.24 (+16.68%) | $309.21 (7% trail, HWM $332.49) |
+| LHX | 60 | $308.48 | $307.15 | -0.85% | -$79.65 (-0.43%) | $283.85 (10% trail, HWM $315.39) |
+| RTX | 115 | $174.65 | $180.81 | +0.78% | +$708.40 (+3.53%) | $164.28 (10% trail, HWM $182.53) |
+
+**Notes:** Day 31 (Friday, NFP Week 7). Portfolio gave back $1,258 (-1.15%) from yesterday's phase high as NFP macro pressure hit risk assets. AVBO continued post-earnings drift, closing -5.02% from entry at $388.99; trailing stop $383.83 is only $5.16 below close (1.3% buffer) — auto-exit imminent if selling resumes Monday. Manual -7% cut level $380.90 is $8.09 below close; stop fires first. GE held near flat (-0.28% intraday), +16.68% cumulative; +20% tighten trigger ($336.02) not reached (HWM $332.49, $3.53 shy). LHX -0.43% unrealized, thesis-drift watch fully resolved. RTX +3.53%, defense outperformer on the week. No trades placed. Week 7 total: 1/3 trades. Deployment 70.9% — below 75–85% target band; AVGO exit would free ~$15.6k for redeployment. All 4 GTC trailing stops active entering weekend.
