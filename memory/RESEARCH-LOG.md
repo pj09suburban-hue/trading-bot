@@ -1873,3 +1873,9 @@ Default stance is HOLD until opening price action confirms. If AVGO opens and st
 - Trigger for TRADE: NFP 70-110K + market opens positive + Energy sector (XOM/COP) shows constructive setup + no other gate failures.
 - Trigger for HOLD: NFP hot (>120K), market risk-off, or no clean setup identified.
 - Stop-tighten action: GE → 5% trail if price reaches $336.02 at/after open.
+
+### 2026-06-05 — Afternoon Addendum (Midday Scan)
+- **AVGO -5.98% intraday:** Perplexity research confirms macro (NFP) driver, no company-specific negative news. AI custom ASIC thesis unchanged — Q3 guide $29.4B/+84% YoY, AI rev guide $16B intact. Price $393.87, stop $383.83 (2.55% buffer). GTC stop manages exit if selling continues. No manual action.
+- **GE +17.55% cumulative:** HWM auto-ratcheted to $332.49. +20% tighten trigger $336.02 is $6.87 and $3.53 above HWM — could be reached at or after close. If EOD confirms GE ≥ $336.02, tighten trail to 5% at next workflow.
+- **LHX/RTX:** Thesis-drift watch on LHX fully resolved. RTX showing defense relative strength (+3.91%). All GTC stops self-managing.
+- **No trades executed.** NFP day — preserving 2 remaining week slots for potential post-NFP setup next week.
