@@ -1219,3 +1219,32 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $180.81 | +0.78% | +$708.40 (+3.53%) | $164.28 (10% trail, HWM $182.53) |
 
 **Notes:** Day 31 (Friday, NFP Week 7). Portfolio gave back $1,258 (-1.15%) from yesterday's phase high as NFP macro pressure hit risk assets. AVBO continued post-earnings drift, closing -5.02% from entry at $388.99; trailing stop $383.83 is only $5.16 below close (1.3% buffer) — auto-exit imminent if selling resumes Monday. Manual -7% cut level $380.90 is $8.09 below close; stop fires first. GE held near flat (-0.28% intraday), +16.68% cumulative; +20% tighten trigger ($336.02) not reached (HWM $332.49, $3.53 shy). LHX -0.43% unrealized, thesis-drift watch fully resolved. RTX +3.53%, defense outperformer on the week. No trades placed. Week 7 total: 1/3 trades. Deployment 70.9% — below 75–85% target band; AVGO exit would free ~$15.6k for redeployment. All 4 GTC trailing stops active entering weekend.
+
+---
+
+## 2026-06-08 — Midday Scan (Day 32, Monday — Week 8)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| AVGO | $409.57 | $396.87 | -$508.06 | -3.10% | +2.89% | $383.83 (10% trail) | $426.48 | HOLD — recovering from Friday lows; stop 3.3% from price |
+| GE | $280.02 | $323.46 | +$2,910.48 | +15.51% | -1.38% | $309.21 (7% trail) | $332.49 | HOLD — +20% tighten trigger $336.02 is $12.56 away |
+| LHX | $308.48 | $301.40 | -$424.95 | -2.30% | -2.09% | $283.85 (10% trail) | $315.39 | HOLD — no negative news; thesis intact; buffer $14.52 |
+| RTX | $174.65 | $178.89 | +$487.60 | +2.43% | -1.16% | $164.28 (10% trail) | $182.53 | HOLD — defense thesis intact |
+
+**Cut losers (-7%):** None. Worst AVGO -3.10% ($380.90 cut level, $396.87 current — $15.97 above). All clear.
+**Stop tightening (+15%/+20%):** None. GE +15.51% on 7% trail (already tightened May 28); +20% trigger $336.02 not yet reached (current $323.46, $12.56 away). All others below +15%.
+**Trailing stop status (live GTC orders):**
+- AVGO: order 778cbce6 active, 10% trail, HWM $426.48, stop $383.83
+- GE: order 371795d6 active, 7% trail, HWM $332.49, stop $309.21
+- LHX: order 9e8f2f79 active, 10% trail, HWM $315.39, stop $283.85
+- RTX: order 8a67337a active, 10% trail, HWM $182.53, stop $164.28
+**Thesis check:**
+- AVGO: Recovering +2.89% intraday from Friday's $385.73 close to $396.87. AI custom ASIC Q3 guide ($29.4B, +84% YoY) unchanged. No negative news. Stop $383.83 is 3.3% from current — tightest position. GTC manages exit if selling resumes. HOLD.
+- GE: -1.38% intraday pullback, still +15.51% cumulative. Commercial engine orders, GE426 award, Qatar Airways backlog intact. HWM $332.49 — +20% tighten trigger $336.02 is $12.56 from intraday high, $12.56 from current. HOLD. Watch trigger at market-open tomorrow.
+- LHX: -2.09% intraday, -2.30% cumulative. Perplexity research found no contract cancellation, no earnings warning, no defense budget cuts specific to LHX. Defense sector ISR/C2 thesis intact. Q1 beat, raised dividend, $354.75 analyst PT. Ex-dividend date was Jun 5 ($1.25/share), likely contributing to post-div drift. Stop $283.85 — $17.55 buffer from $301.40. HOLD.
+- RTX: -1.16% intraday, +2.43% cumulative. $6.6B engine contract, $74B backlog, defense sector intact. Stop $164.28, buffer $14.61. HOLD.
+
+**No action taken.** All four GTC trailing stops active and self-managing.
+**Portfolio (midday):** $107,590.54 | **Cash:** $31,411.04 (29.2%) | **Long MV:** $76,179.50 (70.8% deployed) | **Day P&L:** -$509.35 (-0.47%) | **Phase P&L:** +$7,590.54 (+7.59%)
+**Week trades:** 0/3 (Week 8) | **Open positions:** 4/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
+**Key watch:** AVGO stop $383.83 is 3.3% from $396.87 — widening vs Friday's 1.3% as price recovers (good sign); CPI Wednesday Jun 10 is primary risk. GE +20% tighten trigger $336.02 is $12.56 from current; watch at market-open. LHX drifting lower post-dividend — monitor for sustained -7% approach. Energy (XOM) entry conditional on CPI in-line/soft — 2 trade slots and 3 position slots available.
