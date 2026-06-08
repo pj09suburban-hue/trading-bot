@@ -1879,3 +1879,66 @@ Default stance is HOLD until opening price action confirms. If AVGO opens and st
 - **GE +17.55% cumulative:** HWM auto-ratcheted to $332.49. +20% tighten trigger $336.02 is $6.87 and $3.53 above HWM — could be reached at or after close. If EOD confirms GE ≥ $336.02, tighten trail to 5% at next workflow.
 - **LHX/RTX:** Thesis-drift watch on LHX fully resolved. RTX showing defense relative strength (+3.91%). All GTC stops self-managing.
 - **No trades executed.** NFP day — preserving 2 remaining week slots for potential post-NFP setup next week.
+
+---
+
+## 2026-06-08 — Pre-Market Research (Day 32, Monday — Week 8)
+
+### Account Snapshot
+- **Equity:** $108,633.39 | **Cash:** $31,411.04 (28.9%) | **Long MV:** $77,222.35 (71.1% deployed)
+- **Positions:** 4/6 | **Week 8 trades:** 0/3 | **Daytrade count:** 0
+
+### Position Summary
+| Ticker | Entry | Last Close | Premarket | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| AVGO | $409.57 | $385.73 | $397.12 | -$497.86 | -3.04% | $383.83 (10% trail) | $426.48 |
+| GE | $280.02 | $328.00 | $330.44 | +$3,378.21 | +18.01% | $309.21 (7% trail) | $332.49 |
+| LHX | $308.48 | $307.83 | $308.30 | -$10.65 | -0.06% | $283.85 (10% trail) | $315.39 |
+| RTX | $174.65 | $180.99 | $180.00 | +$615.25 | +3.06% | $164.28 (10% trail) | $182.53 |
+
+### Market Context
+- **WTI:** ~$93.90/bbl (range $92.25–$95.38 Jun 8) | Brent estimated ~$97–98 (no live quote)
+- **S&P 500 Futures:** ~7,416 (+0.21%) — mild risk-on open expected
+- **VIX:** ~15.87 (prior close Jun 5: 21.51 intraday; prior close Jun 4: 15.40) — benign
+- **BMO earnings today:** 0 significant names (Digrin confirms no BMO reports Jun 8)
+- **BIG WEEK — Macro events:** CPI Wed Jun 10 8:30 AM ET | PPI Thu Jun 11 8:30 AM ET | FOMC Jun 16–17 (official; not this week per Fed calendar)
+- **Sector momentum YTD:** Energy #1 (~+26% YTD, ~+35% trailing 6M) | Industrials #2 (~+14% YTD) | Technology #3 (~+19% trailing 6M, ~+53% trailing 12M) | Defense (Industrials subset) stable
+
+### Ticker News
+- **AVGO ($397.12, +2.95% vs Fri close $385.73):** Post-earnings gap-down continuing to recover. Q2 earnings: $2.44 EPS (beat $2.40 est), revenue $22.187B (+48% YoY). Q3 guide $29.4B, +84% YoY; AI rev guide $16B, +200%+ YoY — thesis fully intact. No new negative news today. Stop $383.83 (3.35% buffer from $397.12). Recovery encouraging — HWM $426.48 is $29.36 above current.
+- **GE ($330.44, +18.01%):** Commercial engine orders +93% to $17.3B; U.S. Air Force GE/RR drone engine award; GEnx selected by British Airways and Air New Zealand. Management kept FY2026 EPS guide $7.10–$7.40. Industrials sector strong. **+20% tighten trigger: $336.024 — only $5.58 from current. Stop at 7% trail, HWM $332.49.** Watch at open — if GE trades ≥ $336.02, tighten trail to 5% per strategy rules.
+- **LHX ($308.30, -0.06%):** Q1 2026 beat (EPS $2.72 vs $2.57; rev $5.744B vs $5.473B). Solid rocket motor expansion. Quarterly dividend raised to $1.25/share. ISR/C2/missile defense thesis intact. RTX vs LHX comparison favors RTX on near-term momentum but LHX thesis intact. Stop $283.85, buffer $24.45. HOLD.
+- **RTX ($180.00, +3.06%):** $515M SPY-6 radar contract; $6.6B engine contract; $74B backlog; BofA PT $215; Q1 beat (EPS $1.78 vs $1.52). Defense sector broadly stable. Stop $164.28, buffer $15.72. HOLD.
+
+### Stop Tighten Check
+- **GE +18.01%:** On 7% trail already. +20% tighten trigger $336.024 — $5.58 from premarket $330.44. If GE hits $336.02 intraday, market-open workflow must tighten to 5% trail. Do NOT tighten if new stop would be within 3% of current price (5% > 3%, always safe to tighten).
+- **AVGO -3.04%:** No tighten. -7% manual cut $380.90. Current $397.12 is $16.22 above cut level.
+- **LHX -0.06%:** No tighten. -7% cut $286.88. Buffer $21.42.
+- **RTX +3.06%:** No tighten. -7% cut $162.42. Buffer $17.58.
+
+### Trade Ideas
+
+**Idea 1: Energy sector entry (XOM) — CONDITIONAL post-CPI**
+- **Catalyst:** Energy #1 YTD (26%+), WTI $93.90 (up vs prior week), geopolitical support (US-Iran tension); oil at multi-month elevated range; global supply discipline from OPEC+
+- **Entry condition:** CPI Wed June 10 prints in-line or soft → rates stable/declining → energy/risk-on confirmed → evaluate XOM at post-CPI market-open
+- **Gate checks (pro forma):** Positions 4→5 ≤ 6 ✓ | Week trades 0→1 ≤ 3 ✓ | Size ~20% equity ~$21.7K | PDT 0/3 ✓ | Catalyst ✓ | Stock ✓
+- **Stop:** 7% below entry (post-earnings rule does NOT apply — not an earnings entry) → 10% standard. Entry ~$119–122 range (XOM last week ~$121); stop ~$108–110; target ~$145 (+20%); R:R 2:1+
+- **Risk:** CPI hot → yields spike → energy mixed; oil could reverse on demand concerns; late entry into already-extended move
+
+**Idea 2: Hold AVGO for recovery — no action**
+- AVGO recovering +2.95% premarket. Still -3.04% from entry. AI custom ASIC thesis intact. Stop $383.83 self-managing. Do not touch — let GTC trailing stop work.
+
+**Idea 3: No additional ideas today — HOLD**
+- CPI/PPI week = binary macro risk Wed+Thu. Opening new positions before CPI print is not disciplined. Default HOLD; reassess after CPI lands.
+
+### Risk Factors
+- **CPI Wednesday June 10:** Hot CPI → yields surge → tech/growth and all 4 positions under pressure → AVBO stop ($383.83) most at risk. Soft CPI → risk-on rally beneficial.
+- **GE approaching +20% tighten trigger:** If GE spikes through $336.02 and immediately reverses, 5% trail will be tight. Market-open workflow must execute tighten if triggered.
+- **AVGO stop proximity:** $383.83 stop is 3.35% from $397.12. One bad intraday session closes the gap. GTC auto-manages exit.
+- **Deployment gap:** 71.1% vs 75–85% target. One Energy position at 20% cap would bring to ~91% — slightly above target; size to ~15% equity (~$16.3K) to stay in band.
+- **Geopolitical escalation:** Iran-Israel tension cited in international markets; could pressure risk assets if headlines worsen.
+
+### Decision
+**HOLD today | TRADE-conditional (Energy XOM) post-CPI Wednesday**
+- Today: HOLD. No new positions before CPI. One mandatory pending action: GE stop tighten to 5% trail if/when GE ≥ $336.02.
+- Post-CPI (Wed+): If CPI in-line/soft, evaluate Energy (XOM) entry at Thursday market-open. If CPI hot, skip entirely.
