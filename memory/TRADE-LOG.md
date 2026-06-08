@@ -1248,3 +1248,17 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $107,590.54 | **Cash:** $31,411.04 (29.2%) | **Long MV:** $76,179.50 (70.8% deployed) | **Day P&L:** -$509.35 (-0.47%) | **Phase P&L:** +$7,590.54 (+7.59%)
 **Week trades:** 0/3 (Week 8) | **Open positions:** 4/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
 **Key watch:** AVGO stop $383.83 is 3.3% from $396.87 — widening vs Friday's 1.3% as price recovers (good sign); CPI Wednesday Jun 10 is primary risk. GE +20% tighten trigger $336.02 is $12.56 from current; watch at market-open. LHX drifting lower post-dividend — monitor for sustained -7% approach. Energy (XOM) entry conditional on CPI in-line/soft — 2 trade slots and 3 position slots available.
+
+---
+
+### Jun 08 — EOD Snapshot (Day 32, Monday — Week 8)
+**Portfolio:** $107,590.54 | **Cash:** $31,411.04 (29.2%) | **Day P&L:** -$509.35 (-0.47%) | **Phase P&L:** +$7,590.54 (+7.59%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AVGO | 40 | $409.57 | $396.02 | +2.67% | -$541.86 (-3.31%) | $383.83 (10% trail, HWM $426.48) |
+| GE | 67 | $280.02 | $322.89 | -1.56% | +$2,871.96 (+15.31%) | $309.21 (7% trail, HWM $332.49) |
+| LHX | 60 | $308.48 | $301.36 | -2.10% | -$427.35 (-2.31%) | $283.85 (10% trail, HWM $315.39) |
+| RTX | 115 | $174.65 | $179.34 | -0.91% | +$539.35 (+2.69%) | $164.28 (10% trail, HWM $182.53) |
+
+**Notes:** Day 32 (Monday, Week 8). Portfolio slipped -$509 (-0.47%) from Friday close as defense/tech pulled back broadly. AVGO rebounded +2.67% intraday to $396.02 but still -3.31% from entry; trailing stop $383.83 is $12.19 below close (3.1% buffer) — approaching zone for concern if CPI Wednesday disappoints. GE -1.56% intraday, +15.31% cumulative; HWM $332.49 remains $3.53 below the +20% tighten trigger ($336.02). LHX -2.10% intraday, -2.31% cumulative; no fundamental news; ex-div drag ($1.25/share Jun 5) likely driver; stop $283.85 provides $17.51 buffer (5.8%). RTX -0.91% intraday, +2.69% cumulative; $6.6B engine contract and $74B backlog intact. No trades placed; Week 8 running 0/3. Deployment 70.8% — below 75–85% target; AVBO stop-out would free ~$15.8k. All 4 GTC trailing stops active. CPI Wednesday Jun 10 is primary macro risk; no new positions before then.
