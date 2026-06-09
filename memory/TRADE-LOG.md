@@ -1262,3 +1262,50 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $179.34 | -0.91% | +$539.35 (+2.69%) | $164.28 (10% trail, HWM $182.53) |
 
 **Notes:** Day 32 (Monday, Week 8). Portfolio slipped -$509 (-0.47%) from Friday close as defense/tech pulled back broadly. AVGO rebounded +2.67% intraday to $396.02 but still -3.31% from entry; trailing stop $383.83 is $12.19 below close (3.1% buffer) — approaching zone for concern if CPI Wednesday disappoints. GE -1.56% intraday, +15.31% cumulative; HWM $332.49 remains $3.53 below the +20% tighten trigger ($336.02). LHX -2.10% intraday, -2.31% cumulative; no fundamental news; ex-div drag ($1.25/share Jun 5) likely driver; stop $283.85 provides $17.51 buffer (5.8%). RTX -0.91% intraday, +2.69% cumulative; $6.6B engine contract and $74B backlog intact. No trades placed; Week 8 running 0/3. Deployment 70.8% — below 75–85% target; AVBO stop-out would free ~$15.8k. All 4 GTC trailing stops active. CPI Wednesday Jun 10 is primary macro risk; no new positions before then.
+
+---
+
+## CLOSED TRADE — AVGO (Closed Jun 9, 2026)
+| Field | Value |
+|---|---|
+| Symbol | AVGO (Broadcom Inc.) |
+| Entry date | Jun 4, 2026 |
+| Entry price | $409.5665 |
+| Exit date | Jun 9, 2026 |
+| Exit price | $383.61025 |
+| Shares | 40 |
+| Exit reason | 10% trailing stop fired (HWM $426.48, stop $383.832, fill $383.61) |
+| Realized P&L | -$1,038.25 (-6.34%) |
+| Notes | Post-earnings sell-the-news repricing continued; no new negative catalyst. Trailing stop did its job. AI ASIC thesis structurally intact ($29.4B Q3 guide, +84% YoY) but stop correctly exited. 7th closed trade — validation criterion (≥6 closed trades + ≥4 weeks) now met. |
+
+---
+
+## 2026-06-09 — Midday Scan (Day 33, Tuesday — Week 8)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $324.07 | +$2,951.35 | +15.73% | +0.63% | $309.21 (7% trail) | $332.49 | HOLD |
+| LHX | $308.48 | $304.29 | -$251.25 | -1.36% | +0.72% | $283.851 (10% trail) | $315.39 | HOLD |
+| RTX | $174.65 | $180.925 | +$721.63 | +3.59% | +1.27% | $164.277 (10% trail) | $182.53 | HOLD |
+
+**AVGO:** Trailing stop (order 778cbce6) fired at 11:23 AM ET — filled $383.61 × 40 = $15,344.41. Realized loss -$1,038.25 (-6.34%). Stop self-managed per rules; no manual intervention required.
+
+**Cut losers (-7%):** None. GE +15.73%, LHX -1.36%, RTX +3.59% — all above -7% threshold. AVGO already exited via stop.
+
+**Stop tightening (+15%/+20%):** None. GE +15.73% on 7% trail (tightened May 28); +20% trigger $336.024 not reached (current $324.07, $11.95 below trigger; pre-market high of ~$340 was thin-liquidity artifact, did not sustain at RTH open). LHX/RTX well below +15%.
+
+**Trailing stop status (live GTC orders):**
+- GE: order 371795d6 active, 7% trail, HWM $332.49, stop $309.21
+- LHX: order 9e8f2f79 active, 10% trail, HWM $315.39, stop $283.851
+- RTX: order 8a67337a active, 10% trail, HWM $182.53, stop $164.277
+
+**Thesis check:**
+- GE: Perplexity — no negative news. Wolfspeed SiC collaboration positive. Broad industrials. Pre-market $340 was thin/unreliable; RTH open likely ≤ $324 area. +20% trigger $336.02 still $11.95 from current. HWM $332.49 unchanged. HOLD.
+- LHX: No fresh negative news. Defense ISR/C2 thesis intact. Ex-div drag ($1.25/share Jun 5) likely persisting. +0.72% intraday recovery is constructive. Stop $283.851 provides $20.44 buffer (6.7%). HOLD.
+- RTX: +3.59% cumulative, +1.27% intraday. Defense sector leading. $6.6B engine contract, $74B backlog intact. Stop $164.277, $16.65 buffer. HOLD.
+- AVGO: Stopped out. Post-earnings repricing (no new catalyst). AI ASIC thesis structurally intact but position closed; capital freed.
+
+**Portfolio (midday):** $107,521.76 | **Cash:** $46,755.45 (43.5%) | **Long MV:** $60,766.31 (56.5% deployed) | **Intraday P&L:** ~-$2.00 (flat vs yesterday's EOD after AVGO exit)
+**Week trades:** 0/3 (Week 8) | **Open positions:** 3/6 | **Daytrade count:** 0
+**Deployment:** 56.5% — significantly below 75–85% target. Pre-market plan holds: no new positions before CPI (Wed Jun 10). XOM Energy entry conditional on soft/in-line CPI → Thursday market-open. 2nd potential entry also on table (NOC/LMT or AVGO re-entry on bounce) to bring deployment back to target.
+**Validation milestone:** 7 closed trades + Week 8 (5 full weeks) — both live-validation criteria now met (≥6 trades + ≥4 weeks). Strategy review appropriate before deploying on live account.

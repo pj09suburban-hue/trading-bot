@@ -2010,3 +2010,10 @@ Default stance is HOLD until opening price action confirms. If AVGO opens and st
 - Today: HOLD. No new positions before CPI.
 - Mandatory pending: GE +20% tighten trigger may fire at open → market-open workflow executes tighten to 5% trail.
 - Post-CPI: Soft/in-line → XOM entry Thursday. Hot CPI → skip, reassess week 9.
+
+### Afternoon Addendum — Jun 09 (Midday)
+**AVGO trailing stop fired 11:23 AM ET.** Fill $383.61 × 40 shares. Realized -$1,038.25 (-6.34%). Perplexity confirms no new negative catalyst — continuation of post-earnings repricing from Jun 3 Q2 report. AI ASIC thesis structurally intact; stop worked as designed.
+
+**GE pre-market high (~$340.76) did not sustain at RTH open.** Price $324.07 at midday, +15.73% cumulative. No negative news. +20% tighten trigger ($336.024) still $11.95 away. Pre-market quote was thin-liquidity; not a sustained catalyst. Thesis intact.
+
+**Post-AVGO deployment: 56.5%** (well below 75–85% target). Plan: no new entries today (CPI tomorrow). XOM conditional Thursday if soft/in-line CPI. Consider AVGO re-entry if AI names rally post-CPI (thesis intact, price now at support).
