@@ -1942,3 +1942,71 @@ Default stance is HOLD until opening price action confirms. If AVGO opens and st
 **HOLD today | TRADE-conditional (Energy XOM) post-CPI Wednesday**
 - Today: HOLD. No new positions before CPI. One mandatory pending action: GE stop tighten to 5% trail if/when GE ≥ $336.02.
 - Post-CPI (Wed+): If CPI in-line/soft, evaluate Energy (XOM) entry at Thursday market-open. If CPI hot, skip entirely.
+
+---
+
+## 2026-06-09 — Pre-Market Research (Day 33, Tuesday — Week 8)
+
+### Account Snapshot
+- **Equity:** $107,817.51 | **Cash:** $31,411.04 (29.1%) | **Long MV:** $76,406.47 (70.9% deployed)
+- **Positions:** 4/6 | **Week 8 trades:** 0/3 | **Daytrade count:** 0
+
+### Position Summary
+| Ticker | Entry | Mon Close | AH Quote | Unrealized P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| AVGO | $409.57 | $400.49 | bid $374 (thin/unreliable; PM ~$401) | -$363.06 | -2.22% | $383.83 (10% trail) | $426.48 |
+| GE | $280.02 | $324.03 | ask $341.07 (PM ~$340.76) | +$2,948.48 | +15.72% | $309.21 (7% trail) | $332.49 |
+| LHX | $308.48 | $302.55 | ask $326.55 | -$355.65 | -1.92% | $283.85 (10% trail) | $315.39 |
+| RTX | $174.65 | $178.47 | ask $189.87 | +$439.30 | +2.19% | $164.28 (10% trail) | $182.53 |
+
+### Market Context
+- **WTI:** ~$91/bbl (Kalshi threshold $92.99 near; elevated supply-risk premium continues)
+- **Brent:** ~$106/bbl (EIA June estimate)
+- **S&P 500 futures:** ~7,434 (+0.25%) — mild risk-on; CME note: stabilized near 7,415 after tech rebound
+- **VIX:** ~18.92 (June 8 close); down from 21.51 on Jun 5 — volatility easing into CPI week
+- **Earnings today BMO:** No major S&P 500 names. BMO Financial (Canadian bank) already reported May 27. Light day.
+- **Economic calendar today:** No major data. **CPI May → Wed Jun 10 8:30 AM ET (PRIMARY EVENT).** PPI May → Thu Jun 11 8:30 AM ET. FOMC Jun 16–17.
+- **Sector momentum YTD:** Energy #1 (~+26%) | Consumer Staples #2 (~+11%) | Industrials #3 (~+10%) | Technology recovering (Nasdaq +25% QTD). S&P 500 +24.3% YTD.
+
+### Ticker News
+- **AVGO ($400.49 Mon close; PM ~$401.36):** New positive catalyst — CEO Hock Tan extended tenure through 2030; secured $10B+ AI infrastructure orders from a new (unnamed) customer; projected $30B ASIC revenue FY2026. AI custom ASIC thesis intact and strengthening. Q2 guide $29.4B (+84% YoY), AI rev $16B. AH bid $374 is stale/thin (ask $0 = no offers), unreliable. Stop $383.83 (10% trail, HWM $426.48). HOLD — new AI customer announcement is constructive; stop self-managing.
+- **GE ($324.03 Mon close; PM ~$340.76):** Positive catalyst — Wolfspeed collaboration announced (silicon carbide); potential "more China deals" post Trump-Xi summit per coverage. Q1 2026: revenue +29%, orders +87%, backlog $210B. **+20% TIGHTEN TRIGGER: $336.024 — GE premarket ~$340.76 is ABOVE TRIGGER.** Market-open workflow must tighten trail from 7% to 5% when GE opens. Verify new stop is not within 3% of market price before placing.
+- **LHX ($302.55 Mon close):** No fresh news today. ISR/C2 thesis intact. Q1 beat (EPS $2.72 vs $2.57; rev +12% YoY). Ex-div drag ($1.25/share Jun 5) likely persisting. AH ask $326.55 suggests no major gap. Stop $283.85 (10% trail, buffer $18.70). HOLD.
+- **RTX ($178.47 Mon close; AH ask $189.87):** No fresh negative news. AH ask suggests potential gap-up; $6.6B engine contract, $74B backlog intact. Defense sector stable. Stop $164.28 (10% trail, buffer $14.19). HOLD — if RTX opens near $190 (AH ask), that would be +8.8% from entry, still below +15% tighten trigger ($200.85).
+
+### Stop Tighten Check
+- **GE +15.72% (7% trail already):** +20% trigger $336.024 — PM price ~$340.76 is **ABOVE TRIGGER → tighten to 5% at market-open**. Verify 5% trail is not within 3% of price (5% > 3%, always safe). New stop ~$323.22 if price opens at $340.
+- **AVGO -2.22%:** No tighten. Stop $383.83, cut level $380.90. PM price ~$401 is $17 above cut level.
+- **LHX -1.92%:** No tighten. Stop $283.85, cut level $286.88. No concern.
+- **RTX +2.19%:** No tighten. Stop $164.28, cut level $162.42.
+
+### Trade Ideas
+
+**Idea 1: GE stop tighten (MANDATORY ACTION at market-open)**
+- GE premarket ~$340.76 is above the +20% trigger ($336.024). Market-open workflow must:
+  1. Verify live price ≥ $336.02
+  2. Cancel GTC order 371795d6 (7% trail, HWM $332.49, stop $309.21)
+  3. Place new GTC trailing stop sell 67 shares GE, trail_percent 5%
+  4. Confirm new stop is not within 3% of current price
+
+**Idea 2: Energy entry (XOM) — CONDITIONAL on CPI**
+- Catalyst: Energy #1 YTD (+26%), WTI ~$91 elevated, OPEC+ supply discipline, geopolitical premium continuing. XOM entry ~$121–125 range.
+- Entry condition: CPI Wed Jun 10 prints in-line or soft → confirm Thursday market-open
+- Pro forma gate checks: Positions 4→5 ≤ 6 ✓ | Week 8 trades 0→1 ≤ 3 ✓ | Size ~$17–21K (15–20% equity) ✓ | PDT 0/3 ✓ | Catalyst: energy momentum + CPI catalyst ✓ | Stock ✓
+- Stop: 10% below entry (~$109–113); target ~$150 (+20%); R:R 2:1+
+- Risk: Hot CPI → rates surge → energy mixed; deployment ~91% at 20% size (slightly above 85% target) → size to 15% equity (~$16.2K) to stay in band
+
+**Idea 3: Defense 5th position (NOC/LMT) — LOW PRIORITY, post-CPI**
+- Defense sector momentum intact; 2 open slots. RTX+LHX already hold exposure. Adding a third defense name is sector concentration risk. Skip unless XOM passes and a slot remains.
+
+### Risk Factors
+- **CPI Wednesday Jun 10 (PRIMARY):** Hot print → yields spike → tech/growth pressure → AVBO stop $383.83 most at risk (only $17 buffer at current PM). Soft/in-line → risk-on, Energy entry confirmed.
+- **GE gap-up volatility:** If GE opens at $341, tighten to 5% trail → new stop ~$323.95. If GE immediately reverses post-open, the tightened stop is closer to price. Per rules: never tighten within 3% of current price; 5% stop is always > 3%.
+- **AVGO AH bid anomaly ($374):** AH bid below stop $383.83 was stale/unreliable (ask $0 = no sellers). PM ~$401 is normal. Monitor at open for any gap-down.
+- **Deployment 70.9%:** Below 75–85% target. XOM entry at 15% equity ($16.2K) would bring to ~86% — acceptable. Holding cash pre-CPI is justified.
+
+### Decision
+**HOLD today | TRADE-conditional (XOM Energy) post-CPI Wednesday**
+- Today: HOLD. No new positions before CPI.
+- Mandatory pending: GE +20% tighten trigger may fire at open → market-open workflow executes tighten to 5% trail.
+- Post-CPI: Soft/in-line → XOM entry Thursday. Hot CPI → skip, reassess week 9.
