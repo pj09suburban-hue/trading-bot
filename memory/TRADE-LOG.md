@@ -1309,3 +1309,16 @@ No positions yet. Bot launches tomorrow.
 **Week trades:** 0/3 (Week 8) | **Open positions:** 3/6 | **Daytrade count:** 0
 **Deployment:** 56.5% — significantly below 75–85% target. Pre-market plan holds: no new positions before CPI (Wed Jun 10). XOM Energy entry conditional on soft/in-line CPI → Thursday market-open. 2nd potential entry also on table (NOC/LMT or AVGO re-entry on bounce) to bring deployment back to target.
 **Validation milestone:** 7 closed trades + Week 8 (5 full weeks) — both live-validation criteria now met (≥6 trades + ≥4 weeks). Strategy review appropriate before deploying on live account.
+
+---
+
+### Jun 09 — EOD Snapshot (Day 33, Tuesday — Week 8)
+**Portfolio:** $108,231.63 | **Cash:** $46,755.45 (43.2%) | **Day P&L:** +$708.01 (+0.66%) | **Phase P&L:** +$8,231.63 (+8.23%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $330.64 | +2.67% | +$3,391.21 (+18.08%) | $309.21 (7% trail, HWM $332.49) |
+| LHX | 60 | $308.48 | $305.60 | +1.16% | -$172.52 (-0.93%) | $283.85 (10% trail, HWM $315.39) |
+| RTX | 115 | $174.65 | $182.50 | +2.15% | +$902.75 (+4.49%) | $164.41 (10% trail, HWM $182.68) |
+
+**Notes:** Day 33 (Tuesday, Week 8). Defense trio all closed green: GE +2.67%, RTX +2.15%, LHX +1.16%. Portfolio +$708 (+0.66%) despite AVGO stop firing mid-morning ($383.61 fill, realized -$1,038.25, -6.34%). Cash now 43.2% ($46,755) with 3 open positions at 56.8% deployed — below 75–85% target. RTX HWM updated intraday to $182.68, stop $164.41. GE +18.08% cumulative, approaching +20% tighten trigger at $336.02 ($5.39 gap from $330.64 close). LHX -0.93% cumulative, recovering from post-dividend drift; stop $283.85 provides $21.75 buffer (7.1%). Week 8: 0/3 new buys; 1 stop-out (AVGO). CPI Wednesday Jun 10 is binary catalyst — soft/in-line → evaluate XOM or AVGO re-entry; hot → hold cash. Phase: +$8,231.63 (+8.23%).
