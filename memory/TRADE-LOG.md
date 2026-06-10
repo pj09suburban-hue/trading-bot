@@ -1322,3 +1322,35 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $182.50 | +2.15% | +$902.75 (+4.49%) | $164.41 (10% trail, HWM $182.68) |
 
 **Notes:** Day 33 (Tuesday, Week 8). Defense trio all closed green: GE +2.67%, RTX +2.15%, LHX +1.16%. Portfolio +$708 (+0.66%) despite AVGO stop firing mid-morning ($383.61 fill, realized -$1,038.25, -6.34%). Cash now 43.2% ($46,755) with 3 open positions at 56.8% deployed — below 75–85% target. RTX HWM updated intraday to $182.68, stop $164.41. GE +18.08% cumulative, approaching +20% tighten trigger at $336.02 ($5.39 gap from $330.64 close). LHX -0.93% cumulative, recovering from post-dividend drift; stop $283.85 provides $21.75 buffer (7.1%). Week 8: 0/3 new buys; 1 stop-out (AVGO). CPI Wednesday Jun 10 is binary catalyst — soft/in-line → evaluate XOM or AVGO re-entry; hot → hold cash. Phase: +$8,231.63 (+8.23%).
+
+---
+
+## 2026-06-10 — Midday Scan (Day 34, Wednesday — CPI Day — Week 8)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $321.35 | +$2,768.78 | +14.76% | -2.75% | $309.21 (7% trail) | $332.49 | HOLD |
+| LHX | $308.48 | $305.83 | -$158.85 | -0.86% | -0.76% | $283.85 (10% trail) | $315.39 | HOLD |
+| RTX | $174.65 | $179.51 | +$558.90 | +2.78% | -1.13% | $164.70 (10% trail) | $183.00 | HOLD |
+
+**CPI result (May 2026, released 8:30 AM ET today):** Headline YoY +4.2% (in-line with consensus, up from +3.8%); Core MoM +0.2% vs +0.3% consensus (soft/below). Mixed: headline acceleration pressuring equities; core softer than feared. Market chose to focus on YoY acceleration — broad sell-off in risk assets intraday.
+
+**Cut losers (-7%):** None. GE +14.76% ($260.42 cut level, $60.93 above). LHX -0.86% ($286.89 cut level, $18.94 above). RTX +2.78% ($162.42 cut level, $17.09 above). All clear.
+
+**Stop tightening (+15%/+20%):** None. GE +14.76% — already on 7% trail (tightened May 28); +20% trigger $336.02 not reached (current $321.35, $14.67 away). GE down -2.75% intraday from CPI pressure — trigger moved further away. LHX/RTX well below +15%.
+
+**Trailing stop status (live GTC orders):**
+- GE: order 371795d6 active, 7% trail, HWM $332.49, stop $309.21 (3.8% buffer from $321.35)
+- LHX: order 9e8f2f79 active, 10% trail, HWM $315.39, stop $283.85 (7.2% buffer from $305.83)
+- RTX: order 8a67337a active, 10% trail, HWM $183.00, stop $164.70 (8.2% buffer from $179.51)
+
+**Thesis check:**
+- GE: -2.75% intraday on CPI macro headwind. Commercial aerospace + defense: $210B backlog, GE426 award, engine orders +93% intact. No GE-specific negative news. Sell-off is macro, not fundamental. +20% tighten trigger $336.02 now $14.67 from current — monitor going forward. HOLD.
+- LHX: -0.76% intraday. ISR/C2 defense thesis intact. Ex-dividend drag ($1.25/share Jun 5) likely persisting. No new negative news. Stop $283.85 provides $21.98 buffer (7.2%). HOLD.
+- RTX: -1.13% intraday, +2.78% cumulative. $6.6B engine contract, $74B backlog, BofA PT $215 intact. Defense resilient vs growth on hot CPI (relatively). HWM auto-updated to $183.00, stop $164.70. HOLD.
+
+**No action taken.** All 3 GTC trailing stops active and self-managing.
+
+**Portfolio (midday):** $107,262.41 | **Cash:** $46,755.43 (43.6%) | **Long MV:** $60,506.98 (56.4% deployed) | **Day P&L:** -$969.22 (-0.90%) | **Phase P&L:** +$7,262.41 (+7.26%)
+**Week trades:** 0/3 (Week 8) | **Open positions:** 3/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
+**Key watch:** CPI in-line/soft core (0.2% MoM) = deployment gate partially cleared for new positions, but headline 4.2% YoY (up from 3.8%) keeps macro uncertainty elevated. Evaluate new entry at tomorrow pre-market (PPI Jun 11 8:30 AM ET is next binary event). GE +20% tighten trigger $336.02 still $14.67 away — monitor at market-open tomorrow. LHX stop $283.85 has 7.2% buffer; no concern. RTX most resilient on CPI day.
