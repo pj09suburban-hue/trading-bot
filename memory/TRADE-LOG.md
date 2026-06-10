@@ -1354,3 +1354,16 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $107,262.41 | **Cash:** $46,755.43 (43.6%) | **Long MV:** $60,506.98 (56.4% deployed) | **Day P&L:** -$969.22 (-0.90%) | **Phase P&L:** +$7,262.41 (+7.26%)
 **Week trades:** 0/3 (Week 8) | **Open positions:** 3/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
 **Key watch:** CPI in-line/soft core (0.2% MoM) = deployment gate partially cleared for new positions, but headline 4.2% YoY (up from 3.8%) keeps macro uncertainty elevated. Evaluate new entry at tomorrow pre-market (PPI Jun 11 8:30 AM ET is next binary event). GE +20% tighten trigger $336.02 still $14.67 away — monitor at market-open tomorrow. LHX stop $283.85 has 7.2% buffer; no concern. RTX most resilient on CPI day.
+
+---
+
+### Jun 10 — EOD Snapshot (Day 34, Wednesday — CPI Day — Week 8)
+**Portfolio:** $106,657.90 | **Cash:** $46,755.43 (43.8%) | **Day P&L:** -$1,606.61 (-1.48%) | **Phase P&L:** +$6,657.90 (+6.66%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $317.56 | -3.90% | +$2,515.18 (+13.41%) | $309.21 (7% trail, HWM $332.49) |
+| LHX | 60 | $308.48 | $303.50 | -1.52% | -$298.65 (-1.61%) | $283.85 (10% trail, HWM $315.39) |
+| RTX | 115 | $174.65 | $177.53 | -2.22% | +$331.20 (+1.65%) | $164.70 (10% trail, HWM $183.00) |
+
+**Notes:** Day 34 (Wednesday, Week 8 — CPI Day). Broad CPI-driven sell-off hit all three positions: GE -3.90%, RTX -2.22%, LHX -1.52%. Portfolio lost -$1,606.61 (-1.48%). Headline CPI +4.2% YoY (accelerating from +3.8%) spooked the market despite soft core MoM (+0.2% vs +0.3% expected). No trades placed; all three GTC trailing stops active and self-managing. GE stop buffer has compressed to ~2.6% ($317.56 vs stop $309.21) — HWM $332.49 unchanged, stop will not move unless GE recovers above HWM. LHX -1.61% cumulative, still above -7% cut level ($286.89 floor). RTX most resilient on a relative basis (+1.65% cumulative). Cash 43.8% ($46,755) — well below 75-85% deployment target. PPI data tomorrow (Jun 11, 8:30 AM ET) is next binary catalyst; soft PPI → evaluate XOM entry or AVGO re-entry to bring deployment back toward target. Week 8: 0/3 new buys, 0 daytrades. Phase: +$6,657.90 (+6.66%).
