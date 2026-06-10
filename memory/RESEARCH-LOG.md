@@ -2017,3 +2017,73 @@ Default stance is HOLD until opening price action confirms. If AVGO opens and st
 **GE pre-market high (~$340.76) did not sustain at RTH open.** Price $324.07 at midday, +15.73% cumulative. No negative news. +20% tighten trigger ($336.024) still $11.95 away. Pre-market quote was thin-liquidity; not a sustained catalyst. Thesis intact.
 
 **Post-AVGO deployment: 56.5%** (well below 75–85% target). Plan: no new entries today (CPI tomorrow). XOM conditional Thursday if soft/in-line CPI. Consider AVGO re-entry if AI names rally post-CPI (thesis intact, price now at support).
+
+---
+
+## 2026-06-10 — Pre-Market Research (Day 34, Wednesday — CPI Day — Week 8)
+
+### Account Snapshot
+- **Equity:** $108,084.43 | **Cash:** $46,755.43 (43.3%) | **Long MV:** $61,329 (56.7% deployed)
+- **Day P&L:** -$180.08 (-0.17%) vs yesterday close $108,264.51
+- **Phase P&L:** +$8,084.43 (+8.08%)
+- **Positions:** 3/6 | **Week 8 trades:** 0/3 | **Daytrade count:** 0
+
+| Symbol | Shares | Entry | Pre-Mkt | Unreal P&L | % | Stop | HWM |
+|--------|--------|-------|---------|------------|---|------|-----|
+| GE | 67 | $280.02 | $325.00 | +$3,013.66 | +16.1% | $309.21 (7% trail) | $332.49 |
+| LHX | 60 | $308.48 | $308.10 | -$22.65 | -0.1% | $283.85 (10% trail) | $315.39 |
+| RTX | 115 | $174.65 | $183.20 | +$983.25 | +4.9% | $164.50 (10% trail) | $182.78 |
+
+### Market Context
+- **WTI:** ~$88–89/bbl — down from $91 Mon/Tue; bearish short-term energy signal
+- **Brent:** ~$89–90/bbl (spread narrow, tracking WTI)
+- **S&P 500 futures (ESM26):** ~7,360–7,376 (-0.2 to -0.3%) — cautious ahead of CPI print
+- **VIX:** ~19.2–19.9 (elevated; up from 16.06 mid-June avg) — moderate fear heading into data
+- **Earnings BMO:** Chewy (CHWY), small-caps only — no S&P 500 major names; minimal stock-specific risk
+- **CPI May 2026 (8:30 AM ET TODAY):** April print was 3.8% YoY. Trading Economics consensus FORECAST: 4.2% YoY (HOT, highest since Apr 2023). Actual print unknown at time of writing. This is the binary catalyst today.
+- **Economic calendar:** CPI 8:30 AM ET (primary). PPI tomorrow Jun 11. FOMC Jun 16–17.
+- **Sector momentum YTD:** Energy #1 (XOM +26%), Consumer Staples #2 (~+11%), Industrials #3 (~+10%). Tech recovering. Financials/Healthcare lagging.
+
+### Ticker News
+- **GE ($325 pre-mkt):** $275M+ defense site investment in 2026 ongoing. Analyst consensus ~$348.22 PT. +16.1% cumulative. GE pre-mkt $325 — +20% tighten trigger $336.02 is $11 away (3.4%). No negative catalyst. Thesis: commercial aerospace + defense backlog $210B intact.
+- **LHX ($308.10 pre-mkt):** Huntsville solid rocket motor facility expansion announced June 1 (+$25M). Quarterly dividend $1.25/share payable June 26. Analyst consensus PT ~$376.67 (+22% upside from current). Thesis intact; ISR/C2 demand strong.
+- **RTX ($183.20 pre-mkt, HWM $182.78):** RTX at new HWM — trailing stop auto-updates. Analyst consensus PT $211.38 (+15.4% upside). BofA raised PT to $215. $72B backlog, Pratt & Whitney engine demand solid. Thesis intact; strongest unrealized momentum in portfolio.
+- **AVGO ($372.86 AH bid, thin):** Stopped out Jun 9 at $383.61. AI ASIC thesis still intact (CEO Hock Tan to 2030, $30B AI rev FY2026, new unnamed customer, Q3 guide $29.4B +84% YoY). AH thin; real price unknown pre-open. Post-earnings window (3 days) now closed → 10% trailing stop rule applies for any re-entry.
+- **XOM ($150–153 range):** Mozambique Coral Norte LNG EPCIC contract win (>€1B). WTI declining from $91→$88. Analyst PT $151.42 (SWS) to $163.65 (Public). At $151 entry: using high PT $163.65 = 8.4% upside vs 10% stop = 0.84:1 R:R → **FAILS 2:1 minimum.** XOM has run from planned entry range ($121–125); thesis now priced in.
+
+### Stop Tighten Check
+- **GE +16.1% (7% trail):** +20% trigger $336.02 is $11 from $325 — not reached pre-market. Monitor at RTH open.
+- **RTX +4.9%:** HWM $182.78, current $183.20 — Alpaca GTC order auto-updates stop upward. New HWM ~$183.20, stop ~$165. No manual action needed; confirm at open.
+- **LHX -0.1%:** No tighten. Stop $283.85, buffer $24.25 (7.9%).
+- **AVGO:** Exited. No open stop.
+
+### Trade Ideas
+
+**Idea 1: HOLD current 3 positions (GE / LHX / RTX)**
+- All theses intact. GE/RTX cumulative gains solid; LHX flat but $376.67 analyst PT vs $308 current. Defense ISR + aerospace demand underpinning all three.
+- All 3 GTC trailing stops active and self-managing.
+- No action pre-CPI.
+
+**Idea 2: XOM Energy entry — REMOVED**
+- Stock ran from $121–125 (planned entry) to $151–153; upside now 0.84:1 R:R at best. Does NOT pass 2:1 minimum. WTI -3.3% this week adds headwind. Remove from watchlist.
+
+**Idea 3: AVBO re-entry — CONDITIONAL (low conviction)**
+- Catalyst: AI ASIC thesis intact, $30B FY2026 AI rev guide, new unnamed hyperscaler customer announced June 8. If CPI prints soft → AI/growth names rally → AVGO support at $385–395.
+- Gate checks (pro forma at ~$387 entry): Positions 4→4 ✓; Trades 0→1 ✓; 50 shares × $387 = $19,350 (17.9% equity) ✓; Cash $46,755 ✓; PDT 0/3 ✓; Catalyst (AI ASIC inflection) ✓; Stock ✓
+- Stop: 10% trail from entry (~$348); target: $450–455 (~16–17% upside); R:R = ($450-$387) / ($387-$348) = 1.6:1 — borderline, does not clearly clear 2:1 bar
+- **Decision: OFF today. Only evaluate at market-open if CPI surprises soft AND price > $390 AND bid/ask spread normal. Market-open workflow decides.**
+
+### Risk Factors
+- **CPI HOT (consensus 4.2%, up from 3.8%):** Primary risk. Hot print → yields spike → equity sell-off → AVGO/GE most exposed. Defense (RTX/LHX) more resilient.
+- **GE gap risk:** GE showed pre-mkt weakness ($325 vs $330.64 close). +20% tighten trigger now $11 away; may not be reached today.
+- **Deployment 56.7%:** Well below 75–85% target. Cash is appropriate holding pre-CPI. XOM removal leaves fewer redeployment candidates.
+- **RTX HWM exceeded intraday:** Confirm GTC stop auto-updated at open; verify stop ≥ $164.88 (10% of $183.20).
+
+### Decision
+**HOLD — no new positions today pre-CPI print**
+- CPI at 8:30 AM ET is binary; market priced for 4.2% (hot). Any position add pre-print is speculative, not disciplined.
+- Post-CPI paths:
+  - Soft/in-line (≤ 3.8%): reassess AVGO at open — only if price > $390, bid/ask normal, R:R acceptable at actual price
+  - Hot (≥ 4.2%): hold all 3 positions, no adds; wait for rate/macro picture to clear
+- XOM removed from watchlist (R:R fails at current price)
+- GE +20% tighten still pending; market-open workflow monitors trigger
