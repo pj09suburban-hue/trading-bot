@@ -2160,3 +2160,17 @@ All 3 GTC trailing stops active and self-managing. ✓
 - If hot (May ≥ 6.0% matching/exceeding April) → HOLD all positions; no new entries; re-evaluate at midday.
 - Iran war conflict is an *additional* catalyst stacked on top of the existing defense spending theme — Iran conflict + $1T defense budget + NATO demand = strong multi-catalyst setup for LMT.
 - Deployment 56.3% is well below target (75–85%); adding LMT (~18-20% equity) brings deployment to ~75% — right at lower bound of target range. Appropriate.
+
+### Jun 11 — Afternoon Addendum (PPI result + midday defense update)
+
+**PPI May 2026 actual (8:30 AM ET):** Final demand +1.1% MoM (vs 0.5% forecast); YoY **+6.4%** (accelerating from April's 6.0%). Goods +2.8%, services +0.3%. HOT — second consecutive hot PPI print. April 6.0% → May 6.4%.
+
+**Market reaction:** Broad equities sold off on PPI headline; however, defense names (GE, LHX, RTX) bucked the trend — all up +1.5% to +2.3% intraday. Iran-Hormuz conflict bid overpowering macro headwind in defense sector.
+
+**LMT decision:** Pre-market condition "PPI ≥ 6.0% → HOLD, no entry" triggered. LMT not purchased today. Discipline maintained.
+
+**Iran conflict update (intraday):** CENTCOM Tomahawk strikes overnight (Jun 10–11) targeting Iranian surveillance and air-defense. Iran retaliation ongoing. Defense sector bid sustained through midday. RTX (Patriot/AMRAAM), LHX (ISR targeting), GE (engines powering sorties) all benefitting.
+
+**LMT re-evaluation timeline:** Friday pre-market weekly review — assess macro (PPI + CPI data absorbed), FOMC Jun 16–17 approaching. If macro uncertainty persists into next week, LMT entry may be deferred until post-FOMC. Iran conflict catalyst is multi-week; no urgency to chase.
+
+**Next binary catalyst:** FOMC Jun 16–17. Hot PPI + Hot CPI combination likely cements hawkish hold; watch for Fed language on tariff-driven inflation.

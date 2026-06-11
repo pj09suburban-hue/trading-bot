@@ -1367,3 +1367,34 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $177.53 | -2.22% | +$331.20 (+1.65%) | $164.70 (10% trail, HWM $183.00) |
 
 **Notes:** Day 34 (Wednesday, Week 8 — CPI Day). Broad CPI-driven sell-off hit all three positions: GE -3.90%, RTX -2.22%, LHX -1.52%. Portfolio lost -$1,606.61 (-1.48%). Headline CPI +4.2% YoY (accelerating from +3.8%) spooked the market despite soft core MoM (+0.2% vs +0.3% expected). No trades placed; all three GTC trailing stops active and self-managing. GE stop buffer has compressed to ~2.6% ($317.56 vs stop $309.21) — HWM $332.49 unchanged, stop will not move unless GE recovers above HWM. LHX -1.61% cumulative, still above -7% cut level ($286.89 floor). RTX most resilient on a relative basis (+1.65% cumulative). Cash 43.8% ($46,755) — well below 75-85% deployment target. PPI data tomorrow (Jun 11, 8:30 AM ET) is next binary catalyst; soft PPI → evaluate XOM entry or AVGO re-entry to bring deployment back toward target. Week 8: 0/3 new buys, 0 daytrades. Phase: +$6,657.90 (+6.66%).
+
+---
+
+## 2026-06-11 — Midday Scan (Day 35, Thursday — PPI Day — Week 8)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $323.36 | +$2,903.45 | +15.48% | +1.46% | $309.21 (7% trail) | $332.49 | HOLD |
+| LHX | $308.48 | $310.00 | +$91.35 | +0.49% | +2.31% | $283.85 (10% trail) | $315.39 | HOLD |
+| RTX | $174.65 | $181.48 | +$785.45 | +3.91% | +2.29% | $164.70 (10% trail) | $183.00 | HOLD |
+
+**PPI May 2026 (8:30 AM ET):** Final demand +1.1% MoM (vs 0.5% forecast); YoY +6.4% (accelerating from April's 6.0%). Goods +2.8%, services +0.3%. HOT — exceeds April's hot print. Pre-market rule triggered: PPI ≥ 6.0% → HOLD, no new entries. LMT entry is OFF.
+
+**Cut losers (-7%):** None. GE +15.48% ($260.42 cut level, $62.94 above). LHX +0.49% ($286.88 cut level, $23.12 above). RTX +3.91% ($162.42 cut level, $19.06 above). All clear.
+
+**Stop tightening (+15%/+20%):** None. GE +15.48% — already on 7% trail (tightened May 28). +20% trigger $336.024 not reached (current $323.36, $12.66 away). HWM $332.49 frozen; GE below HWM → stop cannot auto-advance. LHX/RTX well below +15%.
+
+**Trailing stop status (live GTC orders):**
+- GE: order 371795d6 active, 7% trail, HWM $332.49, stop $309.21 (4.4% buffer from $323.36)
+- LHX: order 9e8f2f79 active, 10% trail, HWM $315.39, stop $283.85 (8.4% buffer from $310.00)
+- RTX: order 8a67337a active, 10% trail, HWM $183.00, stop $164.70 (9.2% buffer from $181.48)
+
+**Thesis check:**
+- GE: +1.46% intraday despite hot PPI — commercial aerospace + defense backlog ($210B) intact. Iran conflict driving defense bid offsetting macro headwind. HWM $332.49 still $9.13 above current; stop buffer recovered to 4.4% vs yesterday's compressed 2.6%. HOLD.
+- LHX: +2.31% intraday, turned cumulative green (+0.49%). ISR/C2 surveillance systems are active assets in Iran conflict; defense bid overwhelming macro. Stop $283.85 buffer 8.4%. HOLD.
+- RTX: +2.29% intraday, +3.91% cumulative. Patriot/AMRAAM intercepts active in theater — strongest Iran-conflict link of the three. Stop HWM $183.00; current $181.48 below HWM; stop frozen at $164.70. HOLD.
+- LMT (candidate): Hot PPI rule applies — no entry today. Defense stocks performing despite PPI shock; Iran conflict catalyst still valid and strengthening. LMT re-evaluate at pre-market Friday if macro picture clearer post-FOMC (Jun 16–17).
+
+**Portfolio (midday):** $107,896.21 | **Cash:** $46,755.43 (43.3%) | **Long MV:** $61,140.78 (56.7% deployed) | **Day P&L:** +$1,205.06 (+1.13% vs Jun 10 EOD) | **Phase P&L:** +$7,896.21 (+7.90%)
+**Week trades:** 0/3 (Week 8) | **Open positions:** 3/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
+**Key watch:** GE +20% trigger $336.024 is $12.66 from current — monitor at tomorrow open. RTX HWM $183.00 needs $1.52 price recovery to unlock stop advancement. LMT deferred to Friday pre-market pending FOMC clarity. Deployment 56.7% below 75–85% target; discipline requires macro clarity before adding.
