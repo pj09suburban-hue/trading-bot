@@ -1398,3 +1398,16 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $107,896.21 | **Cash:** $46,755.43 (43.3%) | **Long MV:** $61,140.78 (56.7% deployed) | **Day P&L:** +$1,205.06 (+1.13% vs Jun 10 EOD) | **Phase P&L:** +$7,896.21 (+7.90%)
 **Week trades:** 0/3 (Week 8) | **Open positions:** 3/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
 **Key watch:** GE +20% trigger $336.024 is $12.66 from current — monitor at tomorrow open. RTX HWM $183.00 needs $1.52 price recovery to unlock stop advancement. LMT deferred to Friday pre-market pending FOMC clarity. Deployment 56.7% below 75–85% target; discipline requires macro clarity before adding.
+
+---
+
+### Jun 11 — EOD Snapshot (Day 35, Thursday — PPI Day — Week 8)
+**Portfolio:** $108,843.32 | **Cash:** $46,755.43 (43.0%) | **Day P&L:** +$2,152.17 (+2.02%) | **Phase P&L:** +$8,843.32 (+8.84%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $329.08 | +3.25% | +$3,287.02 (+17.52%) | $309.21 (7% trail, HWM $332.49) |
+| LHX | 60 | $308.48 | $314.99 | +3.96% | +$390.75 (+2.11%) | $283.85 (10% trail, HWM $315.39) |
+| RTX | 115 | $174.65 | $183.79 | +3.59% | +$1,050.53 (+5.23%) | $165.80 (10% trail, HWM $184.22) |
+
+**Notes:** Day 35 (Thursday, Week 8 — PPI Day). Strong rebound across all three holdings after Wednesday's CPI-driven sell-off. Despite hot PPI (+6.4% YoY, exceeding April's +6.0%), defense/aerospace sector surged on Iran conflict demand: GE +3.25%, LHX +3.96%, RTX +3.59%. Portfolio recovered +$2,152.17 (+2.02%) to $108,843.32. RTX set new HWM $184.22 — stop auto-advanced to $165.80 (10% trail). GE approaching +20% tighten trigger ($336.024) — currently $329.08 ($6.94 away); 7% trail stop at $309.21 (HWM $332.49). LHX +2.11% cumulative, stop at $283.85 (8.4% buffer). No trades placed; hot-PPI no-entry rule maintained. LMT candidate deferred to Friday pre-market (FOMC Jun 16–17). Cash 43.0% below 75–85% target — waiting for macro clarity. Week 8: 0/3 trades. Phase P&L: +$8,843.32 (+8.84%).
