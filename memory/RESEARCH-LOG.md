@@ -2087,3 +2087,76 @@ Default stance is HOLD until opening price action confirms. If AVGO opens and st
   - Hot (≥ 4.2%): hold all 3 positions, no adds; wait for rate/macro picture to clear
 - XOM removed from watchlist (R:R fails at current price)
 - GE +20% tighten still pending; market-open workflow monitors trigger
+
+---
+
+## 2026-06-11 — Pre-Market Research (Day 35, Thursday — PPI Day — Week 8)
+
+### Account Snapshot
+- **Equity:** $107,094.35 | **Cash:** $46,755.43 (43.7%) | **Long MV:** $60,338.92 (56.3% deployed)
+- **Open positions:** 3/6 | **Week trades:** 0/3 | **Daytrade count:** 0
+- **Phase P&L:** +$7,094.35 (+7.09%)
+
+### Positions (pre-market)
+| Ticker | Shares | Avg Entry | Current | Unreal P&L | % | Stop | HWM | Buffer |
+|--------|--------|-----------|---------|------------|---|------|-----|--------|
+| GE | 67 | $280.02 | $321.11 | +$2,752.81 | +14.67% | $309.21 (7% trail) | $332.49 | 3.7% |
+| LHX | 60 | $308.48 | $306.39 | -$125.13 | -0.68% | $283.85 (10% trail) | $315.39 | 7.3% |
+| RTX | 115 | $174.65 | $177.75 | +$356.50 | +1.78% | $164.70 (10% trail) | $183.00 | 7.3% |
+
+All 3 GTC trailing stops active and self-managing. ✓
+
+**GE stop note:** HWM $332.49 frozen; current $321.11 is 3.7% above stop $309.21. Stop will not auto-update until GE reclaims $332.49. No manual action permitted (cannot move stop down). GE +15% trigger ($322.023) is $0.91 above current — already on 7% trail from May 28 tighten; next trigger is +20% at $336.024.
+
+### Market Context
+- **WTI:** ~$90.26/bbl (up from $88 Mon/Tue) | **Brent:** ~$92.51/bbl — Iran-Hormuz risk premium building
+- **S&P 500 futures (ESM26):** ~7,301–7,305 (+0.32–0.36%) — cautiously constructive
+- **VIX:** ~20.82 (elevated; was 22.22 at Jun 10 close — slight easing but still >20)
+- **Earnings BMO:** Lovesac (LOVE) only — no S&P 500 impact; Adobe (ADBE)/Lennar (LEN) likely AMC
+- **PPI May 2026:** Released TODAY 8:30 AM ET. April print was 6.0% YoY (hot, up from 4.3%). Binary catalyst. **Actual result unknown at time of writing.**
+- **FOMC:** Jun 16–17. Hot PPI would cement hawkish hold; soft PPI could reopen rate cut narrative.
+- **Sector momentum YTD:** Energy #1 (~+26%) | Consumer Staples #2 (~+11%) | Industrials/Defense #3 (~+10%) and accelerating with Iran conflict
+
+### CRITICAL CATALYST: US-Iran War Escalating
+- Active conflict since Feb 28, 2026 (Operation Roaring Lion — US-Israeli airstrikes)
+- CENTCOM Jun 10–11: USS Michael Murphy (DDG 112) launched Tomahawk cruise missiles; struck Iranian surveillance, communications, and air-defense sites
+- Iran response: called ceasefire "meaningless," launched retaliatory strikes against US regional bases
+- Hormuz shipping threat actively flagged by CENTCOM — WTI risk premium building
+- **Defense stock direct beneficiaries:** LMT (F-35 sorties, THAAD, ATACMS), RTX (Patriot/AMRAAM intercepts), LHX (ISR/surveillance systems providing targeting data)
+- Prior defense-stock precedent: LHX +6.29%, RTX +4.45% in a single pre-market session on defense news (Jan 2026)
+
+### Stop Tighten Check
+- **GE +14.67%:** Already on 7% trail (tightened May 28). +20% trigger $336.024 = $14.91 away. No action.
+- **RTX +1.78%:** HWM $183.00, current $177.75 — stop frozen at $164.70. No action.
+- **LHX -0.68%:** No tighten. Stop $283.85, buffer $22.54 (7.3%). No action.
+
+### Trade Ideas
+
+**Idea 1: LMT — TRADE-CONDITIONAL**
+- **Catalyst:** US-Iran war escalation (CENTCOM Tomahawk strikes Jun 10–11 + active F-35/THAAD/ATACMS deployment). $1.01T defense budget. NATO demand surge. Hormuz risk driving oil; energy-linked defense spending locked in.
+- **Sector:** Defense/Industrials — #3 YTD, accelerating. Thesis intact.
+- **Quote (stale AH):** bid $503.50 / ask $551.22 — verify RTH open price before entry
+- **Analyst PT:** avg $573–$621 (MarketBeat: $620.68 avg, 21 analysts; Susquehanna high $700)
+- **R:R (pro forma ~$510 open):** stop 10% = $459, target $620 = R:R $110/$51 = **2.16:1 ✓**
+- **Sizing:** ~40 shares × $510 = $20,400 (19.0% equity ✓) or ~38 shares × $520 = $19,760
+- **Gate checks (pro forma):** Positions 4/6 ✓ | Trades 1/3 ✓ | Cost ≤ 20% equity ✓ | Cash $46,755 ✓ | PDT 0/3 ✓ | Catalyst documented ✓ | Stock ✓
+- **Condition:** PPI May ≤ 5.0% OR core MoM ≤ 0.2% → evaluate at RTH open, confirm live price + R:R ≥ 2:1, then buy. If PPI prints ≥ 6.0% (matching/exceeding April's hot print) → HOLD, no entry. Stop: 10% trailing GTC immediately on fill.
+- **Risk:** Sector concentration grows to 4/4 defense; if macro turns sharply hawkish all four positions impacted
+
+**Idea 2: AVGO re-entry — OFF TABLE**
+- Quote: bid $354.15 / ask $392.60 (stale AH; ~$370–390 range)
+- R:R at $390: stop 10% = $351, target $470 = R:R $80/$39 = 2.05:1 (barely passes); but thesis has no new specific catalyst today vs Iran war conflict angle for LMT
+- No single strong catalyst to justify entry over LMT. Remove from watchlist for today.
+
+### Risk Factors
+1. **PPI hot repeat** (April was 6.0%): bond yields spike → broad equity sell-off → growth/tech hardest hit; defense relatively resilient but not immune
+2. **Iran conflict Hormuz escalation:** tail risk — physical supply disruption → extreme oil spike → stagflation fear → defensive positioning beyond defense stocks
+3. **GE stop compressed (3.7% buffer):** PPI-driven volatility could trigger GE stop intraday; no action available (cannot adjust frozen stop)
+4. **Sector concentration:** 3 existing defense/aerospace positions + potential LMT = 4/5 positions concentrated; acceptable given sector momentum but concentration risk elevated
+
+### Decision
+**TRADE-CONDITIONAL (LMT)**
+- PPI 8:30 AM ET is binary. If soft/in-line (May ≤ 5.0% or core MoM ≤ 0.2%) → market-open workflow executes LMT buy conditional on live price/R:R verification.
+- If hot (May ≥ 6.0% matching/exceeding April) → HOLD all positions; no new entries; re-evaluate at midday.
+- Iran war conflict is an *additional* catalyst stacked on top of the existing defense spending theme — Iran conflict + $1T defense budget + NATO demand = strong multi-catalyst setup for LMT.
+- Deployment 56.3% is well below target (75–85%); adding LMT (~18-20% equity) brings deployment to ~75% — right at lower bound of target range. Appropriate.
