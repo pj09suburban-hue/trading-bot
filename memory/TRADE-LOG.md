@@ -1411,3 +1411,38 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $183.79 | +3.59% | +$1,050.53 (+5.23%) | $165.80 (10% trail, HWM $184.22) |
 
 **Notes:** Day 35 (Thursday, Week 8 — PPI Day). Strong rebound across all three holdings after Wednesday's CPI-driven sell-off. Despite hot PPI (+6.4% YoY, exceeding April's +6.0%), defense/aerospace sector surged on Iran conflict demand: GE +3.25%, LHX +3.96%, RTX +3.59%. Portfolio recovered +$2,152.17 (+2.02%) to $108,843.32. RTX set new HWM $184.22 — stop auto-advanced to $165.80 (10% trail). GE approaching +20% tighten trigger ($336.024) — currently $329.08 ($6.94 away); 7% trail stop at $309.21 (HWM $332.49). LHX +2.11% cumulative, stop at $283.85 (8.4% buffer). No trades placed; hot-PPI no-entry rule maintained. LMT candidate deferred to Friday pre-market (FOMC Jun 16–17). Cash 43.0% below 75–85% target — waiting for macro clarity. Week 8: 0/3 trades. Phase P&L: +$8,843.32 (+8.84%).
+
+---
+
+## 2026-06-12 — Midday Scan (Day 36, Friday — FOMC Eve — Week 8 Final Day)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $331.89 | +$3,475.29 | +18.52% | -0.26% | $315.10 (5% trail) ← TIGHTENED | $331.68 | STOP TIGHTENED |
+| LHX | $308.48 | $307.03 | -$86.91 | -0.47% | -1.65% | $283.97 (10% trail) | $315.52 | HOLD |
+| RTX | $174.65 | $183.53 | +$1,020.63 | +5.08% | -0.37% | $166.38 (10% trail) | $184.87 | HOLD |
+
+**GE STOP TIGHTENED (7% → 5%):**
+- Broker GTC order 371795d6 HWM reached $336.855, crossing +20% trigger ($336.024)
+- Canceled order 371795d6 (7% trail, stop $313.275)
+- Placed new order 94b1a703 (5% trail, GTC) — initial stop $315.10, HWM $331.68
+- Stop moved UP: $313.275 → $315.10 ✓ | Buffer from current: 3.58% (>3% rule) ✓
+
+**Cut losers (-7%):** None. GE +18.52%, LHX -0.47%, RTX +5.08% — all above -7% threshold.
+
+**Stop tightening (+15%/+20%):** GE tightened to 5% (see above). LHX/RTX well below +15%.
+
+**Trailing stop status (live GTC orders):**
+- GE: order 94b1a703 active, 5% trail, HWM $331.68, stop $315.10
+- LHX: order 9e8f2f79 active, 10% trail, HWM $315.52, stop $283.97
+- RTX: order 8a67337a active, 10% trail, HWM $184.87, stop $166.38
+
+**Thesis check:**
+- GE: Intraday HWM $336.86 then pulled back to $331.89 (-0.26%). Perplexity: no negative catalyst. Normal profit-taking Friday. Defense/aerospace backlog intact. 5% trail now protecting larger gain. HOLD.
+- LHX: -1.65% intraday, -0.47% cumulative. No LHX-specific news via Perplexity. Defense ISR/C2 thesis intact. Stop $283.97 has $23.06 buffer (7.5%). HOLD.
+- RTX: -0.37% intraday, +5.08% cumulative. $6.6B engine contract, $74B backlog intact. Stop auto-advanced to $166.38 (HWM $184.87). HOLD.
+
+**Portfolio (midday):** $108,523.88 | **Cash:** $46,755.43 (43.1%) | **Long MV:** $61,763.78 (56.9% deployed) | **Day P&L:** -$440.82 (-0.40%)
+**Week trades:** 0/3 (Week 8) | **Open positions:** 3/6 | **Daytrade count:** 0
+**Week 8 summary:** 0 new entries, 1 stop-out (AVGO Jun 9 -6.34%). Patience maintained through CPI + PPI + FOMC eve.
+**Next:** FOMC Jun 16–17 — hold cash, evaluate LMT and deployment gap post-FOMC at Jun 18 pre-market.
