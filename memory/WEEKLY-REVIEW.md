@@ -443,3 +443,69 @@ Template for each entry:
 *Week 7 — breakthrough week. First realized profit in the phase (+50.77% MRVL). Portfolio phase return flipped from -2.00% to +8.12% in one week, now leading the S&P benchmark by +3.99%. Trailing stop system fully validated through a complete lifecycle. AVGO's post-earnings sell-the-news deterioration is the only blemish — it forced a strategy rule update (post-earnings initial stop 7% vs 10%) and sits $0.90 above its trailing stop entering the weekend. Grade A- reflects the transformative performance week tempered by the live AVGO risk and continued deployment shortfall.*
 
 ---
+
+## Week ending 2026-06-12
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $108,080.77 |
+| Ending portfolio | $108,954.14 |
+| Week return | +$873.37 (+0.81%) |
+| S&P 500 week | ~-0.90% (7,461 → ~7,394) |
+| Bot vs S&P | +1.70% |
+| Phase return | +$8,954.14 (+8.95% from $100k baseline) |
+| Phase bot vs S&P | +5.75% (bot +8.95% vs S&P +3.20% from Apr 24 start 7,165) |
+| Trades | 1 (W:0 / L:1 / open:3) |
+| Win rate | 0% this week (1/7 all-time = 14.3%) |
+| Best trade | GE +20.07% unrealized (5% trail in effect) |
+| Worst trade | AVGO -6.34% (realized, stop-out Jun 9) |
+| Profit factor | 1.76 all-time ($9,483.96 / $5,373.69) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| AVGO | $409.57 | $383.61 | -$1,038.25 (-6.34%) | 6-day hold (Jun 4→9); 10% trailing stop GTC fired; post-earnings sell-the-news; AI ASIC thesis intact but stop correctly exited; 7th all-time closed trade |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| GE | $280.02 | $336.21 | +$3,765.02 (+20.07%) | $319.57 (5% trail, HWM $336.39) |
+| LHX | $308.48 | $308.29 | -$11.25 (-0.06%) | $283.97 (10% trail, HWM $315.52) |
+| RTX | $174.65 | $184.13 | +$1,090.20 (+5.43%) | $166.38 (10% trail, HWM $184.87) |
+
+### What Worked
+- GE +20% stop tighten executed correctly Jun 12: HWM crossed $336.02 trigger intraday, old 7% trail canceled, new 5% trail placed; stop advanced $313.28 → $319.57; $3,365+ of gain protected
+- Beat S&P by +1.70% in a down macro week (CPI +4.2% YoY, PPI +6.4% YoY both hot); outperformed by staying long defense sector while growth/tech repriced lower
+- AVGO stop-out discipline maintained: no override when stop fired Jun 9; -6.34% contained — tighter than CEG (-9.06%) and NVDA (-7.62%) prior post-earnings losses; post-earnings rule reducing tail losses
+- Defense trio (GE/LHX/RTX) recovered from CPI Wednesday sell-off with strong PPI Thursday bounce (+3.25–3.96% each intraday); Iran conflict thesis providing consistent sector bid independent of macro
+- Patience through CPI/PPI/FOMC eve: zero new positions during three consecutive binary macro events; no forced entry to chase deployment target
+
+### What Didn't Work
+- Deployment below target all week: 56–57% vs 75–85% target; 3 position slots idle from AVGO exit Jun 9 through week end; underdeployment structural drag in phase 2 of macro uncertainty
+- LHX -0.06% after 17 sessions (entry May 21): 4 consecutive weeks of near-zero return; stop intact but slot efficiency is poor vs. any fresh catalyst name
+- No new realized gains this week; all-time win rate fell to 14.3% (1/7); single MRVL win carries entire phase P&L
+- AVGO loss (-$1,038.25) is 4th consecutive post-earnings entry producing a realized loss; initial stop should have been 7% per post-earnings rule, but rule was codified one day after AVGO entry (timing miss)
+- 7 of 8 weeks ended below 75–85% target; cumulative underdeployment is the primary structural drag on alpha generation
+
+### Key Lessons
+- Defense sector proved inflation-resilient: hot CPI/PPI normally pressure equities broadly but Iran conflict created a sector-specific bid; thesis diversification (Iran + commercial aviation + defense procurement) is more durable than single-catalyst positions
+- LHX "slot efficiency": 17 sessions with near-zero return warrants attention — if a position goes 4+ weeks without reaching half the +15% tighten trigger and no new catalyst, it's dead weight in a momentum strategy; candidate for closure to free slot
+- GE stop progression (10%→7%→5%) over 8 weeks is the clearest evidence that patience + mechanical stop management is the most reliable alpha source — survived FOMC, CPI, PPI, and NFP weeks
+- Hot macro (CPI >4% YoY / PPI >6% YoY) was treated as a no-trade signal by judgment call — correct outcome this week; candidate for codification as a formal rule after 2+ observations
+- AVGO: post-earnings 7% initial stop rule codified Jun 5, one day after AVGO entry Jun 4 — entry checklist must explicitly verify TRADING-STRATEGY.md rule version at time of entry
+
+### Adjustments for Next Week
+- FOMC Jun 16–17: hold all cash, no new positions before the decision; evaluate LMT and deployment gap at Jun 18 pre-market
+- GE: 5% trail active ($319.57 stop, HWM $336.39); any session closing above HWM auto-advances stop; no manual action needed
+- LHX: if no new defense catalyst and no close above $315 by Jun 19, consider closing to free slot for fresher name; thesis not broken but slot efficiency is poor
+- RTX: HOLD; Iran conflict at peak thesis strength; stop $166.38 provides 9.6% buffer; no action unless price drops sharply post-FOMC
+- Post-FOMC deployment target: open 2–3 positions Jun 18 open to restore 75–85% band; priority sectors: Defense (LMT primary), AI/tech (if dovish), Materials (if macro pivots); strict gate — no entry same day as FOMC announcement
+
+### Overall Grade: B+
+*Week 8 — positive week (+0.81%) with +1.70% outperformance vs a down S&P. Phase alpha widened to +5.75% vs benchmark (best since launch). GE stop tighten and AVGO stop-out both executed mechanically and correctly. The B+ reflects benchmark outperformance and disciplined rule execution, tempered by a full week of underdeployment (57% vs 75–85% target) and LHX dead weight. FOMC Jun 16–17 is the dominant near-term risk; post-FOMC deployment is the Week 9 primary objective.*
+
+---
