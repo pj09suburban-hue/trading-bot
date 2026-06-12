@@ -1446,3 +1446,16 @@ No positions yet. Bot launches tomorrow.
 **Week trades:** 0/3 (Week 8) | **Open positions:** 3/6 | **Daytrade count:** 0
 **Week 8 summary:** 0 new entries, 1 stop-out (AVGO Jun 9 -6.34%). Patience maintained through CPI + PPI + FOMC eve.
 **Next:** FOMC Jun 16–17 — hold cash, evaluate LMT and deployment gap post-FOMC at Jun 18 pre-market.
+
+---
+
+### Jun 12 — EOD Snapshot (Day 36, Friday — FOMC Eve — Week 8 Final Day)
+**Portfolio:** $108,954.14 | **Cash:** $46,755.43 (42.9%) | **Day P&L:** +$110.82 (+0.10%) | **Phase P&L:** +$8,954.14 (+8.95%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $336.21 | +1.04% | +$3,765.02 (+20.07%) | $319.57 (5% trail, HWM $336.39) |
+| LHX | 60 | $308.48 | $308.29 | -1.24% | -$11.25 (-0.06%) | $283.97 (10% trail, HWM $315.52) |
+| RTX | 115 | $174.65 | $184.13 | -0.04% | +$1,090.20 (+5.43%) | $166.38 (10% trail, HWM $184.87) |
+
+**Notes:** Day 36, Friday close of Week 8. Mixed session into FOMC weekend: GE continued higher (+1.04%), HWM advanced to $336.39 with 5% trail stop auto-advancing to $319.57 — GE now +20.07% from entry. LHX gave back -1.24% with no catalyst; returned to near breakeven (-0.06%); stop buffer intact at $283.97. RTX essentially flat (-0.04%), HWM $184.87, stop $166.38. No trades placed; 0/3 week, 0 daytrades. Cash 42.9%, deployment 57.1% — below 75–85% target. Waiting for FOMC clarity (Jun 16–17). Evaluate LMT and deployment gap at Jun 18 pre-market. Phase P&L: +$8,954.14 (+8.95%).
