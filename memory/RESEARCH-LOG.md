@@ -2174,3 +2174,63 @@ All 3 GTC trailing stops active and self-managing. ✓
 **LMT re-evaluation timeline:** Friday pre-market weekly review — assess macro (PPI + CPI data absorbed), FOMC Jun 16–17 approaching. If macro uncertainty persists into next week, LMT entry may be deferred until post-FOMC. Iran conflict catalyst is multi-week; no urgency to chase.
 
 **Next binary catalyst:** FOMC Jun 16–17. Hot PPI + Hot CPI combination likely cements hawkish hold; watch for Fed language on tariff-driven inflation.
+
+---
+
+## 2026-06-12 — Pre-Market Research (Day 36, Friday — FOMC Eve — Week 8 Final Day)
+
+### Account Snapshot
+- **Equity:** $109,132.43 | **Cash:** $46,755.43 (42.8%) | **Deployed:** $62,377 (57.2%)
+- **Phase P&L:** +$9,132.43 (+9.13%) | **Day P&L (pre-mkt):** +$167.73 (+0.15%)
+- **Positions:** 3/6 | **Trades this week:** 0/3 | **Daytrades:** 0
+- **S&P YTD benchmark:** +8.02% (as of Jun 11) — outperforming by +1.11 pp
+
+### Market Context
+- **WTI crude:** ~$86.71/bbl (Jul contract, CME) — down ~$1.00 (-1.14%) on OPEC demand concerns; Brent tracking above $80
+- **S&P 500 futures:** 7,397, nearly flat (+0.02%) — digesting back-to-back hot CPI/PPI; day range 7,375–7,428
+- **VIX:** 18.87 (Jun 12 spot), declining from 19.44 Jun 11 close — still elevated vs 15–16 "normal"
+- **Sector leadership YTD:** Energy #1 (~+26%) | Industrials/Defense #3 (~+10%) | Technology lagging
+- **Today's releases:**
+  - 10:00 AM ET — UMich Consumer Sentiment Prelim June (prior 44.8 final, expected ~46.0; record lows — downside risk)
+  - OPEC Monthly Oil Market Report (intraday) — crude price direction catalyst
+- **FOMC Jun 16–17:** 4 days away. Hot CPI (+4.2% YoY May) + hot PPI (+6.4% YoY May) cementing hawkish hold — binary macro event; pre-positioning risky
+
+### Position Check
+| Symbol | Entry | Last | Unreal P&L | % | Stop | HWM | Watch |
+|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $334.77 | +$3,668 | +19.55% | $309.62 (7% trail) | $332.92→$334.77* | **+20% trigger $336.02 — $1.25 away** |
+| LHX | $308.48 | $312.17 | +$222 | +1.20% | $283.97 (10% trail) | $315.52 | HOLD |
+| RTX | $174.65 | $184.50 | +$1,133 | +5.64% | $166.05 (10% trail) | $184.40→$184.50* | HOLD |
+
+*HWM auto-advancing through broker GTC order; new stop level estimated.
+
+**GE CRITICAL WATCH:** +20% tighten trigger = $336.024. Current $334.77, gap $1.25. If GE opens at or above $336.02 at market open, market-open routine MUST cancel GTC order 371795d6 and replace with 5% trailing stop. Do not wait for midday.
+
+### Trade Ideas
+
+**Idea 1: LMT — HOLD (deferred again)**
+- **Catalyst:** US-Iran war escalation intact; F-35 sorties, THAAD, ATACMS deployments; $1.01T defense budget + NATO demand
+- **Price:** Jun 11 close ~$548.68; premarket ~$522–$548 range (conflicting feeds)
+- **R:R check at $548:** stop 10% = $493, target $620 consensus = R:R $72/$55 = **1.31:1 — FAILS 2:1 gate**
+- **R:R check at $548 with $680 target (52-wk range top $692):** R:R $132/$55 = 2.4:1 ✓ — marginal; requires aggressive target
+- **Block factors:** (1) FOMC Jun 16–17 in 4 days — adding pre-FOMC exposure is undisciplined; (2) R:R marginal unless extending target to speculative level; (3) UMich sentiment today could hit equities broadly
+- **Resume date:** Post-FOMC, Jun 18 pre-market — if defense catalyst still intact and R:R ≥ 2:1 at open price
+
+**Idea 2: No additional candidates**
+- Tech (AVGO, NVDA): No fresh catalyst; sector lagging YTD; post-earnings entry rules would apply
+- Energy (XOM): Sector #1 YTD but Iran + oil price DOWN today — thesis unclear without clearer direction
+
+### Risk Factors
+1. **FOMC Jun 16–17:** Hawkish language on tariff-driven inflation → equity sell-off; all 3 positions in rate-sensitive aerospace/defense
+2. **UMich Consumer Sentiment today (10 AM ET):** Sub-45 print would signal consumer recession fears; broad equity headwind
+3. **GE stop compressed:** 7% trail HWM ~$334.77, stop ~$311.33 → only ~7% buffer. Once +20% crossed, 5% tighten narrows further. Intraday volatility risk.
+4. **LMT skipped again:** 2nd consecutive HOLD on LMT (hot PPI Thu, FOMC risk Fri). If defense sector continues to outperform next week, may need to accept tighter entry or adjust target.
+5. **Deployment 57.2%:** Well below 75–85% target. Will remain underdeployed through FOMC; discipline requires this.
+
+### Decision
+**HOLD — no new entries today**
+- LMT R:R fails 2:1 at current price with consensus target; FOMC 4 days away is clear risk-off signal
+- GE +20% tighten watch is the only active action point for market-open routine
+- Week 8 closes 0/3 trades — acceptable; patience > activity with FOMC approaching
+- Re-evaluate LMT and deployment gap post-FOMC (Jun 18 pre-market)
+
