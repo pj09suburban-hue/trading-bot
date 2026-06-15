@@ -1491,3 +1491,16 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $109,541.12 | **Cash:** $46,755.43 (42.7%) | **Long MV:** $62,785.69 (57.3% deployed) | **Day P&L:** +$747.24 (+0.69% vs Jun 12 EOD) | **Phase P&L:** +$9,541.12 (+9.54%)
 **Week trades:** 0/3 (Week 9) | **Open positions:** 3/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
 **Key watch:** GE 4.4% stop buffer — monitor if reversal deepens toward $331. FOMC starts tomorrow (Jun 16); rate decision Wednesday 2 PM ET. No new entries until post-FOMC clarity. Deployment 57.3% below target — patience > reaching pre-FOMC.
+
+---
+
+### Jun 15 — EOD Snapshot (Day 37, Monday — FOMC Week — Week 9 Day 1)
+**Portfolio:** $109,425.46 | **Cash:** $46,755.43 (42.7%) | **Day P&L:** +$631.58 (+0.58%) | **Phase P&L:** +$9,425.46 (+9.43%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $344.29 | +2.68% | +$4,306.09 (+22.95%) | $331.45 (5% trail, HWM $348.89) |
+| LHX | 60 | $308.48 | $305.39 | -0.78% | -$185.25 (-1.00%) | $283.97 (10% trail, HWM $315.52) |
+| RTX | 115 | $174.65 | $185.00 | +0.80% | +$1,190.25 (+5.93%) | $167.81 (10% trail, HWM $186.46) |
+
+**Notes:** Day 37, Monday Week 9 (FOMC week). Portfolio +$631.58 (+0.58%) to $109,425.46. GE continued its post-Iran-deal strength, +2.68% to $344.29; now +22.95% from entry with 5% trail stop protecting gains (stop $331.45, HWM $348.89). LHX gave back -0.78% as the Iran conflict premium fades from ISR/C2 names; NATO/Ukraine demand thesis remains intact and -1.00% cumulative stays well above the -7% cut trigger. RTX +0.80%, HWM $186.46 and stop auto-advancing to $167.81 (10% trail); Patriot/AMRAAM demand diversified beyond Iran theater. No trades placed; 0/3 Week 9. Cash 42.7%, deployment 57.3% — below 75-85% target but FOMC discipline maintained. No new entries until post-FOMC clarity (decision Wed Jun 17 2PM ET). Phase P&L: +$9,425.46 (+9.43%).
