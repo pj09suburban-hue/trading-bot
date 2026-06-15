@@ -2234,3 +2234,64 @@ All 3 GTC trailing stops active and self-managing. ✓
 - Week 8 closes 0/3 trades — acceptable; patience > activity with FOMC approaching
 - Re-evaluate LMT and deployment gap post-FOMC (Jun 18 pre-market)
 
+
+---
+
+## 2026-06-15 — Pre-Market Research (Day 37, Monday — FOMC Week — Week 9 Day 1)
+
+### Account Snapshot
+- **Equity:** $108,913.75 | **Cash:** $46,755.43 (42.9%) | **Deployed:** $62,158.32 (57.1%)
+- **Phase P&L:** +$8,913.75 (+8.91%) | **Day P&L (pre-mkt):** +$119.87 (+0.11% vs Fri EOD)
+- **Positions:** 3/6 | **Trades this week:** 0/3 | **Daytrades:** 0
+- **Open stops:** GE order 94b1a703 (5% trail, stop $319.66, HWM $336.48) | LHX order 9e8f2f79 (10% trail, stop $283.97, HWM $315.52) | RTX order 8a67337a (10% trail, stop $166.38, HWM $184.87)
+
+### Market Context
+- **WTI crude:** ~$81/bbl (CME, down sharply from ~$86.71 Fri — US-Iran peace deal driving supply-reopening expectation; Strait of Hormuz deal to be signed Jun 19)
+- **S&P 500 futures (ESM26):** ~7,525, +1.21% premarket — risk-on rally on Iran peace deal announcement
+- **VIX:** 17.68 (Jun 12 close); equity volatility declining, below week's earlier 19.44; neutral range
+- **Sector leadership YTD (as of Jun 12):** Energy #1 (+26%), Consumer Staples #2 (+11%), Industrials #3 (+10%); Tech lagging
+- **Today's data releases (ET):**
+  - 9:15 AM — Industrial Production May (forecast +0.2% MoM, prior +0.1%) + Capacity Utilization
+  - FOMC Jun 16–17: starts tomorrow; rate decision Wednesday 2:00 PM ET — binary event
+- **Major catalyst: US-Iran Peace Deal** — Trump announced agreement Jun 14; official signing Jun 19. Strait of Hormuz to reopen. Oil -$5.71/bbl (~-6.6% from Fri). S&P futures +1.21%. Risk-on across equities; inflation expectations easing slightly on lower oil.
+- **Holiday note:** Juneteenth Friday Jun 20 — 4-day trading week; compressed liquidity into FOMC.
+
+### Position Check (pre-market prices)
+| Symbol | Entry | Pre-mkt | Unreal P&L | % | Intraday | Stop | HWM | Watch |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $342.64 | +$4,195.54 | +22.36% | +2.19% | $319.66 (5% trail) | $336.48 | Stop auto-advancing with HWM; GE is commercial aerospace — peace deal is net positive |
+| LHX | $308.48 | $305.73 | -$164.86 | -0.89% | -0.67% | $283.97 (10% trail) | $315.52 | Iran conflict catalyst gone; NATO/Ukraine thesis still intact; monitor |
+| RTX | $174.65 | $181.37 | +$772.90 | +3.85% | -1.18% | $166.38 (10% trail) | $184.87 | Defense bid softening on peace; NATO rearmament still real; stop buffer 8.3% |
+
+### Peace Deal Impact on Thesis
+- **GE:** HOLD — commercial aerospace dominates (~70% revenue); peace + lower oil = positive for airline industry demand, engine orders, commercial MRO. Iran conflict was secondary catalyst; fundamental thesis intact. Stop at 5% trail protecting +22% gain.
+- **LHX:** HOLD — ISR/surveillance C2 thesis shifts from Iran-conflict to NATO/Ukraine framework. -0.89% cumulative. Stop $283.97 buffer $21.76 (7.1%). Intraday -0.67% consistent with defense softening on peace news. No cut signal.
+- **RTX:** HOLD — Patriot/AMRAAM demand shifts from Iran to NATO theater; $6.6B engine contract and $74B backlog unchanged. -1.18% intraday. Stop buffer 8.3%. No cut signal.
+- **LMT (candidate — ELIMINATED):** Iran conflict was the primary catalyst for LMT thesis. Peace deal removes it. R:R was already failing 2:1 at $548 last week. DO NOT add LMT. Look for post-FOMC opportunities instead.
+
+### Trade Ideas
+
+**Idea 1: HOLD — No new entries (FOMC tomorrow is binary; discipline requires patience)**
+- FOMC Jun 16–17: Fed rate decision Wed 2 PM ET. Hot CPI +4.2% + hot PPI +6.4% cement hawkish hold; market will react to Powell language on tariff-inflation vs slowdown.
+- Pre-FOMC positioning risk: any new buy made today is exposed to -2% to -5% FOMC whipsaw.
+- Deployment 57.1% is below 75-85% target, but patience > reaching for deployment pre-FOMC.
+
+**Idea 2: Post-FOMC opportunity watch (NOT actionable today)**
+- **Airlines (DAL, AAL, UAL):** Oil -6.6% → fuel cost drop → margin expansion; peace deal → route reopening; sector lagging YTD. Watch: if FOMC language is dovish or neutral → add one airline stock Thu/Fri at post-FOMC price.
+- **Technology (NVDA, MSFT):** Lagging YTD, peace deal removes geopolitical risk premium. But sector momentum weak; require specific catalyst beyond macro.
+
+### Risk Factors
+1. **FOMC tomorrow-Wednesday:** Hawkish hold with higher-for-longer language → equity sell-off; positions exposed to macro rotation
+2. **Defense thesis evolution:** LHX and RTX Iran-conflict catalyst eliminated; thesis now rests on NATO/Ukraine demand and defense budget growth — still valid but a notch weaker
+3. **GE stop compression:** 5% trail at $319.66; current pre-market $342.64 → buffer $23/6.7%. If GE pulls back on risk-off FOMC → stop auto-advances only UP; no intervention needed but monitor for stop triggering
+4. **Short trading week (Juneteenth Fri):** Compressed liquidity; position sizes and stop widths remain appropriate; no change needed
+5. **Oil bear re-pricing:** Energy sector YTD #1 now at risk; no direct exposure but sector rotation could affect broader market sentiment
+
+### Decision
+**HOLD — no new entries today**
+- FOMC is tomorrow: binary risk event; no pre-FOMC new buys
+- Iran peace deal changes LMT thesis → LMT eliminated as candidate
+- All 3 positions above cut levels and stops are live GTC orders
+- GE 5% trail protecting +22% gain; LHX and RTX thesis partially shifted but intact
+- Post-FOMC (Thu Jun 18 pre-market): re-evaluate deployment gap; leading candidates are airline names (DAL/UAL) on oil/peace catalyst or technology if FOMC language is constructive
+- Week 9: 0/3 trades so far; target: 0-1 by week end
