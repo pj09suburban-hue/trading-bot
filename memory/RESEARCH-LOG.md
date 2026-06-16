@@ -2295,3 +2295,73 @@ All 3 GTC trailing stops active and self-managing. ✓
 - GE 5% trail protecting +22% gain; LHX and RTX thesis partially shifted but intact
 - Post-FOMC (Thu Jun 18 pre-market): re-evaluate deployment gap; leading candidates are airline names (DAL/UAL) on oil/peace catalyst or technology if FOMC language is constructive
 - Week 9: 0/3 trades so far; target: 0-1 by week end
+
+---
+
+## 2026-06-16 — Pre-Market Research (Day 38, Tuesday — FOMC Day 1 — Week 9 Day 2)
+
+### Account Snapshot
+- **Equity:** $108,943.02 | **Cash:** $46,755.43 (42.9%) | **Deployed:** $62,187.59 (57.1%)
+- **Phase P&L:** +$8,943.02 (+8.94%) | **Day P&L (pre-mkt):** -$112.63 (-0.10% vs Mon EOD)
+- **Positions:** 3/6 | **Trades this week:** 0/3 | **Daytrades:** 0
+- **Open stops:** GE 94b1a703 (5% trail, stop $331.45, HWM $348.89) | LHX 9e8f2f79 (10% trail, stop $283.97, HWM $315.52) | RTX 8a67337a (10% trail, stop $167.81, HWM $186.455)
+
+### Market Context
+- **WTI crude:** $80.49/bbl (CME, Jun 16 01:27 AM CT) | **Brent:** $84.62/bbl (Jun 15) — continuing Iran-peace-deal decline from ~$86 Fri
+- **S&P 500 futures (ESM26):** ~7,563, +0.02% — essentially flat premarket; prior session settled +1.68%
+- **VIX:** 16.25 (intraday range 15.00–18.43, Jun 16 morning) — declining; below 18; constructive
+- **Sector momentum YTD:** Energy #1 (+26%), Consumer Staples #2 (+11%), Industrials #3 (+10%); Tech lagging; Materials and Utilities improving
+- **Today's data releases (ET):**
+  - 8:30 AM — Housing Starts May (consensus ~1.38-1.43M, prior 1.465M) + Building Permits
+  - 8:30 AM — Import/Export Price Indexes May (prior +1.9% MoM; expected slower)
+  - FOMC Day 1 of 2 (meeting Jun 16–17); rate decision Wed Jun 17 2:00 PM ET — hold widely expected at 3.50–3.75%; market will react to Powell language
+- **Earnings today (before open):** WLY (John Wiley & Sons), KMX (CarMax), SWBI — none are market-movers for our sectors
+- **Macro:** Iran peace deal momentum continuing; Strait of Hormuz signing Jun 19; oil bull case weakening; mortgage rates falling (30-yr 6.45%); housing starts expected to show resilience (+1.38M vs 1.465M prior); FOMC hold assumed, all eyes on forward guidance
+
+### Position Check
+| Symbol | Entry | Pre-mkt | Unreal P&L | % | Stop | HWM | Watch |
+|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $342.77 | +$4,204.25 | +22.41% | $331.45 (5% trail) | $348.89 | Q1 beat (29% rev growth, 87% order surge, $210B backlog); commercial aerospace +Iran peace = oil lower, airline demand up. Thesis fully intact. |
+| LHX | $308.48 | $301.80 | -$400.65 | -2.17% | $283.97 (10% trail) | $315.52 | -2.17% cumulative, down from HWM $315.52; Iran conflict catalyst removed; NATO/Ukraine ISR thesis intact + new $600M counter-drone contract. Cut level $286.89 ($14.91 buffer). Monitoring. |
+| RTX | $174.65 | $183.60 | +$1,029.25 | +5.13% | $167.81 (10% trail) | $186.455 | $100M Portsmouth expansion + $515M SPY-6 contract + $74B backlog. Patriot/AMRAAM NATO demand diversified from Iran theater. Thesis solid. |
+
+### Thesis Check
+- **GE:** HOLD. Commercial aerospace dominates (~70% revenue). Peace deal + oil declining = net positive for airline customers, engine orders, MRO. Q1 2026 blowout: 29% revenue growth, 87% orders surge, $210B backlog, guidance toward high end. 5% trail protecting +22.41% gain. No action.
+- **LHX:** HOLD (watch). -2.17% cumulative. Iran conflict catalyst removed — thesis now rests on NATO/Ukraine ISR/C2 demand + $600M counter-drone Army contract. Q1 EPS +33% YoY. Free cash flow was an outflow in Q1 (working capital timing) — not alarming per se. Cut level -7% = $286.89; current $301.80 is $14.91 above cut. Stop $283.97 (6.8% buffer). Thesis weakened but not broken. HOLD.
+- **RTX:** HOLD. +5.13% cumulative. Patriot/AMRAAM demand has shifted from Iran theater to broader NATO rearmament — diversifies rather than eliminates thesis. $515M SPY-6 contract. $100M Portsmouth expansion accelerates LTAMDS/Patriot production. Stop auto-advancing (HWM $186.455, stop $167.81). Thesis intact.
+
+### Trade Ideas
+
+**Idea 1: HOLD — No new entries (FOMC Day 1; rate decision tomorrow)**
+- FOMC meeting starts today; rate decision Wednesday 2 PM ET. Hold expected (3.50–3.75%) but Powell's language on tariff-driven inflation vs slowdown is the binary event.
+- Pre-FOMC new buys are exposed to ±2–5% whipsaw on Powell language. Patience required.
+- Deployment at 57.1% is below 75–85% target, but FOMC discipline overrides.
+
+**Idea 2: Post-FOMC airline entry (NOT actionable today — evaluate Thu Jun 18)**
+- **DAL (Delta):** WTI now $80.49 (down ~$6 from pre-peace-deal ~$86.71); Strait of Hormuz signing Jun 19 → route reopening; fuel cost tailwind significant. YTD underperformer = potential catch-up. If FOMC language neutral/dovish → entry at post-FOMC price Thu Jun 18.
+  - Catalyst: oil decline + Iran peace route reopening + post-FOMC risk-on
+  - Entry: ~market Thu Jun 18 (pending FOMC); Stop: 10% trailing; Target: 2:1 R:R minimum
+  - Size: ≤20% equity (~$21,788 / ~90 shares at ~$240)
+  - Pre-check: verify current price and 2:1 R:R on Thu before any entry
+- **UAL (United):** Similar thesis; higher beta; will screen both DAL and UAL Thu morning
+
+**Idea 3: Deployment monitoring (long-term)**
+- At 57.1% deployed vs 75–85% target; gap of ~$19,600 to bottom of target range
+- 2 more positions can be added without violating 6-position cap
+- Prioritize quality catalyst over rushing to hit deployment target
+
+### Risk Factors
+1. **FOMC tomorrow:** Hawkish language (tariff-inflation concerns → higher-for-longer framing) → equity sell-off; all 3 positions in rate-sensitive aerospace/defense
+2. **LHX drift:** -2.17% cumulative and Iran conflict catalyst removed. If NATO/Ukraine thesis fades further or if broader defense sells off post-FOMC → watch for -7% cut level ($286.89). Thesis weakened but stop buffer intact ($14.91 from cut level).
+3. **GE stop compression:** 5% trail with $342.77 current; HWM $348.89; stop $331.45. Buffer $11.32 (3.3%). Any sharp intraday reversal could trigger stop. Not a concern unless broad sell-off.
+4. **Oil re-rating risk:** WTI $80.49 — if Iran deal falls apart or Hormuz signing delayed (Jun 19) → oil spikes → airline thesis invalidated before entry.
+5. **Short trading week:** Juneteenth Friday Jun 20 market closed; 4-day week compresses liquidity.
+
+### Decision
+**HOLD — no new entries today**
+- FOMC Day 1 is the dominant factor; no pre-FOMC new buys
+- All 3 positions above cut levels, stops live as GTC orders
+- Airline (DAL/UAL) thesis building but requires post-FOMC confirmation
+- GE +22.41% with 5% trail protecting gains; RTX +5.13% thesis intact; LHX -2.17% monitored
+- Post-FOMC (Thu Jun 18 pre-market): primary action point — airline entry decision + full deployment gap review
+- Week 9: 0/3 trades; FOMC patience is the right call
