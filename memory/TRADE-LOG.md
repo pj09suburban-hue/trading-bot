@@ -1504,3 +1504,33 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $185.00 | +0.80% | +$1,190.25 (+5.93%) | $167.81 (10% trail, HWM $186.46) |
 
 **Notes:** Day 37, Monday Week 9 (FOMC week). Portfolio +$631.58 (+0.58%) to $109,425.46. GE continued its post-Iran-deal strength, +2.68% to $344.29; now +22.95% from entry with 5% trail stop protecting gains (stop $331.45, HWM $348.89). LHX gave back -0.78% as the Iran conflict premium fades from ISR/C2 names; NATO/Ukraine demand thesis remains intact and -1.00% cumulative stays well above the -7% cut trigger. RTX +0.80%, HWM $186.46 and stop auto-advancing to $167.81 (10% trail); Patriot/AMRAAM demand diversified beyond Iran theater. No trades placed; 0/3 Week 9. Cash 42.7%, deployment 57.3% — below 75-85% target but FOMC discipline maintained. No new entries until post-FOMC clarity (decision Wed Jun 17 2PM ET). Phase P&L: +$9,425.46 (+9.43%).
+
+---
+
+## 2026-06-16 — Midday Scan (Day 38, Tuesday — FOMC Day 1 — Week 9 Day 2)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $350.04 | +$4,691.34 | +25.00% | +2.27% | $335.22 (5% trail) | $352.86 | HOLD |
+| LHX | $308.48 | $309.54 | +$63.75 | +0.34% | +1.77% | $283.97 (10% trail) | $315.52 | HOLD |
+| RTX | $174.65 | $185.87 | +$1,289.73 | +6.42% | +1.21% | $167.81 (10% trail) | $186.46 | HOLD |
+
+**Cut losers (-7%):** None. GE cut level $260.42; LHX cut level $286.88; RTX cut level $162.42 — all clear.
+
+**Stop tightening (+15%/+20%):** None. GE already at 5% trail (tightest per rules; +25.00% well past +20% trigger). LHX +0.34% and RTX +6.42% both below +15% trigger. No intervention.
+
+**GE note — 52-week high breakout:** GE traded to intraday HWM $352.86, breaking above its prior 52-week high of $348.90 and essentially reaching analyst consensus PT ($350.95). Continued Q1 earnings momentum (29% revenue growth, 87% orders, $210B backlog) — no new company-specific catalyst today per Perplexity. Broad aerospace/defense sector bid. 5% trailing stop auto-advanced to $335.22 (4.23% buffer from $350.04).
+
+**Trailing stop status (live GTC orders):**
+- GE: order 94b1a703 active, 5% trail, HWM $352.86, stop $335.22 (4.23% buffer from $350.04)
+- LHX: order 9e8f2f79 active, 10% trail, HWM $315.52, stop $283.97 (8.26% buffer from $309.54)
+- RTX: order 8a67337a active, 10% trail, HWM $186.46, stop $167.81 (9.72% buffer from $185.87)
+
+**Thesis check:**
+- GE: Broke 52-week high ($348.90), reached intraday $352.86. Q1 earnings momentum + commercial aerospace tailwind (Iran peace → oil lower → airline demand). No new negative catalyst. 5% trail protecting +25.00%. HOLD.
+- LHX: Recovered from pre-market -2.17% cumulative to +0.34% — bounced strongly (+1.77% intraday). NATO/Ukraine ISR/C2 demand + $600M counter-drone Army contract thesis intact. Stop $283.97, buffer $25.57 (8.26%). HOLD.
+- RTX: +6.42% cumulative, +1.21% intraday. Patriot/AMRAAM NATO rearmament demand. $515M SPY-6 + $74B backlog intact. Stop auto-advanced (HWM $186.46, stop $167.81). HOLD.
+
+**Portfolio (midday):** $110,188.71 | **Cash:** $46,755.43 (42.5%) | **Long MV:** $63,433.28 (57.5% deployed) | **Day P&L:** +$763.25 (+0.70% vs Jun 15 EOD) | **Phase P&L:** +$10,188.71 (+10.19%)
+**Week trades:** 0/3 (Week 9) | **Open positions:** 3/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
+**Key watch:** GE at/above analyst consensus PT ($350.95) with 4.23% stop buffer — any sharp reversal risks stop trigger. FOMC rate decision Wed Jun 17 2PM ET — hold all positions, no new entries until post-FOMC. Deployment 57.5% below 75–85% target; airline entry (DAL/UAL) remains on deck for Thu Jun 18 pre-market.
