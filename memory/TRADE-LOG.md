@@ -1534,3 +1534,17 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $110,188.71 | **Cash:** $46,755.43 (42.5%) | **Long MV:** $63,433.28 (57.5% deployed) | **Day P&L:** +$763.25 (+0.70% vs Jun 15 EOD) | **Phase P&L:** +$10,188.71 (+10.19%)
 **Week trades:** 0/3 (Week 9) | **Open positions:** 3/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
 **Key watch:** GE at/above analyst consensus PT ($350.95) with 4.23% stop buffer — any sharp reversal risks stop trigger. FOMC rate decision Wed Jun 17 2PM ET — hold all positions, no new entries until post-FOMC. Deployment 57.5% below 75–85% target; airline entry (DAL/UAL) remains on deck for Thu Jun 18 pre-market.
+
+---
+
+### Jun 16 — EOD Snapshot (Day 38, Tuesday — FOMC Day 1 — Week 9 Day 2)
+**Portfolio:** $110,188.71* | **Cash:** $46,755.43 (42.5%) | **Day P&L:** +$763.25 (+0.70%) | **Phase P&L:** +$10,188.71 (+10.19%)
+*Alpaca API returned 504 on all retries at routine time; values from 12 PM midday scan (last confirmed state).*
+
+| Ticker | Shares | Entry | Close* | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|--------|---------|----------------|------|
+| GE | 67 | $280.02 | $350.04 | +2.27% | +$4,691.34 (+25.00%) | $335.22 (5% trail, HWM $352.86) |
+| LHX | 60 | $308.48 | $309.54 | +1.77% | +$63.75 (+0.34%) | $283.97 (10% trail, HWM $315.52) |
+| RTX | 115 | $174.65 | $185.87 | +1.21% | +$1,289.73 (+6.42%) | $167.81 (10% trail, HWM $186.46) |
+
+**Notes:** Day 38, FOMC Day 1. Portfolio +$763.25 (+0.70%) to $110,188.71 using 12 PM midday prices (Alpaca API 504 at 3 PM routine time). All three positions advanced: GE +2.27% intraday, broke 52-week high ($352.86 intraday HWM), now +25.00% from entry; 5% trail stop at $335.22. LHX rebounded +1.77% from prior weakness, now +0.34% cumulative; NATO/Ukraine ISR thesis intact. RTX +1.21%, cumulative +6.42%; Patriot/AMRAAM demand continues. No trades placed; 0/3 Week 9. Cash 42.5%, deployment 57.5% — below 75–85% target; FOMC discipline maintained (decision Wed Jun 17 2 PM ET). Phase P&L: +$10,188.71 (+10.19%).
