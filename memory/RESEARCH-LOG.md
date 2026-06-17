@@ -2365,3 +2365,72 @@ All 3 GTC trailing stops active and self-managing. ✓
 - GE +22.41% with 5% trail protecting gains; RTX +5.13% thesis intact; LHX -2.17% monitored
 - Post-FOMC (Thu Jun 18 pre-market): primary action point — airline entry decision + full deployment gap review
 - Week 9: 0/3 trades; FOMC patience is the right call
+
+---
+
+## 2026-06-17 — Pre-Market Research (Day 39, Wednesday — FOMC Decision Day — Week 9 Day 3)
+
+### Account Snapshot
+- **Portfolio:** $110,739.16 | **Cash:** $46,755.43 (42.2%) | **Long MV:** $63,983.73 (57.8%)
+- **Day P&L (vs Jun 16 close):** +$312.27 (+0.28%) | **Phase P&L:** +$10,739.16 (+10.74%)
+- **Open positions:** 3/6 | **Week trades:** 0/3 (Week 9) | **Daytrade count:** 0
+- **Deployment:** 57.8% — below 75–85% target; FOMC holds deployment decision until post-2 PM ET
+
+### Market Context
+- **WTI crude:** ~$76.15/bbl (-4.74% today), 3-month low; Iran peace deal + OPEC+ supply expectations accelerating downside. Brent following lower.
+- **S&P 500 futures:** ~7,523, essentially flat (+0.06%); market in wait-and-see mode pre-FOMC
+- **VIX:** ~16.2 — low, calm; no fear premium ahead of expected hold
+- **FOMC decision:** 2:00 PM ET today. Hold expected (97% probability, CME FedWatch). Rate unchanged at 3.50–3.75%. Key watch: **Kevin Warsh's first press conference as new Chair** + updated dot plot. March 2026 median dot: 3.4% (1 more cut implied). Risk: if dot plot moves toward fewer cuts or Warsh signals higher-for-longer → rate-sensitive equities sell off.
+- **Earnings today (BMO):** Jabil (JBL, EPS est $3.08), CarMax (KMX), SWBI — none relevant to held positions or watchlist
+- **Juneteenth (Fri Jun 20):** market closed — 4-day week; compresses remaining trade window
+
+### Sector Read
+- **Aerospace/defense:** Still strong; XAR up ~21% YTD. GE, RTX, LHX all advancing in pre-market.
+- **Airlines:** DAL hit new 52-week high ($86.64) on Jun 15; +11% YTD. Already at/above analyst consensus ($80–87). Oil falling ($76) is a fuel cost tailwind, but much of the move may be priced in.
+- **Energy:** WTI -4.74% today continues oil decline post-Iran peace deal. Headwind for energy stocks; tailwind for airlines.
+
+### Position Check
+| Symbol | Entry | Pre-mkt | Unreal P&L | % | Stop | HWM | Watch |
+|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $351.84 | +$4,811.79 | +25.65% | $335.22 (5% trail) | $352.86 | No new news today; next earnings Jul 16. United Airlines 300 GEnx engine order cited. Momentum intact. |
+| LHX | $308.48 | $311.49 | +$180.75 | +0.98% | $283.97 (10% trail) | $315.52 | POSITIVE: Filed confidential S-1 for missile unit IPO → stock +2% catalyst. $1.25 dividend Jun 26. Record $40.7B backlog. Thesis significantly strengthened. |
+| RTX | $174.65 | $188.88 | +$1,636.45 | +8.15% | $167.81 (10% trail) | $186.455 → will advance | $188.88 exceeds HWM $186.455 in pre-market. Stop will auto-advance to ~$169.99 at market open (10% below new HWM). No manual action needed — Alpaca handles. |
+
+### Thesis Check
+- **GE:** HOLD. No new negative catalyst. Commercial aerospace + oil decline = airline demand up + engine orders. 5% trail protecting +25.65%. Next earnings Jul 16 — still 4 weeks out. Thesis intact.
+- **LHX:** HOLD, thesis strengthened. Missile unit IPO (confidential S-1 filed) is a significant unlock catalyst — market typically reprices conglomerate discount when unit is separated. Now +0.98% from entry (recovered from -2.17% low). Record backlog $40.7B, book-to-bill 1.4x, Q1 EPS +33%. Stop $283.97 buffer $27.52 (8.8%). Upgrade view: was monitoring, now conviction HOLD.
+- **RTX:** HOLD. +8.15% cumulative. Pre-market gap up to $188.88 > HWM $186.455 — trailing stop will auto-advance to ~$169.99. $100M Portsmouth expansion, $515M SPY-6 contract, $74B backlog, Q1 revenue $24.2B (+12%). Thesis fully intact.
+
+### Trade Ideas
+
+**Idea 1: HOLD all — No new entries today (FOMC Decision Day, 2 PM ET)**
+- Warsh's first press conference is the binary event. Any hawkish surprise → rate-sensitive equities sell off. Any dovish lean → relief rally.
+- Pre-FOMC new buys exposed to ±2–5% whipsaw. Patience required.
+
+**Idea 2: DAL — Post-FOMC airline entry (re-evaluate Thu Jun 18 pre-market)**
+- DAL hit 52-week high $86.64 on Jun 15 — **already at/above analyst consensus ($80–87 range)**. The oil-decline + Iran peace tailwind may be substantially priced in.
+- WTI at $76.15 (-$10+ from mid-May peaks) is bullish for margins, but DAL is not cheap vs. forward estimates.
+- Entry gate: **only enter DAL Thursday if it pulls back to $80–82 range OR shows clear bullish continuation post-FOMC with measurable catalyst not yet priced in.** At $86+ with consensus PTs around $81–87, risk/reward is questionable.
+- If FOMC is dovish → broad risk-on; airlines could push higher. If hawkish → DAL may give back 3–5% — better entry point.
+- Re-check DAL price and 2:1 R:R Thursday pre-market before any decision.
+
+**Idea 3: Deployment gap — consider 4th position Thu/Fri if market cooperates**
+- 3 positions at 57.8% deployed; 2 slots open; ~$19,600 gap to bottom of 75% target
+- Post-FOMC clarity is required first
+- Second candidate: UAL (higher beta alternative to DAL if thesis intact)
+- Sector: airlines only if energy sector isn't signaling reversal back up
+
+### Risk Factors
+1. **FOMC hawkish surprise:** Warsh signals higher-for-longer or dot plot shifts up → aerospace/defense sell-off + airline thesis re-evaluation
+2. **DAL entry timing:** Stock may already be at/above consensus PT — entering here gives poor R:R vs plan. Better to wait for post-FOMC price action.
+3. **GE stop compression (5% trail):** At $351.84 with stop $335.22 = 4.7% buffer. FOMC-driven sell-off of >5% would hit stop. Stop protects +22%+ gain — acceptable risk.
+4. **LHX IPO news fade:** Missile unit IPO catalyst could fade quickly. Watch for follow-through vs. one-day pop.
+5. **Oil floor:** WTI at 3-month low — if oil bounces from $75 support, airline fuel cost tailwind reverses. Monitor.
+6. **4-day week:** Juneteenth (Fri Jun 20) — only 2 trading days left this week post-FOMC. Limit new entries to Thursday if decision is actionable.
+
+### Decision
+**HOLD — no new entries today**
+- FOMC 2 PM ET is the dominant factor. Warsh first presser = binary event. No new buys until post-decision.
+- All 3 positions above cut levels, stops live as GTC orders. LHX thesis upgraded (missile unit IPO). RTX trailing stop will auto-advance at open.
+- Post-FOMC Thu Jun 18: Primary action point. Re-evaluate DAL entry (only if R:R ≥ 2:1 and not fully priced in). Deployment gap remains addressable.
+- Week 9: 0/3 trades. Patience is correct here — FOMC patience > reaching on deployment.
