@@ -1583,3 +1583,16 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $111,981.63 | **Cash:** $46,755.43 (41.7%) | **Long MV:** $65,226.20 (58.3% deployed) | **Day P&L:** +$1,554.74 (+1.41% vs Jun 16 EOD) | **Phase P&L:** +$11,981.63 (+11.98%)
 **Week trades:** 0/3 (Week 9) | **Open positions:** 3/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
 **Key watch:** GE 5% trail buffer 4.97% — FOMC-driven selloff >5% could hit stop (would lock in ~+22%+ gain, acceptable). Post-FOMC Thu Jun 18: DAL/UAL airline entry decision + deployment gap review (57.8% deployed vs 75-85% target).
+
+---
+
+### Jun 17 — EOD Snapshot (Day 39, Wednesday — FOMC Decision Day — Week 9 Day 3)
+**Portfolio:** $112,110.59 | **Cash:** $46,755.43 (41.7%) | **Day P&L:** +$1,683.70 (+1.52%) | **Phase P&L:** +$12,110.59 (+12.11%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $361.06 | +2.65% | +$5,429.68 (+28.94%) | $344.21 (5% trail, HWM $362.33) |
+| LHX | 60 | $308.48 | $316.26 | +1.87% | +$467.10 (+2.52%) | $286.67 (10% trail, HWM $318.52) |
+| RTX | 115 | $174.65 | $192.93 | +3.30% | +$2,101.63 (+10.46%) | $174.11 (10% trail, HWM $193.46) |
+
+**Notes:** Day 39, FOMC Decision Day. Portfolio +$1,683.70 (+1.52%) to $112,110.59. All three defense positions rallied through the FOMC rate hold: GE +2.65% to $361.06 (now +28.94% from entry, 5% trail auto-advanced HWM $362.33/stop $344.21); LHX +1.87% to $316.26 (now +2.52%, 10% trail HWM $318.52/stop $286.67); RTX +3.30% to $192.93 (now +10.46%, approaching +15% tightening trigger, 10% trail HWM $193.46/stop $174.11). No trades placed; 0/3 Week 9. Cash 41.7%, deployment 58.3% — below 75–85% target; post-FOMC airline entry (DAL/UAL) on deck for Thu Jun 18. Phase P&L: +$12,110.59 (+12.11%).
