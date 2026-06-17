@@ -2434,3 +2434,9 @@ All 3 GTC trailing stops active and self-managing. ✓
 - All 3 positions above cut levels, stops live as GTC orders. LHX thesis upgraded (missile unit IPO). RTX trailing stop will auto-advance at open.
 - Post-FOMC Thu Jun 18: Primary action point. Re-evaluate DAL entry (only if R:R ≥ 2:1 and not fully priced in). Deployment gap remains addressable.
 - Week 9: 0/3 trades. Patience is correct here — FOMC patience > reaching on deployment.
+
+### Afternoon Addendum (Midday Scan)
+- All three positions up 2-3% by noon — broad pre-FOMC sector bid; no anomalous single-stock driver beyond LHX missile unit IPO follow-through.
+- FOMC rate hold 97% priced per CME FedWatch. Key risk: dot plot may shift to "no cuts in 2026" under Warsh — mild headwind for equity multiples, negligible for defense industrials.
+- GE HWM $359.54 (new high), stop auto-advanced to $341.56 (4.97% buffer). Buffer is tight — >5% FOMC-driven selloff would trigger stop and lock in ~+22%+ realized gain.
+- No action taken at midday scan. All stops live. Post-FOMC (2 PM ET) will determine Thu Jun 18 entry playbook.
