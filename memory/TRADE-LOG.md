@@ -1624,3 +1624,16 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $109,870.13 | **Cash:** $46,755.43 (42.6%) | **Long MV:** $63,114.70 (57.4% deployed) | **Day P&L:** -$1,743.21 (-1.56% vs Jun 17 EOD) | **Phase P&L:** +$9,870.13 (+9.87%)
 **Week trades:** 0/3 (Week 9) | **Open positions:** 3/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
 **Key watch:** LHX 3.00% buffer to stop — broad defense weakness could trigger GTC stop today (locks in ~-7% realized loss, acceptable per rules). Last trading day before Juneteenth; no new entries — DAL R:R gate fails ($84 entry vs $93 PT = 1.07x). Deployment 57.4% below 75–85% target; re-evaluate 4th position Mon Jun 22.
+
+---
+
+### Jun 18 — EOD Snapshot (Day 40, Thursday — Juneteenth Eve — Week 9 Day 4)
+**Portfolio:** $109,686.46 | **Cash:** $46,755.43 (42.6%) | **Day P&L:** -$1,926.88 (-1.73%) | **Phase P&L:** +$9,686.46 (+9.69%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $358.44 | +0.40% | +$5,254.14 (+28.01%) | $346.47 (5% trail, HWM $364.70) |
+| LHX | 60 | $308.48 | $293.07 | -6.42% | -$924.45 (-5.00%) | $286.67 (10% trail, HWM $318.52) |
+| RTX | 115 | $174.65 | $185.46 | -3.70% | +$1,243.15 (+6.19%) | $174.75 (10% trail, HWM $194.17) |
+
+**Notes:** Day 40, Juneteenth Eve (market closed Fri Jun 19). Portfolio -$1,926.88 (-1.73%) to $109,686.46 as defense sector continued post-FOMC rotation lower. LHX worst performer: -6.42% intraday, now -5.00% cumulative; stop $286.67 only 2.18% buffer from close $293.07 — stop-trigger risk elevated on Mon open. RTX -3.70% intraday but +6.19% cumulative, 5.78% stop buffer intact. GE bucked trend +0.40%, +28.01% cumulative, 5% trail $346.47 with 3.34% buffer. No trades placed; 0/3 Week 9. Cash 42.6%, deployment 57.4% — well below 75–85% target. Market closed tomorrow (Juneteenth). Next session Mon Jun 22: let LHX stop resolve first (if triggered, frees ~$17.6k), then evaluate 4th position to close deployment gap. Phase P&L: +$9,686.46 (+9.69%).
