@@ -1596,3 +1596,31 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $192.93 | +3.30% | +$2,101.63 (+10.46%) | $174.11 (10% trail, HWM $193.46) |
 
 **Notes:** Day 39, FOMC Decision Day. Portfolio +$1,683.70 (+1.52%) to $112,110.59. All three defense positions rallied through the FOMC rate hold: GE +2.65% to $361.06 (now +28.94% from entry, 5% trail auto-advanced HWM $362.33/stop $344.21); LHX +1.87% to $316.26 (now +2.52%, 10% trail HWM $318.52/stop $286.67); RTX +3.30% to $192.93 (now +10.46%, approaching +15% tightening trigger, 10% trail HWM $193.46/stop $174.11). No trades placed; 0/3 Week 9. Cash 41.7%, deployment 58.3% — below 75–85% target; post-FOMC airline entry (DAL/UAL) on deck for Thu Jun 18. Phase P&L: +$12,110.59 (+12.11%).
+
+---
+
+## 2026-06-18 — Midday Scan (Day 40, Thursday — Post-FOMC — Juneteenth Eve — Week 9 Day 4)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $358.72 | +$5,272.90 | +28.1% | +0.47% | $346.47 (5% trail) | $364.70 | 3.42% | HOLD |
+| LHX | $308.48 | $295.55 | -$775.65 | -4.19% | -5.63% | $286.67 (10% trail) | $318.52 | 3.00% | HOLD |
+| RTX | $174.65 | $185.64 | +$1,263.85 | +6.29% | -3.60% | $174.75 (10% trail) | $194.17 | 5.89% | HOLD |
+
+**Cut losers (-7%):** None. GE cut $260.42, LHX cut $286.89, RTX cut $162.42 — all clear. LHX at -4.19%, 2.83% above cut level; GTC stop at $286.67 active.
+
+**Stop tightening (+15%/+20%):** None. GE already at 5% trail (tightest). LHX -4.19% and RTX +6.29% both below +15% threshold. No intervention.
+
+**Thesis check:**
+- GE: +28.1%, intraday +0.47% — holding while defense peers sell off. Commercial aerospace + GEnx engine demand intact. 5% trail at $346.47 with 3.42% buffer. HOLD.
+- LHX: -5.63% intraday (sector-worst). Perplexity: NO company-specific negative catalyst — broad defense profit-taking/valuation compression post-FOMC (Warsh hawkish shift). Q1 results strong (rev +12%, EPS +33%, backlog record $40.7B), missile unit IPO (confidential S-1) intact. -4.19% cumulative; GTC stop $286.67 managing downside (buffer now 3.00%). Thesis NOT broken. HOLD.
+- RTX: -3.60% intraday, +6.29% cumulative. Same sector rotation driver — no company-specific negative news. $515M SPY-6 + $100M LTAMDS expansion + $74B backlog intact. Stop $174.75 buffer 5.89%. Thesis NOT broken. HOLD.
+
+**Trailing stop status (live GTC orders):**
+- GE: order 94b1a703 active, 5% trail, HWM $364.70, stop $346.47 (3.42% buffer from $358.72)
+- LHX: order 9e8f2f79 active, 10% trail, HWM $318.52, stop $286.67 (3.00% buffer from $295.55)
+- RTX: order 8a67337a active, 10% trail, HWM $194.17, stop $174.75 (5.89% buffer from $185.64)
+
+**Portfolio (midday):** $109,870.13 | **Cash:** $46,755.43 (42.6%) | **Long MV:** $63,114.70 (57.4% deployed) | **Day P&L:** -$1,743.21 (-1.56% vs Jun 17 EOD) | **Phase P&L:** +$9,870.13 (+9.87%)
+**Week trades:** 0/3 (Week 9) | **Open positions:** 3/6 | **Daytrade count:** 0 | **No notification sent (no action taken)**
+**Key watch:** LHX 3.00% buffer to stop — broad defense weakness could trigger GTC stop today (locks in ~-7% realized loss, acceptable per rules). Last trading day before Juneteenth; no new entries — DAL R:R gate fails ($84 entry vs $93 PT = 1.07x). Deployment 57.4% below 75–85% target; re-evaluate 4th position Mon Jun 22.
