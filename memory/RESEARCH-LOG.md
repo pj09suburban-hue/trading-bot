@@ -2440,3 +2440,69 @@ All 3 GTC trailing stops active and self-managing. ✓
 - FOMC rate hold 97% priced per CME FedWatch. Key risk: dot plot may shift to "no cuts in 2026" under Warsh — mild headwind for equity multiples, negligible for defense industrials.
 - GE HWM $359.54 (new high), stop auto-advanced to $341.56 (4.97% buffer). Buffer is tight — >5% FOMC-driven selloff would trigger stop and lock in ~+22%+ realized gain.
 - No action taken at midday scan. All stops live. Post-FOMC (2 PM ET) will determine Thu Jun 18 entry playbook.
+
+---
+
+## 2026-06-18 — Pre-Market Research (Day 40, Thursday — Post-FOMC — Week 9 Day 4 — Last Day Before Juneteenth)
+
+### Account Snapshot
+- **Equity:** $111,920.03 | **Cash:** $46,755.43 (41.8%) | **Long MV:** $65,164.60 (58.2% deployed)
+- **Phase P&L:** +$11,920.03 (+11.92%) | **Positions:** 3/6 | **Week trades:** 0/3 | **Daytrade count:** 0
+
+### Market Context
+- **WTI:** $75.33/bbl, -$1.46 — oil continuing multi-week decline post-Iran peace deal
+- **S&P 500 futures:** ~flat to -0.17% (ESM26 ~7,492–7,523); muted post-FOMC digestion
+- **VIX:** 17.10 (down 7.27% from 18.44 yesterday) — volatility declining, constructive
+- **FOMC outcome (Jun 17):** Rate held 3.50–3.75% ✓; BUT Warsh dot plot hawkish shift — 9 of 19 officials see rate hike by year-end; zero 2026 cuts now ~80% probability (Polymarket). May CPI 4.2% (vs 3.8% prior). Warsh's first press conference described as "surprisingly aggressive."
+- **Sector:** Tech/Nasdaq soft post-FOMC (-0.99% Wed); Defense held/rallied (geopolitical demand trumps rate sensitivity); XAR aerospace/defense still leading
+- **Juneteenth tomorrow (Jun 20):** Market CLOSED — today is last trading day this week
+- **Earnings today:** Accenture (ACN), Kroger (KR), initial jobless claims 8:30 AM ET (consensus 225K vs prior 229K)
+- **Perplexity used for all research**
+
+### Position Review
+
+| Symbol | Entry | Current | Unreal P&L | % | Stop | HWM | Buffer | Thesis |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $359.60 | +$5,331.86 | +28.4% | $344.21 (5% trail) | $362.33 | 4.3% | HOLD |
+| LHX | $308.48 | $314.99 | +$390.75 | +2.1% | $286.67 (10% trail) | $318.52 | 9.0% | HOLD |
+| RTX | $174.65 | $192.80 | +$2,087.25 | +10.4% | $174.11 (10% trail) | $193.46 | 9.7% | HOLD |
+
+**Cut check:** GE cut $260.42 — clear; LHX cut $286.89 ≈ stop $286.67 (GTC stop covers); RTX cut $162.42 — clear.
+
+**Stop tightening:** GE already at 5% (tightest rule; +28.4% >> +20% trigger). LHX +2.1%, RTX +10.4% — both below +15% threshold. No action.
+
+**GE thesis:** 5% trail buffer 4.3% — tightest point since entry. VIX declining (17.10) reduces risk of a 5%+ intraday move triggering stop. Commercial aerospace + oil decline (airline demand up → engine orders). No new negative catalyst. HOLD.
+**LHX thesis:** Space Propulsion & Power Systems divested to AE Industrial Partners (portfolio rationalization). Missile unit IPO (confidential S-1) catalyst from yesterday intact. Analyst PT $381.95 vs current $314.99 (+21% implied upside). Quarterly dividend $1.25 payable Jun 26 (ex-div ~Jun 24). HOLD.
+**RTX thesis:** +10.4%, approaching +15% tightening trigger (~$200.85). $515M SPY-6 + $74B backlog + Patriot/AMRAAM NATO demand. No new negative catalyst. HOLD.
+
+### Trade Ideas
+
+**Idea 1 — DAL airline entry:** SKIP
+- DAL premarket ~$83.72 (+1.79%); Bernstein raised PT to $93 on Jun 17
+- R:R check: entry ~$84, 10% stop = $75.60, risk $8.40/share, target $93, reward $9.00 → R:R 1.07x — FAILS 2:1 gate
+- Need entry ≤ $79 for 2:1 R:R with Bernstein $93 target — current price too high
+- Hawkish FOMC = higher-for-longer headwind for consumer/airlines
+- Juneteenth tomorrow = 3-day hold if entered today (closed Fri, weekend, return Mon)
+- **Skip**
+
+**Idea 2 — Hold cash through Juneteenth:** CORRECT
+- Only 1 trading day this week remains
+- Post-FOMC uncertainty (hawkish shift) + holiday gap = suboptimal entry conditions
+- Deployment gap (42% cash, 17% below 75% target) acceptable given risk environment
+- Re-evaluate 4th position Mon Jun 22 with fresh week + post-FOMC clarity
+
+### Risk Factors
+1. **GE stop compression:** 4.3% buffer — any surprise post-FOMC selloff >4.3% hits stop. Would lock in +22%+ realized gain. Acceptable risk; stop is working as intended.
+2. **Hawkish Warsh:** Zero cuts priced + possible hike → headwind for equity multiples broadly. Defense less sensitive but not immune.
+3. **Juneteenth gap:** Today = last entry window until Mon Jun 22. Any position entered today cannot be managed tomorrow.
+4. **WTI floor test ($75):** If oil bounces from multi-month lows, airline fuel cost tailwind reverses. Watch for oil inflection.
+5. **Tech contagion:** Nasdaq/semi weakness post-FOMC could spread to broader market. VIX declining (17.10) is reassuring but monitor.
+
+### Decision
+**HOLD — no new entries today**
+- R:R gate fails for DAL at current price (~$84); need ≤ $79 for 2:1
+- Juneteenth tomorrow = cannot manage any new entry for 3 days
+- All 3 defense positions above cut levels, theses intact, GTC stops live
+- Week 9: 0/3 trades. Patience correct — hawkish FOMC + holiday gap > forcing deployment
+- **Watchlist for Mon Jun 22:** DAL if it pulls back to $79-80 (2:1 R:R vs $93 target); scan for new momentum setups in defense or energy with fresh week
+
