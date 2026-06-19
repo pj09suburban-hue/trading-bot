@@ -2506,3 +2506,69 @@ All 3 GTC trailing stops active and self-managing. ✓
 - Week 9: 0/3 trades. Patience correct — hawkish FOMC + holiday gap > forcing deployment
 - **Watchlist for Mon Jun 22:** DAL if it pulls back to $79-80 (2:1 R:R vs $93 target); scan for new momentum setups in defense or energy with fresh week
 
+---
+
+## 2026-06-19 — Pre-market Research (Day 41, Friday — Juneteenth — MARKET CLOSED — Week 9 Day 5)
+
+### Account Snapshot (as of Jun 18 close)
+- **Equity:** $109,750.51 | **Cash:** $46,755.43 (42.6%) | **Long MV:** $62,995.08 (57.4% deployed)
+- **Phase P&L:** +$9,750.51 (+9.75%) | **Positions:** 3/6 | **Week 9 trades:** 0/3 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Last Close | Unreal P&L | % | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $357.64 | +$5,200.54 | +27.72% | $346.465 (5% trail) | $364.70 | 3.11% |
+| LHX | 60 | $308.48 | $294.82 | -$819.45 | -4.43% | $286.668 (10% trail) | $318.52 | 2.76% ⚠️ |
+| RTX | 115 | $174.65 | $185.60 | +$1,259.25 | +6.27% | $174.753 (10% trail) | $194.17 | 5.84% |
+
+### Market Context
+- **Market:** CLOSED — Juneteenth National Independence Day (NYSE/Nasdaq closed Jun 19; bond market closed; reopens Mon Jun 22)
+- **WTI:** ~$75.63/bbl (Jun 18 close) — multi-month low driven by US-Iran Strait of Hormuz diplomatic progress; slight decline trend intact
+- **S&P 500 futures (ESM26):** Overnight futures ~7,487 +0.84% (thin holiday trading; last meaningful session Jun 18; Sep futures ESU26 at ~7,570-7,580 range)
+- **VIX:** 16.40 (Jun 18 close, down from 18.44 Jun 17) — volatility declining post-FOMC, constructive backdrop
+- **FOMC aftermath:** Warsh held rates 3.50–3.75% as expected; hawkish surprise — 9 of 19 officials see rate hike by year-end, zero 2026 cuts now ~80% priced. May CPI 4.2% (vs 3.8% prior). Dollar strengthening, pressuring risk assets on margin. Defense less rate-sensitive — thesis intact.
+- **Sector momentum (YTD):** Tech +18.7% (6M), Energy +35.3% (6M), Industrials/Defense +13.1% (6M); Defense Tier 1 LTM +45.6% (Greenwich GP Q1 report). All held sectors remain in leading themes.
+- **GE:** ~$357.64 Jun 18 close; Q1 orders +34%/+93%, analyst consensus buy, +28% from entry. Stop compression (3.11% buffer) is key technical risk. Thesis intact.
+- **LHX:** $294.82 Jun 18 close, down from $313.17 Jun 17 (−5.8% in 2 sessions post-FOMC). No company-specific negative catalyst — pure defense rotation/valuation compression. Record $40.7B backlog, missile IPO confidential S-1 filed, dividend $1.25 payable Jun 26. Stop $286.668 only 2.76% from close — elevated Mon stop-trigger risk.
+- **RTX:** $185.60, +6.27%. $6.6B F135 engine contract (Pratt & Whitney), 5 multi-year Raytheon munitions framework agreements (Tomahawk 1,000+/yr, AMRAAM 1,900+/yr, SM-6 500+/yr). $271B backlog. Approaching +15% tightening trigger at ~$200.85.
+- **Perplexity used for all research**
+
+### Week Ahead (Jun 22–26) Key Events
+- **Mon Jun 22:** Market reopens; LHX stop-trigger resolution; Fed Bank Stress Test results 9 PM ET; quiet US data day
+- **Wed Jun 24:** New Home Sales (May), Total Factor Productivity
+- **Thu Jun 25:** PCE MoM (0.4% forecast), Core PCE QoQ Final (2.7%), GDP 3rd release (0.5% QoQ forecast), Initial Jobless Claims (226K forecast), Advance Durable Goods
+- **Fri Jun 26:** Michigan Consumer Survey Final; LHX dividend $1.25/share payable ($75 on 60 shares)
+
+### Trade Ideas
+
+**Idea 1 — Monitor LHX GTC stop on Mon open (tactical):**
+- Stop $286.668 with 2.76% buffer. If defense sector gap-down > 2.76% at Mon open, stop triggers.
+- Realized loss if triggered: ~−$1,308 (−7.07% from entry, at -7% rule boundary). Acceptable per rules.
+- Cash freed if triggered: ~$17,200 → total cash ~$63,955 → deployment ~36% → must add 4th position immediately.
+- Thesis not broken (fundamental), but stop is stop. DO NOT cancel GTC order.
+
+**Idea 2 — DAL airline entry (4th position, conditional):**
+- Bernstein PT $93; 10% stop = 0.90X; for 2:1 R:R: entry ≤ $77.50 ($93/(1.2×) = $77.50)
+- Was at ~$83-84 on Jun 18. Need further pullback.
+- Watch Mon open: if DAL ≤ $77.50 → 2:1 gate passes → document catalyst + enter
+- Catalyst: airline industry demand recovery, Bernstein conviction upgrade, lower oil (fuel tailwind)
+- Risk: hawkish FOMC = higher-for-longer headwind for consumer travel; need price to come to us
+
+**Idea 3 — New defense/industrial (4th position, conditional Mon):**
+- If LHX stop triggers → immediate mandate to redeploy ~$17k+ into a 4th name
+- Candidates to research Mon: NOC (stable, $600B+ DoD backlog), LMT ($93B backlog, HIMARS/F-35), HII (shipbuilding momentum)
+- Entry requires same checklist: catalyst, sector in momentum (✓ defense still leading), 2:1 R:R, stop set
+
+### Risk Factors
+1. **LHX stop Mon:** 2.76% buffer — any premarket gap or early session defense weakness triggers stop (lock in ~-7% realized). GTC order covers; DO NOT interfere.
+2. **GE stop compression:** 3.11% buffer from $357.64; 5% trail last-resort floor. Would lock in +22%+ realized gain if hit. Working as intended.
+3. **PCE Thu Jun 25:** If PCE prints above 0.4% MoM forecast → re-pricing of further hikes → broad equity pressure. Defense less sensitive but not immune.
+4. **Post-holiday gap risk:** First session post-3-day weekend often sees institutional rebalancing. Mon Jun 22 open may be volatile; wait for first 15-30 min before any new entry.
+5. **Deployment gap persists:** 57.4% deployed vs 75-85% target (17% below floor). Pressure to add 4th position, but patience > forcing.
+
+### Decision
+**HOLD — market closed today (Juneteenth)**
+- No action possible Jun 19
+- All 3 positions above cut levels; GTC stops active
+- Week 9: 0/3 trades (correct — hawkish FOMC + holiday prevented forcing trades)
+- **Mon Jun 22 priority order:** 1) Observe LHX stop resolution at open, 2) If LHX stopped → redeploy into best available defense/industrial name with 2:1 R:R, 3) If LHX holds → scan DAL at $77.50 or below for airline entry, 4) Tighten RTX stop to 7% if/when RTX reaches $200.85 (+15% trigger)
+
