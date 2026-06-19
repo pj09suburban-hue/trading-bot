@@ -509,3 +509,69 @@ Template for each entry:
 *Week 8 — positive week (+0.81%) with +1.70% outperformance vs a down S&P. Phase alpha widened to +5.75% vs benchmark (best since launch). GE stop tighten and AVGO stop-out both executed mechanically and correctly. The B+ reflects benchmark outperformance and disciplined rule execution, tempered by a full week of underdeployment (57% vs 75–85% target) and LHX dead weight. FOMC Jun 16–17 is the dominant near-term risk; post-FOMC deployment is the Week 9 primary objective.*
 
 ---
+
+## Week ending 2026-06-19
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $108,954.14 |
+| Ending portfolio | $109,750.51 |
+| Week return | +$796.37 (+0.73%) |
+| S&P 500 week | +1.08% (7,420.10 → 7,500.58) |
+| Bot vs S&P | -0.35% |
+| Phase return | +$9,750.51 (+9.75% from $100k baseline) |
+| Phase bot vs S&P | +5.07% (bot +9.75% vs S&P +4.68% from Apr 24 start 7,165) |
+| Trades | 0 (W:0 / L:0 / open:3) |
+| Win rate | N/A — no closed trades this week (1/7 all-time = 14.3%) |
+| Best trade | GE +27.72% unrealized |
+| Worst trade | LHX -4.43% unrealized |
+| Profit factor | N/A — no new closed trades (1.76 all-time) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| GE | $280.02 | $357.64 | +$5,200.54 (+27.72%) | $346.47 (5% trail, HWM $364.70) |
+| LHX | $308.48 | $294.82 | -$819.45 (-4.43%) | $286.67 (10% trail, HWM $318.52) ⚠️ 2.74% buffer |
+| RTX | $174.65 | $185.60 | +$1,259.25 (+6.27%) | $174.75 (10% trail, HWM $194.17) — stop above entry |
+
+### What Worked
+- FOMC rate hold played out as expected; all three positions rallied Mon–Wed (+2–3% each), portfolio reached phase high $112,110 (+12.11%) on Wednesday
+- GE commercial aerospace thesis proved inflation-resilient: Iran peace deal → lower oil → airline demand recovery drove +2–3% per session while pure-defense names lagged
+- RTX strengthened to +6.27% on NATO rearmament thesis (Patriot/AMRAAM) — backlog diversification independent of Iran catalyst now proven
+- DAL/UAL R:R gate rejection on Thu Jun 18 ($84 entry vs $93 PT = 1.07× R:R) correctly prevented chasing a poor setup; rule worked as designed
+- RTX trailing stop auto-advanced above entry price ($174.75 > $174.65) — position now has zero capital-loss risk on a trailing-stop exit
+
+### What Didn't Work
+- Post-FOMC Warsh hawkish stance triggered sharp defense sector rotation Thu Jun 18: LHX -6.42% intraday, RTX -3.60%; portfolio gave back $2,360 from Wednesday's phase high
+- LHX at -4.43% cumulative with 2.74% GTC stop buffer — fourth consecutive week of sub-par performance; stop trigger on Mon Jun 22 now likely
+- Zero trades placed all week (0/3 slots used) — deployment stuck at 57.4% vs 75–85% target for fourth consecutive week; chronic cash drag persists
+- Phase alpha compressed from +5.75% (Week 8) to +5.07% (Week 9) as S&P outperformed bot by 35bp
+- No airline or fresh-sector entry materialized post-FOMC; LMT deferred; deployment gap unresolved entering Week 10
+
+### Key Lessons
+- Warsh FOMC hawkish signal creates a predictable defense risk-premium compression pattern — rate-sensitive pure-defense names (LHX, RTX) compress; commercial aerospace (GE) is resilient because oil prices drive the thesis, not interest rates; prioritize GE-type multi-driver theses over single-catalyst defense names
+- LHX "slot efficiency" failure is now structural: 4+ weeks, no realized gain, thesis narrowed post-Iran ceasefire — should have been closed proactively once the defense risk-premium catalyst faded (lesson: define a thesis-narrowing trigger, not just a -7% stop)
+- Portfolio peak-to-trough -$2,360 in one session validates the 5% GE trailing stop as the primary portfolio risk-management tool; a 10% trail on GE at this stage would have left far more P&L exposed
+- RTX stop advancing above breakeven ($174.75 > $174.65 entry) is a milestone: trailing stop discipline over 8 weeks has achieved zero-loss protection on this position regardless of exit timing
+- Deployment gap (57% for 4 weeks) requires a strategic reset in Week 10 — passive waiting for "perfect" setups has cost alpha; must act on first 2:1+ R:R catalyst after LHX resolves
+
+### Adjustments for Next Week
+- LHX: let GTC stop manage Mon Jun 22 open; if triggered, immediately scout 4th position — priority: airline (DAL/UAL if PT revised higher), AI/semiconductor, or Materials momentum with 2:1+ R:R; no energy
+- If LHX survives Mon: close manually by Wed Jun 24 if no new catalyst and defense weakness continues; slot efficiency > stop discipline at this stage
+- GE: 5% trail at $346.47 with 3.14% buffer from $357.64 — watch Mon open; new HWM above $364.70 auto-advances stop; no manual action
+- RTX: approaching +15% tighten trigger ($200.85 = $15.25 / +8.2% away); no near-term action; stop already above breakeven ($174.75)
+- Week 10 primary objective: deploy 2–3 positions to restore 75–85% target after LHX resolution; 3 fresh trade slots available; research two candidates in pre-market Monday with documented catalysts
+
+### Overall Grade: C+
+*Week 9 — positive week (+0.73%) but lagged S&P by 35bp (+1.08%). Phase alpha compressed slightly to +5.07% vs S&P. Portfolio reached a new phase high (+12.11%) Wednesday but gave back $2,360 on Thursday's post-FOMC defense rotation. No rule violations; all mechanical stops working correctly. Grade C+ reflects disciplined FOMC positioning and GE/RTX continuing to perform, offset by zero new trades (4th consecutive week below deployment target), LHX deterioration now requiring resolution, and the chronic structural drag of 57% deployment in a rising S&P market.*
+
+---
