@@ -1637,3 +1637,36 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $185.46 | -3.70% | +$1,243.15 (+6.19%) | $174.75 (10% trail, HWM $194.17) |
 
 **Notes:** Day 40, Juneteenth Eve (market closed Fri Jun 19). Portfolio -$1,926.88 (-1.73%) to $109,686.46 as defense sector continued post-FOMC rotation lower. LHX worst performer: -6.42% intraday, now -5.00% cumulative; stop $286.67 only 2.18% buffer from close $293.07 — stop-trigger risk elevated on Mon open. RTX -3.70% intraday but +6.19% cumulative, 5.78% stop buffer intact. GE bucked trend +0.40%, +28.01% cumulative, 5% trail $346.47 with 3.34% buffer. No trades placed; 0/3 Week 9. Cash 42.6%, deployment 57.4% — well below 75–85% target. Market closed tomorrow (Juneteenth). Next session Mon Jun 22: let LHX stop resolve first (if triggered, frees ~$17.6k), then evaluate 4th position to close deployment gap. Phase P&L: +$9,686.46 (+9.69%).
+
+---
+
+## 2026-06-19 — Midday Scan (Day 41, Friday — Juneteenth, markets closed — Week 9 Day 5)
+
+*Markets closed (Juneteenth federal holiday). All prices reflect Jun 18 close. change_today = 0 on all positions.*
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $357.64 | +$5,200.54 | +27.72% | 0% | $346.465 (5% trail) | $364.70 | HOLD |
+| LHX | $308.48 | $294.82 | -$819.45 | -4.43% | 0% | $286.668 (10% trail) | $318.52 | HOLD — ⚠️ 2.74% buffer to stop |
+| RTX | $174.65 | $185.60 | +$1,259.25 | +6.27% | 0% | $174.753 (10% trail) | $194.17 | HOLD |
+
+**Cut losers (-7%):** None. GE cut $260.42; LHX cut $286.88 (current $294.82 is $7.94 / 2.69% above); RTX cut $162.42. No breach.
+**Stop tightening (+15%/+20%):** None. GE already at 5% trail (maximum). LHX -4.43%, RTX +6.27% — both below +15% trigger. No intervention.
+
+**Trailing stop status (live GTC orders):**
+- GE: order 94b1a703 active, 5% trail, HWM $364.70, stop $346.465 (3.14% buffer from $357.64) ✓
+- LHX: order 9e8f2f79 active, 10% trail, HWM $318.52, stop $286.668 (2.74% buffer from $294.82) ⚠️
+- RTX: order 8a67337a active, 10% trail, HWM $194.17, stop $174.753 (5.84% buffer from $185.60) ✓
+
+**Thesis check:**
+- GE: +27.72% cumulative. Commercial aerospace (GEnx engine orders, $210B backlog) + Iran peace → airline demand recovery. 5% trail managing exit. HOLD.
+- LHX: -4.43% cumulative. Perplexity query confirmed **no company-specific negative catalyst** since Jun 18. Q1 2026 strong (record $40.7B backlog, +12% revenue, +33% EPS, raised guidance). Decline is macro/sector — post-FOMC Warsh hawkish shift compressing defense premium. NATO/Ukraine ISR/C2 + missile unit IPO thesis intact. ⚠️ CRITICAL: stop at $286.668, 2.74% buffer — any Mon gap-down risks GTC stop trigger (acceptable per rules; stop system managing). HOLD.
+- RTX: +6.27% cumulative. $6.6B engine contract, $74B backlog, Patriot/AMRAAM NATO demand intact. HOLD.
+
+**Step 6 (research):** Perplexity queried LHX for any new negative catalyst since Jun 18. Result: no company-specific news, no contract cancellations, no earnings warnings. Analyst consensus Buy (10 analysts), PT $360.10. Decline confirmed macro-driven (sector rotation post-FOMC). Thesis intact.
+
+**No action taken.** All three GTC trailing stops active. No Slack sent (midday rule: notify only if action taken).
+
+**Portfolio (Jun 18 closing prices):** $109,750.51 | **Cash:** $46,755.43 (42.6%) | **Long MV:** $62,995.08 (57.4% deployed — below 75–85% target) | **Phase P&L:** +$9,750.51 (+9.75%)
+**Week trades:** 0/3 (Week 9) | **Open positions:** 3/6 | **Daytrade count:** 0
+**⚠️ Key watch Mon Jun 22:** LHX $294.82 with 2.74% stop buffer — gap-down at open could trigger GTC stop ($286.668). If LHX stops out: frees ~$17.7k cash; scout 4th position to restore deployment from 57% to 75–85% target. GE 5% trail buffer 3.14% from HWM — watch for new highs above $364.70.
