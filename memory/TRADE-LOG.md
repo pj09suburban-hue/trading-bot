@@ -1670,3 +1670,16 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (Jun 18 closing prices):** $109,750.51 | **Cash:** $46,755.43 (42.6%) | **Long MV:** $62,995.08 (57.4% deployed — below 75–85% target) | **Phase P&L:** +$9,750.51 (+9.75%)
 **Week trades:** 0/3 (Week 9) | **Open positions:** 3/6 | **Daytrade count:** 0
 **⚠️ Key watch Mon Jun 22:** LHX $294.82 with 2.74% stop buffer — gap-down at open could trigger GTC stop ($286.668). If LHX stops out: frees ~$17.7k cash; scout 4th position to restore deployment from 57% to 75–85% target. GE 5% trail buffer 3.14% from HWM — watch for new highs above $364.70.
+
+---
+
+### Jun 19 — EOD Snapshot (Day 41, Friday — Juneteenth — Week 9 Day 5)
+**Portfolio:** $109,750.51 | **Cash:** $46,755.43 (42.6%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** +$9,750.51 (+9.75%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $357.64 | 0.00% | +$5,200.54 (+27.72%) | $346.47 (5% trail, HWM $364.70) |
+| LHX | 60 | $308.48 | $294.82 | 0.00% | -$819.45 (-4.43%) | $286.67 (10% trail, HWM $318.52) |
+| RTX | 115 | $174.65 | $185.60 | 0.00% | +$1,259.25 (+6.27%) | $174.75 (10% trail, HWM $194.17) |
+
+**Notes:** Day 41, Juneteenth holiday — market closed. All prices reflect Jun 18 official close; change_today = 0 on all positions. Portfolio steady at $109,750.51. No trades placed; 0/3 Week 9. Week 9 ends with zero trades — deployment at 57.4%, well below 75–85% target. LHX most critical watch: -4.43% cumulative, GTC stop $286.67 only 2.74% buffer from $294.82 — any Mon Jun 22 gap-down risks stop trigger (frees ~$17.7k if hit). GE holding +27.72%, 5% trail at $346.47 with 3.14% buffer from HWM $364.70. RTX +6.27%, 10% trail $174.75 with 5.84% buffer. All three GTC trailing stops active. Phase P&L: +$9,750.51 (+9.75%).
