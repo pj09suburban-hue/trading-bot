@@ -2632,3 +2632,16 @@ All 3 GTC trailing stops active and self-managing. ✓
 - Priority 3: If LHX holds and VIX settles → evaluate NOC/GNRC as 4th position to close deployment gap.
 - Wait minimum 15–30 min post-open before any new entry.
 
+### 2026-06-22 Afternoon Addendum (Midday Scan)
+
+**LHX GTC stop triggered 09:41 ET at $286.50 (-7.12%).** Confirmed outcome from pre-market plan — stop system worked as designed.
+
+**NOC entered at $513.30 (40 shares).** Day 1: -2.65% intraday, -1.10% from entry at midday. GTC stop active ($458.622, 9.66% buffer). RBC Outperform upgrade intact.
+
+**Defense sector midday Perplexity query:** No DoD budget cuts, no geopolitical settlement catalyst. Weakness = macro rotation post-tech rout Friday + LHX revenue-miss crowded-trade unwind. RTX: $271B backlog, Jefferies Buy, recent Navy/Army contracts — thesis intact. NOC: B-21/GBSD/Space Force demand non-cyclical — thesis intact. GE: +28.17%, commercial aerospace dominates, not a pure defense play — thesis intact.
+
+**Action taken:** None new. LHX exit was automatic (GTC). All three remaining positions held. All stops active.
+
+**Deployment 60.1% (target 75–85%).** Scout 4th position for Tue Jun 23 pre-market. PMI flash Tue 9:45 ET. PCE/GDP Thu Jun 25 = key macro risk.
+
+---

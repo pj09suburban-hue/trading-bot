@@ -1718,3 +1718,47 @@ No positions yet. Bot launches tomorrow.
 **⚠️ LHX situation at market-open:** LHX opened at ~$287.45 (-6.82% cumulative), only $0.57 above the -7% manual cut threshold ($286.88). GTC stop 9e8f2f79 active at $286.668. Thesis intact (no company-specific negative — broad defense sector rotation post-FOMC). Watching closely; GTC stop managing downside. No manual close taken.
 
 **Portfolio (market-open ~9:40 AM ET):** $108,825 | **Cash:** $26,223 (24.1%) | **Long MV:** $82,601 (75.9% deployed — ✓ in 75–85% band) | **Week 10 trades:** 1/3 | **Positions:** 4/6 | **Daytrade count:** 0
+
+**SELL: LHX 60sh @ $286.50 (GTC trailing stop triggered 09:41 ET)**
+
+| Field | Value |
+|---|---|
+| Date | 2026-06-22 09:41 ET |
+| Ticker | LHX |
+| Side | SELL (GTC trailing stop 9e8f2f79) |
+| Shares | 60 |
+| Exit price | $286.50 |
+| Entry price | $308.4775 |
+| Realized P&L | -$1,318.65 (-7.12%) |
+| Exit reason | GTC trailing stop triggered at open; HWM $318.52, stop $286.668, filled $286.50. Cut at -7% per rule. |
+
+---
+
+## 2026-06-22 — Midday Scan (Day 42, Monday — Week 10 Day 1)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $358.90 | +$5,284.96 | +28.17% | +0.35% | $346.465 (5% trail) | $364.70 | HOLD |
+| NOC | $513.30 | $507.66 | -$225.65 | -1.10% | -2.65% | $458.622 (10% trail) | $509.58 | HOLD |
+| RTX | $174.65 | $182.37 | +$887.80 | +4.42% | -1.74% | $174.753 (10% trail) | $194.17 | HOLD |
+
+**Cut losers (-7%):** None. NOC cut $477.37 (current $507.66 — $30.29 / 6.0% above). RTX cut $162.42. GE cut $260.42.
+**Stop tightening (+15%/+20%):** None. GE already at 5% trail (max). NOC -1.10%, RTX +4.42% — both below +15% trigger.
+
+**Trailing stop status (live GTC orders):**
+- GE: order 94b1a703 active, 5% trail, HWM $364.70, stop $346.465 (3.46% buffer from $358.90) ✓
+- NOC: order 1f9ffa17 active, 10% trail, HWM $509.58, stop $458.622 (9.66% buffer from $507.66) ✓
+- RTX: order 8a67337a active, 10% trail, HWM $194.17, stop $174.753 (4.18% buffer from $182.37) ✓
+
+**Thesis check:**
+- GE: +28.17% cumulative. Commercial aerospace intact. HOLD.
+- NOC: -1.10% (Day 1). B-21/GBSD/Space Force intact. RBC upgraded Outperform today. Intraday -2.65% = macro rotation, no company-specific negative per Perplexity. HOLD.
+- RTX: +4.42% cumulative. $271B backlog, Jefferies Buy, $515M Navy radar contract. Intraday -1.74% = sector rotation, not thesis break. HOLD.
+
+**Sector failure count (defense/industrials):** LHX failed today (1 consecutive). RTX open +4.42%, NOC open Day 1. No 2-consecutive ban triggered.
+
+**Research:** Perplexity queried defense weakness today. No DoD budget cuts, no geopolitical settlement. LHX revenue miss in prior quarter compounded crowded-trade unwind. RTX/NOC fundamentals intact.
+
+**Portfolio (midday):** $108,759.72 | **Cash:** $43,413.38 (39.9%) | **Long MV:** $65,346.34 (60.1% deployed — ⚠️ below 75–85%) | **Day P&L:** -$990.79 (-0.90% vs Jun 18 EOD) | **Phase P&L:** +$8,759.72 (+8.76%)
+**Week 10 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes (LHX exit)**
+**⚠️ Key watch Tue Jun 23:** Deployment 60.1% — scout 4th position. NOC -2.65% intraday Day 1 — watch thesis closely tomorrow. PMI flash Tue. PCE/GDP Thu.
