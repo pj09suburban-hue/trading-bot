@@ -1762,3 +1762,16 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $108,759.72 | **Cash:** $43,413.38 (39.9%) | **Long MV:** $65,346.34 (60.1% deployed — ⚠️ below 75–85%) | **Day P&L:** -$990.79 (-0.90% vs Jun 18 EOD) | **Phase P&L:** +$8,759.72 (+8.76%)
 **Week 10 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes (LHX exit)**
 **⚠️ Key watch Tue Jun 23:** Deployment 60.1% — scout 4th position. NOC -2.65% intraday Day 1 — watch thesis closely tomorrow. PMI flash Tue. PCE/GDP Thu.
+
+---
+
+### Jun 22 — EOD Snapshot (Day 42, Monday — Week 10 Day 1)
+**Portfolio:** $108,629.99 | **Cash:** $43,413.38 (40.0%) | **Day P&L:** -$1,120.52 (-1.02%) | **Phase P&L:** +$8,629.99 (+8.63%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $357.49 | -0.04% | +$5,190.81 (+27.67%) | $346.465 (5% trail, HWM $364.70) |
+| NOC | 40 | $513.30 | $506.93 | -2.80% | -$255.05 (-1.24%) | $459.81 (10% trail, HWM $510.90) |
+| RTX | 115 | $174.65 | $182.40 | -1.72% | +$891.25 (+4.44%) | $174.753 (10% trail, HWM $194.17) |
+
+**Notes:** Day 42. Volatile session — LHX GTC trailing stop triggered at open (09:41 ET, $286.50, -7.12% realized loss, -$1,318.65). Entered NOC 40sh @ $513.30 avg on B-21/GBSD thesis and RBC Outperform upgrade. Net: 4→3 open positions, cash $26k→$44k. Deployment slipped from 76% (post-NOC buy) to 60% after LHX exit. Defense sector broad rotation hurt all three holdings: GE -0.04% (effectively flat), RTX -1.72%, NOC -2.80% on its first day. Day P&L -$1,120.52 driven by LHX realized loss + unrealized declines on RTX/NOC. Phase P&L cools to +$8,629.99 (+8.63%) from +$9,750.51 high. LHX failure = 1 consecutive failed defense trade; 2-consecutive sector ban not triggered. RTX +4.44% cumulative, stop at $174.753 (4.2% buffer from close). NOC manual -7% cut threshold $477.37 — $29.56 below current $506.93. All three GTC trailing stops active. Key watch tomorrow: scout 4th position to restore 75-85% deployment; NOC Day 2 thesis check; PMI flash data.
