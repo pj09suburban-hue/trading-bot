@@ -2572,3 +2572,63 @@ All 3 GTC trailing stops active and self-managing. ✓
 - Week 9: 0/3 trades (correct — hawkish FOMC + holiday prevented forcing trades)
 - **Mon Jun 22 priority order:** 1) Observe LHX stop resolution at open, 2) If LHX stopped → redeploy into best available defense/industrial name with 2:1 R:R, 3) If LHX holds → scan DAL at $77.50 or below for airline entry, 4) Tighten RTX stop to 7% if/when RTX reaches $200.85 (+15% trigger)
 
+---
+
+## 2026-06-22 — Pre-Market Research (Day 42, Monday — Week 10 Day 1)
+
+### Account Snapshot
+- **Equity:** $109,627.43 | **Cash:** $46,755.43 (42.6%) | **Long MV:** $62,872 (57.4% deployed — 17% below 75–85% floor)
+- **Positions:** 3/6 | **Week 10 trades:** 0/3 | **Daytrade count:** 0
+
+| Ticker | Entry | Pre-Mkt | Unreal P&L | % | Stop | Buffer |
+|---|---|---|---|---|---|---|
+| GE | $280.02 | $357.50 | +$5,191.16 | +27.7% | $346.465 (5% trail, HWM $364.70) | 3.09% |
+| LHX | $308.48 | $293.50 | -$898.65 | -4.86% | $286.668 (10% trail, HWM $318.52) | 2.33% ⚠️ |
+| RTX | $174.65 | $185.30 | +$1,224.75 | +6.10% | $174.753 (10% trail, HWM $194.17) | 5.69% |
+
+### Market Context
+- **WTI crude:** ~$75.49–76.15/bbl (CME CLQ6 last $75.49 early Mon); Iran peace-talk progress = near-term demand uncertainty, WTI holding $75 floor
+- **S&P 500 futures:** ES Sep ~7,556–7,566, -0.06% to -0.19% premarket; S&P 500 closed +1.08% on Jun 18 at ~7,500
+- **VIX:** 17.50 (+4.29%) on Mon open vs 16.40–16.78 Jun 18 close — modest elevation; not fear territory but warrants caution
+- **Sector momentum:** Energy +26.5% YTD (thru Mar); S&P 500 Momentum factor +42.48% QTD; Defense/Industrials strong; AI/Tech leading June recovery; S&P 500 +9.08% YTD
+- **Earnings today:** No noteworthy US pre-market earnings (FFIV minor)
+- **Economic calendar:** Clean today. PMI flash Tue Jun 23. Fed bank stress tests Wed Jun 24 (4 PM ET, 32 banks, no capital-requirement change → low market impact). PCE/GDP Thu Jun 25 — KEY RISK EVENT.
+- **Post-holiday:** First session post-3-day weekend; institutional rebalancing risk; wait 15–30 min before any new entry.
+
+### Position News
+- **LHX $293.50 ⚠️:** New $106M counter-drone systems order (positive catalyst). Q1 2026: +15% organic growth, +33% EPS, $23–23.5B guidance reaffirmed. Missile solutions IPO (confidential S-1) intact. $1.25/share dividend payable Jun 26 (~$75 credit). Analyst avg PT $354.75 (17 analysts, 20%+ upside). GTC stop $286.668 at 2.33% buffer — any gap-down at open could trigger. Thesis NOT broken. DO NOT cancel GTC order.
+- **GE $357.50:** Q1 beat ($1.86 EPS vs $1.60 est), orders +87% YoY (Commercial Engine Services), FCF +14% to $1.7B. Full-year guidance $7.10–$7.40, trending high end. Analyst avg PT ~$350 — stock slightly above consensus. GEnx + $275M defense site investment intact. HWM $364.70, 3.09% buffer on 5% trail.
+- **RTX $185.30:** $515M SPY-6 Navy contract (Jun 3), $100M RI facility expansion, $1.02B Army contract (May), Jefferies upgraded to Buy PT $220. $271B backlog, EPS guidance raised to $6.70–$6.90. +15% tightening trigger at ~$200.85 (8.4% away). 5.69% buffer on 10% trail.
+
+### Trade Ideas
+
+**Idea 1 — LHX GTC stop resolution (automatic, no action)**
+- GTC order 9e8f2f79 active at $286.668. Buffer 2.33% from $293.50.
+- If triggered: realized loss ~-$899 (~-7.1% from entry), cash freed ~$17,610, total cash ~$64,365.
+- If triggered → immediate mandate to add 4th position (deployment drops to ~45%).
+- DO NOT cancel. The stop system is working as designed.
+
+**Idea 2 — 4th position: NOC (Northrop Grumman), conditional**
+- Catalyst: B-21 Raider production ramp, Space Force/GBSD nuclear modernization (non-cyclical DoD budget; less FOMC rate-sensitive). Different sub-segment from LHX/RTX.
+- Entry gate: verify live quote; 10% trailing stop; 2:1 R:R required; ~$20k position size (≤20% equity).
+- Execute only after LHX stop resolves AND 15 min post-open confirms no broad defense sector rout.
+
+**Idea 3 — 4th position: GNRC (Generac Holdings), conditional**
+- Catalyst: Supply agreement with hyperscale data center operator; AI power demand boom uniquely positioned; sector diversification away from defense.
+- Entry gate: same — live quote, 2:1 R:R, 10% trailing stop, catalyst verified at open.
+- Risk: rate-sensitive industrial, gas price exposure.
+
+### Risk Factors
+1. **LHX stop 2.33% buffer:** Any premarket defense gap-down triggers automatic exit. Acceptable outcome — GTC system handles it.
+2. **PCE Thu Jun 25:** Above-forecast print → Warsh hike probability rises → broad pressure. Defense less affected but not immune.
+3. **VIX elevated at 17.50:** First day back; institutional rebalancing in progress. Wait minimum 15–30 min before new entry.
+4. **GE at/above analyst consensus PT:** Limited near-term upside per sell-side ~$350; 5% trail managing exit ceiling.
+5. **Deployment gap pressure:** 57.4% vs 75–85% target; urgency to add 4th position this week — but patience > forcing into volatile open.
+
+### Decision
+**TRADE-conditional** — default HOLD until open resolves
+- Priority 1: Let LHX stop resolve at open. DO NOT cancel GTC order.
+- Priority 2: If LHX stops out → verify NOC or GNRC quote immediately; if 2:1 R:R passes, execute (Week 10 trade 1 of 3).
+- Priority 3: If LHX holds and VIX settles → evaluate NOC/GNRC as 4th position to close deployment gap.
+- Wait minimum 15–30 min post-open before any new entry.
+
