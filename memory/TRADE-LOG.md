@@ -1683,3 +1683,38 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $185.60 | 0.00% | +$1,259.25 (+6.27%) | $174.75 (10% trail, HWM $194.17) |
 
 **Notes:** Day 41, Juneteenth holiday — market closed. All prices reflect Jun 18 official close; change_today = 0 on all positions. Portfolio steady at $109,750.51. No trades placed; 0/3 Week 9. Week 9 ends with zero trades — deployment at 57.4%, well below 75–85% target. LHX most critical watch: -4.43% cumulative, GTC stop $286.67 only 2.74% buffer from $294.82 — any Mon Jun 22 gap-down risks stop trigger (frees ~$17.7k if hit). GE holding +27.72%, 5% trail at $346.47 with 3.14% buffer from HWM $364.70. RTX +6.27%, 10% trail $174.75 with 5.84% buffer. All three GTC trailing stops active. Phase P&L: +$9,750.51 (+9.75%).
+
+---
+
+## 2026-06-22 — Market-Open Trades (Day 42, Monday — Week 10 Day 1)
+
+**BUY: NOC 40sh @ $513.30 avg**
+
+| Field | Value |
+|---|---|
+| Date | 2026-06-22 |
+| Ticker | NOC |
+| Side | BUY |
+| Shares | 40 |
+| Entry price | $513.30 (avg fill; partial fills $515.28→$513.52) |
+| Cost basis | $20,532.05 (18.9% of $108,825 equity) |
+| Stop level | $457.22 (10% trail GTC, order 1f9ffa17, HWM $508.03 at placement) |
+| Manual -7% cut | $477.37 (if NOC falls here, close before GTC stop) |
+| Thesis | B-21 Raider production ramp; Space Force/GBSD nuclear modernization (non-cyclical DoD budget, less FOMC rate-sensitive); record $95.61B backlog; B-21 economics improved. RBC Capital upgraded to Outperform today. Sector diversification from LHX/RTX (different sub-segment: strategic programs vs. sensors/missiles). |
+| Target | $615.96 (+20% from $513.30) |
+| R:R | 2:1 (20% target / 10% stop) |
+
+**Gate checks (all passed):**
+- Positions after fill: 3→4 ≤ 6 ✓
+- Week 10 trades: 0→1 ≤ 3 ✓
+- Cost $20,532 = 18.9% of $108,825 equity ✓
+- Cash $46,755 available >> $20,532 ✓
+- PDT daytrade count: 0/3 ✓
+- Catalyst documented in 2026-06-22 RESEARCH-LOG ✓
+- Stock (not option) ✓
+
+**Trailing stop (GTC):** Order 1f9ffa17 active, 10% trail, HWM $508.03, stop $457.22
+
+**⚠️ LHX situation at market-open:** LHX opened at ~$287.45 (-6.82% cumulative), only $0.57 above the -7% manual cut threshold ($286.88). GTC stop 9e8f2f79 active at $286.668. Thesis intact (no company-specific negative — broad defense sector rotation post-FOMC). Watching closely; GTC stop managing downside. No manual close taken.
+
+**Portfolio (market-open ~9:40 AM ET):** $108,825 | **Cash:** $26,223 (24.1%) | **Long MV:** $82,601 (75.9% deployed — ✓ in 75–85% band) | **Week 10 trades:** 1/3 | **Positions:** 4/6 | **Daytrade count:** 0
