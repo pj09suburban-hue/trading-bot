@@ -1775,3 +1775,16 @@ No positions yet. Bot launches tomorrow.
 | RTX | 115 | $174.65 | $182.40 | -1.72% | +$891.25 (+4.44%) | $174.753 (10% trail, HWM $194.17) |
 
 **Notes:** Day 42. Volatile session — LHX GTC trailing stop triggered at open (09:41 ET, $286.50, -7.12% realized loss, -$1,318.65). Entered NOC 40sh @ $513.30 avg on B-21/GBSD thesis and RBC Outperform upgrade. Net: 4→3 open positions, cash $26k→$44k. Deployment slipped from 76% (post-NOC buy) to 60% after LHX exit. Defense sector broad rotation hurt all three holdings: GE -0.04% (effectively flat), RTX -1.72%, NOC -2.80% on its first day. Day P&L -$1,120.52 driven by LHX realized loss + unrealized declines on RTX/NOC. Phase P&L cools to +$8,629.99 (+8.63%) from +$9,750.51 high. LHX failure = 1 consecutive failed defense trade; 2-consecutive sector ban not triggered. RTX +4.44% cumulative, stop at $174.753 (4.2% buffer from close). NOC manual -7% cut threshold $477.37 — $29.56 below current $506.93. All three GTC trailing stops active. Key watch tomorrow: scout 4th position to restore 75-85% deployment; NOC Day 2 thesis check; PMI flash data.
+
+---
+
+### Jun 23 — EOD Snapshot (Day 43, Tuesday — Week 10 Day 2)
+**Portfolio:** $109,101.40 | **Cash:** $43,413.36 (39.8%) | **Day P&L:** +$471.41 (+0.43%) | **Phase P&L:** +$9,101.40 (+9.10%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $355.98 | +0.24% | +$5,089.32 (+27.13%) | $346.465 (5% trail, HWM $364.70) |
+| NOC | 40 | $513.30 | $513.50 | +1.22% | +$7.95 (+0.04%) | $467.163 (10% trail, HWM $519.07) |
+| RTX | 115 | $174.65 | $185.18 | +1.84% | +$1,210.95 (+6.03%) | $174.753 (10% trail, HWM $194.17) |
+
+**Notes:** Day 43, Tuesday. Recovery session — all three positions gained. GE +0.24%, RTX +1.84%, NOC +1.22% (Day 2, recovered from Jun 22 close $506.93 to $513.50, cumulative +0.04%). Phase P&L climbs back to +$9,101.40 (+9.10%) from Jun 22 low of +$8,629.99. No trades today; 1/3 Week 10. Deployment 60.2% — below 75–85% target; 4th position needed. NOC HWM updated to $519.07, stop $467.163 (9.0% buffer). RTX stop $174.753 (5.6% buffer, HWM $194.17 unchanged). GE stop $346.465 (2.7% buffer from $355.98, HWM $364.70 unchanged — tight but rule-compliant). LHX failure = 1 consecutive failed defense trade; no 2-consecutive sector ban yet. Key watch Wed Jun 24: scout 4th position to restore 75–85% deployment; NOC Day 3 thesis check; Thursday PCE/GDP macro risk.
