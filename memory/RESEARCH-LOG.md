@@ -2645,3 +2645,60 @@ All 3 GTC trailing stops active and self-managing. ✓
 **Deployment 60.1% (target 75–85%).** Scout 4th position for Tue Jun 23 pre-market. PMI flash Tue 9:45 ET. PCE/GDP Thu Jun 25 = key macro risk.
 
 ---
+
+## 2026-06-23 — Pre-Market Research (Day 43, Tuesday — Week 10 Day 2)
+
+### Account Snapshot
+- **Equity:** $108,210.41 | **Cash:** $43,413.36 (40.1%) | **Long MV:** $64,797.05 (59.9% deployed — ⚠️ 15% below 75–85% floor)
+- **Positions:** 3/6 | **Week 10 trades:** 1/3 | **Daytrade count:** 0
+
+| Ticker | Entry | Pre-Mkt | Unreal P&L | % | Stop | Buffer |
+|---|---|---|---|---|---|---|
+| GE | $280.02 | $351.50 | +$4,789.16 | +25.5% | $346.465 (5% trail, HWM $364.70) | **1.43% ⚠️ CRITICAL** |
+| NOC | $513.30 | $508.00 | -$212.05 | -1.03% | $459.81 (10% trail, HWM $510.90) | 9.49% |
+| RTX | $174.65 | $181.97 | +$841.80 | +4.19% | $174.753 (10% trail, HWM $194.17) | 3.97% |
+
+### Market Context
+- **WTI crude:** $73.46/bbl (-0.54% today, July contract -1.92% to 3.5-month low). Iran peace-talk speculation pressuring oil.
+- **S&P 500 futures:** ES 7,549.50 (−0.28%, −21.25 pts). Bloomberg: "Tech Stock Selloff Spreads to Europe." S&P closed −0.37% Mon.
+- **VIX:** 17.46 (+4.05% today, range 16.72–17.67); elevated but not panic territory.
+- **Sector momentum (trailing 6-month):** Energy +35.3% | IT +18.7% | Materials +13.6% | Industrials +13.1% | Staples +9.9% | Comm Svcs +9.0% | Financials −1.0% | Health Care −4.5%
+- **Earnings today:** FDX (pre-market, EPS $3.29 est, Rev $24.01B) | CCL (midday, EPS $0.34 est) | MU (AMC). FDX = economic health proxy; MU = AI data center demand.
+- **Economic calendar:** US Flash PMI (Services consensus 51.0, prior 50.7) at 9:45 AM ET — key today. UK PMI flash weak at 48.5 composite (vs 51.6 est). PCE (May) Thursday Jun 25 — inflation risk. No FOMC/CPI/GDP today.
+- **Dominant theme:** AI build-out boom ($725B capex from big 4) driving market higher; tech selloff today = tactical rotation, not structural break.
+
+### Position News
+- **GE $351.50 ⚠️ TIGHT STOP:** Q1 beat ($1.86 EPS vs $1.60, +25% rev $12.39B); full-year guidance trending high end. Street consensus $350 (stock above). Model target $405. $275M defense site investment. No company-specific negative today. **Buffer 1.43% — gap-down ≥1.5% at open triggers GTC stop at $346.465; would realize +$4,789 (+25.5%) gain.**
+- **NOC $508.00 (Day 2):** TradeSmith "Red zone" 2+ months. Stock −11.2% from Jan 1 ($570→$507). Q1: EPS $6.14 beat, FCF burn $1.82B negative. Guidance reaffirmed. Morgan Stanley upgraded sector "Attractive" PT $625 citing $1T defense budget. Q2 earnings Jul 21. Pre-market +1.01% (+$5.11 extended). B-21/GBSD/Space Force thesis intact. Manual -7% cut threshold $477.37 (NOC at $508 = $30.63 buffer).
+- **RTX $181.97:** Pre-market +0.43%, resilient vs. broad selloff. Jefferies Buy PT $220, $271B backlog, EPS guidance $6.70–$6.90. Thesis intact. +15% trigger at $200.85 (10.4% away). Stop buffer 3.97%.
+
+### Trade Ideas
+
+**Idea 1 — FDX (FedEx) post-earnings, conditional**
+- Catalyst: Pre-market earnings. If beats EPS $3.29 and gives bullish guidance → logistics/industrial demand confirmed. Different sector from defense — reduces concentration risk.
+- Entry gate: Earnings beat required. Buy 15–30 min post-open after gap settles. ~35sh (~$20k at ~$330 est); 10% trail; 2:1 R:R target. Week 10 trade 2 of 3.
+- Risk: Sell-the-news on beat; broader selloff drags; earnings-day vol.
+
+**Idea 2 — MU (Micron) setup for Wednesday**
+- Catalyst: AMC tonight. HBM chip demand for AI data centers — strongest structural theme. If beats → entry opportunity Wednesday pre-market.
+- Entry gate: Tonight's print; evaluate Wednesday. Completely different sector — AI/semis diversification.
+
+**Idea 3 — Scout and hold**
+- Default: no new entry until open resolves and PMI data confirms direction.
+
+### Risk Factors
+1. **GE 1.43% buffer critical:** S&P futures −0.28% + VIX +4% = gap-down risk. If triggered → realizes +$4,789 gain but deployment drops to ~43%; need to redeploy immediately.
+2. **Tech selloff breadth:** "Tech Stock Selloff Spreads to Europe" — broad selling could hit industrials/defense indiscriminately.
+3. **PMI flash 9:45 ET:** Sub-51.0 = further selling; ≥51.0 = positive for industrials; both determine whether to buy 4th position today.
+4. **PCE Thu Jun 25:** Hotter print → Warsh rate hike risk → broad pressure across positions.
+5. **NOC thesis concern:** TradeSmith Red Zone + −11.2% YTD + FCF burn raises question of stock near consensus "fair value" ceiling. Thesis still intact but shorter leash than GE.
+6. **Deployment gap vs. patience:** 59.9% vs 75–85% target — pressure to add, but bad market day is not the time to force entries.
+
+### Decision
+**HOLD — await open confirmation + PMI print**
+- Priority 1: Watch GE at open. 1.43% buffer = GTC stop likely triggers on gap-down. DO NOT cancel stop.
+- Priority 2: If GE stop triggers → cash freed ~$23.6k; evaluate FDX (if beat confirmed) or MU setup for Wednesday as 4th position.
+- Priority 3: If GE holds + PMI ≥51.0 → evaluate FDX or another name to close deployment gap.
+- Priority 4: If market selloff accelerates → stay in HOLD, protect existing positions, scout MU for Wednesday.
+
+---
