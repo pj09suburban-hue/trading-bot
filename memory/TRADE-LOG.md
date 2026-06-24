@@ -1822,3 +1822,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $109,450.98 | **Cash:** $43,413.36 (39.7%) | **Long MV:** $66,037.62 (60.3% deployed — ⚠️ below 75–85% target) | **Day P&L:** +$349.58 (+0.32%) | **Phase P&L:** +$9,450.98 (+9.45%)
 **Week 10 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **No Slack sent.**
 **Key watch Thu Jun 25:** PCE (May) at 8:30 AM ET — forecast +4.0% YoY (vs prior 3.8%). Hot print = rate-hike risk, broad selloff, all positions exposed. If benign (≤4.0%), scout energy (XOM/CVX/VLO) as 4th position to restore 75–85% deployment. GE 5% trail buffer now 4.10% from HWM — any gap-up above $369.25 sets new HWM, no action needed; any gap-down risk watch at open.
+
+---
+
+### Jun 24 — EOD Snapshot (Day 44, Wednesday — Week 10 Day 3)
+**Portfolio:** $109,826.64 | **Cash:** $43,413.36 (39.5%) | **Day P&L:** +$566.14 (+0.52%) | **Phase P&L:** +$9,826.64 (+9.83%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $366.655 | +2.86% | +$5,804.55 (+30.94%) | $350.7875 (5% trail, HWM $369.25) |
+| NOC | 40 | $513.30 | $509.525 | -0.72% | -$151.05 (-0.74%) | $467.163 (10% trail, HWM $519.07) |
+| RTX | 115 | $174.65 | $186.83 | +0.24% | +$1,400.70 (+6.97%) | $174.753 (10% trail, HWM $194.17) |
+
+**Notes:** Day 44, Wednesday. No trades (Week 10 at 1/3). GE had the strongest session: +2.86% intraday, new HWM at $369.25, 5% trailing stop ratcheted to $350.7875 (4.7% buffer from close). NOC -0.72% (Day 3 of pullback), still comfortably above manual -7% cut at $477.37 and $22+ above the 10% trailing stop at $467.163; thesis remains intact (record $95.61B backlog, RBC Outperform, no company-specific negative). RTX +0.24%, consolidating above $186; stop $174.753 is 6.5% below current price. Day P&L +$566.14 (+0.52%) driven primarily by GE (+$682 intraday) partially offset by NOC (-$148). Phase P&L climbs to +$9,826.64 (+9.83%). Deployment 60.5% — below 75–85% target, but PCE (May) prints tomorrow at 8:30 AM ET (forecast +4.0% YoY); will scout 4th position only after data confirms benign macro. All three GTC trailing stops active and confirmed live.
+
+**Portfolio (EOD):** $109,826.64 | **Cash:** $43,413.36 (39.5%) | **Long MV:** $66,413.28 (60.5% deployed — ⚠️ below 75–85%) | **Day P&L:** +$566.14 (+0.52%) | **Phase P&L:** +$9,826.64 (+9.83%)
+**Week 10 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**⚠️ Key watch Thu Jun 25:** PCE (May) 8:30 AM ET (forecast +4.0% YoY). Hot print = broad selloff risk; benign print = green light to scout 4th position (energy: XOM/CVX/VLO) to restore 75–85% deployment. GE 5% trail buffer 4.7% from HWM — watch for new high at open.
