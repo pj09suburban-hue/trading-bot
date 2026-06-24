@@ -2757,3 +2757,9 @@ All 3 GTC trailing stops active and self-managing. ✓
 - Priority 2: If GE holds and futures stabilize by 9:45 AM ET → observe NOC/RTX thesis health, no new entry today.
 - Priority 3: Thursday post-PCE print → if benign (≤4.0%), scout energy (XOM, CVX, VLO) as 4th position. Week 10 has 2 trades remaining.
 - Priority 4: No trade today regardless of market direction — PCE risk too significant to add exposure the day before.
+
+### June 24 — Afternoon Addendum (Midday Scan)
+- **GE +2.62% intraday ($365.79):** New HWM $369.25 (up from $364.70). GTC stop auto-ratcheted to $350.79 (4.10% buffer). +30.63% cumulative. No new negative catalyst. 5% trail managing exit discipline. Making new highs despite VIX 19+ environment. HOLD.
+- **NOC -1.71% intraday ($504.46):** Perplexity confirmed no company-specific negative — guidance reaffirmed, RBC upgraded Outperform, record $95.61B backlog. Pullback is macro/sector rotation (VIX 19+, broad defense weakness). Thesis intact. Buffer 7.40% to stop $467.163. HOLD.
+- **RTX -0.37% intraday ($185.705):** Slight drift with market. Defense thesis intact. Buffer 5.90% to stop $174.753. HOLD.
+- **No action taken at midday.** No Slack sent.
