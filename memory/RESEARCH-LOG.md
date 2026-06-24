@@ -2702,3 +2702,58 @@ All 3 GTC trailing stops active and self-managing. ✓
 - Priority 4: If market selloff accelerates → stay in HOLD, protect existing positions, scout MU for Wednesday.
 
 ---
+
+---
+
+## 2026-06-24 — Pre-Market Research (Day 44, Wednesday — Week 10 Day 3)
+
+### Account Snapshot
+- **Equity:** $109,255.60 | **Cash:** $43,413.36 (39.7%) | **Long MV:** $65,842.24 (60.3% deployed — ⚠️ 15% below 75–85% floor)
+- **Positions:** 3/6 | **Week 10 trades:** 1/3 | **Daytrade count:** 0
+
+| Ticker | Entry | Last Close | Unreal P&L | % | Stop | Buffer |
+|---|---|---|---|---|---|---|
+| GE | $280.02 | $356.47 | +$5,122.15 | +27.30% | $346.465 (5% trail, HWM $364.70) | **2.81% ⚠️ TIGHT** |
+| NOC | $513.30 | $513.50 | +$7.95 | +0.04% | $467.163 (10% trail, HWM $519.07) | 9.02% |
+| RTX | $174.65 | $186.25 | +$1,334.00 | +6.64% | $174.753 (10% trail, HWM $194.17) | 6.17% |
+
+### Market Context
+- **Oil:** WTI ~$74/bbl (Jun 23 open), Brent ~$78/bbl; Iran peace-talk progress pressuring crude (US-Iran Strait of Hormuz deal speculation). Oil -4%+ in a single recent session on diplomacy headlines.
+- **S&P 500 futures:** ES roughly flat (+0.10% per YF 7:00 AM EDT, 7,445). But Nasdaq futures -2.47%; tech selloff spreading to Europe. S&P closed -1.44% Tuesday — broad risk-off pressure.
+- **VIX:** ~19.27–19.36 today (spiked +12.79% Tuesday from 17.28 to 19.49 close). Elevated vs. recent range; caution warranted.
+- **Earnings today:** MU (Micron) pre-market — EPS estimate $19.92, EPS surprise **-13.18% miss**, revenue surprise +4.60% beat. Mixed result; EPS miss = near-term pressure on AI/chip narrative. PAYX (Paychex) $1.31 est. No defense/industrials reports.
+- **Economic calendar today:** MBA Mortgage (7:00 AM ET). **No major macroeconomic releases today.** TOMORROW: **PCE (May) at 8:30 AM ET** — forecast +4.0% YoY vs. prior 3.8% (+20bp acceleration). This is the critical risk for Thursday.
+- **Dominant theme:** AI build-out boom ($725B capex, Google/Amazon/MSFT/Meta) anchoring bull case; NVDA shareholders meeting today. Tech selloff = valuation compression in AI leaders after big run, not structural break per analysts. But MU EPS miss adds near-term doubt.
+- **Sector momentum (trailing 6-month):** Energy +35.3% | IT +18.7% | Materials +13.6% | Industrials +13.1% | Comm Svcs +9.0% | Financials -1.0% | Health Care -4.5%
+
+### Position News
+- **GE $356.47 ⚠️ TIGHT STOP:** No company-specific negative today. Full-year guidance $7.10–$7.40 maintained, Zacks #1 Strong Buy, 14% 2026 sales growth forecast. Buffer 2.81% — a gap-down ≥2.9% at open triggers GTC stop at $346.465 and realizes +$5,122 (+27.3%) gain. Aerospace/defense not in tech selloff. Monitor closely at open.
+- **NOC $513.50 (Day 3):** No specific Jun 24 news. B-21/GBSD/Space Force thesis intact. Morgan Stanley "Attractive" PT $625. Stop 9.02% buffer — comfortable. Manual -7% cut $477.37 ($36.13 or 7.0% below).
+- **RTX $186.25:** Jefferies Buy PT $220, $271B backlog, 2026 EPS guidance $6.70–$6.90. Stop 6.17% buffer — adequate. +15% tighten trigger at $200.85 (still 7.8% away). Thesis intact.
+
+### Trade Ideas
+
+**Idea 1 — Scout Energy for 4th position (POST-PCE, Thursday)**
+- Energy leading YTD (+23.3% 6-month), Iran/geopolitical premium returning as supply concern. XOM, CVX, or VLO are candidates.
+- Risk: Iran peace-talk deal would crater WTI; wait for PCE Thursday to clear macro uncertainty first. Entry window: Thu Jun 25 afternoon if PCE benign.
+- Stop: 10% trail. Target: 2:1 R:R minimum.
+
+**Idea 2 — MU (Micron) — skip today**
+- MU reported today: EPS miss (-13.18%), revenue beat (+4.60%). Mixed — stock likely gaps lower at open. Not an entry while EPS surprised negatively. Watch for re-set over coming sessions if AI demand narrative reasserts.
+
+**Idea 3 — Hold cash through PCE**
+- Default: preserve optionality. PCE forecast +4.0% (vs. 3.8% prior) = potential Warsh rate-hike risk if hotter. Entering a 4th position today into elevated VIX, tech selloff, day-before-PCE is poor R:R. One day of patience preserves full Week 10 capacity (2 trades remaining).
+
+### Risk Factors
+1. **PCE tomorrow Jun 25:** Forecast 4.0% (accelerating from 3.8%). Hot print → Warsh rate hike fears → broad equities hit, all three positions vulnerable, especially GE (tight stop).
+2. **GE 2.81% buffer:** Flat futures still carry gap risk. If market opens weak, GE stop triggers. Net outcome positive (realizes +$5,122 gain) but drops deployment to ~39% — more scout urgency.
+3. **Tech selloff contagion:** Nasdaq -2.47% futures; if broad selling bleeds into industrials/defense, all three positions could weaken simultaneously. VIX 19+ indicates risk-off is real.
+4. **MU EPS miss:** Undercuts AI capex confidence narrative near-term. Could weigh on sentiment for GE (aerospace overlap with AI data center infrastructure spending).
+5. **Oil price risk (Iran):** Energy sector top performer YTD, but Iran peace deal = supply shock in reverse. Any entry into energy names requires confirming oil price direction first.
+
+### Decision
+**HOLD — patience > forcing a 4th position pre-PCE**
+- Priority 1: Watch GE at open. 2.81% buffer is tight — if gap-down triggers stop, do NOT re-enter same day. Evaluate energy or materials for replacement post-PCE.
+- Priority 2: If GE holds and futures stabilize by 9:45 AM ET → observe NOC/RTX thesis health, no new entry today.
+- Priority 3: Thursday post-PCE print → if benign (≤4.0%), scout energy (XOM, CVX, VLO) as 4th position. Week 10 has 2 trades remaining.
+- Priority 4: No trade today regardless of market direction — PCE risk too significant to add exposure the day before.
