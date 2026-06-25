@@ -2822,3 +2822,11 @@ All 3 GTC trailing stops active and self-managing. ✓
 - **GE:** Watch at open. If gaps above $369.25 → stop auto-ratchets (bullish). If market weak → monitor for stop proximity. Do NOT manually adjust stop.
 - **NOC:** Monitor Day 4. If drops to $490 area, reassess thesis vs -7% cut rule at $477.37.
 - **RTX:** No action. Comfortable.
+
+### Afternoon Addendum (Midday Scan)
+- **PCE May 2026 (actual):** Core PCE 3.40% YoY — in-line with 3.4% forecast; up from 3.3% April. Trend rising. Market reaction: mildly negative, September rate hike probability elevated. No GDP revision released today (scheduled release was incorrect — next GDP update later).
+- **FCX quote:** $62.55 (down -13.5% from $72.28 ATH Jun 17). 3-day decline streak ($69.21 → $64.40 → $61.84 → $62.55). GDP condition not met (last Q1 = 1.3%, below 1.5% gate). FCX PASS — no entry.
+- **GE:** Made new ATH $379.67 intraday. 5% trailing stop auto-ratcheted to $360.69 (from $350.79). +33.35% cumulative.
+- **NOC:** Recovering today +0.35% ($504.79). Day 4 pullback stabilizing. Thesis intact.
+- **RTX:** +0.78% today ($186.50). Comfortable.
+- **Decision: No new trades today.** PCE in-line but GDP gate not met; FCX in downtrend. Deployment 60.6% — scout 4th position next week with fresh momentum setup.

@@ -1839,3 +1839,39 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (EOD):** $109,826.64 | **Cash:** $43,413.36 (39.5%) | **Long MV:** $66,413.28 (60.5% deployed — ⚠️ below 75–85%) | **Day P&L:** +$566.14 (+0.52%) | **Phase P&L:** +$9,826.64 (+9.83%)
 **Week 10 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **⚠️ Key watch Thu Jun 25:** PCE (May) 8:30 AM ET (forecast +4.0% YoY). Hot print = broad selloff risk; benign print = green light to scout 4th position (energy: XOM/CVX/VLO) to restore 75–85% deployment. GE 5% trail buffer 4.7% from HWM — watch for new high at open.
+
+---
+
+## 2026-06-25 — Midday Scan (Day 45, Thursday — Week 10 Day 4)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $373.415 | +$6,257.47 | +33.35% | +2.06% | $360.6865 (5% trail) | $379.67 | 3.41% | HOLD |
+| NOC | $513.30 | $504.79 | -$340.45 | -1.66% | +0.35% | $467.163 (10% trail) | $519.07 | 7.45% | HOLD |
+| RTX | $174.65 | $186.50 | +$1,362.75 | +6.79% | +0.78% | $174.753 (10% trail) | $194.17 | 6.30% | HOLD |
+
+**Cut losers (-7%):** None. GE cut $260.42, NOC cut $477.37 (current $504.79 — $27.42 / 5.4% above), RTX cut $162.42. All clear.
+
+**Stop tightening (+15%/+20%):** None. GE already at 5% trail (max; +20% tighten already applied). NOC -1.66% and RTX +6.79% both below +15% threshold. No manual action.
+
+**GE stop auto-updated:** GTC trailing stop 94b1a703 ratcheted as GE made new all-time high $379.67 today. Stop $350.7875 → $360.6865 (from $369.25 HWM → $379.67 HWM). Auto-ratchet working correctly — no manual intervention needed. Buffer now 3.41% from current $373.42.
+
+**Trailing stop status (live GTC orders):**
+- GE: order 94b1a703 active, 5% trail, HWM $379.67, stop $360.6865 (3.41% buffer from $373.42) ✓
+- NOC: order 1f9ffa17 active, 10% trail, HWM $519.07, stop $467.163 (7.45% buffer from $504.79) ✓
+- RTX: order 8a67337a active, 10% trail, HWM $194.17, stop $174.753 (6.30% buffer from $186.50) ✓
+
+**Thesis check:**
+- GE: +33.35%, intraday +2.06%, new ATH $379.67. Commercial aerospace thesis intact (FY26 guidance maintained, $210B+ backlog). 5% stop auto-ratcheting correctly. HOLD.
+- NOC: -1.66%, recovering today +0.35% (Day 4 from $519.07 HWM). No company-specific negative today. Record $95.61B backlog, RBC Outperform, guidance reaffirmed. Pullback macro-driven. Thesis intact. HOLD.
+- RTX: +6.79%, intraday +0.78%. $271B backlog, Jefferies Buy, defense procurement intact. Thesis intact. HOLD.
+
+**PCE data (Step 6):** Core PCE May 2026 printed 3.40% YoY (in-line with 3.4% forecast; up from 3.3% April). Not hotter than feared, but trend rising. Market reaction mildly negative — September Fed rate hike probability elevated. No GDP revision released today.
+
+**FCX 4th position evaluated:** PASS — FCX down 13.5% from $72.28 high (Jun 17) to $62.55 today; 3-consecutive day decline ($69.21 → $64.40 → $61.84 → $62.55). Pre-market entry condition required "benign PCE" (met: 3.4% ≤ 4.0%) AND "GDP ≥ 1.5%" (not met: no GDP release today, last known Q1 = 1.3%). Buying into a falling stock contradicts momentum discipline. No entry. Deployment remains 60.6% — below 75–85% target but no suitable setup available today.
+
+**No action taken.** All three GTC trailing stops active. No Slack sent (no action per rules).
+
+**Portfolio (midday):** $110,058.42 | **Cash:** $43,413.36 (39.5%) | **Long MV:** $66,645.06 (60.6% deployed — ⚠️ below 75–85%) | **Day P&L:** +$728.80 (+0.67%) | **Phase P&L:** +$10,058.42 (+10.06%)
+**Week 10 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **No Slack sent.**
+**Key watch Fri Jun 25 EOD / next week:** GE at ATH $379.67, 5% stop buffer now tight (3.41%). FCX re-evaluate only if recovers above $64 with momentum. Deploy 4th position next week if suitable momentum setup emerges. NOC watch: if drops below $490 intraday, approach -7% cut at $477.37.
