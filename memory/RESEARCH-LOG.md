@@ -2763,3 +2763,62 @@ All 3 GTC trailing stops active and self-managing. ✓
 - **NOC -1.71% intraday ($504.46):** Perplexity confirmed no company-specific negative — guidance reaffirmed, RBC upgraded Outperform, record $95.61B backlog. Pullback is macro/sector rotation (VIX 19+, broad defense weakness). Thesis intact. Buffer 7.40% to stop $467.163. HOLD.
 - **RTX -0.37% intraday ($185.705):** Slight drift with market. Defense thesis intact. Buffer 5.90% to stop $174.753. HOLD.
 - **No action taken at midday.** No Slack sent.
+
+---
+
+## 2026-06-25 — Pre-Market Research (Day 45, Thursday — Week 10 Day 4)
+
+### Account Snapshot
+- **Equity:** $109,222.27 | **Cash:** $43,413.36 (39.7%) | **Long MV:** $65,808.91 (60.2% deployed ⚠️ below 75–85%)
+- **Open positions:** 3/6 | **Week 10 trades:** 1/3 (2 remaining) | **Daytrade count:** 0
+
+| Symbol | Shares | Entry | Pre-Mkt | Unreal P&L | % | Stop | HWM | Buffer |
+|--------|--------|-------|---------|------------|---|------|-----|--------|
+| GE | 67 | $280.02 | $365.88 | +$5,752.62 | +30.66% | $350.79 (5% trail) | $369.25 | 4.07% |
+| NOC | 40 | $513.30 | $501.16 | -$485.65 | -2.37% | $467.16 (10% trail) | $519.07 | 6.80% |
+| RTX | 115 | $174.65 | $184.77 | +$1,163.80 | +5.79% | $174.75 (10% trail) | $194.17 | 5.42% |
+
+### Market Context
+- **Oil:** WTI ~$69.35/bbl (range $69.07–$70.21 today), Brent higher. Down from $76 mid-June driven by US-Iran diplomatic progress toward Strait of Hormuz deal. Oil -4% in recent session; energy tailwind is fading.
+- **S&P 500 futures:** +0.46% (~7,471.75). Nasdaq 100 futures +1.15%. Driven by Micron massive earnings beat (see below). Pre-PCE caution likely limits upside.
+- **VIX:** 18.05 (-3.11% from 18.63 yesterday, was 19.49 Tuesday). Declining = risk-off dissipating. Still elevated vs June lows (~16-17), caution warranted ahead of 8:30 data.
+- **KEY EVENT — PCE (May) at 8:30 AM ET today:** Forecast 4.1% YoY (vs 3.8% April) — highest since April 2023. Core PCE forecast 3.3-3.45% YoY. GDP Q1 revision ALSO at 8:30 AM ET. DUAL macro catalyst. Data has NOT printed yet at time of this research.
+- **Micron (MU) earnings — massive beat (reported after close Jun 24):** Q3 adj EPS $25.11 vs est $20.49 (+22.5% beat); Q3 adj revenue $41.46B vs est $35.69B (+16% beat); Q4 guidance $49-51B vs est $43.24B (massive raise); Q4 gross margin guided 86%. This is driving Nasdaq +1.15% today. AI capex narrative ($725B from GOOG/AMZN/MSFT/META in 2026) fully back.
+- **Today's earnings (BMO):** DRI (slight miss, $3.66 vs $3.67 est), SNX (beat, $4.85 vs $4.18 est, revenue $19.6B vs $17.0B), AYI (in-line), CMC (in-line), WGO (miss). AVAV (AeroVironment) defense drone — results expected today, could move defense sentiment.
+- **Sector momentum (6-month trailing):** Energy +35.3% | IT +18.7% | Materials +13.6% | Industrials +13.1% | Comm Svcs +9.0% | Financials -1.0% | Health Care -4.5%
+
+### Position News
+- **GE $365.88 (+30.66%):** No new company-specific negative. Wolfspeed MOU (Jun 8) for SiC power modules. HWM $369.25, 5% stop $350.79 (4.07% buffer from current). 52-week range $243.34–$369.25 — at all-time highs. Commercial aerospace thesis intact, FY26 guidance maintained. Key: if PCE benign and market opens positive, GE could break $369.25 → stop auto-ratchets higher. If PCE hot and broad selloff, 4.07% buffer at risk.
+- **NOC $501.16 (-2.37%):** No company-specific catalyst today. Defense overhang: Senate bill (June 17) to bar defense contractors from stock buybacks adds mild bearish sentiment. RBC Outperform upgrade intact, record $95.61B backlog, guidance reaffirmed. Still 6.80% above stop $467.16; manual -7% cut $477.37 (4.81% below current = $24 cushion). Day 4 of pullback from $519.07 HWM. Thesis intact but weakest link in portfolio.
+- **RTX $184.77 (+5.79%):** No new negative. $271B backlog, Jefferies Buy, 2026 EPS guidance $6.70-$6.90. 5.42% buffer to 10% trailing stop. Comfortable.
+
+### Trade Ideas
+
+**Idea 1 — FCX (Freeport-McMoRan) as 4th position — POST-PCE conditional**
+- Materials sector #2/3 YTD momentum (+17.4%). Copper demand driven by AI data center buildout, EV transition, grid expansion. FCX = largest US copper producer. Clean thesis separate from Iran/oil.
+- MU beat reinforces AI capex narrative → more data centers → more copper demand.
+- Risk: if PCE hot and GDP misses → risk-off, commodity selloff.
+- Gate: PCE ≤ 4.0% at 8:30 AM ET → evaluate entry ~9:45 AM after open stabilizes. Size: ~$21,800 (20% of equity). Stop: 10% trail. Target: 2:1 minimum.
+
+**Idea 2 — CVX (Chevron) as energy 4th position — PCE-conditional, lower conviction**
+- Energy still #1 sector (6-month +35.3%), but WTI $69/bbl vs $76 just 2 weeks ago = Iran peace headwind. Entry into energy as oil falls from top is poor R:R unless oil stabilizes above $70.
+- Lower priority than FCX. Only revisit if oil firms above $70 and PCE benign.
+
+**Idea 3 — HOLD all, no new position today**
+- Default: Await 8:30 AM ET dual print (PCE + GDP). Hot PCE = broad selloff, all three positions at risk (especially GE at 4.07% stop buffer). Preserve Week 10 trade capacity.
+- If PCE ≥ 4.1% → HOLD, no entry regardless. Reassess at midday or tomorrow.
+
+### Risk Factors
+1. **PCE hot print (4.1%+ vs 4.0% forecast):** Fed July rate hike speculation → equities sell off broadly. GE closest to stop (4.07% buffer). All three positions would see unrealized losses compress.
+2. **GDP miss:** Q1 was revised to 1.3%. Any further weakness signals stagflation = worst-case for equities + inflation.
+3. **NOC continued weakness:** 4-day pullback from $519 HWM to $501. Senate buyback bill + defense sector rotation = near-term ceiling on recovery. If breaks $490 intraday, approach -7% cut territory ($477.37).
+4. **GE all-time-high vulnerability:** At 52-week high, any macro surprise = profit-taking. 5% stop only 4.07% away.
+5. **Oil declining:** Cancels the energy setup unless WTI stabilizes. Iran deal = supply shock in reverse.
+
+### Decision
+**TRADE-conditional — wait for 8:30 AM PCE print, then decide**
+- **If PCE ≤ 4.0% AND GDP ≥ 1.5%:** Scout FCX for 4th position. Entry ~9:45 AM after open volatility clears. Size: ~100 shares @ ~$50-55 = ~$5,000-5,500 (too small); OR larger copper ETF exposure. VERIFY LIVE QUOTE before any order.
+- **If PCE ≥ 4.1% OR GDP misses:** HOLD. No new entry. Let midday scan handle stop assessment. Use 3rd trade for better setup next week if needed.
+- **GE:** Watch at open. If gaps above $369.25 → stop auto-ratchets (bullish). If market weak → monitor for stop proximity. Do NOT manually adjust stop.
+- **NOC:** Monitor Day 4. If drops to $490 area, reassess thesis vs -7% cut rule at $477.37.
+- **RTX:** No action. Comfortable.
