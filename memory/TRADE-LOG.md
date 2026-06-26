@@ -1926,3 +1926,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $110,219.68 | **Cash:** $43,413.36 (39.4%) | **Long MV:** $66,806.32 (60.6% deployed — ⚠️ below 75–85%) | **Day P&L:** +$548.18 (+0.50%) | **Phase P&L:** +$10,219.68 (+10.22%)
 **Week 10 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **No Slack sent.**
 **Key watch EOD/next week:** GE stop buffer now only 2.32% from current ($369.25 vs $360.69 stop) — Friday profit-taking risk watch. GEV pulled back -4.84% this week; defer 4th position scouting to next week, require $1,090+ close. NOC watch: -7% cut at $477.37 is $27.20 below current ($504.57). Weekly review fires at 4 PM ET today.
+
+---
+
+### Jun 26 — EOD Snapshot (Day 46, Friday — Week 10 Day 5)
+**Portfolio:** $109,670.29 | **Cash:** $43,413.36 (39.6%) | **Day P&L:** -$55.24 (-0.05%) | **Phase P&L:** +$9,670.29 (+9.67%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $367.30 | -1.09% | +$5,847.76 (+31.17%) | $360.69 (5% trail, HWM $379.67) ⚠️ 1.80% buffer |
+| NOC | 40 | $513.30 | $500.42 | +0.22% | -$515.25 (-2.51%) | $467.163 (10% trail, HWM $519.07) 6.65% buffer |
+| RTX | 115 | $174.65 | $188.17 | +0.85% | +$1,554.80 (+7.74%) | $174.753 (10% trail, HWM $194.17) 7.13% buffer |
+
+**Notes:** Day 46, Friday. Week 10 complete (1/3 trades). No trades today. Market closed with mixed action: GE gave back -1.09% on Friday profit-taking after Thursday's ATH $379.67 — GE's 5% trailing stop is now only 1.80% buffer from current ($367.30 vs stop $360.69); stop is correctly locked per rules (HWM $379.67 × 0.95 = $360.69), no manual action. NOC recovered +0.22% to $500.42; thesis intact, -7% cut at $477.37 is $23.05 / 4.6% above. RTX solid +0.85% to $188.17, now +7.74% from entry; -7% cut at $162.42 and stop $174.753 both well below current. GEV deferred — pulled back -4.84% this week; 4th position scouting moves to next week requiring $1,090+ close. Deployment 60.4% — ⚠️ below 75–85% target for the second consecutive week; priority next week is finding a momentum setup (energy/industrial) to deploy one more position.
+
+**Portfolio (EOD):** $109,670.29 | **Cash:** $43,413.36 (39.6%) | **Long MV:** $66,256.93 (60.4% deployed — ⚠️ below 75–85%) | **Day P&L:** -$55.24 (-0.05%) | **Phase P&L:** +$9,670.29 (+9.67%)
+**Week 10 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Mon Jun 29:** GE stop buffer very tight at 1.80% ($367.30 vs $360.69) — any gap-down ≥2% risks stop-out; no adjustment possible (never tighten within 3%). NOC at -2.51% from entry; monitor vs -7% cut $477.37. Scout 4th position in energy/industrials — require clear momentum setup, close ≥ 3-day high, sector in flow. Weekly review fires 4 PM ET today.
