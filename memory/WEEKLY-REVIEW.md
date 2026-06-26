@@ -575,3 +575,69 @@ Template for each entry:
 *Week 9 — positive week (+0.73%) but lagged S&P by 35bp (+1.08%). Phase alpha compressed slightly to +5.07% vs S&P. Portfolio reached a new phase high (+12.11%) Wednesday but gave back $2,360 on Thursday's post-FOMC defense rotation. No rule violations; all mechanical stops working correctly. Grade C+ reflects disciplined FOMC positioning and GE/RTX continuing to perform, offset by zero new trades (4th consecutive week below deployment target), LHX deterioration now requiring resolution, and the chronic structural drag of 57% deployment in a rising S&P market.*
 
 ---
+
+## Week ending 2026-06-26
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $109,750.51 |
+| Ending portfolio | $109,779.41 |
+| Week return | +$28.90 (+0.03%) |
+| S&P 500 week | -0.12% (7,366.51 → 7,357.49) |
+| Bot vs S&P | +0.15% |
+| Phase return | +$9,779.41 (+9.78% from $100k baseline) |
+| Phase bot vs S&P | +7.09% (bot +9.78% vs S&P +2.69% from Apr 24 start 7,165) |
+| Trades | 1 new (NOC) + 1 closed (LHX) — W:0 / L:1 / open:3 |
+| Win rate | 0% this week (1/8 all-time = 12.5%) |
+| Best trade | GE +31.8% unrealized |
+| Worst trade | LHX -7.12% realized (GTC stop-out Jun 22) |
+| Profit factor | 1.42 all-time ($9,483.96 / $6,692.34) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| LHX | $308.48 | $286.50 | -$1,318.65 (-7.12%) | GTC trailing stop triggered Jun 22 open; 32-day hold (May 21→Jun 22); post-FOMC Warsh hawkish defense rotation; 1st consecutive defense sector failure |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| GE | $280.02 | $369.00 | +$5,961.66 (+31.8%) | $360.69 (5% trail, HWM $379.67) ⚠️ 1.80% buffer |
+| NOC | $513.30 | $500.03 | -$530.85 (-2.59%) | $467.163 (10% trail, HWM $519.07) |
+| RTX | $174.65 | $188.19 | +$1,557.10 (+7.75%) | $174.753 (10% trail, HWM $194.17) |
+
+### What Worked
+- LHX GTC trailing stop executed flawlessly — no override, stop fired at $286.50 vs $286.67 trigger, no manual intervention needed; stop system working as designed
+- NOC entry disciplined: B-21/GBSD/Space Force thesis (non-rate-sensitive DoD strategic programs), $95.61B record backlog, RBC Outperform upgrade; all gate checks passed; cost 18.9% equity ✓
+- GE at +31.8% after 10 weeks — patience + mechanical stop management generating the only sustained alpha; 5% stop auto-ratcheting correctly
+- Bot outperformed S&P by +0.15% in a flat/down week; cumulative phase alpha +7.09% vs benchmark
+- FCX 4th-position rejected correctly (3-day downtrend, GDP condition unmet) — discipline over urgency
+
+### What Didn't Work
+- Deployment stuck at 60.4% for the 5th consecutive week below 75–85% target — LHX exit and NOC buy netted zero change in deployment; chronic cash drag persists
+- LHX held 32 days (+2.5% cumulative → -7.12%) without a proactive "slot efficiency" close when thesis narrowed post-FOMC; earlier exit at -4% would have freed the slot 2 weeks sooner
+- GE trailing stop entering next week at 1.80% buffer ($369.00 vs stop $360.69) — any Monday gap-down ≥2% auto-exits the portfolio's largest winner
+- NOC weakness on Days 1–5 (-2.59%); B-21/GBSD thesis lacks near-term catalyst urgency compared to MRVL/AVGO-type setups
+- LHX is the 1st consecutive defense failure; if NOC also fails, the 2-consecutive sector ban fires → must exit GE and RTX as well (critical risk heading into Week 11)
+
+### Key Lessons
+- Defense names with limited commercial revenue are acutely rate-sensitive: Warsh's hawkish shift compressed LHX's defense risk premium from +2.5% to -7% in 2 sessions; GE (multi-driver: oil → airline demand + defense backlog) proved resilient while pure-defense LHX didn't; favor multi-catalyst names in rate-uncertain environments
+- "Slot efficiency" failures recur because there's no hard exit trigger for stagnant positions — a position that stays flat for 4+ weeks with no new catalyst is wasting a slot; the -7% stop manages downside but not opportunity cost
+- 2-consecutive defense failure risk is now live: LHX (fail #1) + NOC (open) means one more defense loss triggers a mandatory exit of ALL defense sector positions including GE (+31.8%) and RTX (+7.75%); must monitor NOC thesis integrity daily
+- Phase alpha of +7.09% is almost entirely MRVL ($9,484, 1 week, Jun 3) + GE (10 weeks patience); all other closed trades are losses; selectivity and patience are the only two proven edges
+- RTX stop above entry ($174.753 > $174.65) means zero capital loss on that position regardless of exit — trailing stop discipline over 10 weeks achieved breakeven protection
+
+### Adjustments for Next Week
+- GE: stop $360.69 (1.80% buffer from $369.00) — no manual action; if gap-down ≥2% Mon open, stop fires and locks in ~+28% gain (acceptable); if GE holds, any new HWM above $379.67 auto-ratchets stop higher
+- NOC: thesis check daily; if NOC closes below $490 (approaching -7% cut $477.37), scrutinize thesis; if NOC stops out → 2-consecutive defense ban fires → exit GE + RTX + NOC simultaneously; do not average down
+- RTX: +15% tighten trigger $200.85 ($12.66 away, 6.7%); no action until triggered; stop above breakeven ($174.753), zero capital risk
+- 4th position: GEV deferred (requires close ≥ $1,090); NUE (steel/tariffs) valid if materials cycle accelerates; energy needs fresh specific catalyst; require 3-day momentum + documented catalyst before entering; no forced deployment to hit 75–85% band
+- Sector ban scenario plan: if NOC stops out next week, have orders ready to close GE + RTX within minutes; 2-consecutive defense ban is a hard rule with no exceptions
+
+### Overall Grade: C+
+*Week 10 — flat week (+0.03%) with marginal S&P outperformance (+0.15%). LHX stop-out correctly executed; NOC entry disciplined; no rule violations. Persistent underdeployment (60% for 5th consecutive week) and zero winning exits remain structural concerns. The 2-consecutive defense sector risk (LHX fail + NOC open) is the primary binary risk entering Week 11 — if NOC stops out, mandatory exit of all defense positions including GE (+31.8%) would be a forced but rule-compliant unwinding of the portfolio's strongest thesis. C+ reflects rule compliance and marginal outperformance offset by chronic deployment shortfall and continued pattern of realized losses.*
+
+---
