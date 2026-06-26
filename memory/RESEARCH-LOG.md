@@ -2830,3 +2830,70 @@ All 3 GTC trailing stops active and self-managing. ✓
 - **NOC:** Recovering today +0.35% ($504.79). Day 4 pullback stabilizing. Thesis intact.
 - **RTX:** +0.78% today ($186.50). Comfortable.
 - **Decision: No new trades today.** PCE in-line but GDP gate not met; FCX in downtrend. Deployment 60.6% — scout 4th position next week with fresh momentum setup.
+
+---
+
+## 2026-06-26 — Pre-Market Research (Day 46, Friday — Week 10 Day 5 / Weekly Review Day)
+
+### Account Snapshot
+- **Equity:** $109,977.83 | **Cash:** $43,413.36 (39.5%) | **Long MV:** $66,564.47 (60.5% — ⚠️ below 75–85%)
+- **Phase P&L:** +$9,977.83 (+9.98%) | **Day change vs yesterday close:** +$252.30
+- **Positions:** 3/6 | **Week 10 trades:** 1/3 | **Daytrade count:** 0
+
+| Symbol | Entry | Pre-Mkt | Unrealized | Stop | Buffer |
+|--------|-------|---------|------------|------|--------|
+| GE | $280.02 | $370.00 (-0.37%) | +$6,028.66 (+32.1%) | $360.69 (5% trail, HWM $379.67) | 2.52% |
+| NOC | $513.30 | $502.51 (+0.64%) | -$431.63 (-2.10%) | $467.163 (10% trail, HWM $519.07) | 7.05% |
+| RTX | $174.65 | $188.47 (+1.01%) | +$1,589.30 (+7.91%) | $174.753 (10% trail, HWM $194.17) | 7.37% |
+
+### Market Context
+- **WTI Crude:** ~$70.01/bbl (TradingEconomics), day range $68.98–$71.86; down -2.66% today, down -21% past month. Strait of Hormuz shipping normalized after maritime incident = supply shock in reverse. WTI broke below $70 intraday today.
+- **Brent:** ~$73.19/bbl; down -2.75% today, down -20.6% past month.
+- **S&P 500 futures (ESU26):** +0.78% this morning, ~7,448.50. Driven by Micron (MU) earnings blowout.
+- **Nasdaq futures (NQU26):** +2.15% — MU +18% pre-market; chip stocks broadly surging.
+- **VIX:** 19.66–20.26 intraday (prior close 18.89). VIX spiking +7.25% today. S&P up but VIX rising = underlying uncertainty; hedging activity active despite index strength.
+- **Today's Economic Data (8:30 AM ET):** Advance trade balance (May) $-83.0B (benign vs $-85B prior); wholesale inventories +0.6%; retail inventories +0.6%. No CPI, no FOMC, no jobs report today. Light macro day.
+- **Fed:** Williams speaks ~3:40 PM ET; Goolsbee 6:30 PM ET. No policy decisions expected.
+
+### Sector Momentum (YTD)
+- Energy +23.3% YTD but oil now -21% in a month → elevated earnings expectations + oil reversal = risk for new energy entries
+- Materials +17.4% | Industrials +14.1% (6-month +13.1%) | Consumer Staples +15.6%
+- Info Tech: YTD -3.3% but Q2 alone +45.5% — massive tech recovery in Q2 driven by AI supercycle
+- Defense (Industrials subsector): strong, $1T defense budget tailwind intact
+
+### Position Thesis Check
+- **GE:** Thesis fully intact. $190–210B backlog, Golden Cross signal (50-day above 200-day since Jun 15), China engine order potential (400–450 engines tied to Boeing/China deal). Judson Althoff (Microsoft exec) added to board. AerCap delivered first GE-powered 787-9 to Thai Airways. Q2 earnings Jul 16 (~3 weeks). Farnborough Airshow July = order announcement catalyst. Pre-market slightly down (-0.37%) — no concern.
+- **NOC:** Thesis intact. Pre-market recovering +0.64% ($502.51). Q2 earnings Jul 21. RBC Outperform ($547 target), Morgan Stanley upgraded to Attractive ($625 target). Annual dividend hiked +7% ($9.88/yr). $95.6B backlog, 17.4x forward P/E = cheap. Key watch: buyback pause under Trump scrutiny is short-term overhang. -7% manual cut at $477.37 is 5.1% below current — comfortable.
+- **RTX:** Thesis intact. Pre-market +1.01% ($188.47). New $515M Navy SPY-6 radar contract announced. $100M Portsmouth facility expansion. Q2 earnings Jul 28. +7.91% unrealized, stop 7.37% below current.
+
+### Trade Ideas
+**Idea 1 — HOLD all 3 positions (high conviction)**
+- GE, NOC, RTX all thesis-intact, all stops active and properly set. No action needed.
+- GE stop at 2.52% buffer is tightest — watch for intraday volatility on a Friday.
+
+**Idea 2 — 4th position (deferred to next week)**
+- Oil -21% in a month → energy sector thesis broken for new entry. CVX/XOM/VLO = PASS.
+- Tech/semis (MU effect): Nasdaq +2%, AI supercycle intact. NVDA/AMD/KLAC momentum. BUT: Friday end-of-week entry is poor R:R; post-earnings entry rules apply if within 3 days (7% trail). Too late to chase MU today.
+- **Best candidate for next week:** GEV (GE Vernova) — AI power infrastructure play, up +6.05% this week; sits at intersection of energy infrastructure + AI capex build-out. Sector: Industrials/Utilities. No earnings proximity risk for ~4 weeks. Scout entry Monday if momentum holds.
+- **Alternative:** KLAC (KLA Corp) — semiconductor equipment, AI capex, not post-earnings. Scout Monday.
+
+**Idea 3 — HOLD (default)**
+- Friday entry = start the weekend holding a position with no ability to monitor intraday.
+- VIX at 20+ = elevated tail risk.
+- Week 10 closes today. Deploy 4th position next week with fresh setup and confirmed momentum.
+
+### Risk Factors
+1. **VIX spiking to 20+:** Market hedging activity rising despite index strength. Could signal intraday reversal.
+2. **GE stop buffer tight (2.52%):** Any gap-down at open from $370 could test the $360.69 trailing stop. GE at 52-week high = profit-taking risk on Fridays.
+3. **Oil crash continuing:** WTI below $70 threatens energy sector rotation; validates decision to avoid energy for 4th position.
+4. **Fed rate hike risk:** Dollar at 2026 highs; September hike probability elevated after PCE 3.4%. Rate-sensitive sectors (healthcare, utilities) underperforming.
+5. **NOC continued drift:** -2.10% from entry. Q2 earnings Jul 21 approaching. Watch for any further weakening toward $490.
+6. **MU effect Friday fade:** Tech surges on MU but Fridays often see profit-taking into close. Could drag broader market.
+
+### Decision
+**HOLD — no new trades today**
+- All three positions thesis-intact with active GTC trailing stops.
+- Friday end-of-week = poor entry timing for new positions; VIX 20+ = elevated risk.
+- Oil breakdown eliminates energy sector as 4th position candidate.
+- Scout GEV and KLAC over weekend for Monday entry consideration (Week 11).
+- Weekly review fires at 4 PM ET today.
