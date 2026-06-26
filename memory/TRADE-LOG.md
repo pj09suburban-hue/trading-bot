@@ -1892,3 +1892,37 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (EOD):** $109,671.50 | **Cash:** $43,413.36 (39.6%) | **Long MV:** $66,258.14 (60.4% deployed — ⚠️ below 75–85%) | **Day P&L:** +$341.88 (+0.31%) | **Phase P&L:** +$9,671.50 (+9.67%)
 **Week 10 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Fri Jun 26:** GE stop at $360.69 (2.64% buffer from $370.47 close) — watch for continued ATH pullback. NOC now -2.40% from entry; -7% cut at $477.37 is $23.57 below current. Weekly review at 4 PM ET. Scout 4th position (energy/momentum) if macro cooperates next week.
+
+---
+
+## 2026-06-26 — Midday Scan (Day 46, Friday — Week 10 Day 5)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $369.25 | +$5,978.41 | +31.87% | -0.57% | $360.6865 (5% trail) | $379.67 | 2.32% | HOLD |
+| NOC | $513.30 | $504.57 | -$349.25 | -1.70% | +1.05% | $467.163 (10% trail) | $519.07 | 7.41% | HOLD |
+| RTX | $174.65 | $190.195 | +$1,787.68 | +8.90% | +1.93% | $174.753 (10% trail) | $194.17 | 8.12% | HOLD |
+
+**Cut losers (-7%):** None. GE cut $260.42, NOC cut $477.37 (current $504.57 — $27.20 / 5.4% above), RTX cut $162.42. All clear.
+
+**Stop tightening (+15%/+20%):** None. GE already at 5% trail (max). NOC -1.70% and RTX +8.90% both below +15% threshold. No action.
+
+**GE stop note:** HWM $379.67 unchanged (GE pulled back to $369.25 from yesterday's ATH). Stop locked at $360.69. Buffer 2.32% — tight but within rule (never tighten within 3% would not reduce buffer further; stop stays). No manual intervention needed.
+
+**Trailing stop status (live GTC orders):**
+- GE: order 94b1a703 active, 5% trail, HWM $379.67, stop $360.6865 (2.32% buffer from $369.25) ✓
+- NOC: order 1f9ffa17 active, 10% trail, HWM $519.07, stop $467.163 (7.41% buffer from $504.57) ✓
+- RTX: order 8a67337a active, 10% trail, HWM $194.17, stop $174.753 (8.12% buffer from $190.195) ✓
+
+**Thesis check:**
+- GE: +31.87%, intraday -0.57% (expected Friday profit-taking from ATH $379.67). Defense/aerospace thesis intact. 5% stop managing exit. HOLD.
+- NOC: -1.70% from entry, recovering +1.05% today. RBC Outperform, Morgan Stanley Attractive, $95.61B backlog, Q2 earnings Jul 21. Thesis intact. HOLD.
+- RTX: +8.90%, +1.93% today. Driven by ongoing defense contract flow ($515M SPY-6 Navy, $1.1B missile, $100M Portsmouth facility). Q2 earnings Jul 28. Thesis intact. HOLD.
+
+**Research (Step 6):** GEV (4th position candidate from pre-market) queried. GEV trading ~$1,059 today, DOWN -2.42% (vs yesterday's $1,085.47 close) and -4.84% over the past week. Momentum NOT confirmed. Analyst consensus Buy but price target ($1,050) essentially at current price per one source; eToro has $1,272 target but beta 2.03 = high volatility. Friday pullback disqualifies for Monday entry. Will monitor next week — require sustained close above $1,090 before evaluating entry. RTX +1.93% confirmed driven by continued defense contract wins (no new discrete news beyond known contracts); thesis intact.
+
+**No action taken.** All three GTC trailing stops active. No Slack sent (no action per rules).
+
+**Portfolio (midday):** $110,219.68 | **Cash:** $43,413.36 (39.4%) | **Long MV:** $66,806.32 (60.6% deployed — ⚠️ below 75–85%) | **Day P&L:** +$548.18 (+0.50%) | **Phase P&L:** +$10,219.68 (+10.22%)
+**Week 10 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **No Slack sent.**
+**Key watch EOD/next week:** GE stop buffer now only 2.32% from current ($369.25 vs $360.69 stop) — Friday profit-taking risk watch. GEV pulled back -4.84% this week; defer 4th position scouting to next week, require $1,090+ close. NOC watch: -7% cut at $477.37 is $27.20 below current ($504.57). Weekly review fires at 4 PM ET today.

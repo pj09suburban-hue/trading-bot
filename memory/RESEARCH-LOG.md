@@ -2897,3 +2897,14 @@ All 3 GTC trailing stops active and self-managing. ✓
 - Oil breakdown eliminates energy sector as 4th position candidate.
 - Scout GEV and KLAC over weekend for Monday entry consideration (Week 11).
 - Weekly review fires at 4 PM ET today.
+
+### Afternoon Addendum (Midday Scan — Jun 26)
+**GEV (4th position candidate) update:**
+- Current: ~$1,059 | Day: -2.42% | Week: -4.84% | 52wk high: $1,181.95
+- Momentum NOT confirmed — pulling back from highs, below $1,085 yesterday close
+- Analyst consensus: Strong Buy but price target spread wide ($1,050–$1,272); beta 2.03 (high vol)
+- **Decision: Defer entry. Require sustained close above $1,090 before re-evaluating. Monitor Week 11.**
+
+**RTX update:** +1.93% today, confirmed driven by ongoing defense contract pipeline (no new discrete news). Thesis intact.
+
+**GE update:** -0.57% today, expected Friday profit-taking from ATH $379.67. Stop at $360.69 (2.32% buffer). Monitoring.
