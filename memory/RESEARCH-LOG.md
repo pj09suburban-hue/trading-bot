@@ -2908,3 +2908,83 @@ All 3 GTC trailing stops active and self-managing. ✓
 **RTX update:** +1.93% today, confirmed driven by ongoing defense contract pipeline (no new discrete news). Thesis intact.
 
 **GE update:** -0.57% today, expected Friday profit-taking from ATH $379.67. Stop at $360.69 (2.32% buffer). Monitoring.
+
+---
+
+## 2026-06-29 — Pre-Market Research (Day 47, Monday — Week 11 Day 1)
+
+### Account Snapshot
+- **Equity:** $109,785.59 | **Cash:** $43,413.36 | **Long MV:** $66,372.23
+- **Deployed:** 60.4% (⚠️ below 75–85% target — 2nd consecutive week)
+- **Positions:** 3/6 | **Week 11 trades:** 0/3 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Pre-Mkt | Unreal P&L | Stop | Buffer | Status |
+|--------|--------|-------|---------|------------|------|--------|--------|
+| GE | 67 | $280.02 | ~$369–370 | +$5,960 (+31.8%) | $360.69 (5% trail, HWM $379.67) | ~2.3% ⚠️ | HOLD |
+| NOC | 40 | $513.30 | ~$501 | -$489 (-2.4%) | $467.16 (10% trail, HWM $519.07) | 6.7% | HOLD |
+| RTX | 115 | $174.65 | ~$188 | +$1,532 (+7.6%) | $174.75 (10% trail, HWM $194.17) | 7.1% | HOLD |
+
+### Market Context
+- **WTI:** $69.81/bbl (+0.07% today); range $69.33–$70.79. Down from $76 mid-June. Supply-side discipline intact; US-Iran peace talks providing relief but situation volatile.
+- **Brent:** ~$70 (implied; no discrete quote today). Oil still in downtrend from mid-June high.
+- **S&P 500 futures (ESU26):** +0.67–0.72% pre-market at ~7,451. Dow +1.21%. Risk-on open.
+- **Nasdaq futures (NQU26):** +1.09%. Tech/AI infrastructure names driving gains.
+- **VIX:** 18.40–18.63 (prev close 18.89). Down ~3% — dropping back below 20. Fear receding.
+- **Retail Sales MoM (May):** 1.3% actual vs 0.7% forecast — major beat. Consumer spending robust.
+- **GDP Q1 2026 (3rd revision):** 2.1% annual growth, revised up from 1.6%. Economy stronger than feared.
+- **US-Iran:** Iran threatens Strait of Hormuz closure, halted indirect talks. Market pricing ~80% chance resolution avoids full-scale war. Geopolitical tail risk remains.
+
+### Economic Calendar This Week (Holiday-Shortened)
+| Date | Release | Notes |
+|------|---------|-------|
+| Mon Jun 29 | Construction Spending (10 AM); Dallas Fed Mfg | Light day — today's data already in (retail sales beat) |
+| Tue Jun 30 | S&P Case-Shiller, Chicago PMI, New Home Sales, Jobless Claims | |
+| Wed Jul 1 | Durable Goods, GDP 3rd release, Personal Income & PCE Deflator | PCE inflation watch |
+| Thu Jul 2 | **June Employment Situation (Jobs Report, 8:30 AM)** | ⭐ Major market-moving event |
+| Fri Jul 3 | Independence Day — markets likely closed early or closed | |
+
+### Sector Momentum (YTD 2026)
+- **Industrials:** +14.1% YTD, +15.5% trailing 6 months, +28.8% trailing 12 months — strong and broadening ✓
+- **Energy:** +23.3% YTD but oil -20%+ from peak — new energy entries remain disqualified
+- **Info Tech:** -3.3% YTD but +21.1% trailing 6 months (massive Q2 AI recovery) — momentum improving
+- **Defense (Industrials subsector):** $87.6B supplemental war budget (Iran conflict), F/A-XX contract news flow. Tailwind intact.
+- **Materials:** +17.4% YTD | **Consumer Staples:** +15.6% YTD
+
+### Position Thesis Check
+- **GE:** Extended hours ~$370. Thesis intact — $170–210B backlog, commercial aerospace supercycle, Farnborough Airshow July order flow. Ex-dividend Jul 6 ($0.47/share). ATH $379.67 from Jun 25; stop at $360.69 (only 2.3% buffer from current). Analyst consensus: 16/16 Buy, avg PT $348 (outdated; stock has run past consensus). HOLD. Watch stop carefully on any gap-down.
+- **NOC:** Pre-market ~$501. Thesis intact: $95.6B backlog, Q2 earnings Jul 21 (~3 weeks), RBC upgraded to Outperform today, F/A-XX fighter jet contender. Jefferies cut PT to $580 (keep Hold) on margin concerns — minor negative. $87.6B supplemental war budget tailwind. -7% cut at $477.37 is 4.7% below current. HOLD.
+- **RTX:** Pre-market ~$188. Thesis intact: $271B backlog, defense contract pipeline ($515M Navy SPY-6, $100M Portsmouth). Q2 earnings Jul 28. Stop $174.75 is 7.1% below current. HOLD.
+
+### Trade Ideas
+**Idea 1 — TRADE-conditional: GEV (4th position) — entry conditional on $1,090 close today**
+- **Catalyst (fresh today):** Wells Fargo maintains Buy, raises PT to $1,467 (+40.4%), citing GEV as "nuclear energy pick for AI power demand" on June 29. Strong new analyst action.
+- **Thesis:** GE Vernova = AI power infrastructure + nuclear energy at intersection of two mega-trends. Industrials sector in momentum (+28.8% trailing 12M). No earnings within 3 weeks (~late July Q2 report; timing to be confirmed).
+- **Condition:** MUST close above $1,090 today (my deferred threshold from last week). GEV at ~$1,045 pre-market; requires +4.3% rally today to clear trigger. Do NOT chase pre-market.
+- **Entry:** If $1,090 close confirmed → limit order at open tomorrow Jun 30 at ~$1,090–$1,100. 18 shares × $1,090 = $19,620 (17.9% of equity ✓ within 20% cap).
+- **Stop:** 10% trailing GTC (standard; not post-earnings proximity = no 7% override). Initial stop ~$981.
+- **Target:** Wells Fargo PT $1,467 = 35%+ from $1,090 entry → R:R >3:1 ✓
+- **Pass conditions:** GEV closes below $1,090 today → remain HOLD, re-evaluate next week.
+
+**Idea 2 — HOLD (default if GEV fails $1,090 today)**
+- Holiday-shortened week; Jobs report Thursday = elevated uncertainty
+- 3 positions thesis-intact, all stops active
+- Patience > activity
+
+**Idea 3 — GEV fails trigger → scout KLAC or other Industrials/AI infrastructure next week**
+- KLAC (semiconductor equipment, AI capex): research deferred; no entry this week without full catalyst documentation
+
+### Risk Factors
+1. **GE stop buffer critical (2.3%):** Any gap-down ≥2.3% triggers stop-out on GE. Positive futures (+0.67%) reduce today's risk, but stop is locked (no room to tighten per rules).
+2. **Jobs Report Thursday (July 2):** NFP print will dominate Thursday morning. Surprise to either direction = elevated intraday volatility. Position sizing for any new entry must account for weekend/holiday gap risk.
+3. **US-Iran escalation:** Market pricing ~80% peaceful resolution, but a surprise closure of Strait of Hormuz would spike oil and crater equities in one session.
+4. **NOC drift:** At -2.4% from entry and approaching -7% cut territory ($477.37). Q2 earnings Jul 21 could be volatile. Thesis intact but position is at max patience level.
+5. **Holiday-week liquidity:** Lower volumes Jul 3–4 = wider spreads and faster stop runs. New entries should use smaller sizing or wait until after July 4 week.
+6. **GEV high beta (2.03):** If market sells off on Iran or bad jobs data, GEV could drop 4–5% in a session. Entry only on confirmed momentum, not into weakness.
+
+### Decision
+**TRADE-conditional — GEV 4th position IF closes above $1,090 today; otherwise HOLD**
+- All 3 current positions: HOLD, thesis intact, stops active
+- GEV: Watch today's close. $1,090 = trigger. Below → wait for Week 12.
+- No new entries pre-market; no chasing.
+- Jobs report Thursday = do NOT add new positions Wednesday/Thursday without clear read on report.
+- Deployment 60.4% — priority is deploying GEV to approach 75–85% target.
