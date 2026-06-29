@@ -1943,3 +1943,39 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (EOD):** $109,670.29 | **Cash:** $43,413.36 (39.6%) | **Long MV:** $66,256.93 (60.4% deployed — ⚠️ below 75–85%) | **Day P&L:** -$55.24 (-0.05%) | **Phase P&L:** +$9,670.29 (+9.67%)
 **Week 10 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Mon Jun 29:** GE stop buffer very tight at 1.80% ($367.30 vs $360.69) — any gap-down ≥2% risks stop-out; no adjustment possible (never tighten within 3%). NOC at -2.51% from entry; monitor vs -7% cut $477.37. Scout 4th position in energy/industrials — require clear momentum setup, close ≥ 3-day high, sector in flow. Weekly review fires 4 PM ET today.
+
+---
+
+## 2026-06-29 — Midday Scan (Day 47, Monday — Week 11 Day 1)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $374.895 | +$6,356.63 | +33.88% | +1.60% | $360.6865 (5% trail) | $379.67 | 3.79% | HOLD |
+| NOC | $513.30 | $496.075 | -$689.05 | -3.36% | -0.79% | $467.163 (10% trail) | $519.07 | 5.83% | HOLD ⚠️ |
+| RTX | $174.65 | $188.005 | +$1,535.83 | +7.65% | +0.01% | $174.753 (10% trail) | $194.17 | 7.05% | HOLD |
+
+**Cut losers (-7%):** None. GE cut $260.42, NOC cut $477.37 (current $496.075 — $18.71 / 3.77% above), RTX cut $162.42. All clear.
+
+**Stop tightening (+15%/+20%):** None. GE already at 5% trail (max). NOC -3.36% and RTX +7.65% both below +15% threshold. No action.
+
+**GE stop note:** GE recovering +1.60% to $374.895 today. HWM $379.67 unchanged (below ATH). Buffer improved to 3.79% from Friday's critical 1.80%. Stop locked at $360.6865 — auto-ratchet working correctly, no manual intervention needed.
+
+**NOC thesis check:** ⚠️ NOC drifting to -3.36% from entry ($496.075), down -0.79% today. Research confirms NO new thesis-breaking catalyst: RBC Outperform upgrade intact, Q2 earnings Jul 21, $95.6B backlog, peer group (LMT, GD) also weak today. -7% cut at $477.37 is $18.71 away (3.77% buffer). Thesis intact. HOLD.
+
+**Trailing stop status (live GTC orders):**
+- GE: order 94b1a703 active, 5% trail, HWM $379.67, stop $360.6865 (3.79% buffer from $374.895) ✓
+- NOC: order 1f9ffa17 active, 10% trail, HWM $519.07, stop $467.163 (5.83% buffer from $496.075) ✓
+- RTX: order 8a67337a active, 10% trail, HWM $194.17, stop $174.753 (7.05% buffer from $188.005) ✓
+
+**Thesis check:**
+- GE: +33.88%, intraday +1.60%, recovering from Friday ATH pullback. $170–210B aerospace backlog, Farnborough Airshow July. Ex-dividend Jul 6 ($0.47). 5% stop managing exit correctly. HOLD.
+- NOC: -3.36% from entry, down -0.79% today. Peer-driven decline in line with LMT/GD. No company-specific negative. RBC Outperform, $95.6B backlog, Q2 earnings Jul 21. Thesis intact. HOLD. Monitor closely — -7% cut at $477.37 is 3.77% away.
+- RTX: +7.65%, near-flat today (+0.01%). Defense contract pipeline intact. Q2 earnings Jul 28. Thesis intact. HOLD.
+
+**GEV 4th position (Step 6 research):** GEV trading $1,092–$1,093 midday (+4.5% from Friday close $1,045.17) — above $1,090 trigger established in pre-market. Intraday high $1,106.95. Wells Fargo Buy maintained $1,467 PT (+35.1%). Close not yet confirmed (12 PM ET). Per pre-market plan: wait for close. If closes >$1,090 → tomorrow market-open routine places limit buy ~$1,090–$1,100 (18 shares, ~$19,620, 17.9% equity). No action today.
+
+**No action taken.** All three GTC trailing stops active. No Slack sent (no action per rules).
+
+**Portfolio (midday):** $109,984.41 | **Cash:** $43,413.36 (39.5%) | **Long MV:** $66,571.05 (60.5% deployed — ⚠️ below 75–85%) | **Day P&L:** +$228.00 (+0.21%) | **Phase P&L:** +$9,984.41 (+9.98%)
+**Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **No Slack sent.**
+**Key watch today close / tomorrow:** GEV close today — if >$1,090, tomorrow market-open routine executes GEV limit buy ~$1,090–$1,100 (18 shares ~$19,620, 17.9% equity). NOC watch: if drops below $490, approaching -7% cut zone ($477.37). GE buffer recovered to 3.79% — stop risk reduced vs Friday.

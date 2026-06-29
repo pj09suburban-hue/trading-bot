@@ -2988,3 +2988,19 @@ All 3 GTC trailing stops active and self-managing. ✓
 - No new entries pre-market; no chasing.
 - Jobs report Thursday = do NOT add new positions Wednesday/Thursday without clear read on report.
 - Deployment 60.4% — priority is deploying GEV to approach 75–85% target.
+
+### Afternoon Addendum (Midday Scan — Jun 29)
+**NOC thesis check (intraday -0.79% / -3.36% from entry):**
+- No new thesis-breaking catalyst confirmed via Perplexity research
+- MarketBeat: NOC ~$496.83 as of 11:07 AM ET; peer weakness (LMT, GD also down)
+- RBC Outperform intact, Q2 earnings Jul 21, $95.6B backlog unchanged
+- Moody's debt downgrade = known lingering risk, not new today
+- -7% cut at $477.37 is 3.77% away. Thesis intact. HOLD.
+
+**GEV midday update (4th position trigger):**
+- Price at 12:01 PM ET: $1,092–$1,093 (bid/ask via Alpaca)
+- Intraday high: $1,106.95 | Open: $1,049.22 | +4.5% from Friday close $1,045.17
+- Wells Fargo Buy maintained $1,467 PT (+35.1%) — confirmed today
+- BofA Securities Buy reiterated Jun 25, $1,310 PT
+- GEV tracking well above $1,090 trigger midday — strong momentum
+- Close not confirmed (12 PM ET scan). Per pre-market plan: if closes >$1,090 → market-open tomorrow executes limit buy ~$1,090–$1,100. No action today.
