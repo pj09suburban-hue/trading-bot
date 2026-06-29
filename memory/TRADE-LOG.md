@@ -1979,3 +1979,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $109,984.41 | **Cash:** $43,413.36 (39.5%) | **Long MV:** $66,571.05 (60.5% deployed — ⚠️ below 75–85%) | **Day P&L:** +$228.00 (+0.21%) | **Phase P&L:** +$9,984.41 (+9.98%)
 **Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **No Slack sent.**
 **Key watch today close / tomorrow:** GEV close today — if >$1,090, tomorrow market-open routine executes GEV limit buy ~$1,090–$1,100 (18 shares ~$19,620, 17.9% equity). NOC watch: if drops below $490, approaching -7% cut zone ($477.37). GE buffer recovered to 3.79% — stop risk reduced vs Friday.
+
+---
+
+### Jun 29 — EOD Snapshot (Day 47, Monday — Week 11 Day 1)
+**Portfolio:** $109,804.72 | **Cash:** $43,413.36 (39.5%) | **Day P&L:** +$48.31 (+0.04%) | **Phase P&L:** +$9,804.72 (+9.80%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $373.15 | +1.13% | +$6,239.71 (+33.26%) | $360.69 (5% trail, HWM $379.67) 3.34% buffer |
+| NOC | 40 | $513.30 | $495.01 | -1.00% | -$731.65 (-3.56%) | $467.163 (10% trail, HWM $519.07) 5.63% buffer ⚠️ |
+| RTX | 115 | $174.65 | $187.75 | -0.13% | +$1,506.50 (+7.50%) | $174.753 (10% trail, HWM $194.17) 6.92% buffer |
+
+**Notes:** Day 47, Monday, Week 11 Day 1. No trades today. Mixed close: GE recovered +1.13% to $373.15 (stop buffer rebuilt to 3.34% from Friday's tight 1.80% — good news). NOC continued softening -1.00% to $495.01; now -3.56% from entry; -7% cut at $477.37 is $17.64 (3.56%) away — watch closely, thesis still intact (RBC Outperform, Q2 earnings Jul 21, $95.6B backlog). RTX near-flat -0.13% to $187.75, +7.50% from entry; thesis intact (Q2 earnings Jul 28). GEV confirmed closed ~$1,103, well above $1,090 trigger established in pre-market — tomorrow's market-open routine executes GEV limit buy (18 shares, ~$1,090–$1,100, ~$19,800, 18.0% equity). Deployment 60.5% — 4th position (GEV) pending tomorrow will bring to ~78.5%, within 75–85% target. All three GTC trailing stops active and unchanged.
+
+**Portfolio (EOD):** $109,804.72 | **Cash:** $43,413.36 (39.5%) | **Long MV:** $66,391.36 (60.5% deployed) | **Day P&L:** +$48.31 (+0.04%) | **Phase P&L:** +$9,804.72 (+9.80%)
+**Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Tue Jun 30:** Market-open routine executes GEV limit buy ~$1,090–$1,100 (18 shares ~$19,800). NOC monitor: -7% cut at $477.37; if drops below $487 re-evaluate thesis. GE stop buffer 3.34% — healthy. RTX approaching +15% tighten threshold at $200.85.
