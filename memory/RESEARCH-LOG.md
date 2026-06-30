@@ -3057,3 +3057,17 @@ All 3 GTC trailing stops active and self-managing. ✓
 - BofA Securities Buy reiterated Jun 25, $1,310 PT
 - GEV tracking well above $1,090 trigger midday — strong momentum
 - Close not confirmed (12 PM ET scan). Per pre-market plan: if closes >$1,090 → market-open tomorrow executes limit buy ~$1,090–$1,100. No action today.
+
+### Afternoon Addendum (Midday Scan — Jun 30)
+**Market-open routine failure:** Heartbeat commit fired (af3e3de) but no subsequent work commit; routine died after heartbeat. Planned GEV buy was not placed.
+
+**GEV Q2 earnings beat (Jun 30):**
+- EPS $2.01 vs $1.67 consensus (+20% beat). Stock traded $1,047–$1,112 intraday, closed ~$1,102.
+- Pre-market research incorrectly estimated Q2 earnings in "late July" — actual print was Jun 30.
+- Entry now classified as **post-earnings** → strategy rule requires 7% initial trailing stop.
+- Wells Fargo PT revised to $1,259 (prior cited $1,467 was likely an older estimate; Barclays also $1,250).
+- R:R check: at $1,100 entry with 7% stop ($77 risk) and $1,259 target ($159 gain) → 2.07:1 (borderline pass only at the very bottom of today's range; fails at prices above $1,103).
+- **GEV skipped.** Original entry conditions (pre-earnings, $1,090–$1,100, 10% stop, $1,467 PT → >3:1 R:R) no longer met. Chasing post-earnings at $1,100–$1,140 with revised targets fails 2:1 minimum.
+- **Watch next week:** If GEV consolidates $1,060–$1,100 after earnings vol settles, re-evaluate with updated PT and post-earnings stop rule.
+
+**Position updates (Jun 30 midday):** GE -0.35% (normal; briefly tested $380 ask = potential new ATH). NOC +2.07% recovering strongly; -7% cut $477.37 now $28.93 (5.7%) away — buffer rebuilt from yesterday's tight $17.64. RTX +0.68%. All thesis intact, all stops active. No trades executed.
