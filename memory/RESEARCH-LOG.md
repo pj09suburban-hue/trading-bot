@@ -4,6 +4,59 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-06-30 — Pre-market Research (Day 48, Tuesday — Week 11)
+
+### Account
+- **Equity:** ~$109,804.72 | **Cash:** $43,413.36 (39.5%) | **Long MV:** $66,391.36 (60.5% deployed — ⚠️ BELOW 75–85% target)
+- **Positions:** 3/6 | **Week trades:** 0/3 (Week 11) | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Pre-mkt | Unreal P&L | % | Stop | HWM |
+|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $375.50 | +$6,397.16 | +34.10% | $360.69 (5% trail) | $379.67 |
+| NOC | 40 | $513.30 | $497.00 | -$652.05 | -3.18% | $467.16 (10% trail) | $519.07 |
+| RTX | 115 | $174.65 | $188.54 | +$1,597.35 | +7.95% | $174.75 (10% trail) | $194.17 |
+
+All three GTC trailing stops confirmed active on Alpaca.
+
+### Sell-Side Check
+- **GE $375.50 (+34.10%):** 5% trail $360.69 (HWM $379.67, 5.03% buffer). At 52-week HWM. Thesis intact (commercial aero + defense backlog $210B+). GE ex-div Jul 6 ($0.47/sh — minor). HOLD.
+- **NOC $497.00 (-3.18%):** 10% trail $467.16. -7% cut at $477.37 ($19.63 above cut). ⚠️ RBC DOWNGRADED to Sector Perform today (Jun 30), target cut $550→$480 (citing F-35 risks + lost Boeing contract). RBC $480 target is near our stop-out range. Consensus still Buy (26 buy, 15 hold). Q2 earnings Jul 21 BMO. Thesis intact but elevated watch — if NOC breaks $490, re-evaluate. HOLD.
+- **RTX $188.54 (+7.95%):** 10% trail $174.75 (HWM $194.17, 8.02% buffer). +15% tighten trigger at $200.85 ($12.31 away). Raytheon awarded $1.1B AIM-9X Block II missile contract Jun 26 — fresh catalyst. $268B backlog. Thesis strong. HOLD.
+
+### Market Context
+- **S&P 500 futures:** ~7,497-7,508, essentially flat (+0.07%)
+- **VIX:** 17.60 (neutral/low)
+- **WTI crude:** ~$70.11/bbl (US-Iran peace deal driving multi-month low)
+- **Quarter-end (Jun 30):** Window dressing and rebalancing flows — elevated intraday volatility expected; high-fliers susceptible to profit-taking
+- **Economic calendar:** Light day — Chicago PMI 9:45 AM, Consumer Confidence 10:00 AM, S&P Case-Shiller 9:00 AM; no CPI/FOMC/jobs
+- **Earnings today:** Nike (NKE) AMC, Constellation Brands AMC — not relevant to our positions
+- **Sector YTD:** Industrials +14.1% (our core), Energy +23.3% (BANNED), Tech -3.3%
+- **Macro tailwind:** JPMorgan raised S&P year-end target to 7,800; AI infrastructure investment supercycle narrative intact; $1.5T defense budget supports GE/RTX/NOC
+
+### Trade Ideas
+
+**GEV (GE Vernova) — CONDITIONAL TRADE**
+- **Catalyst:** AI power infrastructure demand ($163.3B backlog, +Q1 rev $18.3B). GEV closed Jun 29 at $1,102.51 (above $1,090 trigger for today's entry).
+- **Pre-market alert:** GEV trading ~$1,044-$1,073 pre-market Jun 30 (VWAP ~$1,059), down ~4-5% from yesterday's close. No specific negative catalyst found — likely quarter-end profit-taking on a high-beta name (52-week range $482-$1,182).
+- **Sector:** Industrials — no consecutive failures, momentum intact
+- **Stop:** 10% trailing GTC immediately after fill
+- **Target:** Analyst avg PT $1,211.72 (+14% from ~$1,060 entry = ~1.4:1 R:R vs 10% stop — below 2:1 minimum)
+- **Gate check:** Positions 3→4 ≤ 6 ✓ | Week trades 0→1 ≤ 3 ✓ | 18sh × ~$1,055 = $18,990 ≤ 20% equity ✓ | Cash $43,413 ✓ | PDT 0/3 ✓ | Catalyst documented ✓ | Stock ✓
+- **Entry protocol for market-open routine:** (a) If GEV opens ≥$1,090 → execute limit at $1,090-$1,100, 18 shares. (b) If GEV opens $1,045-$1,089 → consider limit at open price +$5 only if no fresh negative news; if R:R still acceptable. (c) If GEV opens below $1,044 or negative fundamental news surfaces → SKIP, log reason.
+- **Deployment impact:** Post-GEV, deployment ~78.6% (within 75-85% target band).
+
+### Risk Factors
+- **GEV pre-market gap-down:** ~4-5% drop without confirmed catalyst. Quarter-end selling likely but could signal something missed. Market-open routine must verify no news before executing.
+- **NOC RBC downgrade:** RBC cut to Sector Perform/$480 target today. Adds downside pressure; $477 stop level could test. Q2 earnings Jul 21 is 3 weeks away — thesis needs to hold that long.
+- **Quarter-end volatility:** All positions exposed to rebalancing flows; high-fliers (GE at HWM) may see profit-taking.
+- **RTX approaching +15% tighten:** $200.85 trigger still $12.31 away but accelerating — will trigger within 1-2 weeks at current pace.
+- **Energy sector ban:** Remains in effect (CVX + XOM both failed).
+
+### Decision
+**CONDITIONAL TRADE — GEV 18 shares at market-open.** Core AI power thesis intact, deployment gap is real (60.5% → ~78.6% post-GEV). Pre-market weakness is concerning but appears quarter-end driven, not fundamental. Market-open routine makes final call on entry level based on live open price. All other positions HOLD — NOC elevated watch on RBC downgrade but not close enough to -7% cut level to act pre-market.
+
+---
+
 ## 2026-06-04 — Pre-market Research (Day 30, Thursday — Week 7) [inline at market-open]
 
 ### Account
