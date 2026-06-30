@@ -2036,3 +2036,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $110,325.38 | **Cash:** $43,413.36 (39.4%) | **Long MV:** $66,912.02 (60.6% deployed — ⚠️ below 75–85%) | **Day P&L:** +$489.70 (+0.45%) | **Phase P&L:** +$10,325.38 (+10.33%)
 **Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **No Slack sent.**
 **Key watch EOD/Wed Jul 1:** GEV — post-earnings consolidation. If settles $1,090–$1,100 range with vol cooling, re-evaluate entry next week with fresh R:R check using updated analyst targets. NOC recovering well today (+2.07%) — thesis intact. GE watch for new ATH close (briefly touched $380 ask-side today; would ratchet GE stop up from $360.69 to $361+). RTX +15% tighten threshold at $200.85 — still 6.5% away.
+
+---
+
+### Jun 30 — EOD Snapshot (Day 48, Tuesday — Week 11 Day 2)
+**Portfolio:** $110,294.98 | **Cash:** $43,413.36 (39.4%) | **Day P&L:** +$490.26 (+0.45%) | **Phase P&L:** +$10,294.98 (+10.29%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $371.28 | -0.65% | +$6,114.42 (+32.59%) | $360.69 (5% trail, HWM $379.67) 2.85% buffer ⚠️ |
+| NOC | 40 | $513.30 | $505.06 | +1.82% | -$329.65 (-1.61%) | $467.163 (10% trail, HWM $519.07) 7.51% buffer |
+| RTX | 115 | $174.65 | $189.47 | +1.14% | +$1,704.30 (+8.49%) | $174.753 (10% trail, HWM $194.17) 7.77% buffer |
+
+**Notes:** Day 48, Tuesday, Week 11 Day 2. No trades today. Solid close to Week 11 Day 2 / end of Q2. GE gave back -0.65% to $371.28 — 5% trailing stop at $360.69 provides 2.85% buffer, below the 3% comfort zone but stop cannot be moved per rules. NOC recovered strongly +1.82% to $505.06, pulling unrealized loss from -3.56% (Monday) to -1.61%; -7% cut at $477.37 now $27.69 (5.49%) away — healthier. RTX advanced +1.14% to $189.47, +8.49% from entry; approaching +15% tighten threshold at $200.85 (5.9% away). GEV entry skipped: post-earnings R:R fails 2:1 minimum at updated Wells Fargo $1,259 PT. Cash $43,413.36 (39.4%), deployment 60.6% — below 75–85% target; no new position candidates cleared Buy-Side Gate today. All three GTC trailing stops active and unchanged.
+
+**Portfolio (EOD):** $110,294.98 | **Cash:** $43,413.36 (39.4%) | **Long MV:** $66,881.62 (60.6% deployed) | **Day P&L:** +$490.26 (+0.45%) | **Phase P&L:** +$10,294.98 (+10.29%)
+**Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Wed Jul 1:** RTX approaching +15% tighten threshold at $200.85 (5.9% away). GE stop buffer tight 2.85% — monitor closely. NOC recovery continuing; Q2 earnings Jul 21. GEV post-earnings consolidation — re-evaluate entry next week if price settles and vol cools.
