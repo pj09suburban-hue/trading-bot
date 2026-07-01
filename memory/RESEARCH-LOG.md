@@ -4,6 +4,100 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-07-01 — Pre-Market Research (Day 49, Wednesday — Week 11 Day 3)
+
+### Account Snapshot
+- **Equity:** $110,646.83 | **Cash:** $43,413.36 (39.2%) | **Long MV:** $67,233.47 (60.8% deployed ⚠️ below 75–85%)
+- **Phase P&L:** +$10,646.83 (+10.65%)
+- **Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+| Ticker | Shares | Avg Entry | Pre-Mkt | Unreal P&L | % | Stop | HWM | Buffer |
+|--------|--------|-----------|---------|------------|---|------|-----|--------|
+| GE | 67 | $280.02 | $373.01 | +$6,230 | +33.21% | $360.69 (5% trail) | $379.67 | 3.30% ⚠️ |
+| NOC | 40 | $513.30 | $509.31 | -$160 | -0.78% | $467.163 (10% trail) | $519.07 | 8.28% |
+| RTX | 115 | $174.65 | $190.17 | +$1,785 | +8.89% | $174.753 (10% trail) | $194.17 | 8.11% |
+
+### Market Context
+- **WTI:** $69.31 (-0.19%) — well below Iran-war peak; energy sector excluded
+- **S&P 500 futures (ESU26):** 7,545.50 (-0.04%) — cautious Q3 open; investors awaiting Fed Chair Warsh remarks
+- **VIX:** 17.54 open (prev close 16.45) — modest fear tick at Q3 start, settling intraday
+- **Sector momentum YTD:** Industrials +14.1% (Leading ✓), Energy +23.3%, Materials +17.4%, Tech -3.3% (Lagging)
+- **JPM raised S&P 500 target to 7,800** (+5% from current) — "Blue Sky" scenario with US-Iran resolution in sight
+- **Fed rate hike September** now priced in after Warsh signals inflation focus — headwind for equities
+
+### Today's Economic Calendar (Jul 1)
+| Time | Release | Notes |
+|------|---------|-------|
+| 8:15 AM | ADP Employment (private payrolls) | Lead-in to Thursday Jobs Report |
+| 8:30 AM | Durable Goods Orders (May) | Industrial demand indicator |
+| 9:00 AM | Construction Spending (May) | |
+| 9:00–10:00 AM | ISM Manufacturing PMI + Prices | Key manufacturing read |
+| 1:00 PM | FOMC Minutes (Jun 12–13 meeting) | Hawkish surprise risk |
+- **Tomorrow (Jul 2):** June Jobs Report (NFP) — dominant event for the week
+- **Jul 4:** Independence Day — markets closed; liquidity thin Thu/Fri
+
+### Earnings (Jul 1)
+- Pre-market: GIS, FDS, MSM, UNF — no market-moving names for our sector
+- After-close: GBX (Greenbrier)
+
+### Position Thesis Check
+**GE (+33.21%, stop buffer 3.30%):**
+- Thesis intact: $170–210B backlog, commercial aerospace supercycle, defense +19% YoY
+- ⚠️ GE has now EXCEEDED avg analyst PT of $348.22 — trading at $373, high target $405 (+8.6%)
+- Ex-dividend Jul 6 ($0.47/share = $31.49 for 67 shares) — small tailwind next week
+- Farnborough Airshow (mid-July) — order flow catalyst upcoming; 650 engines ordered Q1
+- Stop buffer 3.30% (stop $360.69): any session gap-down >3.3% triggers auto-exit
+- Pre-market ES flat (-0.04%) → manageable risk today; watch VIX + ADP at 8:15 AM
+- **Action: HOLD**
+
+**NOC (-0.78%, improving, stop buffer 8.28%):**
+- $312.34M Navy electronic warfare contract modification (Jun 29) — fresh positive catalyst ✓
+- RBC upgraded to Outperform (Jun 29, just happened) — analyst sentiment turning
+- Q2 earnings Jul 21 (~3 weeks) | $95.6B backlog | Full-year guidance $43.5–44B sales, EPS $27.40–$27.90
+- SimplyWallSt estimates 25.2% undervalued vs fair value $696.95
+- -7% cut at $477.37 (current $509 → 6.2% buffer, adequate)
+- **Action: HOLD — thesis strengthening**
+
+**RTX (+8.89%, stop buffer 8.11%):**
+- ⚡ **Q2 earnings CORRECTION: Jul 23** (RTX confirmed via press release Jun 30; prior log had Jul 28)
+- Analyst consensus PT $211.38 (11.5% upside); high target $240
+- $271B backlog, operating income +21% Q1, margins 13% (best 8 qtrs)
+- +15% tighten threshold at $200.85 — RTX at $190.17, needs +5.6% to trigger
+- **Action: HOLD — earnings in 3 weeks, thesis intact**
+
+### Trade Ideas
+**Idea 1 — HOLD: No new entries today**
+- Economic catalyst day (ADP + ISM + FOMC minutes) → wait for data clarity
+- Jobs Report tomorrow → elevated tail risk; do not add before Thursday print
+- Holiday week liquidity (Jul 4) → wider spreads, faster stop runs
+
+**Idea 2 — Scout 4th position post-Jobs-Report (Week 11 target)**
+- Deployment 60.8% → need ~$15–24K more to reach 75–85% target
+- Industrials sector (XLI +14.1%) = primary hunting ground
+- Candidates for research: LHX, AXON, or AI infrastructure/electrical plays
+- No entry until: (1) Jobs Report clears Thursday, (2) full catalyst document built
+
+**Idea 3 — AVGO watch (not today)**
+- Sold off ~12% on strong print (record $22.2B rev, +143% AI chip growth) — punished for no raised guidance
+- Tech sector LAGGING (-3.3% YTD) → fails sector momentum gate
+- Post-earnings 7% stop rule applies; R:R marginal → SKIP this week
+
+### Risk Factors
+1. **GE stop buffer 3.30%:** Any gap-down >3.3% triggers auto-exit — watch ADP 8:15 AM
+2. **FOMC Minutes 1 PM:** Hawkish surprise = potential afternoon selloff
+3. **Jobs Report tomorrow (Jul 2):** Do NOT add new positions pre-print
+4. **Rate hike September:** Multiple compression risk; headwind for extended valuation names
+5. **RTX earnings Jul 23 (NOT Jul 28):** Less runway than previously logged
+6. **Holiday liquidity:** Thin order flow Thu–Fri → wider intraday swings
+
+### Decision
+**HOLD — no new entries today**
+- All 3 thesis intact, all stops active
+- Economic data day + pre-Jobs caution = sit tight
+- Scout 4th Industrials position after Jobs data clears Thursday
+
+---
+
 ## 2026-06-30 — Pre-market Research (Day 48, Tuesday — Week 11)
 
 ### Account
