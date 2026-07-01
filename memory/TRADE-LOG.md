@@ -2085,3 +2085,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $111,503.48 | **Cash:** $43,413.36 (38.9%) | **Long MV:** $68,090.12 (61.1% deployed — ⚠️ below 75–85%) | **Day P&L:** ~+$858 (+0.78%) | **Phase P&L:** +$11,503.48 (+11.50%) — new phase high ✓
 **Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **No Slack sent.**
 **Key watch:** RTX +15% tighten trigger $200.85 now $9.45 away. NOC new HWM — stop auto-tracking upward. GE buffer 3.97% — healthy. Jobs Report tomorrow (Jul 2): do NOT add before Thursday print. Scout 4th position post-NFP if momentum setup emerges in Industrials (LHX, AXON candidates).
+
+---
+
+### Jul 01 — EOD Snapshot (Day 49, Wednesday — Week 11 Day 3)
+**Portfolio:** $111,164.71 | **Cash:** $43,413.36 (39.1%) | **Day P&L:** +$520.09 (+0.47%) | **Phase P&L:** +$11,164.71 (+11.16%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $373.84 | +0.03% | +$6,285.94 (+33.51%) | $360.69 (5% trail, HWM $379.67) 3.52% buffer |
+| NOC | 40 | $513.30 | $518.46 | +1.80% | +$206.35 (+1.01%) | $472.78 (10% trail, HWM $525.31 ⭐) 8.82% buffer |
+| RTX | 115 | $174.65 | $190.86 | +0.59% | +$1,863.58 (+9.28%) | $174.75 (10% trail, HWM $194.17) 8.44% buffer |
+
+**Notes:** Day 49, Wednesday, Week 11 Day 3. No trades today. Quiet consolidation — all three positions green intraday. NOC set a new all-time high $525.31 (up from $523.42 at midday), stop auto-ratcheted to $472.78; cumulative P&L flipped decisively positive (+1.01%). GE held $373.84 after yesterday's soft close at $371.28 — HWM still $379.67, buffer rebuilt to 3.52%. RTX +9.28% from entry, +15% tighten trigger at $200.85 is $9.99 (5.24%) away. Jobs Report (NFP) tomorrow Jul 2 — holding off new entries until post-print. All three GTC trailing stops active and self-managing.
+
+**Portfolio (EOD):** $111,164.71 | **Cash:** $43,413.36 (39.1%) | **Long MV:** $67,751.35 (60.9% deployed) | **Day P&L:** +$520.09 (+0.47%) | **Phase P&L:** +$11,164.71 (+11.16%)
+**Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Thu Jul 2:** NFP Jobs Report — if constructive, scout 4th position in Industrials (LHX, AXON candidates). RTX +15% tighten trigger at $200.85 (5.24% away). NOC new HWM momentum. GE buffer 3.52% — healthy.
