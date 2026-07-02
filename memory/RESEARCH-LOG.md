@@ -3165,3 +3165,78 @@ All 3 GTC trailing stops active and self-managing. ✓
 - **Watch next week:** If GEV consolidates $1,060–$1,100 after earnings vol settles, re-evaluate with updated PT and post-earnings stop rule.
 
 **Position updates (Jun 30 midday):** GE -0.35% (normal; briefly tested $380 ask = potential new ATH). NOC +2.07% recovering strongly; -7% cut $477.37 now $28.93 (5.7%) away — buffer rebuilt from yesterday's tight $17.64. RTX +0.68%. All thesis intact, all stops active. No trades executed.
+
+## 2026-07-02 — Pre-Market Research (Day 50, Thursday — Week 11 Day 4)
+
+### Account Snapshot
+- **Equity:** $111,499.76 | **Cash:** $43,413.36 (39.1%) | **Long MV:** $68,086.40 (61.1% deployed ⚠️ below 75–85%)
+- **Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+### Positions (premarket)
+| Symbol | Shares | Entry | Premarket | Unreal P&L | % | Stop | HWM | Buffer | Alert |
+|---|---|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | ~$376.09 | +$6,437 | +34.31% | $360.69 (5% trail) | $379.67 | ~4.1% | Ex-div Jul 6 ($0.47); Q2 earnings Jul 16 |
+| NOC | 40 | $513.30 | ~$520.00 | +$268 | +1.30% | $472.78 (10% trail) | $525.31 | ~8.8% | Q2 earnings Jul 21 |
+| RTX | 115 | $174.65 | ~$192.07 | +$2,003 | +9.97% | $174.75 (10% trail) | $194.17 | ~9.0% | Q2 earnings Jul 23; ⚠️ GTC stop expires Jul 24 — RENEW BEFORE JUL 23 |
+
+**⚠️ CRITICAL ALERT — RTX stop order 8a67337a expires 2026-07-24.** Q2 earnings print Jul 23. Stop covers earnings day but lapses day after. Market-open routine must replace this order before Jul 24. Suggest: cancel 8a67337a and place new 10% trailing stop GTC ASAP.
+
+**+15% tighten triggers:** GE already at 5% (max). NOC at +1.30% → trigger at $590.30 (not reached). RTX at +9.97% → trigger at $200.85 ($8.78 / 4.6% away).
+
+### Market Context
+- **WTI crude:** ~$68.18 (-0.58%); **Brent:** ~$71.57 — down 20%+ in June; Iran peace talks progressing well (US-Iran Qatar talks). Oil weakness supports equities, reduces defense supply-chain pressure.
+- **S&P 500 futures:** +0.14% (~7,554); cautiously positive to start Q3. Q3 futures opened lower on Jul 1 (-0.27%) then recovered.
+- **VIX:** 17.05 (slightly elevated; Jun avg 18.63; Jul 22 futures 17.95) — moderate anxiety, not fear.
+- **NFP June Jobs Report:** ⭐ Releases TODAY 8:30 AM ET (same as market open). Consensus 110–114K vs prior 172K. Unemployment rate forecast 4.3% unchanged. Three consecutive beats vs consensus prior months. A beat (≥150K) = rate hike risk; a miss (<80K) = recession fears. Market-open routine assesses live.
+- **Earnings today:** Lindsay (LNN) — small-cap agricultural equipment, not market-moving. No major S&P 500 earnings today.
+- **Holiday note:** Jul 3 (Friday) = likely early market close 1 PM ET (Jul 4 falls on Saturday). Lower liquidity tomorrow; size/spread risk on any new position.
+
+### Sector Momentum (YTD 2026)
+- Industrials: **+14.1%** — "Leading" quadrant (AI data center buildouts, defense spending, reshoring) ✓
+- Energy: +23.3% — strong but oil -20% from peak; no new entries per prior rule
+- Materials: +17.4% | Consumer Staples: +15.6%
+- Info Tech: **-3.3%** — "Lagging" (Great Rotation away from mega-cap tech)
+- Defense (Industrials sub): Positive; $87.6B supplemental war budget active tailwind
+
+### Position Thesis Check
+- **GE:** Thesis intact. Citi raised PT to $431 (Jul 1, from $353) — most bullish upgrade in weeks. Mean analyst PT $351 (stock has run past consensus; Citi highest target). Orders +87% Q1. Ex-dividend Jul 6 ($0.47 × 67 shares = $31.49). Q2 earnings Jul 16 (2 weeks). 5% trail cannot be tightened further per rules. HOLD.
+- **NOC:** Thesis intact. Avg analyst PT $698.37 (+34% from $520). Citi lowered PT to $587 (still +13% upside) on Q1 cash burn concerns. Jefferies $580 (Hold). BTIG $815, Morgan Stanley/UBS/RBC $745–$750. Q2 earnings Jul 21. -7% cut at $477.37 ($42.63 / 8.2% below current — safe buffer). HOLD.
+- **RTX:** Thesis intact. Jefferies upgraded to Buy $220 (Jun 4). Avg PT $211–215 (+10–14% upside from $192). Q2 earnings Jul 23. RTX Q2 report: FCF guided $8.25–$8.75B 2026, EPS $6.70–$6.90. Morgan Stanley $235 Overweight. HOLD. ⚠️ Renew GTC stop before Jul 24.
+
+### Trade Ideas
+**Idea 1 — TRADE-conditional: LHX (4th position) post-NFP**
+- **Catalyst today:** Record Q1 2026 metrics: $40.7B backlog (all-time high), 1.4x book-to-bill, 12% revenue growth; $1B DoD direct investment in Missile Solutions (hypersonic/propulsion); $87.6B supplemental defense budget tailwind; Industrials sector leading YTD.
+- **Sector check:** Industrials +14.1% YTD, "Leading" quadrant ✓
+- **Entry:** ~$292–296 at market open post-NFP (last close $292.23). Do NOT enter pre-NFP print. Market-open routine to verify live quote via `bash scripts/alpaca.sh quote LHX` and confirm price within 3% of $292.
+- **Shares:** 76 shares × $292 = $22,192 (19.9% of $111,499 equity ✓). After fill: $111,499 – $22,192 cash used; total positions 4/6.
+- **Stop:** 10% trailing GTC. Initial stop ~$263 (10% below $292). -7% manual cut: $271.76.
+- **Target:** $392 (median analyst consensus, low end of analyst range; Bernstein $405, Citi $418, JPM $395). From $292 → +34.2% / R:R = 3.4:1 ✓ (exceeds 2:1 minimum)
+- **PDT check:** DT count 0 (<3) ✓
+- **Condition to enter:** NFP ≥ 100K AND market reaction constructive (S&P flat to up in first 5 minutes) AND LHX quote $290–$300 (not gapped >3% vs research price).
+- **Pass condition:** NFP < 80K OR market sell-off on print OR LHX gapped >3% above $292 → HOLD, wait for next week.
+- **LHX Q2 earnings:** Not confirmed, likely late July (Q1 was Apr 30). Market-open routine should check earnings date before entering.
+
+**Idea 2 — HOLD (default if NFP disappoints)**
+- All 3 positions thesis-intact, stops active.
+- Holiday-shortened week (Jul 3 early close, Jul 4 closed) → elevated gap risk on new position.
+- No catalyst to force a trade if macro print is weak.
+
+**Idea 3 — RTX stop renewal (action required regardless of decision)**
+- RTX GTC order 8a67337a expires 2026-07-24. Must renew regardless of whether LHX trade is made.
+- Action: Market-open routine to cancel order 8a67337a and place new 10% trailing stop GTC on RTX (115 shares).
+
+### Risk Factors
+1. **NFP binary:** Consensus 110–114K. Beat >150K = rate hike bets; miss <80K = recession fear. Intraday vol spike at 8:30 AM ET.
+2. **Holiday liquidity (Jul 3 early close):** Any new position held over Jul 3–4 weekend faces gap risk. Size accordingly.
+3. **GE earnings proximity (Jul 16):** 2 weeks away. GE at $376, above mean analyst PT ($351) — stretched valuation. 5% trail provides only 4.1% buffer; any gap-down on pre-earnings softness risks stop-out.
+4. **RTX stop expiry (Jul 24):** CRITICAL. Must renew before Q2 earnings Jul 23. If forgotten, position unprotected during volatility.
+5. **NOC Q2 execution risk:** Citi/Jefferies PT cuts reflect Q1 cash burn and Space Systems charge. Q2 earnings Jul 21 — if cash flow miss recurs, thesis weakens. -7% cut at $477.37 remains primary risk gate.
+6. **LHX Q2 earnings unknown date:** Research not definitive on Q2 date. Market-open routine must verify before entering. If Q2 ≤ 3 days away, do not enter.
+7. **Market broadening vs rotation risk:** Morgan Stanley warns liquidity tightening into July may create headwinds. VIX futures at 17.95 vs spot 17.05 = slight term structure steepening (modest concern).
+
+### Decision
+**TRADE-conditional — LHX (76 shares ~$22,200) IF NFP constructive; otherwise HOLD**
+- Condition: NFP ≥ 100K + market flat-to-up at open + LHX quote $290–$300 + LHX Q2 earnings confirmed >3 days away
+- All 3 current positions: HOLD regardless. Thesis intact, stops active.
+- **Action regardless:** Market-open routine must renew RTX GTC stop (cancel 8a67337a, replace with new 10% trail GTC).
+- Deployment 61.1% → LHX would push to ~81% (within 75–85% target ✓)
