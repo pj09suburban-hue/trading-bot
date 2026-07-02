@@ -2102,3 +2102,23 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (EOD):** $111,164.71 | **Cash:** $43,413.36 (39.1%) | **Long MV:** $67,751.35 (60.9% deployed) | **Day P&L:** +$520.09 (+0.47%) | **Phase P&L:** +$11,164.71 (+11.16%)
 **Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Thu Jul 2:** NFP Jobs Report — if constructive, scout 4th position in Industrials (LHX, AXON candidates). RTX +15% tighten trigger at $200.85 (5.24% away). NOC new HWM momentum. GE buffer 3.52% — healthy.
+
+---
+
+## 2026-07-02 — Market-Open (Day 50, Thursday — Week 11 Day 4)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-07-02 | LHX | SKIP | — | — | — | NFP +57K vs 114K consensus — gate requires NFP ≥ 100K; condition not met. Market reaction paradoxically positive (+0.29% S&P futures, dovish-Fed read) but NFP gate is a hard rule. LHX Q2 earnings Jul 23 (21d away ✓) | — | — |
+
+**RTX GTC stop renewal (action, not a trade):**
+- Cancelled expiring order 8a67337a (expires Jul 24 — day after Q2 earnings Jul 23)
+- Placed new 10% trailing stop GTC: order 6eaef0b9 | HWM $192.40 | stop $173.16 | expires Sep 30 ✓
+- Note: HWM stepped down slightly from $194.17 (old) to $192.40 (pre-market price at placement); stop $173.16 vs prior $174.75 — minor, acceptable, position still fully protected
+
+**Week 11 trades:** 0/3 (no buy trades) | **Open positions:** 3/6 | **Deployed:** ~$68,123 / $111,537 (61.1% — ⚠️ below 75–85%)
+
+**Trailing stop status (live GTC orders):**
+- GE: order 94b1a703 active, 5% trail, HWM $379.67, stop $360.69, exp Sep 10 ✓
+- NOC: order 1f9ffa17 active, 10% trail, HWM $525.31, stop $472.78, exp Sep 18 ✓
+- RTX: order 6eaef0b9 active (renewed), 10% trail, HWM $192.40, stop $173.16, exp Sep 30 ✓
