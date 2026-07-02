@@ -2122,3 +2122,33 @@ No positions yet. Bot launches tomorrow.
 - GE: order 94b1a703 active, 5% trail, HWM $379.67, stop $360.69, exp Sep 10 ✓
 - NOC: order 1f9ffa17 active, 10% trail, HWM $525.31, stop $472.78, exp Sep 18 ✓
 - RTX: order 6eaef0b9 active (renewed), 10% trail, HWM $192.40, stop $173.16, exp Sep 30 ✓
+
+---
+
+## 2026-07-02 — Midday Scan (Day 50, Thursday — Week 11 Day 4)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $377.155 | +$6,508.05 | +34.69% | +0.59% | $363.82 (5% trail) | $382.97 ⭐ | 3.54% | HOLD |
+| NOC | $513.30 | $541.435 | +$1,125.35 | +5.48% | +4.13% | $489.83 (10% trail) | $544.26 ⭐ | 9.53% | HOLD |
+| RTX | $174.65 | $197.21 | +$2,594.40 | +12.92% | +2.83% | $177.99 (10% trail) | $197.77 | 9.74% | HOLD ⚠️ approaching +15% |
+
+**Cut losers (-7%):** None. GE cut $260.42, NOC cut $477.37 (current $541.44 — $64.07 / 11.8% above), RTX cut $162.42. All clear.
+
+**Stop tightening (+15%/+20%):** None. GE already at 5% trail (max). NOC +5.48% (trigger $590.30 — $48.86 / 9.0% away). RTX +12.92% (trigger $200.85 — $3.64 / 1.84% away ⚠️). No tightening triggered today.
+
+**Trailing stop status (live GTC orders — self-ratcheted):**
+- GE: order 94b1a703 | 5% trail | HWM $382.97 (new ATH ⭐) | stop $363.8215 | current $377.155 | 3.54% buffer ✓
+- NOC: order 1f9ffa17 | 10% trail | HWM $544.26 (new high ⭐) | stop $489.834 | current $541.435 | 9.53% buffer ✓
+- RTX: order 6eaef0b9 | 10% trail | HWM $197.77 | stop $177.993 | current $197.21 | 9.74% buffer ✓
+
+**Thesis check:**
+- GE: +34.69%, +0.59% today. HWM updated to $382.97 (new ATH for position). 5% stop at $363.82 self-ratcheting correctly. Ex-div Jul 6 ($0.47 × 67 = $31.49). Q2 earnings Jul 16 (2 weeks). Thesis intact. HOLD.
+- NOC: +5.48%, +4.13% intraday — strong surge. Perplexity confirmed multiple catalysts: $1.5T FY2027 defense budget proposal (+44% increase); $1.7B Patriot contract to Spain; $1.1B IM9X missile contract through 2028; $300M Roman 2 missile assembly contract; Morgan Stanley upgraded defense sector to Attractive, named NOC top pick, raised PT $580→$625; B-21 production rate +25% under new Air Force agreement. All thesis-positive. New HWM $544.26 — stop auto-ratcheted to $489.83. Q2 earnings Jul 21. Thesis strengthening. HOLD.
+- RTX: +12.92%, +2.83% today. Riding defense sector tailwind (same budget/sector upgrade catalysts). HWM $197.77; stop $177.99. RTX +15% tighten trigger at $200.85 — only $3.64 (1.84%) away. If RTX closes above $200.85 any session, tighten trail to 7%. Q2 earnings Jul 23. Thesis intact. HOLD.
+
+**No action taken.** All three GTC trailing stops active and self-managing. No Slack sent (no action = no notification per rules).
+
+**Portfolio (midday):** $113,062.85 | **Cash:** $43,413.36 (38.4%) | **Long MV:** $69,649.49 (61.6% deployed — ⚠️ below 75–85%) | **Day P&L:** +$1,675.81 (+1.50%) | **Phase P&L:** +$13,062.85 (+13.06%) ⭐ new phase high
+**Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **No Slack sent.**
+**Key watch:** RTX +15% tighten trigger $200.85 — $3.64 away; next session could trigger. GE ATH watch — any new ATH above $382.97 auto-ratchets 5% stop. NOC Q2 earnings Jul 21 (defensive hold OK, thesis intact and strengthening). LHX remains 4th position candidate — re-evaluate next week if NFP revision or fresh catalyst emerges. Holiday early close tomorrow Jul 3 (1 PM ET); Jul 4 markets closed.

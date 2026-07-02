@@ -3240,3 +3240,19 @@ All 3 GTC trailing stops active and self-managing. ✓
 - All 3 current positions: HOLD regardless. Thesis intact, stops active.
 - **Action regardless:** Market-open routine must renew RTX GTC stop (cancel 8a67337a, replace with new 10% trail GTC).
 - Deployment 61.1% → LHX would push to ~81% (within 75–85% target ✓)
+
+### Afternoon Addendum (Midday Scan — Jul 2)
+**LHX outcome:** Skipped. NFP +57K vs 114K consensus — gate failed (require ≥100K). RTX GTC stop renewed per plan (new order 6eaef0b9, HWM $192.40, stop $173.16, exp Sep 30).
+
+**NOC +4.13% intraday — Perplexity confirmed multiple catalysts:**
+- $1.5T FY2027 defense budget proposal (44% increase, Cold War-level spending)
+- $1.7B Patriot contract to Spain; $1.1B IM9X missile contract (through 2028); $300M Roman 2 missile assembly contract
+- Morgan Stanley upgraded defense sector to Attractive, NOC named top pick, PT raised $580→$625
+- B-21 production rate +25% under new Air Force agreement
+- NOC new HWM $544.26; stop auto-ratcheted to $489.83 (9.53% buffer). Thesis confirmed and strengthening.
+
+**RTX +2.83% intraday:** Riding same defense sector tailwind. HWM $197.77; +12.92% from entry. +15% tighten trigger at $200.85 — only $3.64 (1.84%) away. First session it closes ≥$200.85 → cancel 6eaef0b9 and replace with 7% trailing stop GTC. Q2 earnings Jul 23.
+
+**GE +0.59% intraday:** New ATH $382.97 (stop auto-ratcheted to $363.82). Ex-div Jul 6. Q2 earnings Jul 16.
+
+**Portfolio:** $113,062.85 | Day P&L: +$1,675.81 (+1.50%) | Phase P&L: +$13,062.85 (+13.06%) ⭐ new phase high. Deployed 61.6% — ⚠️ below 75–85%; LHX remains top 4th-position candidate for Mon Jul 7 (post-holiday).
