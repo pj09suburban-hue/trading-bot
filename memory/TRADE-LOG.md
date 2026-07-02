@@ -2152,3 +2152,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $113,062.85 | **Cash:** $43,413.36 (38.4%) | **Long MV:** $69,649.49 (61.6% deployed — ⚠️ below 75–85%) | **Day P&L:** +$1,675.81 (+1.50%) | **Phase P&L:** +$13,062.85 (+13.06%) ⭐ new phase high
 **Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **No Slack sent.**
 **Key watch:** RTX +15% tighten trigger $200.85 — $3.64 away; next session could trigger. GE ATH watch — any new ATH above $382.97 auto-ratchets 5% stop. NOC Q2 earnings Jul 21 (defensive hold OK, thesis intact and strengthening). LHX remains 4th position candidate — re-evaluate next week if NFP revision or fresh catalyst emerges. Holiday early close tomorrow Jul 3 (1 PM ET); Jul 4 markets closed.
+
+---
+
+### Jul 02 — EOD Snapshot (Day 50, Thursday — Week 11 Day 4)
+**Portfolio:** $113,296.97 | **Cash:** $43,413.36 (38.3%) | **Day P&L:** +$1,909.93 (+1.71%) | **Phase P&L:** +$13,296.97 (+13.30%) ⭐ new phase high
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $376.99 | +0.55% | +$6,496.99 (+34.63%) | $363.82 (5% trail, HWM $382.97, 3.49% buf) |
+| NOC | 40 | $513.30 | $544.93 | +4.80% | +$1,265.20 (+6.16%) | $491.04 (10% trail, HWM $545.60, 9.89% buf) |
+| RTX | 115 | $174.65 | $198.41 | +3.46% | +$2,732.40 (+13.60%) | $178.78 (10% trail, HWM $198.65, 9.89% buf) |
+
+**Notes:** Day 50, Thursday, last full trading session before July 4th weekend. Strong across the board — defense sector roared on the $1.5T FY2027 budget proposal and NOC/RTX sector upgrades. NOC led intraday (+4.80%), RTX +3.46% to close at $198.41 — only $2.44 (1.23%) below the +15% tighten trigger at $200.85. GE steady +0.55%, holding ATH zone (HWM $382.97). All three GTC trailing stops active and self-managing; Alpaca auto-ratcheted NOC stop to $491.04 (HWM $545.60) and RTX to $178.78 (HWM $198.65). No new trades. Week 11 trades: 0/3. Tomorrow Jul 3: early close 1 PM ET — no new entries; let stops work. Jul 4 closed. Next full session: Tue Jul 7 — RTX tighten trigger is the primary watch.
+
+**Portfolio (EOD):** $113,296.97 | **Cash:** $43,413.36 (38.3%) | **Long MV:** $69,883.61 (61.7% deployed — ⚠️ below 75–85%) | **Day P&L:** +$1,909.93 (+1.71%) | **Phase P&L:** +$13,296.97 (+13.30%) ⭐ new phase high
+**Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Tue Jul 7:** RTX +15% tighten trigger $200.85 ($2.44/1.23% away) — tighten to 7% trail if hit. GE Q2 earnings Jul 16. NOC Q2 earnings Jul 21. RTX Q2 earnings Jul 23. GE ex-div Jul 6 ($0.47 × 67 = $31.49 expected). Scout 4th position in Industrials (LHX) post-holiday if defense momentum holds.
