@@ -3256,3 +3256,67 @@ All 3 GTC trailing stops active and self-managing. ✓
 **GE +0.59% intraday:** New ATH $382.97 (stop auto-ratcheted to $363.82). Ex-div Jul 6. Q2 earnings Jul 16.
 
 **Portfolio:** $113,062.85 | Day P&L: +$1,675.81 (+1.50%) | Phase P&L: +$13,062.85 (+13.06%) ⭐ new phase high. Deployed 61.6% — ⚠️ below 75–85%; LHX remains top 4th-position candidate for Mon Jul 7 (post-holiday).
+
+---
+
+## 2026-07-03 — Pre-Market Research (Day 51, Friday — Week 11 Day 5 / HOLIDAY — MARKETS CLOSED)
+
+### Account Snapshot
+- **Equity:** $113,581.35 | **Cash:** $43,413.36 (38.3%) | **Long MV:** $70,167.99 (61.7% deployed ⚠️ below 75–85%)
+- **Daytrade count:** 0 | **Week 11 trades:** 0/3 | **Positions:** 3/6
+- **Phase P&L:** +$13,581.35 (+13.58%) ⭐ new phase high
+
+### Market Context
+- **MARKETS CLOSED** — NYSE/Nasdaq closed today in observance of Independence Day (Jul 4 falls Sat; Jul 3 observed). Next full session: **Monday Jul 6**.
+- **S&P 500 futures (overnight):** ~7,549–7,551 (+0.28–0.30%) — constructive heading into holiday
+- **VIX:** 16.68 (range 16.64–17.05); well below 20. Calm. Term structure: futures at 17.80 (Jul 22 expiry) — modest forward premium, no fear spike.
+- **WTI:** $68.36–$69.04/bbl (-0.48% on day); Brent ~$73. Oil quiet, no macro energy shock.
+- **Macro releases today:** Factory Orders (May) — data released but markets closed; no immediate market reaction. Next major data: CPI week of Jul 7.
+- **S&P / Nasdaq Q2 2026:** Best quarterly jump since 2020. Dow set new all-time closing high. AI and Industrials led. JPMorgan raised S&P 2026 target $7,200 → $7,800.
+- **Defense sector:** STRONG — Morgan Stanley upgraded to Attractive, NOC named top pick ($580→$625 PT). $1.5T FY2027 defense budget proposal (44% increase). AeroVironment (AVAV) +5% today on $500M Army contract (confirms defense still in bid).
+
+### Open Position Status
+| Symbol | Entry | Pre-Mkt | Unreal P&L | % | Stop | HWM | Buffer | Note |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $377.52 | +$6,532.50 | +34.82% | $363.82 (5% trail, order 94b1a703) | $382.97 | 3.50% | EX-DIV MON JUL 6 ($0.47/sh → $31.49 total) ✓ |
+| NOC | $513.30 | $549.01 | +$1,428.35 | +6.96% | $493.92 (10% trail, order 1f9ffa17) | $548.80 | 10.04% | Q2 earnings Jul 21 |
+| RTX | $174.65 | $199.25 | +$2,829.00 | +14.09% | $179.73 (10% trail, order 6eaef0b9) | $199.695 | 9.81% | ⚠️ +15% TIGHTEN TRIGGER $200.85 — $1.60 (0.80%) AWAY |
+
+All three trailing stops active and self-managing. No action required today (markets closed).
+
+**GE ex-div note:** Record date Jul 6 = Monday open. We hold 67 shares from before today → entitled to $31.49 dividend (paid Jul 27). GE will open slightly lower Mon (~$0.47) due to ex-div adjustment; trailing stop self-adjusts automatically. No action.
+
+**RTX CRITICAL ACTION (Market-Open Mon Jul 6):** RTX at $199.25; +15% tighten trigger at $200.85 ($1.60/0.80% away). Very likely to trigger Monday. Market-open routine MUST: if RTX open ≥$200.85 → cancel order 6eaef0b9, place new 7% trailing stop GTC (115 shares). Q2 earnings Jul 23 (17 days).
+
+### Trade Ideas for Monday Jul 6
+
+**Idea 1 — LHX (4th position) — TRADE-conditional**
+- **Catalyst:** Defense budget $1.5T FY2027; Q1 2026 revenue +12% ($5.7B), EPS +33% ($2.72); raised FY guidance $11.40–$11.60; book-to-bill 1.4x (backlog growing). BofA Buy PT $350; avg consensus PT $354.75 (+17.77% upside from $301). Sector tailwind identical to GE/NOC/RTX.
+- **Entry:** Monday open $290–$310 (closed $301.23 Jul 2 +3.08%)
+- **Sizing:** ~75 shares × $301 ≈ $22,575 (~19.9% equity ✓; cash $43,413 ✓)
+- **Stop:** 10% trailing ($270–271 area); cut at -7% = ~$280
+- **Target:** $361+ (20% from entry = 2:1 R:R ✓)
+- **Q2 earnings:** Late July (~Jul 23–30 est.) — NOT within 3 days of entry ✓; normal 10% trailing stop applies
+- **Deployment impact:** 61.7% → ~81.5% (hits 75–85% target ✓)
+- **Conditions to enter:** Defense sector open flat-to-green Monday; LHX quote $290–$310; confirm LHX Q2 earnings date >3 days away; 0/3 trades this week (week resets Mon Jul 6 if week 12 starts, else still 0/3 ✓)
+
+**Idea 2 — HOLD only (if LHX conditions not met)**
+- All 3 positions thesis-intact, stops active. If defense sector opens weak or LHX gaps above $315 (>20% of equity risk), skip and wait.
+
+**Idea 3 — HOLD + RTX stop tighten only**
+- RTX tighten is a stop management action, not a new trade.
+
+### Risk Factors
+1. **Monday gap risk:** Holiday weekend — any geopolitical surprise or weekend macro event could gap positions. All three have trailing stops in place. GE ex-div adjustment minor ($0.47).
+2. **Earnings proximity:** GE Q2 Jul 16 (13 days), NOC Q2 Jul 21 (18 days), RTX Q2 Jul 23 (20 days). Post-earnings volatility risk approaching. No action yet — but begins to concentrate risk.
+3. **LHX Q2 date uncertainty:** Perplexity says "shortly" but no confirmed date. Market-open routine must check before entry. Do NOT enter if ≤3 days before print.
+4. **Deployed 61.7% (below 75–85%):** LHX entry is needed to fix this. If skipped, stay under-deployed — acceptable if conditions are wrong.
+5. **Concentrated sector:** 4 positions in defense/aerospace if LHX added. Defense sector has had a massive run; mean reversion risk if budget headlines soften.
+6. **VIX term structure steepening slightly (17.80 fwd vs 16.68 spot):** Modest concern but below 20 — not a blocker.
+
+### Decision
+**TRADE-conditional — LHX (75 shares, ~$22,575) Monday Jul 6 IF conditions met**
+- Defense sector opens flat-to-green; LHX $290–$310; Q2 earnings >3 days confirmed
+- All 3 current positions: HOLD. Thesis intact. Stops active.
+- **RTX:** Tighten stop to 7% trail if Monday open ≥ $200.85 (market-open routine handles)
+- Note: Previous trade log said "next session Tue Jul 7" — research confirms next session is **Monday Jul 6** (observed Jul 4 holiday = Jul 3 Friday only)
