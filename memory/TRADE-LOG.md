@@ -2198,3 +2198,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $113,581.35 | **Cash:** $43,413.36 (38.3%) | **Long MV:** $70,167.99 (61.7% deployed — ⚠️ below 75–85%) | **Day P&L:** $0.00 (markets closed) | **Phase P&L:** +$13,581.35 (+13.58%) ⭐ phase high
 **Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **No Slack sent.**
 **Key watch Mon Jul 6:** RTX tighten trigger $200.85 ($1.60/0.80% away) — near-certain to trigger at open; market-open routine cancels 6eaef0b9, places 7% trail GTC. GE ex-div $0.47/sh ($31.49 total) — minor open gap, stop self-adjusts. LHX 4th position entry if defense sector opens flat-to-green and LHX $290–$310. GE Q2 earnings Jul 16, NOC Q2 Jul 21, RTX Q2 Jul 23 — earnings countdown begins.
+
+---
+
+### Jul 03 — EOD Snapshot (Day 51, Friday — Week 11 Day 5 / Holiday Early Close)
+**Portfolio:** $113,581.35 | **Cash:** $43,413.36 (38.3%) | **Day P&L:** +$284.38 (+0.25%) | **Phase P&L:** +$13,581.35 (+13.58%) ⭐ new phase high
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| GE | 67 | $280.02 | $377.52 | +0.14% | +$6,532.50 (+34.82%) | $363.82 (5% trail, HWM $382.97, 3.50% buf) |
+| NOC | 40 | $513.30 | $549.01 | +0.75% | +$1,428.35 (+6.97%) | $493.92 (10% trail, HWM $548.80, 10.04% buf) |
+| RTX | 115 | $174.65 | $199.25 | +0.42% | +$2,829.00 (+14.09%) | $179.73 (10% trail, HWM $199.695, 9.81% buf) |
+
+**Notes:** Day 51, Friday, Week 11 Day 5 — holiday shortened session (early close 1 PM ET). No trades. Quiet drift higher across the board: all three positions edged up in the brief morning window. RTX now +14.09% from entry — only $1.60 (0.80%) below the +15% tighten trigger at $200.85; near-certain to trigger at Mon Jul 7 open if defense momentum holds. GE HWM $382.97 intact, stop buffer 3.50%. NOC continued building above HWM, stop $493.92 with 10.04% cushion. Week 11 closes 0/3 trades — patience week; all thesis intact, all stops active, portfolio at a new phase high. Jul 4 markets closed. Next full session Mon Jul 7. GE ex-div Jul 6 ($0.47 × 67 = $31.49 total) — minor expected gap at open Monday, stop self-adjusts. 4th position candidate (LHX) deferred to Week 12 pending post-holiday setup confirmation.
+
+**Portfolio (EOD):** $113,581.35 | **Cash:** $43,413.36 (38.3%) | **Long MV:** $70,167.99 (61.7% deployed — ⚠️ below 75–85%) | **Day P&L:** +$284.38 (+0.25%) | **Phase P&L:** +$13,581.35 (+13.58%) ⭐ new phase high
+**Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Mon Jul 7:** RTX +15% tighten trigger $200.85 ($1.60/0.80% away) — cancel 6eaef0b9, place 7% trail GTC at open. GE ex-div gap ($0.47/sh); stop self-adjusts. Scout LHX as 4th position if defense sector opens constructive. GE Q2 earnings Jul 16, NOC Q2 Jul 21, RTX Q2 Jul 23 — earnings window approaching.
