@@ -2168,4 +2168,33 @@ No positions yet. Bot launches tomorrow.
 
 **Portfolio (EOD):** $113,296.97 | **Cash:** $43,413.36 (38.3%) | **Long MV:** $69,883.61 (61.7% deployed — ⚠️ below 75–85%) | **Day P&L:** +$1,909.93 (+1.71%) | **Phase P&L:** +$13,296.97 (+13.30%) ⭐ new phase high
 **Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
-**Key watch Tue Jul 7:** RTX +15% tighten trigger $200.85 ($2.44/1.23% away) — tighten to 7% trail if hit. GE Q2 earnings Jul 16. NOC Q2 earnings Jul 21. RTX Q2 earnings Jul 23. GE ex-div Jul 6 ($0.47 × 67 = $31.49 expected). Scout 4th position in Industrials (LHX) post-holiday if defense momentum holds.
+**Key watch Mon Jul 6:** RTX +15% tighten trigger $200.85 ($2.44/1.23% away) — tighten to 7% trail if hit. GE Q2 earnings Jul 16. NOC Q2 earnings Jul 21. RTX Q2 earnings Jul 23. GE ex-div Jul 6 ($0.47 × 67 = $31.49 expected). Scout 4th position in Industrials (LHX) post-holiday if defense momentum holds.
+
+---
+
+## 2026-07-03 — Midday Scan (Day 51, Friday — Week 11 Day 5 / HOLIDAY — MARKETS CLOSED)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $377.52 | +$6,532.50 | +34.82% | 0% | $363.82 (5% trail) | $382.97 | 3.50% | HOLD |
+| NOC | $513.30 | $549.01 | +$1,428.35 | +6.97% | 0% | $493.92 (10% trail) | $548.80 | 10.04% | HOLD |
+| RTX | $174.65 | $199.25 | +$2,829.00 | +14.09% | 0% | $179.73 (10% trail) | $199.695 | 9.81% | HOLD |
+
+**MARKET HOLIDAY — NYSE/Nasdaq closed. No price movement (change_today: 0 all positions).**
+
+**Cut losers (-7%):** None. GE +34.82%, NOC +6.97%, RTX +14.09% — all well clear. No action.
+
+**Stop tightening (+15%/+20%):** None. GE already at 5% (max). NOC +6.97% below +15% trigger ($590.30). RTX +14.09% — trigger $200.85 is $1.60 (0.80%) away. Threshold not met today. No action.
+
+**Trailing stop status (GTC orders active):**
+- GE: order 94b1a703 | 5% trail | HWM $382.97 | stop $363.82 | 3.50% buffer ✓
+- NOC: order 1f9ffa17 | 10% trail | HWM $548.80 (ratcheted up from $545.60 overnight) | stop $493.92 | 10.04% buffer ✓
+- RTX: order 6eaef0b9 | 10% trail | HWM $199.695 | stop $179.73 | 9.81% buffer ✓
+
+**Thesis check:** Markets closed — no intraday developments. All three theses intact per yesterday's close and pre-market research. Defense sector tailwinds ($1.5T FY2027 budget, MS upgrade, contract flow) unchanged heading into holiday weekend.
+
+**No action taken.** No Slack sent (no action per rules).
+
+**Portfolio (midday):** $113,581.35 | **Cash:** $43,413.36 (38.3%) | **Long MV:** $70,167.99 (61.7% deployed — ⚠️ below 75–85%) | **Day P&L:** $0.00 (markets closed) | **Phase P&L:** +$13,581.35 (+13.58%) ⭐ phase high
+**Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **No Slack sent.**
+**Key watch Mon Jul 6:** RTX tighten trigger $200.85 ($1.60/0.80% away) — near-certain to trigger at open; market-open routine cancels 6eaef0b9, places 7% trail GTC. GE ex-div $0.47/sh ($31.49 total) — minor open gap, stop self-adjusts. LHX 4th position entry if defense sector opens flat-to-green and LHX $290–$310. GE Q2 earnings Jul 16, NOC Q2 Jul 21, RTX Q2 Jul 23 — earnings countdown begins.
