@@ -641,3 +641,70 @@ Template for each entry:
 *Week 10 — flat week (+0.03%) with marginal S&P outperformance (+0.15%). LHX stop-out correctly executed; NOC entry disciplined; no rule violations. Persistent underdeployment (60% for 5th consecutive week) and zero winning exits remain structural concerns. The 2-consecutive defense sector risk (LHX fail + NOC open) is the primary binary risk entering Week 11 — if NOC stops out, mandatory exit of all defense positions including GE (+31.8%) would be a forced but rule-compliant unwinding of the portfolio's strongest thesis. C+ reflects rule compliance and marginal outperformance offset by chronic deployment shortfall and continued pattern of realized losses.*
 
 ---
+
+## Week ending 2026-07-03
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $109,779.41 |
+| Ending portfolio | $113,581.35 |
+| Week return | +$3,801.94 (+3.46%) |
+| S&P 500 week | +1.76% (7,357.49 → 7,483.24) |
+| Bot vs S&P | +1.70% |
+| Phase return | +$13,581.35 (+13.58% from $100k baseline) ⭐ new phase high |
+| Phase bot vs S&P | +9.14% (bot +13.58% vs S&P +4.44% from Apr 24 start 7,165) |
+| Trades | 0 new / 0 closed (W:0 / L:0 / open:3) |
+| Win rate | N/A — no closed trades this week (1/8 all-time = 12.5%) |
+| Best trade | NOC +9.71% week / +6.97% cumulative |
+| Worst trade | GE +2.78% week (strongest cumulative at +34.82%) |
+| Profit factor | 1.42 all-time (no change; no new closed trades) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| GE | $280.02 | $377.52 | +$6,532.50 (+34.82%) | $363.82 (5% trail, HWM $382.97) |
+| NOC | $513.30 | $549.01 | +$1,428.35 (+6.97%) | $493.92 (10% trail, HWM $548.80) |
+| RTX | $174.65 | $199.25 | +$2,829.00 (+14.09%) | $179.73 (10% trail, HWM $199.695) ⚠️ 0.80% from +15% tighten trigger |
+
+### What Worked
+- NOC reversed from -3.56% (entry wk) to +6.97% cumulative on massive defense catalysts: $1.5T FY2027 budget, Morgan Stanley upgrade to top pick ($625 PT), $1.7B Patriot + $1.1B IM9X contracts; +9.71% this week alone, validating the entry thesis
+- Defense sector call (+1.70% outperformance vs S&P +1.76%) — portfolio outperformed in a strong-market week driven purely by sector concentration
+- GEV skip decision correct: planned market-open entry (Jun 30) was pre-empted by post-earnings R:R deterioration (Wells Fargo PT cut $1,467→$1,259; R:R <2:1); avoiding a bad entry preserved cash
+- LHX skip on weak NFP (+57K vs 114K consensus) correct: gate enforced mechanically; LHX would have entered on wrong macro footing
+- RTX GTC stop proactively renewed (Jul 2) before expiry date overlap with Q2 earnings (Jul 23); stop buffer preserved at 9.81%
+- New phase high: +$13,581.35 (+13.58%) — all three positions profitable, portfolio outperforming S&P by +9.14% phase-to-date
+
+### What Didn't Work
+- Zero trades placed for 2nd consecutive week; deployment stuck at 61.7% for 6th+ straight week below 75–85% target — chronic cash drag limits alpha capture even in a winning week
+- Market-open routine failure Jun 30 (heartbeat commit exists, no work commit) left planned GEV entry unexecuted for an entire session; systemic reliability concern, not a one-off
+- GEV opportunity window closed post-routine failure: post-earnings R:R degraded same day, making the planned pre-earnings entry thesis moot but the execution failure still represents operational risk
+- No 4th position added despite three identified candidates (GEV Jun 29, LHX Jul 2) — each correctly skipped per rules but deployment gap unresolved entering Week 12
+- Concentrated sector risk: all three positions (GE, NOC, RTX) in defense/aerospace; strong week but mean-reversion risk grows with each consecutive defense-sector rally
+
+### Key Lessons
+- Defense sector ($1.5T budget + MS upgrade) can shift a multi-week laggard (NOC -3.56% → +6.97%) in 4 sessions; thesis durability in the sector is proven through a full price cycle now
+- Trailing stop system self-ratcheting correctly across all three positions simultaneously (GE 5%→new HWM, NOC 10%→$493.92, RTX 10%→$179.73) without any manual intervention; this is the system working as designed
+- RTX +14.09% entering a +15% tighten trigger (0.80% away) at holiday close: the tighten action Monday Jul 7 must be the first act of the market-open routine — any session delay risks entering the week without the correct stop in place
+- Market-open routine heartbeat gap (Jun 30) was caught from the trade log but represents a blind spot: the midday routine compensated but a missed trade cannot be undone; routine monitoring needs to flag heartbeat-without-work-commit as an alarm condition
+- Phase alpha (+9.14% vs S&P) is almost entirely MRVL ($9,484, 5 days) + GE (11 weeks patience); every other closed trade is a loss; patience and selectivity remain the only two validated edges
+
+### Adjustments for Next Week
+- **RTX:** Cancel order 6eaef0b9, place 7% trailing stop GTC at Mon Jul 7 open if RTX opens ≥$200.85 (trigger $200.85 = +15%; only $1.60 away at Jul 3 close); do not delay
+- **GE:** Q2 earnings Jul 16 (10 trading days); pre-plan thesis check; ex-div Jul 6 ($0.47 × 67 = $31.49); 5% trail protecting +30%+ of gain; no manual action
+- **NOC:** Q2 earnings Jul 21 (13 trading days); stop $493.92 (10.04% buffer); thesis strengthening; hold through earnings; monitor vs -7% cut $477.37 (12.9% away, very safe)
+- **4th position (LHX):** Scout on Monday open — defense sector open flat-to-green, LHX $290–$310, Q2 earnings confirmed >3 days away; 75 shares ~$22,575 (~19.9% equity) would bring deployment to ~81.5% (within 75–85% target); if conditions not met, wait; do not force entry
+- **Earnings countdown:** GE Jul 16, NOC Jul 21, RTX Jul 23 — beginning to concentrate earnings risk mid-month; review each thesis 2 days before each print
+
+### Overall Grade: B+
+*Week 11 — holiday-shortened (4.5 sessions). Portfolio +3.46%, outperformed S&P by +1.70% in a strong market week (+1.76% S&P). Phase high at +13.58% / +9.14% vs benchmark. Defense thesis (NOC acceleration, RTX approaching +15% trigger, GE steady) is the best-performing thesis in the phase. Zero trades for the 2nd consecutive week and deployment at 61.7% for the 6th+ consecutive week below target are the persistent structural drags. B+ reflects outperformance, new phase high, and disciplined skips on weak setups — one grade below A because chronic underdeployment and a market-open routine failure left real opportunity unrealized.*
+
+---
