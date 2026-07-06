@@ -2297,3 +2297,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $113,674.48 | **Cash:** $22,357.62 (19.7%) | **Long MV:** $91,316.86 (80.3% deployed ✓) | **Day P&L:** +$93.13 (+0.08%) | **Phase P&L:** +$13,674.48 (+13.67%)
 **Week 12 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch:** RTX +20% trigger $209.58 (4.7% away); GE Q2 earnings Jul 16 (10d); NOC Q2 Jul 21 (15d); RTX Q2 Jul 23 (17d); LHX Q2 date TBD (likely late Jul/early Aug — watch for confirmation).
+
+---
+
+## 2026-07-06 — EOD Snapshot (Day 52, Monday — Week 12 Day 1)
+
+**Portfolio:** $113,782.14 | **Cash:** $22,357.62 (19.6%) | **Day P&L:** +$200.79 (+0.18%) | **Phase P&L:** +$13,782.14 (+13.78%) ⭐ new phase high
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $379.16 | +0.43% | +$6,642.38 (+35.41%) | $363.82 (5% trail, order 94b1a703) |
+| LHX | 70 | $300.80 | $301.80 | -0.09% | +$70.26 (+0.33%) | $272.27 (10% trail, order 8e7f9bdc) |
+| NOC | 40 | $513.30 | $544.33 | -0.85% | +$1,241.15 (+6.05%) | $493.92 (10% trail, order 1f9ffa17) |
+| RTX | 115 | $174.65 | $201.12 | +0.94% | +$3,044.05 (+15.16%) | $187.46 (7% trail, order b205a209) |
+
+**Notes:** Solid close on the first day back after the July 4 holiday. LHX initiated this morning at $300.80 (70 shares); closed at $301.80, flat — thesis intact, no price action concerns day one. Defense sector mixed: GE continued its grind higher (+0.43%), RTX popped +0.94% and now sits at exactly +15.16% from entry (7% trail already in place from this morning). NOC dipped -0.85% on light volume — nothing structural. Portfolio hit a new phase high at $13,782.14 (+13.78%). Deployed at 80.4% — squarely in the 75–85% target band with LHX added. Key watch heading into tomorrow: RTX +20% trigger at $209.58 (4.2% away), GE Q2 earnings Jul 16 (10d), NOC Q2 Jul 21 (15d), RTX Q2 Jul 23 (17d). Week 12: 1/3 trades used.
+
+**Week 12 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0
