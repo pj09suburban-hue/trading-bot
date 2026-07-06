@@ -2255,3 +2255,45 @@ No positions yet. Bot launches tomorrow.
 - NOC: order 1f9ffa17 | 10% trail | HWM $548.80 | stop $493.92 | exp Sep 18 ✓
 - RTX: order b205a209 | 7% trail (tightened) | HWM $198.94 | stop $185.0142 | exp Oct 2 ✓ (new)
 - LHX: 10% trail GTC — to be placed at open by midday scan (order a8701b30 fill expected 9:30 AM ET)
+
+---
+
+## 2026-07-06 — Midday Scan (Day 52, Monday — Week 12 Day 1)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $378.83 | +$6,620.27 | +35.29% | +$87.77 (+0.35%) | $363.82 (5% trail, order 94b1a703) | $382.97 | 3.96% | HOLD |
+| LHX | $300.796 | $300.82 | +$1.66 | +0.01% | +$1.66 (+0.01%) | $271.27 (10% trail, order 8e7f9bdc — NEW) | $301.41 | 9.75% | STOP PLACED |
+| NOC | $513.30 | $544.82 | +$1,260.75 | +6.14% | -$167.60 (-0.76%) | $493.92 (10% trail, order 1f9ffa17) | $548.80 | 9.35% | HOLD |
+| RTX | $174.65 | $200.14 | +$2,930.82 | +14.59% | +$101.82 (+0.44%) | $186.37 (7% trail, order b205a209) | $200.40 | 6.88% | HOLD |
+
+**Cut losers (-7%):** None. All positions well above cut threshold.
+
+**Stop tightening (+15%/+20%):** None triggered.
+- GE +35.29% → already at 5% trail (max). No action.
+- LHX +0.01% → initial 10% trail placed today. No tightening yet.
+- NOC +6.14% → below +15% trigger ($590.30). No action.
+- RTX +14.59% → already at 7% trail (tightened at market open). +20% trigger at $209.58 not reached.
+
+**ACTION — LHX trailing stop placed:**
+- Order 8e7f9bdc | symbol: LHX | qty: 70 | 10% trailing stop GTC
+- HWM $301.41 | stop $271.27 | expires Oct 2, 2026
+- Market-open routine deferred stop placement to midday — confirmed placed ✓
+
+**Trailing stop status (all active):**
+- GE: order 94b1a703 | 5% trail | HWM $382.97 | stop $363.82 | buffer 3.96% ✓
+- LHX: order 8e7f9bdc | 10% trail | HWM $301.41 | stop $271.27 | buffer 9.75% ✓ (NEW)
+- NOC: order 1f9ffa17 | 10% trail | HWM $548.80 | stop $493.92 | buffer 9.35% ✓
+- RTX: order b205a209 | 7% trail | HWM $200.40 | stop $186.37 | buffer 6.88% ✓
+
+**Thesis check:**
+- GE: +35.29%, +0.35% intraday. Holding ATH zone. Q2 earnings Jul 16 (10d). Thesis intact. HOLD.
+- LHX: +0.01%, -0.41% from yesterday's close ($302.07 → $300.82). Flat open — defense sector not breaking down. FY2027 budget thesis / USSOCOM contract intact. HOLD.
+- NOC: +6.14%, -0.76% intraday. Normal pullback; well above stop. Defense sector tailwind intact. Q2 earnings Jul 21 (15d). HOLD.
+- RTX: +14.59%, +0.44% intraday. +20% trigger ($209.58) 4.7% away. Q2 earnings Jul 23 (17d). HOLD.
+
+**Slack sent: yes** (action taken — LHX stop placed)
+
+**Portfolio (midday):** $113,674.48 | **Cash:** $22,357.62 (19.7%) | **Long MV:** $91,316.86 (80.3% deployed ✓) | **Day P&L:** +$93.13 (+0.08%) | **Phase P&L:** +$13,674.48 (+13.67%)
+**Week 12 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch:** RTX +20% trigger $209.58 (4.7% away); GE Q2 earnings Jul 16 (10d); NOC Q2 Jul 21 (15d); RTX Q2 Jul 23 (17d); LHX Q2 date TBD (likely late Jul/early Aug — watch for confirmation).
