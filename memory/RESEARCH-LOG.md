@@ -3320,3 +3320,69 @@ All three trailing stops active and self-managing. No action required today (mar
 - All 3 current positions: HOLD. Thesis intact. Stops active.
 - **RTX:** Tighten stop to 7% trail if Monday open ≥ $200.85 (market-open routine handles)
 - Note: Previous trade log said "next session Tue Jul 7" — research confirms next session is **Monday Jul 6** (observed Jul 4 holiday = Jul 3 Friday only)
+
+## 2026-07-06 — Pre-Market Research (Day 52, Monday — Week 12 Day 1)
+
+### Account Snapshot
+- **Equity:** $113,547.16 | **Cash:** $43,413.36 (38.3%) | **Long MV:** $70,133.80 (61.7% deployed ⚠️ below 75–85%)
+- **Daytrade count:** 0 | **Week 12 trades:** 0/3 | **Positions:** 3/6
+- **Phase P&L:** +$13,547.16 (+13.55%)
+
+### Market Context
+- **S&P 500 futures:** +31.00 pts (+0.41%) at ~7,559.25 — constructive open, risk-on
+- **VIX:** 15.81 (-2.11%); opened 15.78; range 15.75–16.01; prev close 16.15 — very calm, bullish
+- **WTI:** ~$68.52/bbl (CME Aug '26); Brent ~$71.61 (Jul 3 open) — moderate, no energy shock
+- **Economic calendar today:** ISM Services (Jun) 10:00 AM ET, consensus 54.5 (no CPI/FOMC/jobs)
+- **Earnings today (pre-mkt):** None noteworthy — clear day; big earners this week: PEP + DAL Thu Jul 9
+- **Macro backdrop:** AI capex ($725B in 2026 from Google/Amazon/MSFT/Meta), defense budget $1.5T FY2027, S&P best Q2 since 2020; JPMorgan target $7,800. Fed Chair Warsh inflation-hawkish; September hike priced. CPI 4.2% (May), next print Jul 14.
+- **Sector:** Industrials +14.1% YTD (#4 leading); Energy +23.3%; Materials +17.4%. Defense/aerospace subsector is the strongest Industrials driver. Schwab/Charles: Industrials rated More Favored, defense demand "structurally stronger."
+
+### Open Position Status
+| Symbol | Entry | Pre-Mkt Quote (ask) | Unreal P&L | % | Stop | HWM | Buffer | Note |
+|---|---|---|---|---|---|---|---|---|
+| GE | $280.02 | $398.51 ask (wide PM spread) | +$6,531.16 | +34.81% | $363.82 (5% trail, order 94b1a703) | $382.97 | ~3.5% | ⚠️ EX-DIV TODAY $0.47/sh ($31.49 total); stop self-adjusts. Q2 Jul 16 (10d). |
+| NOC | $513.30 | $566.24 ask (wide PM spread) | +$1,431.15 | +6.97% | $493.92 (10% trail, order 1f9ffa17) | $548.80 | 10.04% | Q2 Jul 21 (15d). Defense tailwinds strong. |
+| RTX | $174.65 | $207.50 ask (wide PM spread) | +$2,793.35 | +13.91% | $179.73 (10% trail, order 6eaef0b9) | $199.695 | 9.81% | ⚠️ +15% TIGHTEN TRIGGER $200.85 — market-open routine MUST act if opens ≥$200.85. Q2 Jul 23 (17d). |
+
+**Note:** PM quotes are wide bid/ask (closed-market spread) from last session close Jul 2. Actual open prices will determine actions.
+
+**GE ex-div:** Record date Jul 6 today — 67 shares × $0.47 = $31.49 dividend (paid Jul 27). GE opens ~$0.47 lower; trailing stop self-adjusts per Alpaca mechanics. No action needed.
+
+**RTX critical action (market-open):** If RTX opens ≥$200.85 → cancel 6eaef0b9, place 7% trailing stop GTC (115 shares). PM ask $207.50 suggests strong gap-up possible. Likely to trigger.
+
+### Thesis Check — Existing Positions
+- **GE (+34.81%):** Q1 EPS $1.86 (+25% YoY, beat by $0.26). Trending to high end of FY guide ($7.10–$7.40). Orders +87% YoY to $23B. 5% trail at $363.82 — locked in significant profits. Thesis intact. Q2 Jul 16 — 10 days, earnings proximity risk begins to build. HOLD.
+- **NOC (+6.97%):** Q1 solid; $43.5–$44.0B FY revenue guide. Defense sector catalysts ($1.5T budget, MS upgrade PT $625, contracts: $1.7B Patriot/Spain, $1.1B IM9X, $300M Roman 2). Avg analyst PT $689 (+25.5% upside). 10% trail at $493.92 with 10% buffer. Thesis intact. HOLD.
+- **RTX (+13.91%):** Q1 adj EPS $1.78 (+21% YoY). $271B backlog ($109B defense). FY guide raised to $6.70–$6.90 EPS. Q2 est $1.66 (+6.4% YoY). Defense sector tailwind intact. Stop $179.73 HWM $199.70. Tighten trigger at $200.85 — likely hits today. HOLD (tighten at open if triggered).
+
+### Trade Ideas
+
+**Idea 1 — LHX (4th position) — TRADE-conditional**
+- **Catalyst:** $1.5T FY2027 defense budget; Q1 +15% organic rev ($5.7B), EPS $2.72 (+33%); FY guide $11.40–$11.60; book-to-bill 1.4x; $614M USSOCOM contract Jun 30. UBS Hold PT $312; consensus ~$354. Defense momentum identical to GE/NOC/RTX.
+- **Entry:** ONLY if opens $290–$310; after-hours ask $313 — needs gap-down or flat open to trigger
+- **Sizing:** ~70–75 shares × $301 ≈ $21,070–$22,575 (~18.6–19.9% equity ✓; cash $43,413 ✓)
+- **Stop:** 10% trailing stop GTC; -7% manual cut = ~$280
+- **Target:** $361+ (20% upside from $301 = 2:1 R:R ✓)
+- **Q2 earnings date:** NOT confirmed — Perplexity says "late July or early August." Market-open routine MUST verify before entry. DO NOT enter if ≤3 days from print.
+- **Gate check:** 0/3 trades week 12 ✓; 3+1=4 positions ≤6 ✓; cash available ✓; cost ≤20% equity ✓
+- **Deployment impact:** 61.7% → ~81.5% (hits 75–85% target ✓)
+- **Conditions to enter:** LHX quote $290–$310 at open; Q2 earnings confirmed >3d away; defense sector flat-to-green
+
+**Idea 2 — HOLD (if LHX misses entry conditions)**
+- All 3 positions thesis intact, stops active. If LHX gaps above $315 or Q2 earnings <3d — skip; wait for next setup.
+
+### Risk Factors
+1. **ISM Services 10 AM:** Consensus 54.5 (expansion). A miss below 50 would spike VIX, pressure Industrials. Avoid new entries before 10:15 AM if possible.
+2. **Earnings proximity countdown:** GE Q2 Jul 16 (10d), NOC Jul 21 (15d), RTX Jul 23 (17d). Sell-the-news dynamics elevated near prints (post-earnings rule: 7% trail on entries within 3d; existing positions held through earnings with stops).
+3. **LHX Q2 date uncertainty:** Unknown exact date — could be Jul 22–Aug 5. Market-open must check investor relations before entry. Hard stop: no entry if ≤3d.
+4. **Concentrated defense sector:** 4 positions in same sector if LHX added. Correlated drawdown risk if defense budget narrative reverses.
+5. **RTX stop gap:** If RTX gaps well above $200.85 (e.g., $207+), new 7% trail placed at open protects ~$186 level — still solid buffer from $174.65 entry.
+6. **VIX low (15.81):** Complacency risk. Low VIX historically precedes sharp spikes. Options-implied vol pricing in calm; mean-reversion possible.
+
+### Decision
+**TRADE-conditional** — LHX (70–75 shares) IF market-open conditions met
+- LHX opens $290–$310 AND Q2 earnings confirmed >3 days away AND defense sector opens flat-to-green
+- All 3 current positions: HOLD. Thesis intact. Stops active and self-managing.
+- RTX stop tighten: market-open routine handles if RTX opens ≥$200.85 (cancel 6eaef0b9, place 7% trail GTC)
+- GE ex-div: no action, stop self-adjusts
+
