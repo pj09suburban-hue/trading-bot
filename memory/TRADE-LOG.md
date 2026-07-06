@@ -2215,3 +2215,43 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (EOD):** $113,581.35 | **Cash:** $43,413.36 (38.3%) | **Long MV:** $70,167.99 (61.7% deployed — ⚠️ below 75–85%) | **Day P&L:** +$284.38 (+0.25%) | **Phase P&L:** +$13,581.35 (+13.58%) ⭐ new phase high
 **Week 11 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Mon Jul 7:** RTX +15% tighten trigger $200.85 ($1.60/0.80% away) — cancel 6eaef0b9, place 7% trail GTC at open. GE ex-div gap ($0.47/sh); stop self-adjusts. Scout LHX as 4th position if defense sector opens constructive. GE Q2 earnings Jul 16, NOC Q2 Jul 21, RTX Q2 Jul 23 — earnings window approaching.
+
+---
+
+## 2026-07-06 — Market-Open (Day 52, Monday — Week 12 Day 1)
+
+### Actions
+
+**RTX stop tighten (not a trade — stop management):**
+- RTX pre-market $203.80 (VWAP $204.06, range $203.44–$205.72) — confirmed ≥$200.85 tighten trigger
+- Cancelled order 6eaef0b9 (10% trail, HWM $199.695, stop $179.7255)
+- Placed new 7% trailing stop GTC: order b205a209 | HWM $198.94 | stop $185.0142 | expires Oct 2
+- Rule: tighten to 7% at +15%; RTX pre-market +15.7% from entry $174.65 → trigger met ✓
+
+**GE ex-dividend (no action):**
+- GE ex-div Jul 6: $0.47/sh × 67 = $31.49 dividend (paid Jul 27)
+- GE opens ~$0.47 lower; trailing stop GTC (94b1a703, 5% trail) self-adjusts via Alpaca mechanics ✓
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-07-06 | LHX | BUY | 70 | ~$297 (market order, fill at 9:30 AM ET open — order a8701b30) | 10% trail GTC (to be placed at open; verify in midday scan) | Defense budget $1.5T FY2027; Q1 organic rev +15% ($5.7B), EPS $2.72 (+33%); FY guide $11.40–$11.60; $614M USSOCOM contract Jun 30; sector momentum intact (GE/NOC/RTX all green) | $356+ (+20% from $297) | 2:1 |
+
+**Buy-side gate (LHX):**
+- Total positions: 3 + 1 = 4 ≤ 6 ✓
+- Trades this week: 0 + 1 = 1 ≤ 3 ✓
+- Position cost: 70 × $297 = $20,790 = 18.3% of $113,533 equity ✓
+- Cash: $43,413 > $20,790 ✓
+- PDT day-trade count: 0 < 3 ✓
+- Catalyst documented in RESEARCH-LOG Jul 6 ✓
+- Instrument: stock ✓
+- LHX pre-market $296.99 ∈ $290–$310 gate ✓
+- Q2 earnings estimated Jul 23 (17d away — safe) ✓
+- Deployment after fill: ~$91,910 / $113,533 ≈ 80.9% (in 75–85% target band ✓)
+
+**Week 12 trades:** 1/3 | **Open positions:** 4/6 (pending LHX fill) | **Deployed (after fill):** ~80.9%
+
+**Trailing stop status:**
+- GE: order 94b1a703 | 5% trail | HWM $382.97 | stop $363.8215 | exp Sep 10 ✓ (stop self-adjusts for ex-div)
+- NOC: order 1f9ffa17 | 10% trail | HWM $548.80 | stop $493.92 | exp Sep 18 ✓
+- RTX: order b205a209 | 7% trail (tightened) | HWM $198.94 | stop $185.0142 | exp Oct 2 ✓ (new)
+- LHX: 10% trail GTC — to be placed at open by midday scan (order a8701b30 fill expected 9:30 AM ET)
