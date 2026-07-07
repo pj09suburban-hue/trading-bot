@@ -2314,3 +2314,43 @@ No positions yet. Bot launches tomorrow.
 **Notes:** Solid close on the first day back after the July 4 holiday. LHX initiated this morning at $300.80 (70 shares); closed at $301.80, flat — thesis intact, no price action concerns day one. Defense sector mixed: GE continued its grind higher (+0.43%), RTX popped +0.94% and now sits at exactly +15.16% from entry (7% trail already in place from this morning). NOC dipped -0.85% on light volume — nothing structural. Portfolio hit a new phase high at $13,782.14 (+13.78%). Deployed at 80.4% — squarely in the 75–85% target band with LHX added. Key watch heading into tomorrow: RTX +20% trigger at $209.58 (4.2% away), GE Q2 earnings Jul 16 (10d), NOC Q2 Jul 21 (15d), RTX Q2 Jul 23 (17d). Week 12: 1/3 trades used.
 
 **Week 12 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0
+
+---
+
+## 2026-07-07 — Midday Scan (Day 53, Tuesday — Week 12 Day 2)
+
+### ⚠️ CRITICAL: Alpaca API Anomaly — All Positions Missing
+
+**Positions endpoint returned `[]` — all 4 positions show 404 individually.**
+
+**Account state from API:**
+- Equity: $22,357.62 (= yesterday's cash, no position MV)
+- Cash: $22,357.62 | Long MV: $0 | Portfolio value: $22,357.62
+- Last equity (balance_asof 2026-07-02): $113,581.35
+
+**What we know:**
+- No orders filled today (confirmed via closed orders endpoint)
+- All 4 GTC trailing stop orders still active ("new" status) — did NOT trigger
+- Stop HWMs have been updated intraday (LHX $304.46, RTX $203.94, NOC $552.625) — suggests orders are still tracking live prices
+- Cash unchanged from yesterday ($22,357.62) — no sale proceeds received
+
+**Quote data at ~12:19 PM ET (single-exchange, wide bid/ask):**
+| Symbol | Bid | Ask | Stop (order) | HWM (order) | Note |
+|---|---|---|---|---|---|
+| GE | $367.43 | $368.33 | $363.82 (5% trail, 94b1a703) | $382.97 | Above stop ✓ |
+| LHX | $285.77 | $297.50 | $274.01 (10% trail, 8e7f9bdc) | $304.46 | Above stop ✓ |
+| NOC | $520.67 | $578.92 | $497.36 (10% trail, 1f9ffa17) | $552.625 | Above stop ✓ |
+| RTX | $192.73 | $210.15 | $189.66 (7% trail, b205a209) | $203.94 | Above stop ✓ |
+
+**Assessment:** Alpaca paper trading API not reflecting positions. Trailing stop GTC orders remain active and updating HWMs. No fills recorded today — positions were NOT sold. Paper trading platform data anomaly — requires human verification.
+
+**Cut losers (-7%):** Cannot evaluate reliably. Bid-based estimates: all symbols above -7% from entry.
+**Stop tighten:** RTX — if actual price near ask $210.15, +20% trigger ($209.58) may be hit. Cannot execute without confirmed position data.
+**Thesis check:** No changes to fundamental thesis.
+
+**Action taken:** NONE — trading halted pending position state verification.
+
+**Slack sent: yes** (anomaly alert)
+
+**Portfolio (last confirmed — EOD Jul 6):** $113,782.14 | **API-reported (Jul 7 midday):** $22,357.62 (anomalous — cash only)
+**Week 12 trades:** 1/3 | **Open positions:** 4/6 (per memory; 0 per API — anomaly) | **Daytrade count:** 0
