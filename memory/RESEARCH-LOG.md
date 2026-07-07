@@ -3386,3 +3386,54 @@ All three trailing stops active and self-managing. No action required today (mar
 - RTX stop tighten: market-open routine handles if RTX opens ≥$200.85 (cancel 6eaef0b9, place 7% trail GTC)
 - GE ex-div: no action, stop self-adjusts
 
+
+## 2026-07-07 — Pre-Market Research (Day 53, Tuesday — Week 12 Day 2)
+
+### Account Snapshot
+- **Equity:** $114,222.22 | **Cash:** $22,357.62 (19.6%) | **Long MV:** $91,864.60 (80.4% deployed ✓)
+- **Daytrade count:** 0 | **Week 12 trades:** 1/3 | **Positions:** 4/6
+- **Phase P&L:** +$14,222.22 (+14.22%) ⭐ new phase high
+
+### Market Context
+- **S&P 500 futures:** -10.75 pts (-0.14%) at ~7,580.75 — mildly soft pre-market
+- **VIX:** 15.96 (+2.50% from prev close 15.57) — slight uptick but still calm (<20)
+- **WTI (Aug '26):** ~$69.32/bbl — stable, no energy shock
+- **Economic calendar today:** Trade Balance (May) 8:30 AM ET — mild catalyst; no CPI/FOMC/jobs
+- **Earnings today (pre-mkt):** None noteworthy — clear day
+- **Macro backdrop:** ADP June jobs 98K (smallest in 3 months); unemployment 4.2% (14-month low); ISM Mfg 53.3% (expansionary 6th straight month); Fed Chair Warsh hawkish ("stop looking for forward guidance") — September rate hike risk priced in; S&P ~7,580 near ATH; tech sector rotating out, defense/Industrials holding
+- **Sector:** Industrials +12% YTD (best start since 2019); defense/aerospace subsector remains strongest driver; momentum intact
+
+### Open Position Status
+| Symbol | Shares | Entry | Current | Unreal P&L | % | Stop | HWM | Buffer | Note |
+|---|---|---|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $379.50 | +$6,665.16 | +35.53% | $363.82 (5% trail, 94b1a703) | $382.97 | 5.00% | ⚠️ Q2 earnings **Jul 16** — 9 DAYS. Analyst mean PT $351 (6% below current). Sell-the-news risk building. |
+| LHX | 70 | $300.80 | $301.58 | +$54.86 | +0.26% | $272.50 (10% trail, 8e7f9bdc) | $302.78 | 9.65% | Day 2 — flat. Q2 earnings late Jul/early Aug (unconfirmed). Thesis intact. |
+| NOC | 40 | $513.30 | $551.00 | +$1,507.95 | +7.34% | $493.92 (10% trail, 1f9ffa17) | $548.80* | ~8.9% | *API HWM lags intraday; auto-updates during market hours. Q2 Jul 21 (14d). |
+| RTX | 115 | $174.65 | $202.50 | +$3,202.75 | +15.95% | $188.37 (7% trail, b205a209) | $202.55 | 6.98% | +20% tighten trigger $209.58 (3.5% / $7.08 away). Q2 Jul 23 (16d). |
+
+### Trade Ideas
+
+**Idea 1 — HOLD all positions (primary)**
+- No new entry-grade catalyst today; defense sector slightly soft in pre-market (-0.14% futures)
+- Cash $22,357 covers barely one max-sized position ($22,844 = 20% equity); no urgency — deployed 80.4% ✓
+- All 4 current positions: thesis intact, stops active, nothing to cut
+
+**Idea 2 — 5th position (opportunistic, non-defense)**
+- If market opens strong and a clean non-defense catalyst emerges (AI infrastructure, energy, consumer staples), could explore intraday
+- No pre-market setup today — would require a real-time catalyst at open
+- NOT actionable without specific catalyst; skip if none appears
+
+### Risk Factors
+1. **GE earnings proximity (9 days, Jul 16):** Analyst mean PT $351 is 6% below current $379.50. Q1 earnings: stock fell 4.6–6.1% despite a beat (sell-the-news established pattern). 5% trail at $363.82 offers only ~4.1% cushion from current price. Cannot tighten within 3% of price per rules; cannot move stop down. Monitor — if GE surges above $382.97 (new HWM), stop auto-ratchets up. If it drops, 5% trail activates.
+2. **VIX ticking up:** 15.96 vs 15.57 (+2.5%). Trade Balance 8:30 AM today — a miss could spike vol briefly. Not a blocker.
+3. **Tech rotation spillover:** NASDAQ futures -0.62%. Not holding tech, but broad risk-off can drag defensives.
+4. **RTX political risk:** Trump threatened RTX contracts Jan 2026 if production not increased. Feb munitions framework partly resolved, but Q2 Jul 23 earnings — scrutiny on buybacks vs capex. Background risk.
+5. **Concentrated defense book:** All 4 positions in defense/aerospace. Correlated drawdown risk on any budget narrative reversal or geopolitical de-escalation.
+
+### Decision
+**HOLD — no new trades**
+- 4/6 positions, 80.4% deployed (in 75–85% target band ✓), 1/3 trades used Week 12
+- All stops active, all thesis intact, earnings countdown starting (GE 9d, NOC 14d, RTX 16d)
+- RTX +20% tighten trigger ($209.58) — market-open/midday routine handles if triggered
+- GE earnings (Jul 16) is the primary watch: consider strategy review at end of Week 12 given analyst mean PT now below current price
+
