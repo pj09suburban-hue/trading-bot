@@ -2354,3 +2354,21 @@ No positions yet. Bot launches tomorrow.
 
 **Portfolio (last confirmed — EOD Jul 6):** $113,782.14 | **API-reported (Jul 7 midday):** $22,357.62 (anomalous — cash only)
 **Week 12 trades:** 1/3 | **Open positions:** 4/6 (per memory; 0 per API — anomaly) | **Daytrade count:** 0
+
+---
+
+## 2026-07-07 — EOD Snapshot (Day 53, Tuesday — Week 12 Day 2)
+
+**Portfolio:** $112,459.51 | **Cash:** $22,357.61 (19.9%) | **Day P&L:** -$1,426.11 (-1.25%) | **Phase P&L:** +$12,459.51 (+12.46%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $365.59 | -3.46% | +$5,732.86 (+30.56%) | $363.82 (5% trail, order 94b1a703) ⚠️ 0.48% buffer |
+| LHX | 70 | $300.80 | $295.37 | -1.96% | -$380.19 (-1.81%) | $274.01 (10% trail, order 8e7f9bdc) |
+| NOC | 40 | $513.30 | $546.26 | -0.27% | +$1,318.35 (+6.42%) | $497.36 (10% trail, order 1f9ffa17) |
+| RTX | 115 | $174.65 | $200.82 | -0.27% | +$3,009.55 (+14.98%) | $189.66 (7% trail, order b205a209) |
+
+**Notes:** Broad market pullback hit all four positions. GE is the critical watch: fell -3.46% to $365.59, leaving only $1.77 (0.48%) of buffer above the 5% trailing stop at $363.82 (HWM $382.97). No stop adjustment — rule is no moves down, and we let the trail do its job. LHX slipped another -1.96% to $295.37, now -1.81% from entry; still well above the -7% cut threshold ($279.74) and the 10% stop at $274.01 (HWM $304.46, 9.10% buffer). RTX closed at $200.82, +14.98% from entry — fractionally below the +15% tightening trigger ($200.85); 7% trail already in place from Monday. NOC -0.27%, quietly holding above $540 with room to run. The midday Alpaca paper API anomaly (positions showing as $0) fully resolved by EOD — all 4 positions confirmed. Phase P&L steps back from yesterday's record high of +13.78% to +12.46%. No trades today. Week 12: 1/3 trades used.
+
+**Week 12 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch:** GE stop at $363.82 (buffer 0.48% — near-term stop-out risk); RTX +15% trigger $200.85 (nearly there); GE Q2 earnings Jul 16 (9d); NOC Q2 Jul 21 (14d); RTX Q2 Jul 23 (16d)
