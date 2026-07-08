@@ -2372,3 +2372,28 @@ No positions yet. Bot launches tomorrow.
 
 **Week 12 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch:** GE stop at $363.82 (buffer 0.48% — near-term stop-out risk); RTX +15% trigger $200.85 (nearly there); GE Q2 earnings Jul 16 (9d); NOC Q2 Jul 21 (14d); RTX Q2 Jul 23 (16d)
+
+---
+
+## 2026-07-08 — Market-Open (Day 54, Wednesday — Week 12 Day 3)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-07-08 | GE | STOP-PENDING | 67 | $280.02 | $363.82 (5% trail GTC 94b1a703) | GE pre-mkt $362.90 — below stop; GTC order active; expect auto-fill at open ~$363.82 (+29.9%); no manual action | — | — |
+| 2026-07-08 | ENERGY | SKIP | — | — | — | WTI +6.03% (Iran oil license cancellation) raised by pre-market research; energy sector ban in effect (CVX -3.52% + XOM -2.42% consecutive failures, May 7); also cannot confirm sector green pre-open (stale quotes) | — | — |
+
+**Buy-side gate status (no trades):**
+- Energy sector ban → fail → skip
+- No other catalyst/setup available at market open with confirmed pre-market data
+- Patience > activity: cannot confirm energy sector green without live open prices
+
+**Pre-open position snapshot (8:30 AM ET, stale quotes from close):**
+| Symbol | Shares | Entry | Pre-Mkt | Unrealized | Stop | Note |
+|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $362.90 | +$5,553 (+29.6%) | $363.82 (5% trail ⚠️ BELOW) | Stop-out expected at open |
+| LHX | 70 | $300.80 | $296.01 | -$335 (-1.59%) | $274.01 (10% trail) | Thesis intact |
+| NOC | 40 | $513.30 | $552.00 | +$1,548 (+7.54%) | $497.36 (10% trail) | HWM $552.63; above HWM → stop ratchets |
+| RTX | 115 | $174.65 | $201.30 | +$3,065 (+15.26%) | $189.66 (7% trail) | 7% trail already in place; +20% trigger $209.58 (4.1% away) |
+
+**Week 12 trades:** 1/3 | **Open positions:** 4/6 (→ 3/6 after GE stop) | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch:** GE GTC stop fires at open; RTX +20% trigger $209.58 (4.1% away); FOMC minutes 2 PM ET (vol spike risk); NOC Q2 Jul 21 (13d); RTX Q2 Jul 23 (15d)
