@@ -3437,3 +3437,62 @@ All three trailing stops active and self-managing. No action required today (mar
 - RTX +20% tighten trigger ($209.58) — market-open/midday routine handles if triggered
 - GE earnings (Jul 16) is the primary watch: consider strategy review at end of Week 12 given analyst mean PT now below current price
 
+
+## 2026-07-08 — Pre-Market Research (Day 54, Wednesday — Week 12 Day 3)
+
+### Account Snapshot
+- **Equity:** $112,677.30 | **Cash:** $22,357.61 (19.8%) | **Long MV:** $90,319.69 (80.2% deployed ✓)
+- **Daytrade count:** 0 | **Week 12 trades:** 1/3 | **Positions:** 4/6
+- **Phase P&L:** +$12,677.30 (+12.68%)
+
+### ⚠️ CRITICAL: GE Stop-Out Imminent
+**GE pre-market price: $361.22 — BELOW trailing stop at $363.82 (HWM $382.97, 5% trail, order 94b1a703)**
+GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$83.80/share (+29.9%), +$5,614.60 total.** Managed exit — profit-taking, not a loss. GE Q2 earnings Jul 16 (8 days) avoided.
+
+### Market Context
+- **S&P 500 futures:** -0.15% (~7,580.25) — mildly soft open
+- **VIX:** ~15.90-16.13, up from 15.57 (+2.1%) — slight uptick, still calm (<20)
+- **WTI (Aug '26):** $74.69 (+6.03%) — Treasury cancelled Iran oil license; significant geopolitical catalyst
+- **Brent:** ~$77.50+ (prediction markets) | Last spot $72.36 (Jul 6)
+- **Economic today:** Wholesale inventories 10 AM ET (mild); FOMC minutes 2 PM ET (market-moving — watch for vol spike)
+- **Earnings today:** HELE pre-market (minor); LEVI/AZZ/PSMT after close (minor); no market-movers
+- **June jobs (released Jul 2):** 57K added vs 113K expected — big miss, rate-cut odds at 55.3% for September
+- **Sector momentum:** Energy +20-23% YTD (leading); Industrials/defense +12-14% (strong); Tech -3.4% (lagging)
+
+### Open Position Status (pre-market)
+| Symbol | Shares | Entry | Pre-Mkt | Unreal P&L | Stop | Note |
+|---|---|---|---|---|---|---|
+| GE | 67 | $280.02 | $361.22 | +$5,440 (+29%) | $363.82 (5% trail 94b1a703) | ⚠️ BELOW STOP — likely stops out at open |
+| LHX | 70 | $300.80 | $297.84 | -$207 (-0.98%) | $274.01 (10% trail 8e7f9bdc) | HWM $304.46; thesis intact; MS PT $390 |
+| NOC | 40 | $513.30 | $553.00 | +$1,588 (+7.73%) | $497.36 (10% trail 1f9ffa17) | HWM $552.63 → price above HWM, stop ratchets today; RBC Outperform upgrade today |
+| RTX | 115 | $174.65 | $201.30 | +$3,065 (+15.26%) | $189.66 (7% trail b205a209) | HWM $203.94; +20% trigger $209.58 (4.1% away); Jefferies Buy PT $220; Q2 Jul 23 |
+
+### Trade Ideas
+
+**Idea 1 — HOLD remaining positions (primary)**
+- LHX: thesis intact, flat/slightly negative week 2, no action
+- NOC: RBC Outperform upgrade today — positive signal, stop auto-ratchets as price above HWM. Hold.
+- RTX: 7% trail in place, approaching +20% tighten ($209.58, 4.1% away). FOMC minutes at 2 PM could move it. Hold.
+
+**Idea 2 — Energy sector entry IF GE stops out (opportunistic, defer to market-open)**
+- WTI +6.03% today (Iran license cancellation) — energy sector surging. MPC, VLO, CVX as candidates.
+- If GE stops out: cash rises to ~$46,500 (~41% cash), deployed drops to ~67% — below 75% target floor.
+- Energy replacement would bring deployment back into the 75-85% target band.
+- Catalyst: Iran oil license cancellation → sustained supply fear → refiners and integrated oils benefit.
+- Risk: Oil spikes tend to mean-revert; single-day catalyst is not a multi-week thesis. Need confirmation.
+- **Actionable only if** market-open confirms energy sector green AND WTI sustains above $73. Defer to market-open routine for real-time evaluation.
+
+**Idea 3 — No action (if GE holds above stop at open)**
+- If GE opens above $363.82, no change — all 4 positions intact, 80.2% deployed.
+- FOMC minutes at 2 PM remains key watch; midday routine handles any stop tightening.
+
+### Risk Factors
+1. **GE stop-out at open** — likely (pre-market below stop). Managed outcome — profitable exit.
+2. **FOMC minutes 2 PM ET** — could spike vol and pressure stops across all positions simultaneously.
+3. **Oil spike geopolitics** — WTI +6.03% driven by Iran. Escalation risk; tail risk for broad market.
+4. **Clustered earnings** — NOC Jul 21 (13d), RTX Jul 23 (15d), GE Jul 16 (8d, likely exits today). All within 2 weeks.
+5. **Defense book concentration** — 3-4 positions in aerospace/defense; correlated drawdown on any budget/geopolitical narrative reversal.
+
+### Decision
+**HOLD** — let stops manage GE exit at open. If GE stops out, market-open routine evaluates energy or non-defense replacement to stay in 75-85% deployment band. No preemptive action. Patience > activity.
+
