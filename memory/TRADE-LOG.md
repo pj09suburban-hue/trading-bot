@@ -2397,3 +2397,28 @@ No positions yet. Bot launches tomorrow.
 
 **Week 12 trades:** 1/3 | **Open positions:** 4/6 (→ 3/6 after GE stop) | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch:** GE GTC stop fires at open; RTX +20% trigger $209.58 (4.1% away); FOMC minutes 2 PM ET (vol spike risk); NOC Q2 Jul 21 (13d); RTX Q2 Jul 23 (15d)
+
+**GE stop-out confirmed:** 67 sh filled @ $359.61 at 9:33 AM ET (trail stop 94b1a703, HWM $382.97, 5% trail; gapped down through $363.82, filled below stop). Realized **+$5,332.53 (+28.42%)** from entry $280.02. Held 75 days (Apr 24 → Jul 8). Clean managed exit — profit-taking, not a loss. 3rd consecutive winning trade (GE) — sector remains intact. Total GE + prior GE stop still net winner vs all other closed trades.
+
+---
+
+## 2026-07-08 — Midday Scan (Day 54, Wednesday — Week 12 Day 3)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| LHX | $300.80 | $292.63 | -$571.50 | -2.71% | -0.94% | $274.01 (10% trail, 8e7f9bdc) | $304.46 | HOLD — macro/FOMC pullback; thesis intact |
+| NOC | $513.30 | $544.74 | +$1,257.55 | +6.13% | -0.78% | $497.36 (10% trail, 1f9ffa17) | $552.63 | HOLD — thesis intact |
+| RTX | $174.65 | $197.155 | +$2,588.08 | +12.89% | -1.84% | $189.66 (7% trail, b205a209) | $203.94 | HOLD — 7% trail in place; below +20% trigger |
+
+**Cut losers (-7%):** None — LHX worst at -2.71%, well above -7% threshold ($279.74). No cuts.
+**Stop tightening (+15%/+20%):** RTX +12.89% — 7% trail already in place (tightened at +15%). +20% trigger $209.58 (6.3% away, not yet reached). NOC +6.13% — below +15% threshold. No new tightening.
+**Thesis check:**
+- LHX: -2.71% cumulative, -0.94% intraday. Perplexity confirmed no downgrades, no contract cancellations, no defense budget cuts today. Backlog record $40.7B, Q1 orders $7.8B; $170M Central Europe Falcon radio deal recent. Pullback attributed by analysts to macro/FOMC caution. Thesis intact. Q2 earnings Jul 29.
+- NOC: +6.13% cumulative, -0.78% intraday. Mild giveback after yesterday's strength. Defense procurement thesis intact. Stop auto-tracking; HWM $552.63 not exceeded today. Thesis intact. Q2 earnings Jul 21.
+- RTX: +12.89% cumulative, -1.84% intraday from $200.85 yesterday. Broad market giveback; 7% trail stop already placed (b205a209, stop $189.66). Thesis intact. Q2 earnings Jul 23.
+**Research (Step 6):** LHX queried via Perplexity — no negative catalyst; macro-driven pullback confirmed.
+**Notification (Step 7):** No action taken → no Slack sent.
+
+**Portfolio (midday):** $111,392.73 | **Cash:** $46,451.48 (41.7%) | **Long MV:** $64,941.25 (58.3% deployed — below 75–85% target) | **Day P&L:** -$1,289.89 (-1.14%) | **Phase P&L:** +$11,392.73 (+11.39%)
+**Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch:** FOMC minutes 2 PM ET (vol spike risk; all 3 positions could move); RTX +20% trigger $209.58 (6.3% away); LHX drifting — second consecutive session in the red, watch closely; NOC Q2 Jul 21 (13d); RTX Q2 Jul 23 (15d); GE Q2 Jul 16 (8d — no longer holding)
