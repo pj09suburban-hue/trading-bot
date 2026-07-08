@@ -2422,3 +2422,21 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $111,392.73 | **Cash:** $46,451.48 (41.7%) | **Long MV:** $64,941.25 (58.3% deployed — below 75–85% target) | **Day P&L:** -$1,289.89 (-1.14%) | **Phase P&L:** +$11,392.73 (+11.39%)
 **Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch:** FOMC minutes 2 PM ET (vol spike risk; all 3 positions could move); RTX +20% trigger $209.58 (6.3% away); LHX drifting — second consecutive session in the red, watch closely; NOC Q2 Jul 21 (13d); RTX Q2 Jul 23 (15d); GE Q2 Jul 16 (8d — no longer holding)
+
+---
+
+## 2026-07-08 — EOD Snapshot (Day 54, Wednesday — Week 12 Day 3)
+
+**Portfolio:** $111,085.06 | **Cash:** $46,451.48 (41.8%) | **Day P&L:** -$1,597.56 (-1.42%) | **Phase P&L:** +$11,085.06 (+11.09%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| LHX | 70 | $300.80 | $291.50 | -1.32% | -$650.74 (-3.09%) | $274.01 (10% trail, order 8e7f9bdc) |
+| NOC | 40 | $513.30 | $543.01 | -1.10% | +$1,188.15 (+5.79%) | $497.36 (10% trail, order 1f9ffa17) |
+| RTX | 115 | $174.65 | $195.67 | -2.58% | +$2,416.73 (+12.03%) | $189.66 (7% trail, order b205a209) ⚠️ 3.1% buffer |
+| **GE** | **67** | **$280.02** | **$359.61** | **—** | **+$5,332.53 (+28.42%) REALIZED** | **STOP FILLED @ open** |
+
+**Notes:** GE 5% trailing stop (94b1a703) filled at market open at $359.61 — gapped down through the $363.82 stop level from yesterday's close of $365.59. Realized +$5,332.53 (+28.42%) on 67 shares held 75 days (Apr 24 → Jul 8); a clean managed exit capturing profit, not a loss. Portfolio now holds 3 positions with 58.2% deployed ($64,634), well below the 75–85% target; cash stands at $46,451 (41.8%). All 3 remaining positions pulled back with the broader market: RTX fell -2.58% intraday (now +12.03% cumulative, 7% trailing stop at $189.66 leaves only 3.1% buffer — ⚠️ watch closely), NOC -1.10% (still solidly +5.79% from entry, stop has wide cushion), LHX -1.32% (now -3.09% from entry — third consecutive losing session; still well above the -7% cut floor at $279.74 but thesis watch warranted). Phase P&L retreats to +11.09% (+$11,085). With 2/3 weekly trades remaining and $46K idle cash, a new position to redeploy toward the 75–85% target is the primary Thursday/Friday agenda if a clear catalyst emerges. Key upcoming: NOC Q2 earnings Jul 21 (13d), RTX Q2 Jul 23 (15d).
+
+**Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch:** RTX stop $189.66 (3.1% buffer — ⚠️ tight); LHX 3 consecutive red sessions (-3.09% cumulative); scout new position Thu/Fri ($46K cash, 2/3 weekly trades); NOC Q2 Jul 21 (13d); RTX Q2 Jul 23 (15d)
