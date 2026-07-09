@@ -3438,6 +3438,59 @@ All three trailing stops active and self-managing. No action required today (mar
 - GE earnings (Jul 16) is the primary watch: consider strategy review at end of Week 12 given analyst mean PT now below current price
 
 
+## 2026-07-09 — Pre-Market Research (Day 55, Thursday — Week 12 Day 4)
+
+### Account Snapshot
+- **Equity:** $111,324.15 | **Cash:** $46,451.45 (41.7%) | **Long MV:** $64,872.70 (58.3% deployed — below 75–85% target)
+- **Daytrade count:** 0 | **Week 12 trades:** 1/3 | **Positions:** 3/6
+- **Phase P&L:** +$11,324.15 (+11.32%)
+
+### Market Context
+- **S&P 500 futures:** +0.31% (~7,552) — modestly positive open; Nasdaq futures +0.47%
+- **VIX:** 16.64 (easing from 16.90 close; intraday high 18.91 — residual nervousness)
+- **WTI:** ~$74.40 (+5.78% from Jul 8 close $72.45); Brent ~$75.92 — Iran oil license cancellation driving sustained oil bid
+- **Economic today:** Initial jobless claims 218K (vs 215K est — slight miss, 8:30 AM ET); NY Fed Williams 9 AM; Existing home sales 10 AM. No major macro until CPI Jul 14, PPI Jul 15, FOMC Jul 29.
+- **Earnings today:** PepsiCo (PEP) pre-market — EPS $2.21 expected, rev $24B expected (result not yet known); SJM, ASO (minor). No defense/tech names.
+- **Sector momentum YTD:** Energy +23.3% (banned) | Materials +17.4% | Consumer Staples +15.6% | Industrials +14.1% | Info Tech −3.3% | Financials −6.9%
+
+### Open Position Status (pre-market)
+| Symbol | Shares | Entry | Current | Unreal P&L | Stop | HWM | Buffer | Note |
+|---|---|---|---|---|---|---|---|---|
+| LHX | 70 | $300.80 | $295.75 | −$353 (−1.68%) | $274.01 (10% trail, 8e7f9bdc) | $304.46 | 7.3% | 4 consec red days; thesis intact; $614M RF contract, $40.7B backlog record; avg PT $354.75; Q2 Jul 29 |
+| NOC | 40 | $513.30 | $544.55 | +$1,250 (+6.09%) | $497.36 (10% trail, 1f9ffa17) | $552.63 | 8.7% | RBC Outperform upgrade; B-21 Raider ramp; NATO Triton buy Jul 7; Q2 Jul 21 (12d) |
+| RTX | 115 | $174.65 | $194.68 | +$2,303 (+11.47%) | $189.66 (7% trail, b205a209) | $203.94 | 2.6% | ⚠️ Stop buffer tight; 7% trail already in place; +20% trigger $209.58 (7.7% away); Q2 Jul 23 (14d) |
+
+### Trade Ideas
+
+**Idea 1 — HOLD all positions (primary)**
+- LHX: 4 consecutive red days, cumulative −1.68% — well above −7% cut floor ($279.74). No negative catalyst confirmed. DoW $1B munitions acceleration, $614M new RF contract, record $40.7B backlog, consensus Moderate Buy, avg PT $354.75 (+20% upside). Thesis intact. Q2 Jul 29 (20d). HOLD.
+- NOC: +6.09% cumulative. RBC Outperform upgrade. B-21 Raider ramp. NATO Triton deal. Stop auto-tracks. Q2 Jul 21 (12d) — approaching earnings; watch sell-the-news risk. HOLD.
+- RTX: +11.47% cumulative. 7% trail in place. Buffer 2.6% — green open could recover. +20% trigger $209.58 (7.7% away). Q2 Jul 23 (14d). HOLD.
+
+**Idea 2 — PEP (PepsiCo) post-earnings entry (CONDITIONAL)**
+- Catalyst: Q2 2026 earnings pre-market today (result unknown). Consumer Staples sector +15.6% YTD (#3 sector).
+- Entry condition: EPS beats $2.21 AND stock gaps up ≥2% at open with volume — defer to market-open routine
+- Sizing: ~$22K; apply post-earnings 7% trailing stop rule (TRADING-STRATEGY rule 12)
+- Target: 2:1 R:R minimum required — evaluate at market-open
+- Risk: earnings miss; sell-the-news on defensive slow-growth name; not a high-momentum setup
+- Gate: HIGH bar — need unambiguous beat + strong gap. Defer to market-open routine.
+
+**Idea 3 — No action (fallback)**
+- If PEP misses or reacts weakly, HOLD all and accept 58% deployment temporarily
+- Scout Materials or Industrials catalyst Friday or next week
+
+### Risk Factors
+1. **RTX stop buffer 2.6%** — one weak session triggers $189.66 GTC exit; +$2,303 realized gain
+2. **LHX 4 consecutive red days** — −1.68% cumulative; watch approach to −7% floor ($279.74); 1 of 2 needed for sector exit rule
+3. **Earnings cluster 12–20 days** — NOC Jul 21, RTX Jul 23, LHX Jul 29; post-earnings volatility risk on all 3 positions
+4. **58% deployment** — below 75–85% target; $46K idle; opportunity cost if market rallies
+5. **VIX intraday spike 18.91** — residual vol concern; one headline could hit all 3 defense names simultaneously
+
+### Decision
+**HOLD (existing) | CONDITIONAL on PEP Q2 beat at market-open**
+
+---
+
 ## 2026-07-08 — Pre-Market Research (Day 54, Wednesday — Week 12 Day 3)
 
 ### Account Snapshot
