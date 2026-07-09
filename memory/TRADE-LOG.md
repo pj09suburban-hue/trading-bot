@@ -2440,3 +2440,24 @@ No positions yet. Bot launches tomorrow.
 
 **Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch:** RTX stop $189.66 (3.1% buffer — ⚠️ tight); LHX 3 consecutive red sessions (-3.09% cumulative); scout new position Thu/Fri ($46K cash, 2/3 weekly trades); NOC Q2 Jul 21 (13d); RTX Q2 Jul 23 (15d)
+
+---
+
+## 2026-07-09 — Market-Open (Day 55, Thursday — Week 12 Day 4)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-07-09 | PEP | SKIP | — | — | — | EPS $2.20 vs $2.21 est — missed by $0.01; entry required confirmed EPS beat; high-bar conditional not met | — | — |
+
+**Buy-side gate:** PEP FAIL — EPS $2.20 < required beat. All other gates pass (positions 3→4 ≤ 6; trades 1→2 ≤ 3; cost ~$22K ≤ 20% equity; PDT 0 < 3). One gate failure = skip.
+**Sell-side check:** No rules triggered — LHX -1.68% (above -7% floor, breaking red streak today +0.79% intraday); NOC +6.09% (below +15% threshold); RTX +11.64% (7% trail already in place; +20% trigger $209.58 still 7.5% away).
+
+| Symbol | Shares | Entry | Current | Unrealized | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| LHX | 70 | $300.80 | $295.75 | −$353 (−1.68%) | $274.01 (10% trail, 8e7f9bdc) | 7.4% | Green intraday +0.79%; thesis intact; Q2 Jul 29 |
+| NOC | 40 | $513.30 | $544.55 | +$1,250 (+6.09%) | $497.36 (10% trail, 1f9ffa17) | 8.7% | Thesis intact; Q2 Jul 21 (12d) |
+| RTX | 115 | $174.65 | $194.97 | +$2,337 (+11.64%) | $189.66 (7% trail, b205a209) | 2.7% ⚠️ | Buffer tight; +20% trigger $209.58 (7.5% away); Q2 Jul 23 (14d) |
+
+**Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Deployed:** $64,906 / $111,358 = 58.3% (below 75–85% target — scout new catalyst Fri or next week)
+**Key watch:** RTX stop $189.66 (2.7% buffer — ⚠️ tight); NOC Q2 Jul 21 (12d); RTX Q2 Jul 23 (14d); LHX Q2 Jul 29 (20d)
