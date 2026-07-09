@@ -2461,3 +2461,26 @@ No positions yet. Bot launches tomorrow.
 **Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Deployed:** $64,906 / $111,358 = 58.3% (below 75–85% target — scout new catalyst Fri or next week)
 **Key watch:** RTX stop $189.66 (2.7% buffer — ⚠️ tight); NOC Q2 Jul 21 (12d); RTX Q2 Jul 23 (14d); LHX Q2 Jul 29 (20d)
+
+---
+
+## 2026-07-09 — Midday Scan (Day 55, Thursday — Week 12 Day 4)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| LHX | $300.80 | $290.36 | -$730.54 | -3.47% | -1.05% | $274.01 (10% trail, 8e7f9bdc) | $304.46 | HOLD — macro-driven pullback; thesis intact |
+| NOC | $513.30 | $530.72 | +$696.75 | +3.39% | -2.64% | $497.36 (10% trail, 1f9ffa17) | $552.63 | HOLD — thesis intact |
+| RTX | $174.65 | $194.74 | +$2,310.35 | +11.50% | -0.09% | $189.66 (7% trail, b205a209) | $203.94 | HOLD — 7% trail in place; ⚠️ 2.68% buffer |
+
+**Cut losers (-7%):** None — LHX worst at -3.47%, cut floor $279.74 (current $290.36 well above). No cuts.
+**Stop tightening (+15%/+20%):** RTX 7% trail already in place (placed at +15%, Jul 6). +20% trigger $209.58 not reached (current $194.74, +7.65% away). No new tightening.
+**Thesis check:**
+- LHX: -3.47% cumulative, -1.05% intraday (5th consecutive red session). Perplexity confirmed: no downgrades, no contract cancellations, no defense budget cuts. L3Harris sold 60% of propulsion business to AEI for $845M — viewed as positive (stock +2.3% prior session post-announcement). Restructuring to 3 segments aligned with military spending. $40.7B backlog, $614M RF contract, avg PT $354.75. Macro-driven pullback, thesis intact. Q2 Jul 29. Stop $274.01 (5.63% buffer). HOLD.
+- NOC: +3.39% cumulative, -2.64% intraday. Broad defense sector giveback. No specific negative catalyst. B-21 Raider ramp, NATO Triton, RBC Outperform. Stop $497.36 (6.67% buffer). Q2 Jul 21 (12d — approaching earnings, sell-the-news risk on watch). HOLD.
+- RTX: +11.50% cumulative, -0.09% intraday (nearly flat). 7% trail in place (b205a209, HWM $203.94). Stop $189.66 — buffer 2.68% ⚠️ tight. +20% trigger $209.58 (7.65% away). Q2 Jul 23 (14d). Thesis intact. HOLD.
+**Research (Step 6):** LHX queried via Perplexity — no negative catalyst; propulsion divestiture context confirmed positive. NOC and RTX moves explained by broad defense sector giveback; no unexplained sharp moves.
+**Notification (Step 7):** No action taken → no Slack sent.
+
+**Portfolio (midday):** $110,388.85 | **Cash:** $46,451.45 (42.1%) | **Long MV:** $63,937.40 (57.9% deployed — below 75–85% target) | **Day P&L:** -$822.45 (-0.74%) | **Phase P&L:** +$10,388.85 (+10.39%)
+**Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch:** RTX stop $189.66 (2.68% buffer — ⚠️ tight); LHX 5 consecutive red sessions (-3.47% cumul, watch -7% floor $279.74); NOC Q2 Jul 21 (12d — sell-the-news risk); RTX Q2 Jul 23 (14d); scout new position Fri/next week to close deployment gap ($46K idle, 2 weekly trade slots remain)
