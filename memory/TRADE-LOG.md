@@ -2484,3 +2484,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $110,388.85 | **Cash:** $46,451.45 (42.1%) | **Long MV:** $63,937.40 (57.9% deployed — below 75–85% target) | **Day P&L:** -$822.45 (-0.74%) | **Phase P&L:** +$10,388.85 (+10.39%)
 **Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch:** RTX stop $189.66 (2.68% buffer — ⚠️ tight); LHX 5 consecutive red sessions (-3.47% cumul, watch -7% floor $279.74); NOC Q2 Jul 21 (12d — sell-the-news risk); RTX Q2 Jul 23 (14d); scout new position Fri/next week to close deployment gap ($46K idle, 2 weekly trade slots remain)
+
+---
+
+## 2026-07-09 — EOD Snapshot (Day 55, Thursday — Week 12 Day 4)
+
+**Portfolio:** $110,506.85 | **Cash:** $46,451.45 (42.0%) | **Day P&L:** -$704.45 (-0.63%) | **Phase P&L:** +$10,506.85 (+10.51%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| LHX | 70 | $300.80 | $290.45 | -1.02% | -$724.24 (-3.44%) | $274.01 (10% trail, order 8e7f9bdc) — 5.7% buf |
+| NOC | 40 | $513.30 | $531.17 | -2.56% | +$714.55 (+3.48%) | $497.36 (10% trail, order 1f9ffa17) — 6.4% buf |
+| RTX | 115 | $174.65 | $195.38 | +0.24% | +$2,383.95 (+11.87%) | $189.66 (7% trail, order b205a209) — 2.9% buf ⚠️ |
+
+**Notes:** Quiet close after another day of defense sector softness. No trades placed (PEP skipped at open — EPS miss, $2.20 vs $2.21 est). RTX the lone green position today (+0.24% intraday), holding its +11.87% cumulative gain but with only 2.9% buffer to the 7% trailing stop — any gap down risks a fill. LHX slid another -1.02% (6th consecutive red session, now -3.44% cumulative); still 3.7% above the -7% cut floor ($279.74) and thesis intact per Perplexity (no negative catalyst), but persistence of the drift warrants close monitoring Friday. NOC gave back -2.56% intraday on broad defense sector selling, pulling cumulative to +3.48%; stop has adequate cushion (6.4%). Portfolio remains 58% deployed with $46K in idle cash — below the 75–85% target. Two weekly trade slots (2/3) remain; Friday pre-market research focus is finding a confirmed catalyst to deploy capital. NOC Q2 earnings Jul 21 (12d), RTX Q2 Jul 23 (14d), LHX Q2 Jul 29 (20d) — no pre-earnings buys on those names.
+
+**Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch:** RTX stop $189.66 (2.9% buf — ⚠️ tight); LHX 6 consecutive red sessions (-3.44% cumul, cut floor $279.74 is 3.7% away); scout new position Friday ($46K idle, 2 trade slots); NOC Q2 Jul 21 (12d); RTX Q2 Jul 23 (14d); LHX Q2 Jul 29 (20d); weekly review fires Friday
