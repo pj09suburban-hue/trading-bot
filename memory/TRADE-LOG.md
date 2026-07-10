@@ -2547,3 +2547,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $110,464.00 | **Cash:** $46,451.45 (42.1%) | **Long MV:** $64,012.55 (57.9% deployed — below 75–85% target) | **Day P&L:** -$15.55 (-0.01%) | **Phase P&L:** +$10,464.00 (+10.46%)
 **Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch:** RTX stop $189.66 (2.5% buffer — ⚠️ tight, any -2.5% intraday triggers); LHX -7% floor $279.74 (3.2% buffer — ⚠️ narrowing after 8+ red sessions); NOC Q2 Jul 21 (11d — sell-the-news risk); RTX Q2 Jul 23 (13d); LHX Q2 Jul 29 (19d); **weekly-review fires today at 3 PM ET**
+
+---
+
+## 2026-07-10 — EOD Snapshot (Day 56, Friday — Week 12 Day 5)
+
+**Portfolio:** $110,824.65 | **Cash:** $46,451.45 (41.9%) | **Day P&L:** +$345.10 (+0.31%) | **Phase P&L:** +$10,824.65 (+10.82%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| LHX | 70 | $300.80 | $290.56 | +0.24% | -$716.54 (-3.40%) | $274.01 (10% trail, 8e7f9bdc) — 5.7% buf |
+| NOC | 40 | $513.30 | $538.04 | +1.09% | +$989.55 (+4.82%) | $497.36 (10% trail, 1f9ffa17) — 7.6% buf |
+| RTX | 115 | $174.65 | $195.76 | +0.29% | +$2,427.65 (+12.09%) | $189.66 (7% trail, b205a209) — 3.1% buf ⚠️ |
+
+**Notes:** Friday close with a modest recovery (+0.31% day). All three defense positions closed intraday green — NOC the strongest (+1.09%) on improved defense sentiment late-week. LHX posted a rare positive day (+0.24%) after 8+ consecutive losing sessions; cumulative -3.40% with cut floor $279.74 ($10.82/3.7% away — ⚠️ narrowing). RTX steady at +12.09% cumulative; 7% trailing stop at $189.66 (HWM $203.94 from Jul 7) leaves a tight 3.1% buffer. NOC advanced to +4.82% with comfortable 7.6% stop cushion but Q2 earnings Jul 21 (11d) brings sell-the-news risk. Portfolio closed Week 12 at 58.1% deployed ($46K idle) — below the 75–85% target. Week had 1 trade placed (1/3). Primary objective for next week: identify confirmed catalyst post-CPI (Jul 14) to deploy capital into a 4th position.
+
+**Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Mon:** CPI Jun (Jul 14 — binary catalyst, benign → scout 4th position); RTX stop $189.66 (3.1% buf — ⚠️ any -3.1% move triggers); LHX -7% floor $279.74 (3.7% above — ⚠️ narrowing); NOC Q2 Jul 21 (11d — sell-the-news risk); RTX Q2 Jul 23 (13d); LHX Q2 Jul 29 (19d)
