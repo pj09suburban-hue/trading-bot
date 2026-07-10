@@ -3549,3 +3549,51 @@ GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$8
 ### Decision
 **HOLD** — let stops manage GE exit at open. If GE stops out, market-open routine evaluates energy or non-defense replacement to stay in 75-85% deployment band. No preemptive action. Patience > activity.
 
+
+---
+
+## 2026-07-10 — Pre-Market Research (Day 56, Friday — Week 12 Day 5)
+
+### Account Snapshot
+- **Equity:** $110,770.61 | **Cash:** $46,451.45 (41.9%) | **Long MV:** $64,319.16 (58.1% deployed — below 75–85% target)
+- **Day P&L (pre-market):** +$291.06 (+0.26%) vs yesterday close $110,479.55
+- **Daytrade count:** 0 | **Week 12 trades:** 1/3 (2 remaining) | **Positions:** 3/6
+
+### Live Positions (pre-market)
+| Symbol | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| LHX | 70 | $300.80 | $292.51 | -$580 (-2.75%) | $274.01 (10% trail, 8e7f9bdc) | 6.3% | $84M Army orders + $499.57M missile contract confirmed; Q2 Jul 29 (19d) |
+| NOC | 40 | $513.30 | $533.00 | +$788 (+3.84%) | $497.36 (10% trail, 1f9ffa17) | 6.7% | Q2 Jul 21 (11d) — sell-the-news risk approaching |
+| RTX | 115 | $174.65 | $195.86 | +$2,439 (+12.14%) | $189.66 (7% trail, b205a209) | 2.9% ⚠️ | Citi catalyst watch; Q2 Jul 23 (13d); stop VERY tight |
+
+### Market Context
+- **S&P 500 futures:** ~7,577, -0.14% (~-11 pts) — flat-to-soft open
+- **VIX:** 16.90 (Wed Jul 8 close); VIX futures ~15.84 (ticking down slightly today) — calm, below 20
+- **WTI crude:** ~$72.27 (-1.80%) — FALLING today vs yesterday's $74.12; Iran spike fading; oil 4-month low area
+- **Brent:** not explicitly quoted; tracking WTI move
+- **Earnings today:** DAL pre-market (est. $1.47 EPS / $18.9B rev) — key airline barometer; not in our sector
+- **Economic today:** No major releases — clean tape. June CPI on Jul 14, PPI Jul 15, bank earnings (BAC/C/GS) Jul 14 next week
+- **Sector momentum YTD:** Energy +23.3% | Materials +17.4% | Consumer Staples +15.6% | Industrials/Defense +14.1% | S&P 500 +1.2% | Financials -6.9% (worst)
+- **Momentum factor:** S&P 500 Momentum ETF (SPMO) -6.6% through Jul 9 — momentum unwind risk flagged by Morningstar
+
+### Position Thesis Check
+- **LHX:** Perplexity confirms $84M U.S. Army radio orders (Jul 9) + $499.57M missile contract (Jul 6). Q1 2026 backlog record $40.7B, book-to-bill 1.4x, EPS guidance raised $11.40–$11.60. Analyst consensus PT $354.75 (+21.4% from current $292.51). No new negative catalyst. 7th session in the red cumulative but -7% floor ($279.74) is 4.4% away. Thesis intact, stop well-buffered. HOLD.
+- **NOC:** Q2 earnings Jul 21 (11 days). Q2 est. $6.81 EPS. B-21 Raider ramp, NATO Triton ongoing. Historical: NOC sold off 19% in 30 days post-Q1 earnings on cash-flow concerns. Sell-the-news risk real given this pattern. Currently +3.84% from entry with 6.7% stop buffer. Watch closely next week. HOLD for now.
+- **RTX:** Q2 earnings Jul 23 (13 days). Citi added to 30-day catalyst watch (beat-and-raise expected). $260B backlog, $658M+ contracts secured recently. $215.68 avg analyst PT (+8.4% upside). 7% trailing stop $189.66 leaves only 2.9% buffer ⚠️ — a 3% selloff at open triggers exit. HOLD but stop is dangerously close; any broad market selloff forces the hand here.
+
+### New Position Ideas
+1. **Energy (MPC / VLO / CVX) — SKIP**: WTI -1.80% today, Iran catalyst fading. Oil hitting 4-month lows. Single-day spike from last week is mean-reverting. No durable multi-week thesis.
+2. **DAL (earnings play) — SKIP**: Airlines not in our sector momentum thesis; oil volatility adds unpredictability; post-earnings 7% initial stop rule applies; entry within 3 days of print = elevated volatility. Too many unknowns.
+3. **Defer to next week — HOLD**: Jun CPI (Jul 14) and PPI (Jul 15) + bank earnings (BAC/C/GS Jul 14) provide better entry clarity. Deploying $46K into a -0.14% open on a Friday before a key macro week = poor timing. Patience > activity.
+
+### Risk Factors
+1. **RTX stop 2.9% buffer** — any -3% morning move fills the trailing stop; gap-down risk real after 6+ sessions of defense sector softness
+2. **NOC Q2 Jul 21 (11d)** — sell-the-news risk; considering partial trim if price approaches earnings with limited additional upside vs entry
+3. **VIX elevated relative to recent range** — 16.90 vs 13-15 range earlier in Q2; options market pricing more uncertainty
+4. **Momentum unwind** — SPMO -6.6% in July; momentum leaders from H1 at risk; Industrials/defense was a momentum leader
+5. **CPI Jun Jul 14** — if elevated (May was 4.2% YoY), rate-cut odds collapse and growth/industrial stocks reprice
+
+### Decision
+**HOLD** — No confirmed multi-week catalyst for new entry today. Oil falling kills energy trade. Next week macro data (CPI/PPI/bank earnings) will either confirm or deny a setup for capital deployment. 2 weekly trade slots remain (reset Monday anyway). Weekly review fires today at EOD.
+
+**Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
