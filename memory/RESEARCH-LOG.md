@@ -3597,3 +3597,6 @@ GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$8
 **HOLD** — No confirmed multi-week catalyst for new entry today. Oil falling kills energy trade. Next week macro data (CPI/PPI/bank earnings) will either confirm or deny a setup for capital deployment. 2 weekly trade slots remain (reset Monday anyway). Weekly review fires today at EOD.
 
 **Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+### Midday Addendum — 2026-07-10
+**LHX Perplexity check (midday):** Confirmed no negative catalyst driving the -3.91% cumulative drift. New positive data points: $726M munitions acceleration program + ~$700M Canadian defense contracts (RCAF). Q1 2026: record $40.7B backlog, book-to-bill 1.4x, EPS guidance raised $11.40–$11.60. Avg analyst PT $354.75. Thesis remains intact. Cut floor $279.74 is 3.2% below current $289.04 — watch closely. NOC and RTX: no intraday research needed (<0.5% moves, no unexplained activity).

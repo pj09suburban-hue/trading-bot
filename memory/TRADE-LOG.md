@@ -2524,3 +2524,26 @@ No positions yet. Bot launches tomorrow.
 **Account (market-open):** Equity $110,672.15 | Cash $46,451.45 (42.0%) | Long MV $64,220.70 (58.0% deployed — ⚠️ below 75–85%)
 **Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Mon Jul 14:** CPI Jun data (binary catalyst); RTX stop buffer 2.74% ⚠️; RTX +20% trigger $209.58 (7.5% away); NOC Q2 Jul 21 (11d — sell-the-news risk); RTX Q2 Jul 23 (13d); LHX Q2 Jul 29 (19d). Scout 4th position post-CPI if data is benign.
+
+---
+
+## 2026-07-10 — Midday Scan (Day 56, Friday — Week 12 Day 5)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| LHX | $300.80 | $289.04 | -$823.29 | -3.91% | -0.29% | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 5.2% to stop / 3.2% to -7% floor $279.74 | HOLD — no neg catalyst confirmed |
+| NOC | $513.30 | $534.68 | +$855.15 | +4.17% | +0.46% | $497.36 (10% trail, 1f9ffa17, HWM $552.63) | 7.0% | HOLD — Q2 earnings Jul 21 (11d); sell-the-news on watch |
+| RTX | $174.65 | $194.59 | +$2,293.10 | +11.42% | -0.31% | $189.66 (7% trail, b205a209, HWM $203.94) | 2.5% ⚠️ | HOLD — +20% trigger $209.58 (7.7% away); stop tight |
+
+**Cut losers (-7%):** None — LHX worst at -3.91% (floor $279.74, current $289.04 = 3.2% buffer). No cuts.
+**Stop tightening (+15%/+20%):** No threshold reached. RTX 7% trail already in place (placed at HWM +16.8%). +20% trigger $209.58 not hit ($194.59, 7.7% away). No new tightening.
+**Thesis check:**
+- LHX: -3.91% cumulative, -0.29% today (noise). Perplexity confirmed: no negative catalyst, no contract cancellations. New awards: $726M munitions acceleration + ~$700M Canadian defense (RCAF). Record $40.7B backlog, book-to-bill 1.4x, EPS guidance raised $11.40–$11.60. Avg analyst PT $354.75. Thesis intact. Q2 Jul 29. Stop $274.01 (5.2% buffer). Cut floor $279.74 (3.2% buffer — ⚠️ tightening). HOLD.
+- NOC: +4.17%, +0.46% intraday. Thesis intact. Q2 Jul 21 (11d — sell-the-news risk on watch). Stop $497.36 (7.0% buffer). HOLD.
+- RTX: +11.42%, -0.31% intraday (noise). 7% trail in place (HWM $203.94). Stop $189.66 — buffer 2.5% ⚠️ tight (any -2.5% intraday move triggers). +20% trigger $209.58 (7.7% away). Thesis intact. Q2 Jul 23 (13d). HOLD.
+**Research (Step 6):** LHX queried via Perplexity — no negative catalyst; new contract awards confirmed positive ($726M munitions + $700M Canadian defense). NOC and RTX: intraday moves <0.5%, no sharp unexplained moves requiring investigation.
+**Notification (Step 7):** No action taken → no Slack sent.
+
+**Portfolio (midday):** $110,464.00 | **Cash:** $46,451.45 (42.1%) | **Long MV:** $64,012.55 (57.9% deployed — below 75–85% target) | **Day P&L:** -$15.55 (-0.01%) | **Phase P&L:** +$10,464.00 (+10.46%)
+**Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch:** RTX stop $189.66 (2.5% buffer — ⚠️ tight, any -2.5% intraday triggers); LHX -7% floor $279.74 (3.2% buffer — ⚠️ narrowing after 8+ red sessions); NOC Q2 Jul 21 (11d — sell-the-news risk); RTX Q2 Jul 23 (13d); LHX Q2 Jul 29 (19d); **weekly-review fires today at 3 PM ET**
