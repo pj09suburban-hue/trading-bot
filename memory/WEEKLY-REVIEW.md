@@ -171,6 +171,70 @@ Template for each entry:
 ### Overall Grade: B
 *Week 2 — first full 5-day week. Deployed capital correctly (fixed cash drag). Energy thesis intact and profitable. Underperformed S&P by 44bp due to mixed sector performance (RTX lagging). No rule violations aside from minor CVX gap-sizing breach. No closed trades yet — execution quality on exits unproven. Solid but not exceptional.*
 
+## Week ending 2026-07-10
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $113,581.35 |
+| Ending portfolio | $110,924.60 |
+| Week return | -$2,656.75 (-2.34%) |
+| S&P 500 week | +1.15% (7,483.24 → 7,569.54) |
+| Bot vs S&P | -3.49% |
+| Phase return | +$10,924.60 (+10.92% from $100k baseline) |
+| Phase bot vs S&P | +5.27% (bot +10.92% vs S&P +5.65% from Apr 24 start 7,165.08) |
+| Trades | 1 new (LHX) + 1 closed (GE stop) — W:1 / L:0 / open:3 |
+| Win rate | 100% this week (1/1); 22.2% all-time (2/9 closed) |
+| Best trade | GE +28.42% realized (+$5,332.53) — 75-day hold |
+| Worst trade | LHX -3.32% unrealized (8 consecutive red sessions) |
+| Profit factor | 2.21 all-time ($14,816.49 / $6,692.34) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| GE | $280.02 | $359.61 | +$5,332.53 (+28.42%) | 75-day hold (Apr 24 → Jul 8); 5% trailing stop GTC 94b1a703 fired at open Jul 8; gapped below stop $363.82; progression 10%→7%→5% mechanical |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| LHX | $300.80 | $290.80 | -$699.74 (-3.32%) | $274.01 (10% trail, HWM $304.46) — Q2 Jul 29 |
+| NOC | $513.30 | $539.63 | +$1,053.15 (+5.13%) | $497.36 (10% trail, HWM $552.63) — Q2 Jul 21 ⚠️ 11d |
+| RTX | $174.65 | $195.93 | +$2,447.20 (+12.18%) | $189.66 (7% trail, HWM $203.94) — Q2 Jul 23, 3.2% buf ⚠️ |
+
+### What Worked
+- GE mechanical exit flawless: 75-day patience + 10%→7%→5% trail progression → $5,332 realized (+28.42%); zero emotional decisions across 11 weeks; confirms patience + mechanical stops as the only validated edges
+- RTX 7% stop tighten executed correctly at open Jul 6 — pre-planned action, order cancelled/replaced within minutes of open; rule compliance maintained
+- Alpaca API anomaly (Jul 7 midday, positions showed as $0): correctly halted trading rather than acting on bad data; GTC order HWM updates confirmed positions intact; EOD verified; no capital at risk
+- PEP skip (Jul 9): $0.01 EPS miss ($2.20 vs $2.21 est) — hard gate enforced without discretion; kept 2 trade slots available for better setups
+- LHX entry discipline (Jul 6): all gates passed, fill at $300.80 within $290-$310 pre-market range, deployment reached 80.9% (in target band) — first week at 75%+ deployed since Week 10
+
+### What Didn't Work
+- GE stop gapped through at open (-$4.21 below $363.82 stop) — filled $359.61; unavoidable with 5% trail on a volatile name, but left $282 on the table vs stop price; tight trails are the cost of protecting 30%+ gains
+- LHX -3.32% after 5 sessions (8+ consecutive red sessions including prior week); not a rule violation — thesis confirmed intact (no contract cancellations, new $726M + $700M Canadian awards) but the position is a drag and approaching the -7% cut floor ($279.74, 3.7% buffer)
+- RTX 7% trail buffer tight (2.5–3.2% range all week) — any broad defense selloff risks stop-out before the +20% trigger ($209.58); correct trail level but leaves limited cushion heading into FOMC/CPI/earnings season
+- Deployment fell to 58.1% after GE exit (Jul 8, freed $24K) — never redeployed this week; CPI/earnings calendar deferred the entry; 7th+ consecutive week below 75–85% target
+- Portfolio -2.34% vs S&P +1.15% = -3.49% underperformance; bot is being penalized by underdeployment and LHX weakness in a rising market
+
+### Key Lessons
+- Two large realized wins (MRVL +$9,484, GE +$5,332) now account for virtually all phase alpha — the strategy proves that patient holds + mechanical stop progressions capture the full move; all 7 other closed trades are losses; quality > quantity is the defining lesson of 12 weeks
+- GE stop gap (-$4 below trigger) is normal for a 5% trail on a $360 name — the fill at $359.61 is NOT an execution failure; do not widen the trail on high-gain positions; accept gap risk as the cost of capturing +28% without human decisions
+- API anomalies are a real operational risk: the Jul 7 midday outage correctly froze trading; the heartbeat-without-work-commit failure mode (identified Week 11) and this API anomaly are both paper-account-specific fragilities that will not exist on a live funded account
+- LHX pattern: this is the SECOND LHX entry, and it follows the same early weakness pattern as the first (first LHX entered May 21, underperformed for 4+ weeks before the -7% stop-out Jun 22); may indicate LHX is structurally volatile with low signal vs. GE/NOC/RTX which have clearer catalysts and cleaner trends
+- Earnings season crowding (NOC Jul 21, RTX Jul 23, LHX Jul 29) limits new entry window to 1 week of clean risk; deploy one confirmed catalyst position post-CPI (Jul 14) then let earnings settle before adding more
+
+### Adjustments for Next Week
+- **LHX:** Cut floor $279.74 (3.7% buffer from $290.80); if any close at or below $279.74 → manual cut immediately; if GTC fires, honor it; Q2 earnings Jul 29 — 19 days out, still safe
+- **NOC:** Q2 Jul 21 (11d) → sell-the-news risk approaching; pre-plan: if guidance misses → close on the open; if beat + raised guide → hold and let 10% trail manage; $497.36 stop (7.6% buffer)
+- **RTX:** 7% trail stop $189.66 (3.2% buffer — ⚠️ tight); +20% tighten trigger $209.58 ($13.65/7.0% away); Q2 Jul 23 (13d); verify order b205a209 is still active before week opens
+- **4th position:** Post-CPI (Jul 14), if data benign → scout non-defense momentum name (Materials, AI infrastructure, Industrials non-defense); reduce sector concentration from 3/3 defense; 2 trade slots available (1 used for LHX)
+- **Earnings protocol (NOC Jul 21, RTX Jul 23):** Do NOT add to these positions pre-earnings; review thesis 2 days before each print; if sell-the-news risk is elevated → reduce to half or exit before; let trailing stops manage if holding through
+
+### Overall Grade: C-
+*Week 12 — GE exit at +28.42% was a flawless mechanical trade and the portfolio's second-largest realized winner. But the portfolio fell -2.34% vs S&P +1.15%, a -3.49% underperformance, driven by LHX weakness and post-GE-exit underdeployment. Phase alpha remains +5.27% vs S&P. C- reflects the excellent single-trade execution offset by structural issues: 7th+ consecutive week below deployment target, LHX in a losing pattern echoing its first entry, and three earnings events in the next 13 days creating a crowded calendar. The portfolio needs a clean non-defense entry and LHX resolution.*
+
 ---
 
 *Note: Week 3 (ending 2026-05-08) review was not formally written. Summary: CVX + XOM thesis-broken exits on May 7 when WTI collapsed to ~$92 on US-Iran peace deal (combined realized -$1,173.43; energy sector ban triggered). FCX bought May 8 post-NFP (+160K beat). Portfolio ended week 3 at $100,030.92 (-1.31% from week 2 end).*
