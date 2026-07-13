@@ -3600,3 +3600,53 @@ GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$8
 
 ### Midday Addendum — 2026-07-10
 **LHX Perplexity check (midday):** Confirmed no negative catalyst driving the -3.91% cumulative drift. New positive data points: $726M munitions acceleration program + ~$700M Canadian defense contracts (RCAF). Q1 2026: record $40.7B backlog, book-to-bill 1.4x, EPS guidance raised $11.40–$11.60. Avg analyst PT $354.75. Thesis remains intact. Cut floor $279.74 is 3.2% below current $289.04 — watch closely. NOC and RTX: no intraday research needed (<0.5% moves, no unexplained activity).
+
+---
+
+## 2026-07-13 — Pre-Market Research (Day 57, Monday — Week 13 Day 1)
+
+### Account Snapshot
+- **Equity:** $111,149.15 | **Cash:** $46,451.45 (41.8%) | **Long MV:** $64,697.70 (58.2% deployed — ⚠️ below 75–85% target)
+- **Pre-market P&L:** +$224.55 (+0.20%) vs Friday close $110,924.60
+- **Daytrade count:** 0 | **Week 13 trades:** 0/3 (fresh week) | **Positions:** 3/6
+
+### Live Positions (pre-market)
+| Symbol | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| LHX | 70 | $300.80 | $291.31 | -$664.04 (-3.15%) | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 5.9% to stop / 4.0% to -7% floor $279.74 | Up +0.19% pre-mkt; Q2 Jul 29 (16d) |
+| NOC | 40 | $513.30 | $543.00 | +$1,187.95 (+5.79%) | $497.36 (10% trail, 1f9ffa17, HWM $552.63) | 8.4% | Up +0.63% pre-mkt; Q2 **Jul 21 (8d)** ⚠️ |
+| RTX | 115 | $174.65 | $196.40 | +$2,501.25 (+12.45%) | $189.66 (7% trail, b205a209, HWM $203.94) | 3.4% ⚠️ | Up +0.24% pre-mkt; Q2 Jul 23 (10d); +20% trigger $209.58 (6.7% away) |
+
+**GTC stops confirmed active (orders verified):** LHX 8e7f9bdc ✓ | NOC 1f9ffa17 ✓ | RTX b205a209 ✓
+
+### Market Context
+- **S&P 500 futures:** ~7,587, -0.44% (~-33 pts) — pre-CPI jitters; futures had reached 5-week high last week
+- **VIX:** 16.25, up +2.59% today (opened 16.06; range 14.96–16.25 so far) — calm but ticking higher; low-vol bull regime still intact (LT avg 18.55)
+- **WTI crude:** ~$73.30–$74.31 (+1.4–2.8% vs Friday $72.27) — firming on Iran tensions; Brent ~$75–$78 est
+- **Earnings today:** None major — clean tape pre-market
+- **Tomorrow's binary events (Tue Jul 14):** CPI Jun 8:30 AM ET (consensus headline 3.8% YoY, down from May 4.2%; core ~0.22% MoM) + Fed Chair Warsh testimony + JPM / WFC / C / BAC / GS all before open
+- **Key week calendar:** CPI Tue → Fed testimony Tue+Wed → TSMC earnings Thu → Netflix earnings Thu AH → NOC earnings Jul 21 (next Mon)
+- **Sector momentum YTD:** Energy +23.3–26.5% | Materials +17.4% | Consumer Staples +15.6% | Industrials +14.1% | S&P 500 +1.2–9.3% | Financials -6.9% | IT -3.3%
+
+### Position Thesis Check
+- **LHX:** Contract pipeline robust: $614M integrated RF systems (Jul 1), NGC2 Army Manpack radio (Jul 9), German Forces comms (Jun 24), $726M munitions acceleration (confirmed Jul 10 midday), ~$700M Canadian defense (RCAF). Record backlog $40.7B, book-to-bill 1.4x, analyst median PT $390–$395 (~34% upside). No negative catalyst. -3.15% cumulative; -7% floor $279.74 (4.0% buffer — manageable but watch). Pre-market green +0.19%. HOLD.
+- **NOC:** Q2 earnings Jul 21 (8d). Consensus EPS $6.81–$6.82; Q1 beat +1%; 2026 guidance $43.5B–$44B revenue, FCF $3.1–$3.5B. Historical: sold off 19% in 30 days post-Q1. Pre-plan for earnings: if guidance miss → close at open Jul 21; if beat + raised → hold and let 10% trail manage. Review thesis Jul 19 (2d before). Currently +5.79% with 8.4% stop buffer. HOLD (no pre-earnings add).
+- **RTX:** Q2 earnings Jul 23 (10d). Official date confirmed Jul 23 pre-open, call 7:30 AM ET. Analyst EPS est. $1.66 (diluted, +6.4% YoY). 7% trail at $189.66 (HWM $203.94), buffer 3.4% ⚠️. +20% trigger $209.58 ($12.18/6.2% away). No action until +20% or stop fires. HOLD.
+
+### New Position Ideas (4th Position Scout)
+1. **VRT (Vertiv Holdings) — AI infrastructure cooling/power:** $15B backlog, primary beneficiary of AI data center buildout. Strong sector momentum. Catalyst: CPI benign → growth/tech rerating + continued hyperscaler capex. Risk: already up significantly YTD; chip momentum warning noted (Katie Stockton). Requires post-CPI confirmation.
+2. **ASLA (Astera Labs) — AI connectivity semiconductor:** 93% Q1 revenue surge ($308.4M) driven by hyperscaler AI cluster demand. Midcap (~$4–5B). Direct AI infrastructure catalyst. Earnings risk unknown — check before entry. Highest growth profile but volatile.
+3. **HWM (Howmet Aerospace) — Materials/aerospace:** 32% EPS growth, 126% earnings surprise, strong momentum. Non-defense. Diversifies away from pure defense concentration. Q2 earnings date TBD — verify before entry.
+4. **All deferred today:** S&P futures -0.44%, VIX rising into binary CPI/bank-earnings day tomorrow. Entering any 4th position TODAY = taking on binary CPI risk without clarity. DEFER to post-CPI (Tue) if benign.
+
+### Risk Factors
+1. **CPI Jun tomorrow (Jul 14, 8:30 AM ET)** — binary event; if hot (above 3.8%), rate-cut narrative collapses, defensives reprice, all three positions at risk; if benign, scout VRT/ASLA/HWM for 4th entry
+2. **NOC Q2 in 8 days (Jul 21)** — sell-the-news risk accelerating; thesis review Jul 19; do NOT enter or add; exit plan in place if guidance misses
+3. **RTX trailing stop 3.4% buffer** — S&P futures -0.44% today; if defense sells -3.5% intraday, RTX stop fires; +20% trigger $209.58 (6.2% away) would allow tighten to 5% and protect more gain
+4. **Bank earnings tomorrow** — JPM/GS/BAC/WFC/C all reporting pre-open Jul 14; financial sector -6.9% YTD; any miss could drag broad market and pressure risk assets
+5. **Oil firming +1.4–2.8%** — invalidates the narrative that CPI will come in soft (forward-looking energy inflation); Fed Chair Warsh testimony could signal hawkish pivot if CPI beats
+
+### Decision
+**HOLD** — No new entry today. Pre-CPI positioning day (S&P -0.44%, VIX +2.59%); binary CPI/bank-earnings event tomorrow determines new position viability. If CPI benign (≤3.8% headline) → scout VRT or HWM for 4th non-defense position Tuesday after data. All three existing positions stable pre-market (all green pre-open). No sell-side action triggered.
+
+**Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
