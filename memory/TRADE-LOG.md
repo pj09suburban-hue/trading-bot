@@ -2584,3 +2584,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $111,018.40 | **Cash:** $46,451.45 (41.8%) | **Long MV:** $64,566.95 (58.2% deployed — ⚠️ below 75–85% target) | **Day P&L:** +$95.90 (+0.09%) | **Phase P&L:** +$11,018.40 (+11.02%)
 **Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch:** RTX stop $189.66 (3.5% buffer — ⚠️ tight); LHX -7% floor $279.74 (3.8% buffer); **CPI Jun tomorrow Jul 14 8:30 AM ET** (binary — benign → scout VRT/HWM for 4th entry; hot → all positions at risk); NOC Q2 Jul 21 (8d — sell-the-news risk, review thesis Jul 19); RTX Q2 Jul 23 (10d); LHX Q2 Jul 29 (16d)
+
+---
+
+## 2026-07-13 — EOD Snapshot (Day 57, Monday — Week 13 Day 1)
+
+**Portfolio:** $110,614.20 | **Cash:** $46,451.45 (42.0%) | **Day P&L:** -$308.30 (-0.28%) | **Phase P&L:** +$10,614.20 (+10.61%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| LHX | 70 | $300.80 | $288.58 | -0.76% | -$855.49 (-4.06%) | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) — 5.1% buf / ⚠️ 3.1% to -7% floor |
+| NOC | 40 | $513.30 | $537.33 | -0.43% | +$960.95 (+4.68%) | $497.36 (10% trail, 1f9ffa17, HWM $552.63) — 7.4% buf |
+| RTX | 115 | $174.65 | $195.32 | -0.31% | +$2,377.05 (+11.84%) | $189.66 (7% trail, b205a209, HWM $203.94) — 2.9% buf ⚠️ |
+
+**Notes:** Day 57 (Monday, Week 13 Day 1). No new trades. All three defense positions closed modestly red intraday — broad market softness on the eve of CPI Jun data (due Jul 14 8:30 AM ET). No thesis changes; no stops adjusted. RTX continues to carry the tightest buffer at 2.9% to its 7% trailing stop (order b205a209, HWM $203.94) — any -3% intraday move triggers the stop. LHX has drifted to -4.06% cumulative; the -7% cut floor ($279.74) is now just 3.1% above current price ($288.58), warranting close monitoring. NOC steady at +4.68% with a comfortable 7.4% stop cushion; Q2 earnings Jul 21 (8d — sell-the-news risk on approach). Portfolio 58.0% deployed with $46.5K idle — below the 75–85% target. Week 13 at 0/3 trade slots used. Tomorrow's CPI is the binary gate: benign → scout VRT/HWM for 4th entry; hot → reassess all positions.
+
+**Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Tue:** CPI Jun 8:30 AM ET (binary — benign → scout 4th position; hot → all positions at risk); RTX stop $189.66 (2.9% buf — ⚠️ tight); LHX -7% floor $279.74 (3.1% buf — ⚠️ narrowing); NOC Q2 Jul 21 (8d — sell-the-news risk, review thesis Jul 19); RTX Q2 Jul 23 (10d); LHX Q2 Jul 29 (16d)
