@@ -2564,3 +2564,23 @@ No positions yet. Bot launches tomorrow.
 
 **Week 12 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Mon:** CPI Jun (Jul 14 — binary catalyst, benign → scout 4th position); RTX stop $189.66 (3.1% buf — ⚠️ any -3.1% move triggers); LHX -7% floor $279.74 (3.7% above — ⚠️ narrowing); NOC Q2 Jul 21 (11d — sell-the-news risk); RTX Q2 Jul 23 (13d); LHX Q2 Jul 29 (19d)
+
+---
+
+## 2026-07-13 — Midday Scan (Day 57, Monday — Week 13 Day 1)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| LHX | $300.80 | $290.68 | -$708.14 | -3.36% | -0.03% | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 5.7% to stop / 3.8% to -7% floor $279.74 | HOLD |
+| NOC | $513.30 | $540.39 | +$1,083.55 | +5.28% | +0.14% | $497.36 (10% trail, 1f9ffa17, HWM $552.63) | 8.0% | HOLD — Q2 earnings Jul 21 (8d); sell-the-news on watch |
+| RTX | $174.65 | $196.53 | +$2,516.20 | +12.53% | +0.31% | $189.66 (7% trail, b205a209, HWM $203.94) | 3.5% ⚠️ | HOLD — +20% trigger $209.58 (6.6% away) |
+
+**Cut losers (-7%):** None — LHX worst at -3.36% (floor $279.74, current $290.68 = 3.8% buffer). No cuts.
+**Stop tightening (+15%/+20%):** No threshold reached. RTX 7% trail already in place (HWM $203.94). +20% trigger $209.58 not hit (current $196.53, 6.6% away). NOC +15% trigger $590.30 not hit (current $540.39, 9.2% away). No new tightening.
+**Thesis check:** All intact. LHX intraday -0.03% (noise); no negative catalyst per pre-market research. NOC +0.14% (normal). RTX +0.31% (normal). Pre-CPI positioning day — all positions steady. No Perplexity query needed.
+**Research (Step 6):** No sharp unexplained moves — LHX -0.03%, NOC +0.14%, RTX +0.31% all within normal noise. No intraday research triggered.
+**Notification (Step 7):** No action taken → no Slack sent.
+
+**Portfolio (midday):** $111,018.40 | **Cash:** $46,451.45 (41.8%) | **Long MV:** $64,566.95 (58.2% deployed — ⚠️ below 75–85% target) | **Day P&L:** +$95.90 (+0.09%) | **Phase P&L:** +$11,018.40 (+11.02%)
+**Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch:** RTX stop $189.66 (3.5% buffer — ⚠️ tight); LHX -7% floor $279.74 (3.8% buffer); **CPI Jun tomorrow Jul 14 8:30 AM ET** (binary — benign → scout VRT/HWM for 4th entry; hot → all positions at risk); NOC Q2 Jul 21 (8d — sell-the-news risk, review thesis Jul 19); RTX Q2 Jul 23 (10d); LHX Q2 Jul 29 (16d)
