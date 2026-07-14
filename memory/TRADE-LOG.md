@@ -2630,3 +2630,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $111,060.85 | **Cash:** $46,451.45 (41.9%) | **Long MV:** $64,609.40 (58.2% deployed — ⚠️ below 75–85% target) | **Day P&L:** +$143.45 (+0.13%) | **Phase P&L:** +$11,060.85 (+11.06%)
 **Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch:** RTX stop $189.66 (3.7% buf — improved; monitor); LHX -7% floor $279.74 (4.5% buf — improving; SDA contract positive); **NOC Q2 Jul 21 (7d — sell-the-news risk; thesis review Jul 19)**; RTX Q2 Jul 23 (9d); LHX Q2 Jul 29 (15d); 4th position scout deferred (market-open no-trade today)
+
+---
+
+## 2026-07-14 — EOD Snapshot (Day 58, Tuesday — Week 13 Day 2)
+
+**Portfolio:** $110,634.58 | **Cash:** $46,451.45 (42.0%) | **Day P&L:** -$282.82 (-0.25%) | **Phase P&L:** +$10,634.58 (+10.63%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| LHX | 70 | $300.80 | $292.34 | +1.26% | -$592.29 (-2.81%) | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) — 6.3% buf / 4.3% to -7% floor |
+| NOC | 40 | $513.30 | $531.67 | -1.87% | +$734.55 (+3.58%) | $497.36 (10% trail, 1f9ffa17, HWM $552.63) — 6.5% buf |
+| RTX | 115 | $174.65 | $195.23 | -0.59% | +$2,366.13 (+11.78%) | $189.66 (7% trail, b205a209, HWM $203.94) — 2.8% buf ⚠️ |
+
+**Notes:** Day 58, no new trades (Week 13: 0/3 slots used). Portfolio closed -0.25% on the day. LHX the sole gainer (+1.26%) aided by the Pentagon SDA satellite contract (~$919M award to L3Harris, per Reuters; announced this morning). NOC -1.87% — normal pre-earnings drift; Q2 earnings due Jul 21 (7d). RTX -0.59%, holding +11.78% cumulative; trailing stop remains the tightest risk at only 2.8% buffer (order b205a209, HWM $203.94, stop $189.66). No stops triggered or tightened today. CPI Jun released 8:30 AM ET — market reaction confirmed calm across all three positions. Fourth position entry deferred again despite benign CPI; $46.5K cash idle (42%), below the 75–85% deployed target. Pre-market tomorrow must produce a confirmed catalyst or hold cash.
+
+**Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Wed Jul 15:** RTX stop $189.66 (2.8% buf — ⚠️ narrow; any -2.8% move triggers); LHX -7% floor $279.74 (4.3% buf — improving with SDA contract); **NOC Q2 Jul 21 (7d — thesis review Jul 19 Sat)**; RTX Q2 Jul 23 (9d); LHX Q2 Jul 29 (15d); 4th position scout open (CPI benign, VRT/HWM top candidates, 0/3 trades used)
