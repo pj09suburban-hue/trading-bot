@@ -2601,3 +2601,32 @@ No positions yet. Bot launches tomorrow.
 
 **Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Tue:** CPI Jun 8:30 AM ET (binary — benign → scout 4th position; hot → all positions at risk); RTX stop $189.66 (2.9% buf — ⚠️ tight); LHX -7% floor $279.74 (3.1% buf — ⚠️ narrowing); NOC Q2 Jul 21 (8d — sell-the-news risk, review thesis Jul 19); RTX Q2 Jul 23 (10d); LHX Q2 Jul 29 (16d)
+
+---
+
+## 2026-07-14 — Market-Open (Day 58, Tuesday — Week 13 Day 2)
+
+**No new trades.** Market-open routine ran (heartbeat committed d17aff3). CPI Jun data released 8:30 AM ET — actual print unconfirmed in real-time search but market reaction calm (positions stable). Bank earnings (JPM/GS/WFC/BAC) also released pre-open. Sell-side check: all positions held with theses intact. Buy-side: no entry placed (market-open routine deferred — rationale not logged in memory; positions stable and 0/3 trades used this week). Account: $111,060.85 | Cash: $46,451.45 (41.9%) | Deployed: 58.1%.
+
+---
+
+## 2026-07-14 — Midday Scan (Day 58, Tuesday — Week 13 Day 2)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| LHX | $300.80 | $292.97 | -$547.84 | -2.60% | +$299.60 (+1.48%) | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 6.5% stop / 4.5% to -7% floor $279.74 | HOLD — recovering; new Pentagon SDA satellite/missile-tracking contract (~$919M L3Harris share per Reuters/Yahoo) announced today |
+| NOC | $513.30 | $536.07 | +$910.75 | +4.44% | -$230.00 (-1.06%) | $497.36 (10% trail, 1f9ffa17, HWM $552.63) | 7.2% | HOLD — mild pullback (-1.06%), within noise; Q2 earnings Jul 21 (7d) ⚠️ |
+| RTX | $174.65 | $196.98 | +$2,567.95 | +12.79% | +$67.85 (+0.30%) | $189.66 (7% trail, b205a209, HWM $203.94) | 3.7% ⚠️ | HOLD — 7% trail in place; +20% trigger $209.58 (6.4% away); Q2 Jul 23 (9d) |
+
+**Cut losers (-7%):** None — LHX worst at -2.60% (floor $279.74, current $292.97 = 4.5% buffer). No cuts.
+**Stop tightening (+15%/+20%):** LHX negative — no action. NOC +4.44% (trigger $590.30 = 9.3% away) — no action. RTX +12.79% (7% trail already in place from HWM $203.94; +20% trigger $209.58 = 6.4% away; don't tighten within 3%) — no action.
+**Thesis check:**
+- LHX: -2.60%, +1.48% intraday (recovering). Pentagon Space Development Agency (SDA) satellite/missile-tracking contract announced today — L3Harris share ~$919M (part of $2.55B total with LMT and Sierra Space). Positive catalyst, reinforces thesis. Perplexity also surfaced Jan 2026 DoW $1B Missile Solutions investment (confirmed prior) and Jul 9 $84M Army manpack order. Thesis intact. Stop 6.5% buffer. -7% floor 4.5% buffer (improving vs last week's 3.1%). HOLD.
+- NOC: +4.44%, -1.06% intraday (normal pre-earnings drift). Thesis intact. Q2 Jul 21 (7d — sell-the-news risk). No negative catalyst confirmed. Stop 7.2% buffer. Thesis review Jul 19. HOLD.
+- RTX: +12.79%, +0.30% intraday (flat). Thesis intact. 7% trailing stop in place (HWM $203.94, stop $189.66). Buffer 3.7% — improved from 2.9% yesterday. Q2 Jul 23 (9d). +20% trigger $209.58 (6.4% away). HOLD.
+**Research (Step 6):** Perplexity queried — CPI Jun actual print not yet indexed (data lag on 8:30 AM ET release); market reaction calm based on position behavior. LHX: new Pentagon SDA satellite/missile-tracking contract confirmed (~$919M L3Harris share, part of $2.55B total SDA award, announced Tuesday). NOC/RTX: no specific news today; intraday moves within noise.
+**Notification (Step 7):** No action taken → no Slack sent.
+
+**Portfolio (midday):** $111,060.85 | **Cash:** $46,451.45 (41.9%) | **Long MV:** $64,609.40 (58.2% deployed — ⚠️ below 75–85% target) | **Day P&L:** +$143.45 (+0.13%) | **Phase P&L:** +$11,060.85 (+11.06%)
+**Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch:** RTX stop $189.66 (3.7% buf — improved; monitor); LHX -7% floor $279.74 (4.5% buf — improving; SDA contract positive); **NOC Q2 Jul 21 (7d — sell-the-news risk; thesis review Jul 19)**; RTX Q2 Jul 23 (9d); LHX Q2 Jul 29 (15d); 4th position scout deferred (market-open no-trade today)
