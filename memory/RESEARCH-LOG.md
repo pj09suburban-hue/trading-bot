@@ -3650,3 +3650,51 @@ GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$8
 **HOLD** — No new entry today. Pre-CPI positioning day (S&P -0.44%, VIX +2.59%); binary CPI/bank-earnings event tomorrow determines new position viability. If CPI benign (≤3.8% headline) → scout VRT or HWM for 4th non-defense position Tuesday after data. All three existing positions stable pre-market (all green pre-open). No sell-side action triggered.
 
 **Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+---
+
+## 2026-07-14 — Pre-Market Research (Day 58, Tuesday — Week 13 Day 2)
+
+### Account Snapshot
+- **Equity:** $110,826.45 | **Cash:** $46,451.45 (41.9%) | **Long MV:** $64,375 (58.1% deployed — ⚠️ below 75–85% target)
+- **Daytrade count:** 0 | **Week 13 trades:** 0/3 | **Positions:** 3/6
+
+### Live Positions (pre-market)
+| Symbol | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| LHX | 70 | $300.80 | $288.98 | -$827.14 (-3.93%) | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 5.2% stop / 3.2% to -7% floor $279.74 | AfterHrs +0.85% ($291.12); Q2 Jul 29 (15d) |
+| NOC | 40 | $513.30 | $542.00 | +$1,147.95 (+5.59%) | $497.36 (10% trail, 1f9ffa17, HWM $552.63) | 8.2% | +0.03% intraday; Q2 **Jul 21 (7d)** ⚠️ |
+| RTX | 115 | $174.65 | $195.36 | +$2,381.65 (+11.86%) | $189.66 (7% trail, b205a209, HWM $203.94) | 2.9% ⚠️ | -0.52% intraday; Q2 Jul 23 (9d); +20% trigger $209.58 (7.3% away) |
+
+**GTC stops confirmed active:** LHX 8e7f9bdc ✓ | NOC 1f9ffa17 ✓ | RTX b205a209 ✓
+
+### Market Context
+- **S&P 500 futures:** ~7,576–7,577, -0.57% — pre-CPI jitters; market pulling back from recent highs
+- **VIX:** 16.38–16.39, +9.0% vs prior close (still calm/low regime; prior close 16.39 itself was elevated from 15.03 close last week)
+- **WTI crude:** ~$68.77–$73.58 range (most recent ~$68.77–$71.39 intraday — falling sharply from the Iran-spike high of $74.31 last week; Brent ~$71.86–$78.75)
+- **Binary event today 8:30 AM ET:** CPI Jun (consensus headline 3.8–3.9% YoY from May's 4.2%; core ~0.22–0.24% MoM / 2.8–2.9% YoY) — NOT YET RELEASED as of this writing; market-open routine will assess actual print
+- **Bank earnings today (before open):** JPM ($5.67 EPS est, +14.3% YoY), GS ($14.01–$14.47, +28–32% YoY), WFC ($1.72–$1.74), BAC — all Q2 2026; finance sector -6.9% YTD; results could shift broad market tone
+- **Sector momentum (Momentum Map):** Industrials/XLI "Leading" quadrant — YTD +14.1%, Q2 +14.81%. Info Tech > Industrials > Healthcare in rankings. Caveat: momentum trade "hit the skids" early July (SPMO ETF -6.6% in July); Industrials flagged "very overbought" by some strategists.
+
+### Position Thesis Check
+- **LHX (-3.93%):** Thesis intact. Recent confirmed catalysts: $84M NGC2 Army manpack radio orders (Jul 9), $499.57M MDA IDIQ (confirmed prior), $726M munitions acceleration, ~$700M Canadian defense (RCAF). 2026 profit guidance raised after Q1 beat (revenue +15% YoY, EPS $2.72 +7.9% vs est). Bernstein PT $324 (Outperform). Record $40.7B backlog, book-to-bill 1.4x. Q2 Jul 29 (15d). -7% floor $279.74 (3.2% buffer — ⚠️ narrowing after 10+ red sessions; close monitor). Stop $274.01 (5.2% buffer). HOLD.
+- **NOC (+5.59%):** Q2 earnings Jul 21 (7d) — critical. Consensus EPS $6.82; Q1 beat ($6.14 vs $6.07 est, revenue $9.88B). $312.34M Navy SEWIP Block 3 mod (Jul 2). 2026 guidance reaffirmed ($43.5–$44B sales). Backlog $96B. Historical: -19% post-Q1 (sold-off despite beat). Exit plan: if guidance miss → close at open Jul 21; if beat+raised → hold. Do NOT add pre-earnings. Stop $497.36 (8.2% buffer). HOLD.
+- **RTX (+11.86%):** Q2 Jul 23 (9d). Analyst EPS $1.66 (+6.4% YoY). 7% trail (HWM $203.94), stop $189.66 — buffer 2.9% ⚠️ (tight; S&P futures -0.57% today). +20% trigger $209.58 (7.3% away). No action until +20% or stop fires. HOLD.
+
+### 4th Position Scouts (deferred pending CPI)
+1. **VRT (Vertiv — AI data center infrastructure):** Q1 2026 adj EPS +83% YoY; $15B+ backlog driven by hyperscaler AI capex. Adding 1,000+ US jobs. Earnings late July (exact date TBD — verify before entry). Entry condition: CPI benign + benign market-open reaction. Risk: earnings date timing (may be within 3 days of potential entry → 7% initial stop per post-earnings rule). Sizing: ~71 shares at $311 = ~$22,085 (≤20% equity). **Post-CPI if benign: top candidate.**
+2. **HWM (Howmet Aerospace — commercial aerospace/defense components):** Q1 2026 EPS $1.22 +42% YoY, revenue $2.31B +19% YoY. Record EBITDA margin 32%. Q2 earnings **Aug 5** (22d away — no near-term earnings overhang). Near 52-wk high. Strong Buy consensus. Diversifies away from pure defense. Entry condition: CPI benign. Sizing: ~76 shares at $290 = ~$22,040 (≤20% equity). **Post-CPI if benign: secondary candidate.**
+3. **All deferred today:** Pre-CPI positioning; S&P futures -0.57%; market-open routine will assess CPI print and decide entry. Do NOT enter pre-CPI.
+
+### Risk Factors
+1. **CPI Jun today (8:30 AM ET, NOT RELEASED YET)** — binary. Hot (>3.9%) → rate-cut narrative collapses, defensives/growth reprice, RTX stop at 2.9% buffer most vulnerable; benign (≤3.8%) → risk-on, scout VRT/HWM for 4th position
+2. **RTX trailing stop buffer 2.9% ⚠️** — any -3% intraday move fires stop; market currently -0.57% pre-open; +20% trigger ($209.58) would allow tighten to 5%
+3. **NOC Q2 earnings in 7 days (Jul 21)** — sell-the-news risk accelerating; stop buffer 8.2% comfortable for now; thesis review Jul 19; exit plan in place
+4. **Bank earnings batch today** — JPM/GS/WFC/BAC all pre-open; miss on NII guidance or credit quality could drag broad market; finance sector YTD -6.9% signals weakness
+5. **Momentum unwind risk** — SPMO -6.6% in July; Industrials flagged "very overbought"; if momentum trade unwinds further, defense positions face sector-level selling pressure
+6. **Oil declining** — WTI down from $74+ to ~$69; energy inflation softens (supports CPI being benign), but energy sector ban still in effect (CVX+XOM sector exit from May 2026 failures)
+
+### Decision
+**HOLD / TRADE-conditional** — Do NOT enter pre-CPI. Binary event at 8:30 AM ET. If CPI ≤ 3.8% headline + market-open is benign → enter VRT (primary) or HWM (secondary) for 4th position at market-open. Market-open routine has the decision with full context. All existing positions stable with theses intact; no sell-side action triggered pre-market.
+
+**Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
