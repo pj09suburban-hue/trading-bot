@@ -3698,3 +3698,64 @@ GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$8
 **HOLD / TRADE-conditional** — Do NOT enter pre-CPI. Binary event at 8:30 AM ET. If CPI ≤ 3.8% headline + market-open is benign → enter VRT (primary) or HWM (secondary) for 4th position at market-open. Market-open routine has the decision with full context. All existing positions stable with theses intact; no sell-side action triggered pre-market.
 
 **Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+---
+
+## 2026-07-15 — Pre-Market Research (Day 59, Wednesday — Week 13 Day 3)
+
+### Account Snapshot
+- **Equity:** $110,175.50 | **Cash:** $46,451.45 (42.2%) | **Long MV:** $63,724.05 (57.8% deployed ⚠️ below 75–85%)
+- **Day P&L:** +$36.70 (+0.03%) vs last equity $110,138.80
+- **Phase P&L:** +$10,175.50 (+10.18%) | **Week 13 trades:** 0/3 | **Daytrade count:** 0
+
+### Live Positions (pre-market)
+| Symbol | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| LHX | 70 | $300.80 | $290.01 | -$755.04 (-3.59%) | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 5.5% stop / 3.57% to -7% floor $279.74 | Flat pre-market; SDA contract catalyst intact |
+| NOC | 40 | $513.30 | $529.99 | +$667.55 (+3.25%) | $497.36 (10% trail, 1f9ffa17, HWM $552.63) | 6.2% | Q2 earnings Jul 21 (6d) ⚠️ sell-the-news risk accelerating |
+| RTX | 115 | $174.65 | $193.25 | +$2,139.00 (+10.65%) | $189.66 (7% trail, b205a209, HWM $203.94) | **1.86% ⚠️⚠️ HAIR TRIGGER** | Q2 Jul 23 (8d); +20% trigger $209.58 (8.4% away); stop fires on -1.86% dip |
+
+**GTC stops confirmed active:** LHX 8e7f9bdc ✓ | NOC 1f9ffa17 ✓ | RTX b205a209 ✓
+
+### Market Context
+- **S&P 500 futures:** ~7,558–7,613, roughly flat pre-market (yesterday's session lifted +0.38%/S&P, +0.90%/Nasdaq on benign CPI)
+- **VIX:** ~16.86 intraday, opening 17.21 (range 16.53–17.56) — slightly elevated but calm regime; no fear spike
+- **WTI crude:** ~$79–80/bbl (Brent ~$85); sharp recovery from prior week's $68–71 range on **fresh US-Iran tensions** (Strait of Hormuz shipping blockade); oil risk factor re-elevated
+- **CPI Jun (released yesterday Jul 14, 8:30 AM ET):** **3.5% vs 3.8% forecast** — BENIGN ✓; core also soft; unlocks TRADE-conditional gate from yesterday's pre-market
+- **FOMC minutes:** Released today (Wednesday); dovish read expected given soft CPI and weaker jobs data — could boost Nasdaq/tech; hawkish surprise = headwind
+- **Bank earnings:** Citigroup beat Q2 (revenue +11% to $19.64B); broader bank batch mostly impressed; Q2 S&P 500 EPS growth forecast 22% YoY
+- **Defense sector:** $1.5T Trump defense budget driving sector tailwind; Pentagon extended review period (production vs. shareholder payouts) flagged as moderate headwind; no new DoD contract news for LHX/NOC/RTX today
+- **S&P 500 sector momentum:** Industrials/XLI in "Leading" quadrant, YTD +14.1%
+
+### Position Thesis Check
+- **LHX (-3.59%):** Thesis intact. SDA satellite/missile-tracking contract catalyst ($919M L3Harris share announced Jul 14) still in force. Recovering — closed Jul 14 at $292.34 (+1.26%), pre-market at $290.01 (some give-back). -7% floor $279.74 — buffer 3.57%, improving vs last week's 3.1%. Stop 5.5% buffer. HOLD.
+- **NOC (+3.25%):** Q2 earnings Jul 21 (6d) — sell-the-news risk now elevated. Thesis intact; stop 6.2% buffer. Exit plan: if guidance miss → close at open Jul 21; if beat+raised → hold. No new negative catalyst. HOLD. Thesis review Jul 19.
+- **RTX (+10.65%):** 7% trailing stop at $189.66 (HWM $203.94) — buffer only **1.86% ⚠️⚠️**. Any -1.86% intraday move fires the stop. Q2 confirmed Jul 23 BMO (8d). Stop fires automatically; if it does, realize ~$2,100+ in gains. +20% trigger $209.58 (8.4% away) — not on the table today. No action needed. Monitor closely at open.
+
+### 4th Position Scouts
+1. **HWM (Howmet Aerospace — commercial aero/defense components): TOP CANDIDATE**
+   - Q2 earnings officially confirmed **Aug 6** (22 days away — clean entry window, no earnings overhang)
+   - Q1 2026: adj EPS $1.22 +42% YoY, revenue $2.31B +19% YoY, record EBITDA margin 32%; Strong Buy consensus
+   - Pre-market quote: ask ~$306 (wide spread in after-hours, confirm at open)
+   - Sizing: 71 shares × ~$306 = ~$21,726 (~19.7% of equity, within 20% limit)
+   - Entry condition: S&P opens flat or positive, FOMC minutes not hawkish surprise, oil not spiking >$82
+   - Stop: 10% trail from fill → ~$275 initial stop
+   - Target: ~$347 (+13.4% from $306) = 2:1 R:R vs $30.6 stop risk
+
+2. **VRT (Vertiv — AI data center infrastructure): DEFERRED**
+   - Q2 earnings estimated Jul 24–29 (not yet officially confirmed) — 9–14 days away; too close
+   - Entering today = holding through earnings; sell-the-news risk per post-earnings rule (7% initial stop)
+   - HOLD until official date confirmed; if confirmed Jul 29, re-evaluate Jul 19
+   - Pre-market: bid ~$289 (after-hours quote)
+
+### Risk Factors
+1. **RTX stop 1.86% buffer ⚠️** — any small selloff today fires the stop; automatic; preserves ~$2,100 gain; not a crisis but monitor at open
+2. **NOC Q2 in 6 days (Jul 21)** — sell-the-news risk; do NOT add; exit plan in force
+3. **Oil spike to $80 (US-Iran Strait of Hormuz)** — geopolitical re-escalation; if oil spikes further >$82, could compress equity valuations and signal sector-level risk
+4. **FOMC minutes (today)** — tail risk of hawkish surprise; if minutes show more hawkish language than expected, growth/tech reprices; defense positions largely immune but broad market selloff could trigger stops
+5. **Momentum unwind continuation** — Industrials "very overbought" per some strategists; any sector rotation to defensives/bonds compresses defense multiples
+
+### Decision
+**TRADE-conditional** — CPI benign ✓. Enter **HWM** at market-open IF: (1) S&P futures ≥ flat at 9:30 ET, (2) FOMC minutes not a hawkish surprise, (3) WTI not spiking above $82. Verify live quote at open before placing; position cost ≤ 20% equity. VRT deferred (earnings timing unclear). If RTX trailing stop fires at open (1.86% buffer), let it execute — do not cancel.
+
+**Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
