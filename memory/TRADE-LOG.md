@@ -2687,3 +2687,21 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $109,778.33 | **Cash:** $28,317.10 (25.8%) | **Long MV:** $81,461.23 (74.2% deployed — ⚠️ just below 75–85% target) | **Day P&L:** -$360.47 (-0.33%) | **Phase P&L:** +$9,778.33 (+9.78%)
 **Week 13 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0
 **Key watch:** LHX -7% floor $279.74 (2.88% buffer — ⚠️ WATCH CLOSELY; cut at $279.74 regardless of stop); RTX stop $189.66 (2.29% buffer — ⚠️ tight; auto-fires); **NOC Q2 Jul 21 (6d — do not add; exit plan if guidance miss)**; RTX Q2 Jul 23 (8d); LHX Q2 Jul 29 (14d); FOMC minutes 2PM ET today (tail risk)
+
+---
+
+## 2026-07-15 — EOD Snapshot (Day 59, Wednesday — Week 13 Day 3)
+
+**Portfolio:** $109,833.30 | **Cash:** $28,317.10 (25.8%) | **Day P&L:** -$801.28 (-0.72%) | **Phase P&L:** +$9,833.30 (+9.83%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $275.06 | -0.62% | -$255.45 (-1.41%) | $251.98 (10% trail, 96ab1030, HWM $279.98) — 8.4% buf |
+| LHX | 70 | $300.80 | $286.83 | -1.10% | -$977.64 (-4.64%) | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) — 4.5% buf / 2.5% to -7% floor $279.74 ⚠️ |
+| NOC | 40 | $513.30 | $527.77 | -0.17% | +$578.75 (+2.82%) | $497.36 (10% trail, 1f9ffa17, HWM $552.63) — 5.8% buf |
+| RTX | 115 | $174.65 | $195.15 | +0.91% | +$2,357.50 (+11.74%) | $189.66 (7% trail, b205a209, HWM $203.94) — 2.8% buf ⚠️ |
+
+**Notes:** Day 59, Week 13. One trade today — HWM BUY (65sh @ $278.99, 10% trailing stop 96ab1030). HWM ended -1.41% on its opening day, typical first-day noise with no negative catalyst; commercial aerospace/gas turbine demand thesis intact, Q2 earnings clean Aug 6. Portfolio closed -0.72% on the day: LHX -1.10% intraday (cumulative -4.64%, approaching -7% manual cut floor at $279.74 — only 2.5% away ⚠️); NOC -0.17% (steady, Q2 Jul 21 in 6 days — thesis review needed Jul 19); RTX +0.91% intraday, +11.74% cumulative, stop auto-trails at $189.66 with only 2.8% buffer ⚠️. FOMC minutes released 2PM ET; no violent reaction across positions. Portfolio now 74.2% deployed ($81,516/$109,833) — within the 75–85% target. Cash $28,317 (25.8%) limits a 5th position to small size; would need a strong catalyst.
+
+**Week 13 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Thu Jul 17:** LHX -7% floor $279.74 (2.5% buffer — ⚠️ CRITICAL; any -2.5% move triggers mandatory cut); RTX stop $189.66 (2.8% buf — ⚠️ tight; auto-fires if moves down); **NOC Q2 Jul 21 (6d — thesis review Jul 19 Sat; do not add); RTX Q2 Jul 23 (8d); LHX Q2 Jul 29 (14d)**; cash $28,317 limits 5th position entry
