@@ -2662,3 +2662,28 @@ No positions yet. Bot launches tomorrow.
 
 **Account post-trade:** Equity $110,935 | Cash $28,317 (25.5%) | Long MV $82,618 (74.5% deployed — ✓ target 75–85%) | 4/6 positions | Week 13: 1/3 trades | Daytrade count: 0
 **Key watch:** HWM stop 96ab1030 (10% trail, stop $251.98); HWM Q2 Aug 6 (22d); RTX stop b205a209 (⚠️ tight — monitor at open); NOC Q2 Jul 21 (6d — thesis review Jul 19); LHX -7% floor $279.74; FOMC minutes 2PM ET today (tail risk)
+
+---
+
+## 2026-07-15 — Midday Scan (Day 59, Wednesday — Week 13 Day 3)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| HWM | $278.99 | $273.50 | -$356.85 | -1.97% | -1.19% | $251.98 (10% trail, 96ab1030, HWM $279.98) | 7.5% to stop / 7.2% to -7% floor $259.56 | HOLD — new position, opening-day volatility; no neg catalyst |
+| LHX | $300.80 | $287.81 | -$909.04 | -4.32% | -0.76% | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 4.8% to stop / 2.88% to -7% floor $279.74 ⚠️ | HOLD — $955M Golden Dome SDA contract; thesis intact |
+| NOC | $513.30 | $530.17 | +$674.55 | +3.29% | +0.28% | $497.36 (10% trail, 1f9ffa17, HWM $552.63) | 6.2% | HOLD — Q2 Jul 21 (6d) ⚠️ sell-the-news risk |
+| RTX | $174.65 | $194.10 | +$2,236.75 | +11.14% | +0.37% | $189.66 (7% trail, b205a209, HWM $203.94) | 2.29% ⚠️ | HOLD — 7% trail in place; +20% trigger $209.58 (7.97% away) |
+
+**Cut losers (-7%):** None — worst LHX at -4.32% (floor $279.74, 2.88% below current). No cuts.
+**Stop tightening (+15%/+20%):** None — RTX 7% trail already set (HWM $203.94); at +11.14% currently, no new trigger. NOC +3.29% and HWM -1.97% below threshold.
+**Thesis check:**
+- HWM: -1.97% unrealized on first day. Opened today at ~$273.41 market open; our fill was $278.99 at open. No new negative catalyst — Perplexity confirms strong commercial aerospace/gas turbine demand, 2026 guidance intact, analyst PT $308.88 consensus Strong Buy. Opening-day noise. Stop 7.5% buffer. HOLD.
+- LHX: -4.32% cumulative, -0.76% today. $955M Golden Dome (SDA AMDT3 missile tracking satellites, Jul 13) + $200M rocket propulsion contract. Bernstein PT raised to $324 (avg $379.67). Thesis intact. -7% floor $279.74 is 2.88% below current $287.81 — monitor closely; any -3% intraday move approaches cut trigger. Stop 4.8% buffer. HOLD.
+- NOC: +3.29%, +0.28% today. Thesis intact. Q2 earnings Jul 21 (6d) — sell-the-news risk accelerating; do not add. Stop 6.2% buffer. HOLD.
+- RTX: +11.14%, +0.37% today. 7% trailing stop in place (HWM $203.94, stop $189.66). Buffer 2.29% — tight but auto-managed. +20% trigger $209.58 (7.97% away). Q2 Jul 23 (8d). HOLD.
+**Research (Step 6):** HWM queried — no negative catalyst; aerospace demand strong. LHX queried — $955M SDA satellite contract confirmed positive; thesis intact. No sharp unexplained moves on NOC/RTX.
+**Notification (Step 7):** No action taken → no Slack sent.
+
+**Portfolio (midday):** $109,778.33 | **Cash:** $28,317.10 (25.8%) | **Long MV:** $81,461.23 (74.2% deployed — ⚠️ just below 75–85% target) | **Day P&L:** -$360.47 (-0.33%) | **Phase P&L:** +$9,778.33 (+9.78%)
+**Week 13 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0
+**Key watch:** LHX -7% floor $279.74 (2.88% buffer — ⚠️ WATCH CLOSELY; cut at $279.74 regardless of stop); RTX stop $189.66 (2.29% buffer — ⚠️ tight; auto-fires); **NOC Q2 Jul 21 (6d — do not add; exit plan if guidance miss)**; RTX Q2 Jul 23 (8d); LHX Q2 Jul 29 (14d); FOMC minutes 2PM ET today (tail risk)
