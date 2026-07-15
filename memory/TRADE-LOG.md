@@ -2647,3 +2647,18 @@ No positions yet. Bot launches tomorrow.
 
 **Week 13 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Wed Jul 15:** RTX stop $189.66 (2.8% buf — ⚠️ narrow; any -2.8% move triggers); LHX -7% floor $279.74 (4.3% buf — improving with SDA contract); **NOC Q2 Jul 21 (7d — thesis review Jul 19 Sat)**; RTX Q2 Jul 23 (9d); LHX Q2 Jul 29 (15d); 4th position scout open (CPI benign, VRT/HWM top candidates, 0/3 trades used)
+
+---
+
+## 2026-07-15 — Market-Open Trade (Day 59, Wednesday — Week 13 Day 3)
+
+**BUY HWM** | 65 shares @ $278.99 | Stop: 10% trail (96ab1030, HWM $279.98, stop $251.98) | Week 13: 1/3 | Positions: 4/6
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-07-15 | HWM | BUY | 65 | $278.99 | $251.98 (10% trail, 96ab1030, HWM $279.98) | Howmet Aerospace — Q1 2026 adj EPS +42% YoY, rev +19% YoY, record EBITDA margin 32%; Strong Buy consensus; Q2 earnings Aug 6 (22d clean window); commercial aero + defense diversifier; CPI benign 3.5% (vs 3.8% est) unlocked gate | $334.79 (+20% = 2:1 vs 10% stop risk) | 2:1 |
+
+**Note:** Original order 71sh; partial fill 65sh @ $278.99 (remaining 6sh cancelled). Pre-market quote ($306 ask) was stale after-hours artifact — actual open was $278.99. Position cost $18,134 = 16.3% equity. Stop gap: handler placed qty=71 stop vs 65-share position → rejected; fixed by cancelling order + placing 65sh stop manually.
+
+**Account post-trade:** Equity $110,935 | Cash $28,317 (25.5%) | Long MV $82,618 (74.5% deployed — ✓ target 75–85%) | 4/6 positions | Week 13: 1/3 trades | Daytrade count: 0
+**Key watch:** HWM stop 96ab1030 (10% trail, stop $251.98); HWM Q2 Aug 6 (22d); RTX stop b205a209 (⚠️ tight — monitor at open); NOC Q2 Jul 21 (6d — thesis review Jul 19); LHX -7% floor $279.74; FOMC minutes 2PM ET today (tail risk)
