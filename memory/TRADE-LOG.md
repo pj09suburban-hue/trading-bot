@@ -2735,3 +2735,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday post-NOC close):** $109,145.04 | **Cash:** $49,323.09 (45.2%) | **Long MV:** $59,821.95 (54.8% deployed — ⚠️ below 75–85% target) | **Day P&L:** -$936.20 (-0.85%) | **Phase P&L:** +$9,145.04 (+9.15%)
 **Week 13 trades:** 1/3 (HWM Jul 15) | **Sells:** NOC +$473.95 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch:** LHX -7% floor $279.74 (⚠️⚠️ 1.61% buffer — CRITICAL; any -$4.58 move triggers mandatory close); RTX stop $189.66 (2.27% buf — ⚠️ tight, auto-fires); HWM stop $251.98 (6.96% buf); RTX Q2 Jul 23 (7d); LHX Q2 Jul 29 (13d); HWM Q2 Aug 6 (21d); cash 45.2% (below 75-85% target; 5th position deferred — broad market weakness, TSM guidance unknown)
+
+---
+
+## 2026-07-16 — EOD Snapshot (Day 60, Thursday — Week 13 Day 4)
+
+**Portfolio:** $108,946.03 | **Cash:** $49,323.09 (45.3%) | **Day P&L:** -$1,135.21 (-1.03%) | **Phase P&L:** +$8,946.03 (+8.95%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $269.23 | -3.58% | -$634.24 (-3.50%) | $251.98 (10% trail, 96ab1030, HWM $279.98) — 6.4% buf / 3.6% to -7% floor $259.46 ⚠️ |
+| LHX | 70 | $300.80 | $284.12 | -0.94% | -$1,167.34 (-5.54%) | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) — 3.5% buf / **1.54% to -7% floor $279.74 ⚠️⚠️ CRITICAL** |
+| RTX | 115 | $174.65 | $193.36 | -1.29% | +$2,151.08 (+10.71%) | $189.66 (7% trail, b205a209, HWM $203.94) — 1.91% buf ⚠️ |
+
+**Notes:** Day 60, Week 13 Day 4. One action today: NOC closed pre-earnings (40sh @ $525.15, +$473.95, +2.31%) — strategic exit with Q2 Jul 21 (5d) binary gap risk not covered by trailing stop; historical -19% sell-the-news precedent post-Q1 beat. Broad market extended selloff: HWM -3.58% intraday (cumulative -3.50%), LHX -0.94% (cumulative -5.54%), RTX -1.29% (still +10.71% cumulative). LHX is CRITICAL — -7% manual cut floor $279.74 only $4.38 (1.54%) away; any further weakness requires immediate close. RTX stop buffer 1.91% — tight but auto-managed. Portfolio 54.7% deployed (3 positions) — below 75–85% target; cash $49,323 available for 4th position but broad market weakness demands strong catalyst. Phase P&L +8.95% vs S&P 500 benchmark.
+
+**Week 13 trades:** 1/3 new (HWM Jul 15) | **Closed today:** NOC +$473.95 (+2.31%) | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Fri Jul 17:** LHX -7% floor $279.74 (⚠️⚠️ 1.54% buffer — CRITICAL, cut at $279.74 on any touch); RTX stop $189.66 (1.91% buf — ⚠️ tight, auto-fires); HWM -7% floor $259.46 (3.6% buf ⚠️); RTX Q2 Jul 23 (7d); LHX Q2 Jul 29 (13d); HWM Q2 Aug 6 (21d); 4th position only on strong catalyst with market stabilization
