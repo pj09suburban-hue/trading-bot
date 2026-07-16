@@ -3814,3 +3814,11 @@ GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$8
 
 **Week 13 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0
 **Key watch Fri Jul 17:** LHX -7% floor $279.74 (2.53% buffer — ⚠️ CRITICAL); NOC **final pre-Q2 thesis review (Q2 Monday Jul 21)** — confirm exit plan; RTX stop $189.66 (3.29% buf); TSM guidance reaction at open; rate hike probability
+
+### Afternoon Addendum — Midday Scan (Action Taken)
+- **NOC closed:** 40sh @ $525.15 | +$473.95 (+2.31%) — pre-earnings strategic exit. Q2 Jul 21 (5d); historical -19% sell-the-news post-Q1 beat; gap-down risk not protected by trailing stop; asymmetric R:R (protect +$474 vs risk -$3,500+ gap). NOC trailing stop 1f9ffa17 cancelled before close order placed (403 fix).
+- **HWM -3.02% today ($270.81):** Perplexity: no company-specific news. Nasdaq -2% broad selloff (tech/AI concerns, profit-taking near all-time high $280.85). Commercial aero/gas turbine thesis intact. Stop 6.96% buffer ($251.98). -7% floor $259.56 = 4.15% buffer. HOLD.
+- **LHX -0.87% today ($284.32):** Perplexity: thesis intact. $955M Golden Dome + $1B DoW missile unit investment confirmed. 2026 FCF guidance raised to $3B with record Q2 bookings. Stock weakness = broad market. -7% floor $279.74 = **1.61% buffer ⚠️⚠️ CRITICAL.** Stop 3.62% buffer ($274.01). Q2 Jul 29 (13d). HOLD; cut at $279.74.
+- **RTX -0.93% today ($194.06):** 7% trailing stop auto-manages. Buffer 2.27% ⚠️. +20% trigger $209.58 (8.0% away). Q2 Jul 23 (7d). HOLD.
+- **Market context:** Nasdaq -2% on tech/AI concerns; broad selloff pulling all positions lower. WTI ~$79.97 (elevated, Iran). Rate hike probability elevated (31%, Jul). TSM guidance read pending.
+- **Portfolio:** 45.2% cash ($49,323) — below 75-85% target. 5th position deferred (broad selloff, earnings cluster 7-21d out, TSM guidance unknown). Patience appropriate.

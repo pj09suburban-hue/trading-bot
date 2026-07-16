@@ -2705,3 +2705,33 @@ No positions yet. Bot launches tomorrow.
 
 **Week 13 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Thu Jul 17:** LHX -7% floor $279.74 (2.5% buffer — ⚠️ CRITICAL; any -2.5% move triggers mandatory cut); RTX stop $189.66 (2.8% buf — ⚠️ tight; auto-fires if moves down); **NOC Q2 Jul 21 (6d — thesis review Jul 19 Sat; do not add); RTX Q2 Jul 23 (8d); LHX Q2 Jul 29 (14d)**; cash $28,317 limits 5th position entry
+
+---
+
+## 2026-07-16 — Midday Scan (Day 60, Thursday — Week 13 Day 4)
+
+**ACTION:** NOC closed pre-earnings — strategic exit.
+
+| Symbol | Shares | Side | Entry | Exit | P&L | Reason |
+|---|---|---|---|---|---|---|
+| NOC | 40 | SELL | $513.30 | $525.15 | +$473.95 (+2.31%) | Pre-earnings strategic exit: Q2 Jul 21 (5d); historical -19% sell-the-news precedent post-Q1 beat; gap-down risk not protected by trailing stop; final pre-earnings thesis review designated midday Jul 16 |
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| HWM | $278.99 | $270.81 | -$529.75 | -2.93% | -3.02% | $251.98 (10% trail, 96ab1030, HWM $279.98) | 6.96% stop / 4.15% to -7% floor $259.56 | HOLD — broad market selloff (Nasdaq -2%); no company-specific neg catalyst per Perplexity; commercial aero/gas turbine thesis intact |
+| LHX | $300.80 | $284.32 | -$1,152.54 | -5.48% | -0.87% | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 3.62% stop / **1.61% to -7% floor $279.74 ⚠️⚠️** | HOLD — thesis powerfully intact ($955M Golden Dome + $1B DoW missile investment + $1.27B VA expansion + $40B+ backlog); stock weak on broad market; cut floor $279.74 CRITICAL |
+| RTX | $174.65 | $194.06 | +$2,269.90 | +11.11% | -0.93% | $189.66 (7% trail, b205a209, HWM $203.94) | 2.27% ⚠️ | HOLD — stop auto-manages; +20% trigger $209.58 (8.0% away); Q2 Jul 23 (7d) |
+
+**Cut losers (-7%):** None — LHX worst at -5.48% (floor $279.74, current $284.32 = 1.61% buffer ⚠️). No cuts.
+**Stop tightening (+15%/+20%):** None triggered. RTX 7% trail already in place. No new tightening.
+**Thesis check:**
+- NOC: closed (see trade above). Pre-earnings strategic exit — thesis was intact but Q2 earnings Jul 21 (5d) creates binary gap risk not covered by trailing stop; historical -19% sell-the-news post-Q1 beat; only +2.31% gain to protect; unfavorable R:R.
+- HWM: -2.93% cumulative, -3.02% today. Perplexity confirmed no company-specific negative catalyst. Nasdaq down -2% on tech/AI selling — broad market drag. All-time high $280.85 hit recently; profit-taking on pullback. Commercial aerospace/gas turbine demand intact; Q1 2026 +42% EPS YoY; $1.8B CAM acquisition; Fitch A- upgrade. Stop 6.96% buffer. HOLD.
+- LHX: -5.48% cumulative, -0.87% today. Thesis powerfully intact per Perplexity: $955M Golden Dome SDA AMDT3 satellite contract (Jul 13), $1B DoW convertible preferred in Missile Solutions unit (Missile Solutions IPO H2 2026), $1.27B Virginia solid rocket motor expansion, $40B+ backlog (potential $60-70B with Munitions Acceleration Council orders), 2026 guidance $23-23.5B revenue / $3B FCF. Stock weakness = broad market selloff, not LHX-specific. -7% cut floor $279.74 is $4.58 (1.61%) below current $284.32 — CRITICAL watch. Q2 Jul 29 (13d). Stop 3.62% buffer. HOLD.
+- RTX: +11.11% cumulative, -0.93% today. 7% trailing stop in place (HWM $203.94, stop $189.66). Buffer 2.27% — tight but auto-managed. +20% trigger $209.58 (8.0% away). Q2 Jul 23 (7d). HOLD.
+**Research (Step 6):** Perplexity queried HWM (broad market selloff, no company-specific news) and LHX (thesis intact, massive contract wins confirmed). No sharp unexplained moves — broad Nasdaq -2% explains all position weakness today.
+**Notification (Step 7):** Action taken (NOC closed) → Slack sent.
+
+**Portfolio (midday post-NOC close):** $109,145.04 | **Cash:** $49,323.09 (45.2%) | **Long MV:** $59,821.95 (54.8% deployed — ⚠️ below 75–85% target) | **Day P&L:** -$936.20 (-0.85%) | **Phase P&L:** +$9,145.04 (+9.15%)
+**Week 13 trades:** 1/3 (HWM Jul 15) | **Sells:** NOC +$473.95 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch:** LHX -7% floor $279.74 (⚠️⚠️ 1.61% buffer — CRITICAL; any -$4.58 move triggers mandatory close); RTX stop $189.66 (2.27% buf — ⚠️ tight, auto-fires); HWM stop $251.98 (6.96% buf); RTX Q2 Jul 23 (7d); LHX Q2 Jul 29 (13d); HWM Q2 Aug 6 (21d); cash 45.2% (below 75-85% target; 5th position deferred — broad market weakness, TSM guidance unknown)
