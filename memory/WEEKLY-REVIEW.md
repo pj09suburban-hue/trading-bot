@@ -772,3 +772,69 @@ Template for each entry:
 *Week 11 — holiday-shortened (4.5 sessions). Portfolio +3.46%, outperformed S&P by +1.70% in a strong market week (+1.76% S&P). Phase high at +13.58% / +9.14% vs benchmark. Defense thesis (NOC acceleration, RTX approaching +15% trigger, GE steady) is the best-performing thesis in the phase. Zero trades for the 2nd consecutive week and deployment at 61.7% for the 6th+ consecutive week below target are the persistent structural drags. B+ reflects outperformance, new phase high, and disciplined skips on weak setups — one grade below A because chronic underdeployment and a market-open routine failure left real opportunity unrealized.*
 
 ---
+
+## Week ending 2026-07-17
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $110,924.60 |
+| Ending portfolio | $109,024.50 |
+| Week return | -$1,900.10 (-1.71%) |
+| S&P 500 week | -0.51% (7,558.80 → 7,533.77) |
+| Bot vs S&P | -1.20% |
+| Phase return | +$9,024.50 (+9.02% from $100k baseline) |
+| Phase bot vs S&P | +3.87% (bot +9.02% vs S&P +5.15% from Apr 24 start 7,165.08) |
+| Trades | 1 new (HWM) + 1 closed (NOC pre-earnings) — W:1 / L:0 / open:3 |
+| Win rate | 100% this week (1/1); 30% all-time (3/10 closed) |
+| Best trade | NOC +2.31% realized (+$474.00) — pre-earnings exit Jul 16 |
+| Worst trade | LHX -6.25% unrealized (approaching -7% cut floor) |
+| Profit factor | 2.28 all-time ($15,290 / $6,692) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| NOC | $513.30 | $525.15 | +$474.00 (+2.31%) | Pre-earnings exit Jul 16; 24-day hold (Jun 22→Jul 16); Q2 earnings Jul 21 — sold 4 trading days prior to avoid sell-the-news; GTC trailing stop canceled simultaneously |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| HWM | $278.99 | $272.43 | -$426.40 (-2.35%) | $251.98 (10% trail, HWM $279.98) |
+| LHX | $300.80 | $282.01 | -$1,315.04 (-6.25%) | $274.01 (10% trail, HWM $304.46) ⚠️ 2.82% buffer; -7% cut $279.74 |
+| RTX | $174.65 | $193.50 | +$2,168.03 (+10.79%) | $189.66 (7% trail, HWM $203.94) ⚠️ 1.98% buffer; Q2 Jul 23 |
+
+### What Worked
+- NOC pre-earnings exit clean: sold Jul 16 @ $525.15 (+2.31%) — 4 days before Jul 21 earnings; locked gain, avoided sell-the-news risk confirmed by 4/4 post-earnings entries producing losses in prior phase
+- HWM added as diversified aerospace play (Howmet Aerospace: titanium/superalloy components for commercial aviation AND defense); reduces single-driver risk vs. pure-defense names; less rate-sensitive than LHX/NOC
+- All three GTC trailing stops active and correctly placed; no manual override temptations acted on
+- Partial HWM fill (65 of 71 shares) saved $2,200 of slippage risk — midday correctly canceled remainder once position-sizing limit approached
+- LHX GTC stop ($274.01) within 2.82% of current price; stop will handle the exit mechanically without requiring a manual decision
+
+### What Didn't Work
+- Portfolio -1.71% vs S&P -0.51% — underperformed by 120bps in a down macro week; defensive names did not provide shelter as tech-driven selloff (-4.44% on some indices Friday) pressured all sectors
+- LHX -6.25% (entry $300.80, Jul 6); 2nd consecutive LHX entry in this phase following same early-loss pattern as first (May 21 entry → Jun 22 stop-out -7.12%); only $2.27 above -7% mandatory cut floor entering Monday
+- RTX 7% trailing stop at 1.98% buffer ($193.50 price, $189.66 stop, HWM $203.94) — 6 trading days to Q2 earnings Jul 23; tight stop + earnings event = high stop-out risk next week
+- Deployment collapsed to 54.8% after NOC close and partial HWM fill; 9th+ consecutive week below 75–85% target; chronic cash drag remains the primary structural underperformance driver
+- Phase alpha compressed: +3.87% vs S&P (down from +5.27% at Week 12 end); LHX weakness and RTX consolidation reversing earlier gains
+
+### Key Lessons
+- NOC pre-earnings exit at +2.31% is the correct playbook for a 4-day-out earnings with elevated sell-the-news history — this phase is 0-for-4 on holding positions through earnings prints; pre-earnings lock-in beats the lottery every time
+- LHX has now been entered twice and failed twice in the same pattern: initial weakness → approaches -7% stop → stopped out; this ticker specifically carries structural volatility in rate-uncertain environments that the strategy cannot absorb; avoid LHX re-entry for remainder of phase
+- RTX at 1.98% stop buffer entering a Q2 earnings week is the primary binary risk next week — the 7% trail is correct per the tightening rule (+12.18% from entry, triggered at +15% → tighten) but leaves nearly zero cushion for a pre-earnings volatility spike; no action available without violating rules
+- HWM is a qualitatively different thesis from LHX/NOC: commercial aerospace supercycle (Boeing 737 MAX ramp-up, record airline backlogs) + defense components, not pure defense procurement; should be less correlated to rate/FOMC-driven defense-premium swings
+- All phase alpha remains concentrated in two trades (MRVL +$9,484, GE +$5,333 = $14,817) while 7 of 10 closed trades are losses; the strategy generates alpha only on high-conviction multi-week holds, not diversified position management
+
+### Adjustments for Next Week
+- **LHX:** -7% mandatory cut at $279.74 (LHX is $282.01 — $2.27 / 0.8% buffer); if Monday open is at or below $279.74 → close immediately without waiting for midday; do not override; GTC stop $274.01 is the backstop
+- **RTX:** Q2 earnings Jul 23 (6 trading days); stop $189.66 (1.98% buffer — ⚠️ critical); pre-plan: 2 days pre-earnings (Jul 21), review thesis — if sell-the-news risk elevated, exit manually before print; if thesis intact, hold and let stop manage; do NOT add to RTX pre-earnings
+- **HWM:** Early — let 10% stop run; thesis: Boeing delivery ramp + airline capex cycle; no action unless close below $251.98 or thesis breaks; Q3 earnings unknown — verify before Week 14
+- **Deployment:** After LHX and/or RTX resolution, scout 1–2 non-defense names; priority: AI infrastructure (NVDA/AMD/AMAT if semis recover), Materials (NUE steel thesis still valid), or Consumer Staples defensive; require documented catalyst and 2:1+ R:R; no energy (sector ban still in effect)
+- **Earnings calendar:** RTX Jul 23, LHX Jul 29 — do not add to either pre-earnings; if RTX holds through print and delivers a beat, evaluate tightening stop further
+
+### Overall Grade: C-
+*Week 13 — portfolio -1.71% vs S&P -0.51% (-1.20% underperformance). NOC pre-earnings exit at +2.31% was disciplined and correct. HWM entry added a non-rate-sensitive aerospace component name. But LHX is on the edge of a 2nd -7% stop-out in this phase, RTX stop has just 1.98% buffer entering Q2 earnings week, and deployment collapsed to 54.8% — 9th consecutive week below target. Phase alpha compressed to +3.87% vs benchmark. C- reflects correct execution decisions (NOC exit, HWM add) offset by a losing week, two positions near forced exits, and chronic underdeployment that continues to be the portfolio's defining structural drag.*
+
+---
