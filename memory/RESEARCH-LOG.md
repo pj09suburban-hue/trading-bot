@@ -3762,6 +3762,58 @@ GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$8
 
 ---
 
+## 2026-07-17 — Pre-Market Research (Day 61, Friday — Week 13 Day 5)
+
+### Account Snapshot
+- **Equity:** $109,313.24 | **Cash:** $49,323.07 (45.1%) | **Long MV:** $59,990.17 (54.9% deployed — ⚠️ below 75–85% target)
+- **Day P&L:** +$101.32 (+0.09%) vs last equity $109,211.92 | **Phase P&L:** +$9,313.24 (+9.31%)
+- **Week 13 trades:** 1/3 (HWM Jul 15) | **Open positions:** 3/6 | **Daytrade count:** 0
+
+### Live Positions (pre-market)
+| Symbol | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $271.19 | -$507.00 (-2.80%) | $251.98 (10% trail, 96ab1030, HWM $279.98) | 7.3% stop / 4.3% to -7% floor $259.46 ⚠️ | No neg catalyst; institutional buying; analyst avg PT $283-$293; Q2 Aug 6 (20d) |
+| LHX | 70 | $300.80 | $284.00 | -$1,175.74 (-5.54%) | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 3.5% stop / **1.5% to -7% floor $279.74 ⚠️⚠️ CRITICAL** | Thesis intact ($955M Golden Dome + $1B DoW); Q2 Jul 29 (12d); avg PT $355-$378 |
+| RTX | 115 | $174.65 | $195.50 | +$2,398.07 (+11.94%) | $189.664 (7% trail, b205a209, HWM $203.94) | 2.99% ⚠️ | Q2 Jul 23 BMO (6d); Q1 beat $1.78 vs $1.52; FY2026 guidance $6.70-$6.90 EPS; stop auto-manages |
+
+**GTC stops confirmed active:** HWM 96ab1030 ✓ | LHX 8e7f9bdc ✓ | RTX b205a209 ✓
+
+### Market Context
+- **S&P 500 futures:** ~7,509–7,513 (-0.85% to -0.90%) — broad pre-market selloff ⚠️
+- **VIX:** 17.96 (+7.35% from prior 16.73, near intraday range 15.77–16.45 but spot spiking) — fear rising
+- **WTI:** ~$79.61–$80.04 (+0.84%–+1.38%); Brent ~$84.93–$85.34 — week's biggest gain; US-Iran escalation
+- **Major catalyst — TSM Q2 (reported yesterday BMO):** EPS $4.31 vs $3.82 est (MASSIVE BEAT +$0.49); rev $40.2B high end of guidance; gross margin 67.7%; 2026 outlook raised to >40% growth; Q3 guidance $44.6–$45.8B vs $42.8B est consensus. BULLISH AI signal — but TSM stock is DOWN -2.65% ($408→$397) in extended/pre-market as sell-the-news reaction; broad market pulling it lower
+- **US-Iran conflict:** 3rd round of US strikes; Strait of Hormuz "closed until further notice"; WTI heading for biggest weekly gain in months; equity headwind
+- **Economic releases today:** 8:30 AM Housing Starts Jun (cons 1.310M); 9:15 AM Industrial Production Jun (cons +0.2%); 10:00 AM U Michigan Consumer Sentiment Prelim Jul (forecast 51.0 vs prev 49.5); Trump speech (unpredictable tail risk)
+- **BMO earnings today:** DRI (slight miss), SNX (BIG beat $4.85 vs $4.18, rev $19.6B vs $17B), AYI (slight beat), CMC (slight miss), WGO (miss) — no material read-through to our positions
+- **Sector momentum YTD (as of Jul 3):** Energy +24.6% | Tech +20.6% | **Industrials +17.9% (our core)** | Real Estate +13.1% | Materials +10.8% | Consumer Staples +9.1%
+
+### Position Thesis Check
+- **HWM (-2.80% cumulative):** No new negative catalyst. Bessemer Group boosted stake 0.7% (13F today). Analyst consensus Buy (15 analysts; Bernstein PT $318, BTIG $300, avg $283-$293). Q1 2026: adj EPS +42% YoY, rev +19% YoY, record EBITDA margin 32%; CAM acquisition complete; FY2026 guidance raised. Stock opened pre-market $270.97 — near last close $271.19. Stop 7.3% buffer. -7% floor $259.46 at 4.3% buffer. Q2 Aug 6 (20d, clean window). HOLD — broad market drag, no company-specific issue.
+- **LHX (-5.54% cumulative):** Thesis powerfully intact per Perplexity. $955M Golden Dome SDA AMDT3 satellites (18 units, Jul 13), $1B DoW investment in Missile Solutions (IPO H2 2026), $499.6M Aeromet missile deal, $84M Army radio orders. Record $40.7B backlog, book-to-bill 1.4x, 2026 guidance $23–$23.5B rev / $3B FCF. Avg PT $354-$378; DCF fair value $388-$404 (32% undervalued). Q2 Jul 29 (12d, confirmed). Stock weakness = broad market selloff, not company-specific. **CRITICAL: -7% floor $279.74 is only $4.26 (1.50%) from current $284.00. With S&P futures -0.90%, LHX may open near or at the cut floor. Mandatory close at exactly $279.74 — no override.** Stop 3.5% buffer ($274.01).
+- **RTX (+11.94% cumulative):** Pre-market up +0.59% to $195.50. 7% trailing stop auto-manages (HWM $203.94, stop $189.664 = 2.99% buffer ⚠️). Q2 Jul 23 BMO (6d) — consensus EPS $1.66 (+6.4% YoY); Q1 blowout beat $1.78 vs $1.52; FY guidance raised to $6.70-$6.90 EPS / $92.5-$93.5B sales. Bar is high heading into earnings. +20% trigger $209.58 (7.2% away). Any broad -3% market selloff fires the stop automatically — preserves ~$2,100 gain. Do not cancel stop pre-earnings. HOLD.
+
+### Trade Ideas Evaluated
+1. **No new entries today** — S&P futures -0.90%, VIX elevated and rising, LHX approaching mandatory cut, RTX stop buffer thin, earnings cluster 6–12d (RTX Jul 23, LHX Jul 29), broad Iran/macro overhang. Patience is the position.
+2. **5th position deferred** — Cash $49,323 (45.1%) available but no clean catalyst justifies entering into broad selloff with open earnings windows. Will reassess post-RTX Q2 (Jul 23) if market stabilizes.
+3. **VRT (Vertiv):** Deferred — Q2 earnings date still unconfirmed; avoid entering with unclear earnings timeline.
+
+### Risk Factors
+1. **LHX -7% cut floor $279.74 (1.5% buffer) ⚠️⚠️ CRITICAL** — any -$4.26 move from $284.00 triggers mandatory close; S&P futures -0.90% makes this likely to test the floor at open; market-open routine must be alert
+2. **RTX stop $189.664 (2.99% buffer) ⚠️** — any -3% move fires the stop automatically; preserves $2,100+ gain; Q2 in 6d; acceptable outcome if stop fires
+3. **S&P futures -0.90%** — broad selloff from Iran, TSM sell-the-news, macro concern; all 3 positions likely to open lower
+4. **VIX 17.96 (+7.35%)** — fear spike; elevated compared to prior calm regime (was 15.67 at close Jul 15)
+5. **TSM sell-the-news (-2.65%)** — despite massive beat, stock down; signals risk-off rotation or market saturation of AI optimism near term
+6. **Trump speech (today)** — unpredictable Iran/trade/tariff statement could move markets sharply
+
+### Decision
+**HOLD** — No new entry today. S&P futures -0.90%, VIX rising to 17.96, broad Iran/macro headwind. LHX approaching mandatory -7% cut floor (1.5% buffer) — probable that market-open routine will need to execute close. RTX stop buffer thin at 2.99% (auto-manages). HWM holding but -2.80% cumulative. No clean catalyst to justify 5th position into this open. Cash 45.1% idle — accept the underdeployment rather than force a position into a -0.90% open with fear spiking. Reassess Monday after weekend developments.
+
+**Week 13 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch today (Fri Jul 17 open):** LHX mandatory cut at $279.74 (⚠️⚠️ CRITICAL — likely to test at open given -0.90% futures); RTX stop $189.664 (⚠️ auto-fires if triggered; preserve gain); HWM -7% floor $259.46 (4.3% buffer — comfortable); no new trades today
+
+---
+
 ## 2026-07-16 — Pre-Market Research (Day 60, Thursday — Week 13 Day 4)
 
 ### Account Snapshot
