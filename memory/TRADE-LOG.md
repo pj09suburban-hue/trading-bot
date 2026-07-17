@@ -2752,3 +2752,26 @@ No positions yet. Bot launches tomorrow.
 
 **Week 13 trades:** 1/3 new (HWM Jul 15) | **Closed today:** NOC +$473.95 (+2.31%) | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Fri Jul 17:** LHX -7% floor $279.74 (⚠️⚠️ 1.54% buffer — CRITICAL, cut at $279.74 on any touch); RTX stop $189.66 (1.91% buf — ⚠️ tight, auto-fires); HWM -7% floor $259.46 (3.6% buf ⚠️); RTX Q2 Jul 23 (7d); LHX Q2 Jul 29 (13d); HWM Q2 Aug 6 (21d); 4th position only on strong catalyst with market stabilization
+
+---
+
+## 2026-07-17 — Midday Scan (Day 61, Friday — Week 13 Day 5)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| HWM | $278.99 | $276.11 | -$187.20 | -1.03% | +1.81% | $251.98 (10% trail, 96ab1030, HWM $279.98) | 8.74% stop / 6.03% to -7% floor $259.46 | HOLD — recovering; no neg catalyst; thesis intact |
+| LHX | $300.80 | $286.97 | -$967.84 | -4.60% | +0.89% | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 4.51% stop / **2.52% to -7% floor $279.74 ⚠️** | HOLD — recovering; thesis powerfully intact (see research); Q2 Jul 29 (12d) |
+| RTX | $174.65 | $197.17 | +$2,589.80 | +12.89% | +1.45% | $189.664 (7% trail, b205a209, HWM $203.94) | 3.81% ⚠️ | HOLD — stop auto-manages; +15% trigger $200.85 (1.87% away); Q2 Jul 23 (6d) |
+
+**Cut losers (-7%):** None — LHX worst at -4.60% (floor $279.74, current $286.97 = 2.52% buffer). No cuts.
+**Stop tightening (+15%/+20%):** None triggered. RTX at +12.89% — +15% trigger $200.85 is $3.68 (1.87%) away. No tightening today.
+**Thesis check:**
+- HWM: -1.03% cumulative, +1.81% today (recovering from yesterday's -3.58%). Perplexity: no company-specific negative news. Commercial aero/gas turbine thesis intact. Stop 8.74% buffer. -7% floor 6.03% buffer. HOLD.
+- LHX: -4.60% cumulative, +0.89% today (recovering). Perplexity: NO negative catalysts. Thesis powerfully intact — $955M Golden Dome SDA AMDT3 satellite contract, $1B DoW Missile Solutions investment, Missile Solutions IPO H2 2026 ("Axyz"), record Q2 bookings, FCF raised to $3B, 2026 profit forecast raised. Budget stability confirmed. Stop 4.51% buffer. -7% floor $279.74 (2.52% buffer — ⚠️ WATCH; recovering helps). Q2 Jul 29 (12d). HOLD.
+- RTX: +12.89% cumulative, +1.45% today. Perplexity: beat-and-raise Q2 consensus (Jul 23 BMO, 6d); $1.1B AIM-9X Navy contract; Citi 30-day upside catalyst watch with buy rating; $271B backlog. Risks: Trump "least responsive" criticism (Jan 2026 — old news, not new); Pratt & Whitney powder-metal engine defect lingering but managed within operations. 7% trailing stop auto-manages. +15% trigger $200.85 ($3.68/1.87% away). HOLD through Q2 earnings — stop protects min +8.6% gain if triggered.
+**Research (Step 6):** Perplexity queried LHX (thesis intact, all news positive, raised guidance) and RTX (Q2 beat-and-raise consensus, Citi buy watch, Trump risk is old/stale, stop auto-manages). HWM and market context unchanged from yesterday — broad recovery after tech selloff. No sharp unexplained moves.
+**Notification (Step 7):** No action taken → no Slack sent.
+
+**Portfolio (midday):** $109,968.17 | **Cash:** $49,323.07 (44.9%) | **Long MV:** $60,645.10 (55.1% deployed — ⚠️ below 75–85% target) | **Day P&L:** +$1,022.14 (+0.94%) | **Phase P&L:** +$9,968.17 (+9.97%)
+**Week 13 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch:** LHX -7% floor $279.74 (⚠️ 2.52% buffer — recovering today, WATCH); RTX stop $189.664 (3.81% buf — ⚠️ tight; auto-fires; Q2 Jul 23 6d — hold through earnings per plan); RTX +15% trigger $200.85 (1.87% away — tighten to 7% on touch if not already set); HWM -7% floor $259.46 (6.03% buf — comfortable); end of Week 13 (1/3 trades used); **Week 14 starts Monday Jul 21** — RTX Q2 Jul 23, LHX Q2 Jul 29, HWM Q2 Aug 6

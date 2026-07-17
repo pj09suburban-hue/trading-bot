@@ -3812,6 +3812,14 @@ GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$8
 **Week 13 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch today (Fri Jul 17 open):** LHX mandatory cut at $279.74 (⚠️⚠️ CRITICAL — likely to test at open given -0.90% futures); RTX stop $189.664 (⚠️ auto-fires if triggered; preserve gain); HWM -7% floor $259.46 (4.3% buffer — comfortable); no new trades today
 
+### Afternoon Addendum — Midday Scan (No Action Taken)
+- **Market recovery:** All 3 positions recovering from yesterday's selloff. Pre-market fear (-0.90% futures, VIX 17.96) did NOT materialize intraday — broad market stabilized.
+- **HWM +1.81% intraday ($276.11):** -1.03% cumulative. No negative catalyst. Stop 8.74% buffer, -7% floor 6.03% buffer. HOLD.
+- **LHX +0.89% intraday ($286.97):** -4.60% cumulative. Perplexity: NO negative catalysts. Thesis powerfully intact — raised 2026 profit forecast, FCF target $3B, record Q2 bookings, Golden Dome/DoW contracts confirmed. -7% floor $279.74 = 2.52% buffer (improved from 1.5% this morning). Stop 4.51% buffer. Q2 Jul 29 (12d). HOLD.
+- **RTX +1.45% intraday ($197.17):** +12.89% cumulative. Perplexity: beat-and-raise Q2 consensus (Jul 23 BMO, 6d); Citi 30-day upside buy catalyst watch; $1.1B AIM-9X Navy contract; $271B backlog. Trump "least responsive" criticism is Jan 2026 stale news. 7% trailing stop (buffer 3.81%). +15% trigger $200.85 = $3.68 (1.87%) away. HOLD; stop protects min +8.6% if triggered at Q2.
+- **No new entries:** Earnings cluster (RTX Jul 23, LHX Jul 29, HWM Aug 6) limits new position window. Cash 44.9% ($49,323) idle — accept underdeployment. Reassess Monday post-weekend.
+- **End of Week 13:** 1/3 trades used (HWM). Closed trades this week: NOC +$473.95. Portfolio +$9,968.17 (+9.97%) phase P&L.
+
 ---
 
 ## 2026-07-16 — Pre-Market Research (Day 60, Thursday — Week 13 Day 4)
