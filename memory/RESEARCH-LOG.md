@@ -55,6 +55,12 @@ Daily pre-market research entries will be appended here.
 **Week 14 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Mon Jul 20 open:** LHX $279.74 (⚠️⚠️ 0.83% buffer — CUT IMMEDIATELY if touched); RTX stop $189.66 (2.52% buf — auto-fires); HWM -7% floor $259.46 (4.8% buf — comfortable); **RTX Q2 BMO Jul 23 — most critical event of the week**; NOC Q2 BMO Jul 21 — defense sector read; GOOGL Q2 AMC Jul 22 — AI/risk sentiment
 
+### Midday Addendum (2026-07-20)
+- **LHX:** Recovering +0.57% intraday to $283.63 (floor $279.74 = 1.37% buffer — improved from 0.83% at open). Perplexity confirmed: NO negative catalysts; thesis intact. Record Q2 bookings per Seeking Alpha. 15 analysts Buy, PT $378.17. Q2 Jul 29 AMC (9d). HOLD.
+- **RTX:** Strong +1.96% intraday to $197.30. Pre-earnings bullish positioning — July $200 call options volume surged today. Q2 consensus $1.66 EPS (+6.4% YoY); $271B backlog; 2026 EPS guidance $6.70–$6.90 (raised). Analyst target $197–$215. No neg catalyst. HOLD through Q2 BMO Jul 23 (3d).
+- **HWM:** +0.20% intraday to $272.99. No catalyst; commercial aerospace thesis intact. Stop 7.70% buffer. HOLD.
+- **No action taken.** Midday scan complete. No Slack sent.
+
 ---
 
 ## 2026-07-01 — Pre-Market Research (Day 49, Wednesday — Week 11 Day 3)

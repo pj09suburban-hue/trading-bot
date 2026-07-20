@@ -2792,3 +2792,26 @@ No positions yet. Bot launches tomorrow.
 
 **Week 13 trades:** 1/3 new (HWM BUY Jul 15) | **Closed this week:** NOC +$473.95 (+2.31%) Jul 16 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Mon Jul 21:** LHX -7% floor $279.74 (⚠️⚠️ 1.28% buffer — CRITICAL; cut immediately if $279.74 touched at open or intraday); RTX stop $189.66 (2.47% buf — ⚠️ tight; auto-fires; Q2 Jul 23 6d — hold per plan); HWM -7% floor $259.46 (4.9% buf); RTX +15% trigger $200.85 (3.3% away — stop already 7%, no action needed until +20% trigger $209.58); 4th position scout mandatory (54.9% deployed; need non-energy, non-utilities catalyst)
+
+---
+
+## 2026-07-20 — Midday Scan (Day 62, Monday — Week 14 Day 1)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| HWM | $278.99 | $272.99 | -$390.33 | -2.15% | +0.20% | $251.98 (10% trail, 96ab1030, HWM $279.98) | 7.70% stop / 4.96% to -7% floor $259.46 | HOLD — recovering; no neg catalyst; thesis intact |
+| LHX | $300.80 | $283.63 | -$1,201.64 | -5.71% | +0.57% | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 3.39% stop / **1.37% to -7% floor $279.74 ⚠️⚠️** | HOLD — recovering; thesis powerfully intact (record Q2 bookings per SA; $378 analyst PT); Q2 Jul 29 AMC (9d) |
+| RTX | $174.65 | $197.30 | +$2,604.44 | +12.97% | +1.96% | $189.66 (7% trail, b205a209, HWM $203.94) | 3.87% ⚠️ | HOLD — pre-earnings bullish positioning; options surge on July $200 calls; +20% trigger $209.58 (6.2% away); Q2 BMO Jul 23 (3d) |
+
+**Cut losers (-7%):** None — LHX worst at -5.71% (floor $279.74, current $283.63 = 1.37% buffer). Recovering intraday +0.57%. No cuts.
+**Stop tightening (+15%/+20%):** None. RTX 7% trail already set (HWM $203.94); at +12.97%, +20% trigger $209.58 is 6.2% away. No action.
+**Thesis check:**
+- HWM: -2.15% unrealized, +0.20% intraday. No new negative catalysts. Commercial aero/gas turbine demand thesis intact; Q1 +42% EPS YoY; Q2 earnings Aug 6 (17d — no near-term overhang). Stop 7.70% buffer. -7% floor 4.96% buffer. HOLD.
+- LHX: -5.71% unrealized, +0.57% intraday (recovering). Thesis powerfully intact — $955M Golden Dome SDA AMDT3 satellite contract, $1B DoW Missile Solutions investment, Missile Solutions IPO H2 2026 ("Axyz"), FAA network upgrade contract Jul 1, record Q2 bookings, FCF raised to $3B, 2026 profit forecast raised. 15 analysts Buy, PT $378.17 (+34% upside). No negative catalysts today. -7% floor $279.74 is $3.89 (1.37%) below current $283.63 — CRITICAL; any -1.37% intraday move hits mandatory cut. HOLD.
+- RTX: +12.97% unrealized, +1.96% intraday (strong). Pre-earnings bullish positioning; July $200 call options volume surged today. Q2 consensus $1.66 EPS (+6.4% YoY); Q1 beat by 17.88%; $271B backlog; 2026 EPS guidance raised $6.70–$6.90; analyst target ~$197–$215. 7% trailing stop auto-manages. +20% trigger $209.58 (6.2% away). Q2 BMO Jul 23 (3d). HOLD.
+**Research (Step 6):** Perplexity queried RTX (pre-earnings bullish; options on $200 calls; no neg catalyst; consensus intact) and LHX (thesis intact; record Q2 bookings; FCF raised; no neg catalyst; $378 PT). No sharp unexplained moves — RTX +1.96% = pre-earnings positioning; LHX +0.57% = recovery from broad market selloff last week.
+**Notification (Step 7):** No action taken → no Slack sent.
+
+**Portfolio (midday):** $109,634.22 | **Cash:** $49,323.07 (45.0%) | **Long MV:** $60,311.15 (55.0% deployed — ⚠️ below 75–85% target) | **Day P&L:** +$608.85 (+0.56%) | **Phase P&L:** +$9,634.22 (+9.63%)
+**Week 14 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch:** LHX -7% floor $279.74 (⚠️⚠️ 1.37% buffer — cut immediately on any touch); RTX stop $189.66 (3.87% buf — auto-fires; Q2 BMO Jul 23 3d — hold per plan); RTX +20% trigger $209.58 (6.2% away — tighten to 5% on touch); HWM -7% floor $259.46 (4.96% buf — comfortable); **NOC Q2 BMO tomorrow Jul 21 — defense sector sentiment read**; GOOGL AMC Jul 22 — risk-on/off signal
