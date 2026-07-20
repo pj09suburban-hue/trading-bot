@@ -4,6 +4,59 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-07-20 — Pre-Market Research (Day 62, Monday — Week 14 Day 1)
+
+### Account Snapshot
+- **Equity:** $109,150.32 | **Cash:** $49,323.07 (45.2%) | **Long MV:** $59,827.25 (54.8% deployed — ⚠️ below 75–85% target)
+- **Phase P&L:** +$9,150.32 (+9.15%) | vs last equity $109,025.37 (+$124.95 / +0.11%)
+- **Week 14 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+### Live Positions (pre-market)
+| Symbol | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $272.43 | -$426.40 (-2.35%) | $251.98 (10% trail, 96ab1030, HWM $279.98) | 7.5% stop / 4.8% to -7% floor $259.46 | Thesis intact; Q2 Aug 6 (17d) |
+| LHX | 70 | $300.80 | $282.07 | -$1,310.84 (-6.23%) | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 2.86% stop / **0.83% to -7% floor $279.74 ⚠️⚠️ CRITICAL** | Q2 Jul 29 AMC (9d); CUT at $279.74 — NO EXCEPTIONS |
+| RTX | 115 | $174.65 | $194.56 | +$2,289.65 (+11.40%) | $189.66 (7% trail, b205a209, HWM $203.94) | 2.52% stop ⚠️ | Q2 **Jul 23 BMO (3d)**; consensus $1.66 EPS (+6.4%); Q1 beat by $0.26 |
+
+**GTC stops confirmed active:** HWM 96ab1030 ✓ | LHX 8e7f9bdc ✓ | RTX b205a209 ✓
+
+### Market Context
+- **S&P 500 futures:** ~7,497–7,528 (+0.02% to +0.40%) — essentially flat, slight positive bias
+- **VIX:** 18.28 (CBOE spot as of 9:55 AM Jul 20) — elevated; Friday close 18.77; still above prior calm regime (15–16 range)
+- **WTI:** ~$83.52 (range $80.97–$84.59, -0.62%); Brent ~$71.86 (-1.49%) — Iran/Kuwait geopolitical tensions ongoing (Iranian attack on Kuwaiti power plant Jul 17 drove +4.5% spike; partial pullback today)
+- **No major US macro today:** CPI released Jul 14 (-0.4% MoM — deflationary); PPI Jul 15. Next FOMC Jul 28–29. Quiet macro Monday.
+- **Earnings today BMO:** GM ($3.20 EPS est), 3M ($2.25 EPS est) — not relevant to holdings
+- **Earnings this week:**
+  - **NOC tomorrow BMO (Jul 21):** $6.84 EPS est / $10.80B rev est; we exited Jul 16 (+$473.95) ✓; outcome = defense sector sentiment read
+  - **GOOGL AMC (Jul 22):** AI signal; beat → risk-on; miss → broad selloff
+  - **RTX BMO (Jul 23) ← CRITICAL:** consensus $1.66 EPS (+6.4% YoY); Q1 actual was $1.78 (beat $1.52 by $0.26 / 17%); $271B backlog; Citi 30d upside buy watch
+- **Sector momentum:** Industrials "Leading" +10–14% YTD; Energy "Leading" +16–26% YTD; Materials "Leading" +10–17% YTD; Consumer Staples "Leading" +11–16% YTD; Tech "Lagging" -3 to -4% YTD; Financials "Lagging" -6 to -7% YTD
+
+### Position Thesis Check
+- **HWM (-2.35%):** Recovering from Jul 16 selloff. No new negative catalysts. Commercial aerospace/gas turbine demand thesis intact — Q1 beat (rev +19% YoY, EPS +42% YoY), Q2 guidance $2.4B rev/$1.23 EPS, 14-analyst Buy consensus, Morgan Stanley PT $315. Stop 7.5% buffer. -7% floor 4.8% buffer. Q2 Aug 6 (17d — no near-term overhang). HOLD.
+- **LHX (-6.23%) ⚠️⚠️ CRITICAL:** Thesis powerfully intact — $955M Golden Dome SDA AMDT3 satellite contract, $1B DoW Missile Solutions investment, "Axyz" IPO H2 2026, record $40.7B backlog / 1.4x book-to-bill, 2026 FCF guidance $3B raised, EPS guidance $11.40–$11.60. Stock weakness = broad market drag only. BUT: -7% manual cut floor $279.74 is only **$2.33 / 0.83%** below current $282.07 — thesis does NOT override the cut rule. Stop 2.86% buffer. Q2 Jul 29 AMC (9d). **MARKET-OPEN: CHECK LHX FIRST — cut immediately at $279.74.**
+- **RTX (+11.40%):** 7% trailing stop auto-manages (buffer 2.52%). Q2 earnings Thu Jul 23 BMO. Hold through earnings. Q1 beat by $0.26/17%; $271B backlog; Citi buy watch; $1.1B AIM-9X Navy contract. If Q2 beats → +15% trigger $200.85 (3.2% away) may be reached → tighten stop to 7% (already set). If Q2 misses → stop at $189.66 protects min +8.6% gain auto. HOLD through earnings.
+
+### 5th Position Scouts
+- **DEFERRED:** RTX Q2 (Jul 23) is a 3-day binary event; LHX at 0.83% buffer to cut; 3 out of 3 current holdings in aerospace/defense → no new entries compound concentration risk. Cash $49,323 ready to deploy but patience > activity.
+- **Post-RTX Q2 watch (if beat Thu):** Consider non-correlated 4th position — Consumer Staples (defensive balance) or Materials (FCX copper for AI data center demand). Not actionable today.
+
+### Risk Factors
+1. **LHX cut floor $279.74 (0.83% buffer) ⚠️⚠️ CRITICAL** — mandatory cut on any touch; no thesis override; check at open immediately
+2. **RTX Q2 BMO Jul 23 (3d)** — binary event; beat+raise most likely (Q1 pattern) → hold; miss → stop auto-fires at $189.66 protecting +8.6%
+3. **NOC Q2 BMO tomorrow (Jul 21)** — defense sector sentiment; $6.84 EPS est; if NOC misses/guides down → pressure on LHX and RTX
+4. **VIX 18.28** — elevated; broad selloffs can close the 0.83% LHX buffer in minutes
+5. **Oil/Iran** — WTI $83.52; elevated; monitoring for Strait of Hormuz escalation (HWM gas turbine exposure positive; airline cost risk minor)
+6. **Portfolio 54.8% deployed** — below 75–85% target; accept underdeployment until RTX Q2 thesis validates
+
+### Decision
+**HOLD** — No new entries today. LHX at 0.83% to mandatory cut, RTX Q2 binary in 3 days, NOC Q2 defense read tomorrow, and all 3 current positions in aerospace/defense = no new concentration acceptable. Post-RTX Q2 result (Thu) is the decision fork: beat → expand with 4th position; miss → reassess all defense names.
+
+**Week 14 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Mon Jul 20 open:** LHX $279.74 (⚠️⚠️ 0.83% buffer — CUT IMMEDIATELY if touched); RTX stop $189.66 (2.52% buf — auto-fires); HWM -7% floor $259.46 (4.8% buf — comfortable); **RTX Q2 BMO Jul 23 — most critical event of the week**; NOC Q2 BMO Jul 21 — defense sector read; GOOGL Q2 AMC Jul 22 — AI/risk sentiment
+
+---
+
 ## 2026-07-01 — Pre-Market Research (Day 49, Wednesday — Week 11 Day 3)
 
 ### Account Snapshot
