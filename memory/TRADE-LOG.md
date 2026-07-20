@@ -2815,3 +2815,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $109,634.22 | **Cash:** $49,323.07 (45.0%) | **Long MV:** $60,311.15 (55.0% deployed — ⚠️ below 75–85% target) | **Day P&L:** +$608.85 (+0.56%) | **Phase P&L:** +$9,634.22 (+9.63%)
 **Week 14 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch:** LHX -7% floor $279.74 (⚠️⚠️ 1.37% buffer — cut immediately on any touch); RTX stop $189.66 (3.87% buf — auto-fires; Q2 BMO Jul 23 3d — hold per plan); RTX +20% trigger $209.58 (6.2% away — tighten to 5% on touch); HWM -7% floor $259.46 (4.96% buf — comfortable); **NOC Q2 BMO tomorrow Jul 21 — defense sector sentiment read**; GOOGL AMC Jul 22 — risk-on/off signal
+
+---
+
+## 2026-07-20 — EOD Snapshot (Day 62, Monday — Week 14 Day 1)
+
+**Portfolio:** $109,111.85 | **Cash:** $49,323.07 (45.2%) | **Day P&L:** -$134.65 (-0.12%) | **Phase P&L:** +$9,111.85 (+9.11%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $271.20 | -0.45% | -$506.35 (-2.79%) | $251.98 (10% trail, 96ab1030, HWM $279.98) — 7.1% buf / 4.3% to -7% floor $259.46 |
+| LHX | 70 | $300.80 | $282.51 | +0.18% | -$1,280.10 (-6.08%) | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) — 3.0% buf / **0.98% to -7% floor $279.74 ⚠️⚠️ CRITICAL** |
+| RTX | 115 | $174.65 | $194.755 | +0.64% | +$2,312.08 (+11.51%) | $189.66 (7% trail, b205a209, HWM $203.94) — 2.61% buf ⚠️ |
+
+**Notes:** Day 62, Week 14 Day 1. No trades today. HWM down -0.45% intraday — thesis intact, comfortable buffers. LHX recovered +0.18% intraday but sits at cumulative -6.08% from entry; mandatory -7% cut floor $279.74 is CRITICAL with only $2.77 (0.98%) of clearance — any -1% move triggers immediate close at open or intraday. RTX +0.64% intraday (+11.51% cumulative), holding strong 3 days ahead of Q2 earnings BMO Jul 23. 7% trailing stop auto-manages at $189.66 (2.61% buffer — tight). Portfolio 54.8% deployed ($59,788.78 long / $109,111.85 equity) — below 75–85% target; $49,323 cash idle pending strong catalyst. NOC Q2 BMO Tuesday Jul 21 — defense sector sentiment read before any new entry. RTX Q2 BMO Jul 23 (3d) — hold per plan, no new positions until RTX earnings clear.
+
+**Week 14 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Tue Jul 21:** LHX -7% floor $279.74 (⚠️⚠️ 0.98% buffer — CRITICAL; cut immediately at open if $279.74 touched); RTX stop $189.66 (2.61% buf — ⚠️ tight; auto-fires; Q2 BMO Jul 23 3d — hold); HWM -7% floor $259.46 (4.3% buf — comfortable); NOC Q2 BMO tomorrow (defense sentiment read); RTX +15% trigger $200.85 (3.1% away — tighten to 7% on touch, but already at 7%); 4th position scout mandatory (54.8% deployed — need non-defense catalyst post-RTX earnings)
