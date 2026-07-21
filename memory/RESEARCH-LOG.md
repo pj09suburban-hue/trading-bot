@@ -3881,6 +3881,57 @@ GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$8
 
 ---
 
+## 2026-07-21 — Pre-Market Research (Day 63, Tuesday — Week 14 Day 2)
+
+### Account Snapshot
+- **Equity:** $109,319.27 | **Cash:** $49,323.07 (45.1%) | **Long MV:** $59,996.20 (54.9% deployed — ⚠️ below 75–85% target)
+- **Day P&L (pre-open):** +$318.40 (+0.29%) vs last equity $109,000.87 | **Phase P&L:** +$9,319.27 (+9.32%)
+- **Week 14 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+### Live Positions (pre-market)
+| Symbol | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $273.00 | -$389.35 (-2.15%) | $251.98 (10% trail, 96ab1030, HWM $279.98) | 7.71% stop / 4.96% to -7% floor $259.46 | No news today; thesis intact; Q2 Aug 6 (16d) |
+| LHX | 70 | $300.80 | $281.03 | -$1,383.64 (-6.57%) | $274.01 (10% trail, 8e7f9bdc, HWM $304.46) | 2.50% stop / **0.46% to -7% floor $279.74 ⚠️⚠️ CRITICAL** | NOC Q2 beat positive for defense; Q2 AMC Jul 29 (8d); cut immediately at $279.74 |
+| RTX | 115 | $174.65 | $196.34 | +$2,494.35 (+12.42%) | $189.66 (7% trail, b205a209, HWM $203.94) | 3.40% ⚠️ | Farnborough Airshow (Red Kite reveal); Q2 BMO Jul 23 (2d); +20% trigger $209.58 (6.7% away) |
+
+**GTC stops confirmed active:** HWM 96ab1030 ✓ | LHX 8e7f9bdc ✓ | RTX b205a209 ✓
+
+### Market Context
+- **S&P 500 futures:** +0.42–0.57% (~7,515–7,526) — risk-on open; Iran ceasefire mediation hopes + AI earnings anticipation
+- **VIX:** 17.58 (-5.74% from 18.65 yesterday) — declining; calm regime (16–19 range for weeks)
+- **WTI:** ~$82.47–$83.99; **Brent:** ~$88.87 — Iran mediation progress moderating oil after prior spikes
+- **Macro today:** No U.S. CPI/PPI/FOMC/jobs releases. Next CPI: Aug 12. Fed rate 3.5–3.75%; July hike probability collapsed to 10% (from 31% last week) after June CPI -0.4% MoM / 3.5% annual. Benign macro environment.
+- **Earnings BMO today:** **NOC Q2: EPS $7.68 vs $6.84 est → +12.3% BEAT** (massive); revenue $10.78B+ beat. GM ($3.20 est), 3M ($2.25 est), GPC — all BMO. NOC result is primary defense sector sentiment signal.
+- **Other pre-market movers:** AVGO +7.8% (Tier 1 AI infra guidance, $16.8B Q3 rev est); TSLA +3.2% (Panasonic battery deal); cloud capex up $8.2B H2 2026 (AWS/Azure/GCP GPU procurement)
+- **Sector momentum (YTD):** Technology +29.6% / Capital Goods +29.2% / Energy +26.4% / Industrials +20.2% — all Leading; Financials -1.3% / Consumer Discretionary -0.9% — Lagging; our Industrials/Defense thesis remains in strongest 2 sectors
+
+### Position Thesis Check
+- **HWM (-2.15%):** No company-specific news today. Thesis intact — Q1 adj EPS +42% YoY, rev +19% YoY, record EBITDA margin 32%; $1.8B CAM acquisition closed Apr 6; raised 2026 guidance to $9.0–$9.2B rev; Bernstein PT $318 (Outperform), BTIG PT $300 (Buy); Fitch upgraded to A-. Stock retreating from all-time high $280.85 but no thesis invalidation. Stop 7.71% buffer. -7% floor $259.46 (4.96% buffer — comfortable). Q2 Aug 6 (16d — no near-term earnings overhang). HOLD.
+- **LHX (-6.57%):** ⚠️⚠️ CRITICAL. $281.03 current, $279.74 mandatory cut floor — only $1.29 (0.46%) gap. **NOC Q2 massive +12.3% EPS beat is POSITIVE catalyst for defense sector today** — should provide a lift at open. Thesis powerfully intact: $955M Golden Dome SDA AMDT3 contract, $1B DoW Missile Solutions investment, Missile Solutions IPO H2 ("Axyz"), FAA network upgrade through 2045, record Q2 bookings, FCF raised to $3B, 2026 profit forecast raised, Barclays PT $305 (Overweight), consensus Moderate Buy PT $301.85. Q2 AMC Jul 29 (8d). Rule is clear: **cut at $279.74 — no override, no hesitation.** NOC defense beat + risk-on open (S&P fut +0.5%) should help LHX hold above cut floor today, but buffer is razor-thin. HOLD; mandatory cut at $279.74.
+- **RTX (+12.42%):** Farnborough International Airshow today — Raytheon UK unveiled Red Kite sovereign precision weapon; Pratt & Whitney Valox 1500 engine design milestone. Q2 BMO Jul 23 (2d): consensus $1.65 EPS (Q1 beat by +17.9%); $271B backlog; guidance raised $6.70–$6.90 EPS / $92.5–93.5B rev; Bernstein PT $208, UBS neutral PT $199. 7% trailing stop auto-manages ($189.66, HWM $203.94, 3.40% buffer). +20% trigger $209.58 (6.7% away — if hit, tighten to 5% trail). HOLD through Q2 earnings per plan.
+
+### 4th Position Scouts
+1. **AVGO (Broadcom) — WATCHLIST, not entry today:** +7.8% pre-market gap on Tier 1 AI infra guidance ($16.8B Q3 rev). Tech/AI sector is strongest, but chasing a +7.8% gap violates discipline. Monitor for a post-gap pullback to the $175–178 area in coming sessions. Post-earnings entry applies 7% initial stop (strategy rule). Not actionable today.
+2. **4th position deferred to Jul 24+:** RTX Q2 BMO Jul 23 (2d) — entering any new position now increases concentration risk and leaves no room if RTX produces volatility at earnings. After RTX clears on Jul 23, reassess with full 3 trade slots still available for Week 14.
+
+### Risk Factors
+1. **LHX -7% cut floor $279.74 (0.46% buffer) ⚠️⚠️** — mandatory cut on any intraday touch; NOC defense beat should help but buffer is razor-thin; no override
+2. **RTX Q2 earnings BMO Jul 23 (2d)** — stop auto-manages, but any surprise could move stock sharply; hold per plan, stop protects minimum +8.6% gain if triggered
+3. **LHX Q2 AMC Jul 29 (8d)** — sell-the-news risk; watching for guidance beat+raise to hold through
+4. **RTX stop buffer 3.40% ⚠️** — tight; auto-fires; HWM $203.94 = $189.66 stop
+5. **Oil elevated (Brent $88.87, WTI $82-84)** — Iran mediation helps moderate but supply risk persists; not directly impacting our positions
+6. **Portfolio 54.9% deployed** — significantly below 75–85% target; $49,323 idle; must deploy 4th position post-RTX earnings
+
+### Decision
+**HOLD** — No new entry today. RTX Q2 BMO Jul 23 (2d) blocks new position entry to avoid concentration risk. LHX at 0.46% above mandatory cut floor — NOC Q2 massive beat (+12.3%) and risk-on futures (+0.5%) provide defensive cover but buffer is critical; cut immediately at $279.74 if touched. RTX strong at +12.42% with stop auto-managing. HWM thesis intact with comfortable buffers. 4th position scout deferred to Jul 24+ post-RTX earnings clarity.
+
+**Key watch today:** LHX cut floor $279.74 (⚠️⚠️ 0.46% buffer — NOC beat should help, but cut without hesitation on any touch); RTX +20% trigger $209.58 (6.7% away — tighten to 5% on touch); RTX Q2 BMO Jul 23 (hold through); HWM -7% floor $259.46 (4.96% buffer — comfortable)
+
+**Week 14 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+---
+
 ## 2026-07-16 — Pre-Market Research (Day 60, Thursday — Week 13 Day 4)
 
 ### Account Snapshot
