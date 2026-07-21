@@ -2832,3 +2832,32 @@ No positions yet. Bot launches tomorrow.
 
 **Week 14 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Tue Jul 21:** LHX -7% floor $279.74 (⚠️⚠️ 0.98% buffer — CRITICAL; cut immediately at open if $279.74 touched); RTX stop $189.66 (2.61% buf — ⚠️ tight; auto-fires; Q2 BMO Jul 23 3d — hold); HWM -7% floor $259.46 (4.3% buf — comfortable); NOC Q2 BMO tomorrow (defense sentiment read); RTX +15% trigger $200.85 (3.1% away — tighten to 7% on touch, but already at 7%); 4th position scout mandatory (54.8% deployed — need non-defense catalyst post-RTX earnings)
+
+---
+
+## 2026-07-21 — Midday Scan (Day 63, Tuesday — Week 14 Day 2)
+
+**ACTION:** LHX trailing stop fired — position closed.
+
+| Symbol | Shares | Side | Entry | Exit | P&L | Reason |
+|---|---|---|---|---|---|---|
+| LHX | 70 | SELL | $300.80 | $270.76 | -$2,102.57 (-9.99%) | Trailing stop 8e7f9bdc fired 13:33 UTC; Deutsche Bank PT cut $300→$285 triggered institutional selling; broad defense sector selloff (geopolitical risk premium repriced); stock fell through manual -7% cut floor $279.74 between discrete scan checkpoints; stop_price $274.01 (HWM $304.46, 10% trail) hit; filled $270.76 (slippage below stop due to momentum) |
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| HWM | $278.99 | $278.12 | -$56.88 | -0.31% | +2.26% | $251.98 (10% trail, 96ab1030, HWM $279.98) | 9.74% stop / 7.19% to -7% floor $259.46 | HOLD — recovering; no neg catalyst; thesis intact |
+| RTX | $174.65 | $196.38 | +$2,498.95 | +12.44% | +0.99% | $189.664 (7% trail, b205a209, HWM $203.94) | 3.43% ⚠️ | HOLD — Q2 BMO Jul 23 (2d); 7% trail auto-manages; +15% trigger $200.85 (2.27% away); +20% trigger $209.58 (6.75% away) |
+
+**Cut losers (-7%):** LHX closed via trailing stop (see above). HWM -0.31% (comfortable), RTX +12.44% (no action).
+**Stop tightening (+15%/+20%):** RTX at +12.44% — neither +15% ($200.85) nor +20% ($209.58) triggered. No tightening. RTX already on 7% trail.
+**Thesis check:**
+- LHX: CLOSED. Trailing stop auto-fired at $270.76 (-9.99%). Deutsche Bank PT cut $300→$285 triggered institutional selling; defense sector repriced geopolitical risk premium broadly. LHX fundamentals (record $40.7B backlog, $955M Golden Dome contract, FCF raised to $3B) remained intact — price action was purely multiple/sentiment compression. Manual -7% floor $279.74 was breached between scan checkpoints; trailing stop at $274.01 was the last line of defense. Note: for future positions, discrete-checkpoint monitoring creates risk when stop gap between manual floor and trailing stop is wide. 1st consecutive defense sector loss (NOC was +2.31% prior) — sector exit rule NOT triggered.
+- HWM: -0.31% cumulative, +2.26% intraday (recovering strongly). No company-specific news today. Thesis intact — commercial aero/gas turbine demand, Q1 adj EPS +42% YoY, $1.8B CAM acquisition, Bernstein PT $318. Stop 9.74% buffer, -7% floor 7.19% buffer — comfortable. Q2 Aug 6 (16d). HOLD.
+- RTX: +12.44% cumulative, +0.99% intraday. Perplexity confirmed strong pre-Q2 positioning: consensus $1.66 EPS; Jefferies Buy (above-consensus $1.74); Citi 30-day upside catalyst watch (beat-and-raise prediction); 15 Strong Buy out of 25 analysts; PT $215-216. $1.1B AIM-9X Navy contract. No guidance changes. 7% trailing stop auto-manages. Q2 BMO Jul 23 (2d). HOLD per plan — stop protects min +8.6% gain if triggered.
+**Research (Step 6):** Perplexity queried LHX (Deutsche Bank PT cut + defense sector repricing, fundamentals intact) and RTX (strong pre-Q2 consensus, Citi/Jefferies buy, beat-and-raise expected). No sharp unexplained moves on remaining positions.
+**Sector failure tracking:** Defense — NOC +2.31% (Week 13), LHX -9.99% (today). 1 consecutive failure. Rule (2 consecutive) NOT triggered. RTX remains open.
+**Notification (Step 7):** Action taken (LHX stopped out) → Slack sent.
+
+**Portfolio (midday):** $108,928.54 | **Cash:** $68,276.24 (62.7%) | **Long MV:** $40,652.30 (37.3% deployed — ⚠️⚠️ well below 75–85% target) | **Day P&L:** -$183.31 (-0.17%) | **Phase P&L:** +$8,928.54 (+8.93%)
+**Week 14 trades:** 0/3 new | **Closed today:** LHX -$2,102.57 (-9.99%) | **Open positions:** 2/6 | **Daytrade count:** 0
+**Key watch:** RTX stop $189.664 (3.43% buf — ⚠️ tight; Q2 BMO Jul 23 2d — hold; stop protects +8.6% minimum); RTX +15% trigger $200.85 (2.27% away — already at 7% trail, no action); RTX +20% trigger $209.58 (6.75% away — tighten to 5% trail if hit); HWM -7% floor $259.46 (7.19% buf — comfortable); **4th position deferred to Jul 24+ post-RTX earnings**; $68,276 cash idle (62.7%) — must deploy post-RTX earnings
