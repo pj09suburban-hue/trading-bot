@@ -3992,3 +3992,51 @@ GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$8
 - **RTX -0.93% today ($194.06):** 7% trailing stop auto-manages. Buffer 2.27% ⚠️. +20% trigger $209.58 (8.0% away). Q2 Jul 23 (7d). HOLD.
 - **Market context:** Nasdaq -2% on tech/AI concerns; broad selloff pulling all positions lower. WTI ~$79.97 (elevated, Iran). Rate hike probability elevated (31%, Jul). TSM guidance read pending.
 - **Portfolio:** 45.2% cash ($49,323) — below 75-85% target. 5th position deferred (broad selloff, earnings cluster 7-21d out, TSM guidance unknown). Patience appropriate.
+
+## 2026-07-22 — Pre-Market Research (Day 64, Wednesday — Week 14 Day 3)
+
+### Account Snapshot
+- **Equity:** $108,894.56 | **Cash:** $68,276.21 (62.7%) | **Long MV:** $40,618.35 (37.3% deployed — ⚠️⚠️ well below 75–85% target)
+- **Pre-mkt P&L:** +$211.30 (+0.19%) vs last close $108,683.26 | **Phase P&L:** +$8,894.56 (+8.89%)
+- **Week 14 trades:** 0/3 | **Open positions:** 2/6 | **Daytrade count:** 0
+
+### Live Positions (pre-market)
+| Symbol | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $280.00 | +$65.65 (+0.36%) | $251.98 (10% trail, 96ab1030, HWM $279.98) | 9.96% stop / 7.34% to -7% floor $259.46 | Near all-time high $280.85; Q2 Aug 6 (15d — no earnings overhang) |
+| RTX | 115 | $174.65 | $194.94 | +$2,333.60 (+11.62%) | $189.664 (7% trail, b205a209, HWM $203.94) | **2.72% ⚠️** | Q2 BMO **tomorrow Jul 23**; hold per plan; stop protects min +8.5% gain |
+
+**GTC stops confirmed active:** HWM 96ab1030 ✓ | RTX b205a209 ✓
+
+### Market Context
+- **WTI:** ~$85.45 (+surge — US-Iran ceasefire collapse / US strikes on Iran stoke supply disruption fears; +16% cited in some reports since ceasefire broke); **Brent:** ~$92.20 (+1.3%)
+- **S&P 500 E-mini futures:** 7,520.25 (-25.50 / -0.34%) — slightly negative pre-market; chip stocks weak; caution building ahead of Big Tech earnings (GOOGL, Tesla AMC tonight; RTX BMO tomorrow)
+- **VIX:** ~17.05-17.41 (mildly elevated; oil vol at 3× VIX per Saxo — geopolitical risk driving commodities more than equities)
+- **Economic calendar today (Jul 22):** NO major U.S. macro releases — CPI was Jul 14 (-0.4% m/m, +3.5% YoY — below 3.8% forecast, bullish), PPI Jul 15. Clean macro day.
+- **Key events tonight/tomorrow:** GOOGL AMC tonight (4:30 PM ET) — consensus ~$2.86-$2.95 EPS, $116.5-120.2B revenue; one data point shows ACTUAL $5.11 EPS (potential massive beat vs $2.68 expected, +90%); Google Cloud 63% growth anticipated; **RTX Q2 BMO tomorrow Jul 23** — major event for our portfolio
+- **Earnings today BMO:** No major S&P 500 industrials or defense names
+- **Sector momentum YTD:** Energy +29.81%, Technology +29.55%, Capital Goods/Industrials +26.32%, Utilities +13.57%; Consumer Discretionary -0.9% (only laggard)
+- **Earnings season:** 91% of S&P 500 Q2 beats so far; S&P 500 EPS growth ~23.4% aggregate
+
+### Position Thesis Check
+- **HWM (+0.36%):** Trading at $280.00 — near all-time high $280.85. No new negative catalysts today. CI Investments raised position (positive institutional signal today). Thesis intact: commercial aero/gas turbine demand; Q1 adj EPS +42% YoY, rev +19%; CAM acquisition complete Apr 6; Q2 guidance $2.4B rev / $1.23 EPS. MarketBeat consensus Moderate Buy, avg PT $293.21 (5% upside). Investing.com Strong Buy, avg PT $311.68 (11% upside). Stop 9.96% buffer, -7% floor 7.34% buffer — comfortable. Q2 Aug 6 (15d — no near-term earnings overhang). HOLD.
+- **RTX (+11.62%):** Q2 earnings BMO tomorrow Jul 23 (conference call 7:30 AM ET). Constructive analyst backdrop: Bernstein $208 PT (Market Perform); 15 Buy, 0 Sell; avg PT $215.36. Consensus Q2 EPS ~$1.66 (+6.4% YoY); Q1 was $1.78 (+21% YoY, beat by 17.88%). Raised full-year guidance $6.70-$6.90 EPS; $271B backlog; FCF guidance $8.25-8.75B. AIM-9X Navy contract recently confirmed. Pre-earnings analyst commentary constructive (aerospace demand, defense momentum, backlog). Stop buffer 2.72% ⚠️ — auto-fires on any -2.7% intraday move; stop protects minimum +$2,294 (locked +8.5% gain). HOLD per plan through earnings.
+
+### Trade Ideas (for Jul 24+ entry — post-RTX earnings)
+1. **GE Vernova (GEV) — WATCHLIST:** AI/hyperscaler power demand thesis; energy sector leading +29.81% YTD; if GOOGL massive beat tonight confirms AI capex supercycle intact, GEV becomes attractive for energy infrastructure exposure. Entry zone $250-260. Stop 10% trail (~$225-234). Target $295+ (2:1+ R:R). Q2 Jul 23 BMO — wait for post-earnings reaction before entry. Max $20k position (~75-80 shares at $255). Catalyst: GOOGL cloud growth + hyperscaler AI capex confirmation.
+2. **GD (General Dynamics) — WATCHLIST:** Defense sector; submarine/aerospace/IT; clean chart. Q2 guidance strong; not in same LHX selloff pattern. If RTX beats tomorrow → defense sector broadly positive → GD entry on RTX beat. Stop 10% trail. Target 2:1 R:R. Defense consecutive failure tally: 1/2 (LHX -9.99%, NOC was +2.31% prior so not consecutive). Sector exit rule NOT triggered. Entry conditional on RTX strong beat + guidance raise.
+3. **Post-GOOGL tech/AI name — TBD:** If GOOGL $5.11 EPS confirmed tonight (vs $2.86 consensus = massive beat), strong risk-on signal. Consider adding a tech/AI adjacent name Thu Jul 24 entry. Specific ticker TBD pending GOOGL result quality + Cloud commentary. Max 1 position, 20% equity cap (~$20k).
+
+### Risk Factors
+1. **RTX earnings volatility (BMO Jul 23 — tomorrow):** Stop at 2.72% buffer ⚠️; any -2.7% gap could fire stop pre-market. Historical: Q1 print dropped -7.6% pre-market even with strong results (tariff/geopolitical concerns). Stop at $189.66 protects minimum +8.5% gain but gap risk exists.
+2. **Oil spike / Iran geopolitical:** WTI $85.45, Brent $92.20 — US strikes on Iran. Elevated supply disruption risk. Not directly impacting our positions but dampens risk-on sentiment; S&P futures -0.34% pre-market.
+3. **RTX stop buffer 2.72% ⚠️ — tight:** Any sharp pre-market move could breach stop. No action — stop auto-manages. If triggered on RTX beat, would lock in +$2,294 profit.
+4. **Portfolio 37.3% deployed:** Drastically below 75-85% target; $68,276 idle. Active deployment plan: 2-3 new positions Jul 24+ post-RTX earnings. Patience required until RTX clears.
+5. **GOOGL AMC tonight — implied move ±5.8%:** If GOOGL misses → broad AI/tech selloff tomorrow → potential pressure on RTX pre-earnings; if GOOGL beats → risk-on, positive for RTX + entire market.
+
+### Decision
+**HOLD** — No new entry today. RTX Q2 earnings BMO tomorrow (Jul 23) blocks any new position to avoid concentration risk and unpredictable market reaction. GOOGL AMC tonight (±5.8% implied move) is the major read on AI/tech momentum — result will inform our Jul 24 entry strategy. Oil spike ($85.45 WTI) adds geopolitical complexity. Both existing positions healthy: HWM near all-time high (thesis intact), RTX holding +11.62% with stop auto-managing. Deploy aggressively from $68k cash in 2-3 new positions on Jul 24 once RTX earnings and GOOGL signal clear.
+
+**Key watch today/tonight:** GOOGL AMC result (AI momentum signal — if massive beat confirmed, tech/AI is the primary new position sector); RTX pre-market tomorrow (stop at 2.72% buffer — may fire on gap); HWM approaching all-time high $280.85 (stop auto-updates if exceeded); oil/Iran geopolitical risk (Strait of Hormuz supply disruption scenario)
+
+**Week 14 trades:** 0/3 | **Open positions:** 2/6 | **Daytrade count:** 0
