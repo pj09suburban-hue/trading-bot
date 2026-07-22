@@ -4040,3 +4040,9 @@ GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$8
 **Key watch today/tonight:** GOOGL AMC result (AI momentum signal — if massive beat confirmed, tech/AI is the primary new position sector); RTX pre-market tomorrow (stop at 2.72% buffer — may fire on gap); HWM approaching all-time high $280.85 (stop auto-updates if exceeded); oil/Iran geopolitical risk (Strait of Hormuz supply disruption scenario)
 
 **Week 14 trades:** 0/3 | **Open positions:** 2/6 | **Daytrade count:** 0
+
+### Afternoon Addendum — Midday Scan (No Action)
+- **RTX (Q2 BMO tomorrow Jul 23):** WebSearch confirmed consensus $1.66 EPS (+6.4% YoY); beat in each of last 4 quarters avg +12.65% surprise; Earnings ESP +2.02%. Aerospace demand, defense momentum, $271B backlog thesis intact. Stop $189.664 (2.88% buf ⚠️ — auto-manages). No thesis breach. HOLD.
+- **HWM:** Near ATH $280.85 (current $280.47 +0.53%). CI Investments raised position. Thesis intact. No new negative catalysts. Stop 9.53% buffer ($253.75). HOLD.
+- **GOOGL AMC tonight:** 96% beat probability (Polymarket); potential EPS ~$8 vs $2.90 consensus (Anthropic stake mark-up, one bank model); ±5.4% implied move; if confirmed beat → risk-on tomorrow → positive RTX sentiment pre-earnings open. Primary post-close read.
+- **No action taken.** Both positions healthy. No cuts, no stop tightening. Portfolio 37.3% deployed — deployment resumes Jul 24+ post-RTX earnings.

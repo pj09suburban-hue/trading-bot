@@ -2877,3 +2877,24 @@ No positions yet. Bot launches tomorrow.
 
 **Week 14 trades:** 0/3 new | **Closed today:** LHX −$2,102.57 (−9.99%) via trailing stop | **Open positions:** 2/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Wed Jul 22:** RTX Q2 BMO Jul 23 (1d) — HOLD; stop $189.664 (2.53% buf ⚠️ — tight; auto-fires; if triggered locks +$2,293 min); RTX +15% trigger $200.85 (3.2% away — already on 7% trail, tighten to 5% only at +20% $209.58); HWM -7% floor $259.46 (7.0% buf — comfortable); scout 3rd+ position for Jul 24+ entry post-RTX earnings clear; GOOGL AMC Jul 22 (tonight) — risk-on/off signal for broader market
+
+---
+
+## 2026-07-22 — Midday Scan (Day 64, Wednesday — Week 14 Day 3)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| HWM | $278.99 | $280.47 | +$96.20 | +0.53% | +0.53% | $253.75 (10% trail, 96ab1030, HWM $281.95) | 9.53% stop / 7.49% to -7% floor $259.46 | HOLD — near ATH $280.85; thesis intact; Q2 Aug 6 (15d) |
+| RTX | $174.65 | $195.29 | +$2,373.60 | +11.82% | +0.84% | $189.664 (7% trail, b205a209, HWM $203.94) | 2.88% ⚠️ | HOLD — Q2 BMO tomorrow Jul 23; stop auto-manages; +15% trigger $200.85 (2.85% away) |
+
+**Cut losers (-7%):** None — HWM +0.53%, RTX +11.82%. No cuts.
+**Stop tightening (+15%/+20%):** RTX at +11.82% — +15% trigger $200.85 not hit (2.85% away). Already on 7% trail. No action.
+**Thesis check:**
+- HWM: +0.53% cumulative, +0.53% intraday. Near all-time high $280.85 (HWM on stop tracker $281.95 — stop has been auto-advancing). CI Investments raised position (positive institutional signal from pre-market research). Commercial aero/gas turbine demand thesis intact. Stop 9.53% buffer, -7% floor 7.49% buffer — comfortable. Q2 Aug 6 (15d — no earnings overhang). HOLD.
+- RTX: +11.82% cumulative, +0.84% intraday. Q2 BMO tomorrow Jul 23 (conference call 7:30 AM ET). Consensus $1.66 EPS (+6.4% YoY); RTX beat in each of last 4 quarters with avg surprise +12.65%; Earnings ESP +2.02% (beat signal). Aerospace demand, defense momentum, $271B backlog intact. Stop 2.88% buffer ⚠️ — auto-fires on any -2.9% move; protects minimum +$2,294 (+11.08% locked). GOOGL AMC tonight: 96% beat probability (Polymarket), potential EPS near $8 vs $2.90 consensus (Anthropic stake mark-up), ±5.4% implied move — risk-on signal expected tomorrow, positive for RTX sentiment. HOLD per plan through earnings.
+**Research (Step 6):** WebSearch confirmed RTX Q2 preview (consensus $1.66 EPS, 4-quarter beat streak avg +12.65%, Earnings ESP +2.02%). GOOGL AMC tonight (consensus $2.90, 96% beat probability, potential $8 EPS via Anthropic stake — risk-on setup). No sharp unexplained moves on either position. Both moves (HWM +0.53%, RTX +0.84%) consistent with broad market calm pre-GOOGL earnings.
+**Notification (Step 7):** No action taken → no Slack sent.
+
+**Portfolio (midday):** $109,032.31 | **Cash:** $68,276.21 (62.6%) | **Long MV:** $40,688.90 (37.3% deployed — ⚠️⚠️ well below 75–85% target) | **Day P&L:** +$281.85 (+0.26%) | **Phase P&L:** +$9,032.31 (+9.03%)
+**Week 14 trades:** 0/3 | **Open positions:** 2/6 | **Daytrade count:** 0
+**Key watch:** RTX Q2 BMO tomorrow Jul 23 — stop $189.664 (2.88% buf ⚠️ — may gap on earnings; protects min +$2,294 if fired); RTX +15% trigger $200.85 (2.85% away — tighten to 7% trail on hit, but already at 7%; tighten to 5% only at +20% $209.58); HWM -7% floor $259.46 (7.49% buf — comfortable); GOOGL AMC tonight (risk-on/off read for tomorrow's market open); Deploy $68k in 2-3 positions Jul 24+ post-RTX earnings clear; RTX +20% trigger $209.58 (7.3% away)
