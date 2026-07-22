@@ -2898,3 +2898,19 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $109,032.31 | **Cash:** $68,276.21 (62.6%) | **Long MV:** $40,688.90 (37.3% deployed — ⚠️⚠️ well below 75–85% target) | **Day P&L:** +$281.85 (+0.26%) | **Phase P&L:** +$9,032.31 (+9.03%)
 **Week 14 trades:** 0/3 | **Open positions:** 2/6 | **Daytrade count:** 0
 **Key watch:** RTX Q2 BMO tomorrow Jul 23 — stop $189.664 (2.88% buf ⚠️ — may gap on earnings; protects min +$2,294 if fired); RTX +15% trigger $200.85 (2.85% away — tighten to 7% trail on hit, but already at 7%; tighten to 5% only at +20% $209.58); HWM -7% floor $259.46 (7.49% buf — comfortable); GOOGL AMC tonight (risk-on/off read for tomorrow's market open); Deploy $68k in 2-3 positions Jul 24+ post-RTX earnings clear; RTX +20% trigger $209.58 (7.3% away)
+
+---
+
+## 2026-07-22 — EOD Snapshot (Day 64, Wednesday — Week 14 Day 3)
+
+**Portfolio:** $108,825.14 | **Cash:** $68,276.21 (62.8%) | **Day P&L:** +$74.68 (+0.07%) | **Phase P&L:** +$8,825.14 (+8.83%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $279.90 | +0.32% | +$59.15 (+0.33%) | $253.75 (10% trail, 96ab1030, HWM $281.95) — 9.34% buf / 7.30% to -7% floor $259.46 |
+| RTX | 115 | $174.65 | $194.395 | +0.37% | +$2,270.68 (+11.31%) | $189.664 (7% trail, b205a209, HWM $203.94) — 2.43% buf ⚠️ |
+
+**Notes:** Day 64, Week 14 Day 3. No trades today. HWM pressed to intraday highs, closing +0.32% at $279.90 — trailing stop auto-advanced (HWM now $281.95, stop $253.75, 9.34% buffer; comfortable). RTX +0.37% intraday, +11.31% cumulative ahead of Q2 earnings BMO tomorrow Jul 23; 7% trailing stop at $189.664 (2.43% buffer ⚠️ — tight pre-earnings; protects minimum +$2,271 / +11.08% locked gain if fired). GOOGL AMC tonight (consensus $2.90, 96% beat probability, potential $8 EPS via Anthropic stake mark-up) — risk-on signal expected; positive for tomorrow's market open and RTX post-earnings sentiment. Portfolio 37.2% deployed ($40,549 long / $108,825 equity) — $68,276 cash idle (62.8%), well below 75–85% target; new entries deferred to Jul 24+ post-RTX earnings clear. Defense sector: 1 consecutive loss (LHX -9.99% Jul 21); 2 needed for sector-exit rule; RTX remains open.
+
+**Week 14 trades:** 0/3 | **Open positions:** 2/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Thu Jul 23:** RTX Q2 BMO (hold; stop $189.664 protects min +$2,271; beat → watch +15% $200.85 and +20% $209.58 triggers; miss → stop auto-fires); HWM -7% floor $259.46 (7.30% buf — comfortable); GOOGL AMC risk-on setup tonight; deploy $68k in 2-3 positions Jul 24+ post-RTX earnings; RTX +20% trigger $209.58 (7.8% away — tighten to 5% trail on hit)
