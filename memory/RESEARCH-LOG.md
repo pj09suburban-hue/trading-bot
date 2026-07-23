@@ -4099,3 +4099,9 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 
 **Week 14 trades:** 0/3 used | **Open positions:** 2/6 | **Daytrade count:** 0
 **Key watch at open:** RTX +20% trigger $209.58 (2.2% away); LMT entry (buy-side gate, live quote, gap-up limit); GOOGL capex narrative = tech headwind ≠ defense headwind; oil/Iran = defense tailwind; HWM ATH stop auto-advance
+
+### Afternoon Addendum — Midday Scan (Action: RTX stop tightened)
+- **RTX (Q2 beat, +20.33%):** Perplexity confirmed beat-and-raise: adj EPS $1.89 vs $1.66, rev $24.7B vs $22.88B, backlog $289B (+22% YoY), 2026 EPS guidance $7.10–7.25 (prior $6.70–6.90), sales guidance $95–96B. Pratt & Whitney demand (F-35, AMRAAM, commercial MRO) cited. Stock ~$209.78 at midday (11:33 AM ET per MarketBeat). Crossed +20% trigger ($209.58) mid-session. Stop tightened to 5% (6490cd38, HWM $210.27, stop $199.76, 4.96% buf). No adverse news.
+- **LMT (+4.13% from entry, +11.24% from prior close):** Q2 EPS $7.94 vs $7.19, rev $20.1B, FCF $2.9B, record $230B backlog, FY26 EPS guidance raised $29.95–30.65, rev $80.75B midpoint. All thesis pillars confirmed. Post-earnings 7% trail c8572779 active (HWM $575.50, stop $535.22). RTX F-35 engine demand = positive sector-linked reinforcement for LMT. No adverse news.
+- **HWM (+2.71%):** Near ATH ($288.11 HWM on stop tracker). No company-specific catalyst. Commercial aero/gas turbine thesis intact. Stop 96ab1030 (10% trail, HWM $288.11, stop $259.30, 9.49% buf). Comfortable.
+- **Action taken:** RTX 7% trail canceled, 5% trail placed per +20% rule. Slack sent.

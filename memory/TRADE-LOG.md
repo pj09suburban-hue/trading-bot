@@ -2933,3 +2933,34 @@ No positions yet. Bot launches tomorrow.
 | RTX | 7% | $193.86 | $208.45 | b205a209 ✓ |
 
 **Week 14 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+---
+
+## 2026-07-23 — Midday Scan (Day 65, Thursday — Week 14 Day 4)
+
+**ACTION:** RTX trailing stop tightened 7%→5% (triggered +20% rule).
+
+**Stop tighten executed:**
+| Symbol | Rule | Old Stop | New Stop | HWM | Order |
+|---|---|---|---|---|---|
+| RTX | +20.35% ≥ +20% threshold | $198.5457 (7% trail, b205a209, HWM $213.49) | $199.7565 (5% trail, **6490cd38**, HWM $210.27) | $210.27 | 6490cd38 ✓ |
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| HWM | $278.99 | $286.55 | +$491.40 | +2.71% | +2.08% | $259.30 (10% trail, 96ab1030, HWM $288.11) | 9.49% stop / 9.28% to -7% floor $259.46 | HOLD — no catalyst; commercial aero thesis intact; near ATH |
+| LMT | $549.50 | $572.20 | +$908.00 | +4.13% | +11.24% | $535.215 (7% trail, c8572779, HWM $575.50) | 6.46% stop / 11.3% to -7% floor $511.24 | HOLD — Q2 beat thesis confirmed; FY26 guidance raised; record $230B backlog |
+| RTX | $174.65 | $210.15 | +$4,082.50 | +20.33% | +7.84% | $199.7565 (5% trail, **6490cd38**, HWM $210.27) | 4.96% buf | HOLD — +20% rule triggered; stop tightened to 5%; Q2 beat $1.89 vs $1.66; backlog $289B; guidance raised $7.10–$7.25 |
+
+**Cut losers (-7%):** None — all positions positive.
+**Stop tightening:** RTX hit +20.35% (entry $174.65 × 1.20 = $209.58 threshold). Canceled 7% trail b205a209 (stop $198.55, HWM $213.49). Placed 5% trail 6490cd38 (stop $199.7565, HWM $210.27). New stop > old stop ✓. Distance from price 4.96% > 3% rule ✓. LMT +4.13% — +15% trigger ($631.93) not reached; +20% trigger ($659.40) not reached; no stop tighten. HWM +2.71% — neither trigger reached; no action.
+**Thesis check:**
+- HWM: +2.71% cumulative, +2.08% intraday. Near ATH (HWM $288.11 on stop tracker). Commercial aero/gas turbine demand thesis intact. CI Investments raised position (institutional positive). Stop 9.49% buffer, -7% floor 9.28% buffer — comfortable. Q2 Aug 6 (14d — no near-term earnings overhang). HOLD.
+- LMT: +4.13% cumulative, +11.24% intraday from prior close $514.36. Q2 EPS $7.94 vs $7.19 (+10.4%), rev $20.1B vs $18.2B, FCF $2.9B, record $230B backlog, FY26 EPS guidance raised $29.95–30.65, rev midpoint $80.75B. All thesis pillars confirmed and extended. Post-earnings 7% trail rule active (entry Jul 23, within 3d of Q2 print). Stop 6.46% buffer, -7% floor 11.3% buffer. HOLD.
+- RTX: +20.33% cumulative, +7.84% intraday. Q2 adj EPS $1.89 vs $1.66 (+13.9%), rev $24.7B vs $22.88B, backlog up 22% to $289B, 2026 EPS guidance raised $7.10–7.25 (vs prior $6.70–6.90), sales guidance raised $95–96B. Beat in 5 consecutive quarters. Pratt & Whitney engine demand (F-35, AMRAAM, commercial MRO) confirmed. Stop tightened to 5% per +20% rule. New stop $199.7565 (5% trail, HWM $210.27, buf 4.96%). HOLD.
+**Research (Step 6):** Perplexity confirmed RTX Q2 beat + guidance raise (adj EPS $1.89, rev $24.7B, backlog $289B, guidance $7.10–7.25/$95–96B). LMT Q2 beat + guidance raise (EPS $7.94, rev $20.1B, backlog $230B, FY26 guidance raised). Both confirmed beat-and-raise thesis; no adverse midday news on any position. All intraday moves explained by pre-market catalysts.
+**Notification (Step 7):** Action taken (RTX stop tightened) → Slack sent.
+
+**Portfolio (midday):** $112,002.94 | **Cash:** $46,296.21 (41.3%) | **Long MV:** $65,706.73 (58.7% deployed — below 75–85% target) | **Day P&L:** +$3,177.80 (+2.92%) | **Phase P&L:** +$12,002.94 (+12.00%) — NEW HIGH
+**Week 14 trades:** 1/3 new (LMT buy at open) | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch:** RTX 5% trail stop $199.76 (4.96% buf — watch for +25% trigger $218.31 for further review); LMT +15% trigger $631.93 (tighten to 7% trail — already at 7%, no action; +20% trigger $659.40 tighten to 5%); HWM -7% floor $259.46 (9.28% buf — comfortable); $46,296 cash (41.3%) — deploy 1-2 more positions next week post-RTX/LMT thesis clear; RTX 5% stop protects min +$2,893 (+14.4% locked gain) if fired
+
