@@ -2964,3 +2964,20 @@ No positions yet. Bot launches tomorrow.
 **Week 14 trades:** 1/3 new (LMT buy at open) | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch:** RTX 5% trail stop $199.76 (4.96% buf — watch for +25% trigger $218.31 for further review); LMT +15% trigger $631.93 (tighten to 7% trail — already at 7%, no action; +20% trigger $659.40 tighten to 5%); HWM -7% floor $259.46 (9.28% buf — comfortable); $46,296 cash (41.3%) — deploy 1-2 more positions next week post-RTX/LMT thesis clear; RTX 5% stop protects min +$2,893 (+14.4% locked gain) if fired
 
+
+---
+
+## 2026-07-23 — EOD Snapshot (Day 65, Thursday — Week 14 Day 4)
+
+**Portfolio:** $111,856.36 | **Cash:** $46,296.21 (41.4%) | **Day P&L:** +$3,031.22 (+2.79%) | **Phase P&L:** +$11,856.36 (+11.86%) — NEW HIGH
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $287.47 | +2.41% | +$551.20 (+3.04%) | $259.30 (10% trail, 96ab1030, HWM $288.11) — 9.80% buf / 9.74% to -7% floor $259.46 |
+| LMT | 40 | $549.50 | $570.76 | +10.97% | +$850.40 (+3.87%) | $535.68 (7% trail, c8572779, HWM $576.00) — 6.15% buf / 10.43% to -7% floor $511.24 |
+| RTX | 115 | $174.65 | $209.08 | +7.29% | +$3,959.45 (+19.71%) | $200.39 (5% trail, 6490cd38, HWM $210.94) — 4.16% buf |
+
+**Notes:** Day 65, Week 14 Day 4. Strong day: new portfolio high. One new trade at open — LMT BUY 40@$549.50 on Q2 beat catalyst (EPS $7.94 vs $7.19 est +10.4%, rev $20.1B vs $18.2B, record $230B backlog, FY26 guidance raised). RTX gapped up +7.29% on Q2 beat (EPS $1.89 vs $1.66 +13.9%, backlog $289B, 2026 guidance raised $7.10–7.25/$95–96B); stop tightened 7%→5% at midday per +20% rule (new order 6490cd38, stop $200.39, HWM $210.94, 4.16% buf). HWM +2.41% intraday, stop auto-advanced to $259.30 (9.80% buffer). Portfolio $111,856.36 — 41.4% cash ($46,296) idle, well below 75–85% target; 1-2 new positions targeted for next week post-RTX/LMT thesis clear. Defense sector: 1 consecutive loss (LHX -9.99% Jul 21); RTX and LMT both profitable — sector exit rule NOT triggered. All GTC stops confirmed active.
+
+**Week 14 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Fri Jul 24 (Week 14 Day 5):** RTX 5% stop $200.39 (4.16% buf — watch +25% trigger $218.31 for strategy review); LMT +15% trigger $631.93 (10.72% away — tighten stop to 7% trail on hit, already at 7%; +20% trigger $659.40 tighten to 5%); HWM -7% floor $259.46 (9.74% buf — comfortable); deploy $46,296 cash in 1-2 new positions next week Mon-Tue; weekly review fires Fri 4 PM ET.
