@@ -2914,3 +2914,22 @@ No positions yet. Bot launches tomorrow.
 
 **Week 14 trades:** 0/3 | **Open positions:** 2/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Thu Jul 23:** RTX Q2 BMO (hold; stop $189.664 protects min +$2,271; beat → watch +15% $200.85 and +20% $209.58 triggers; miss → stop auto-fires); HWM -7% floor $259.46 (7.30% buf — comfortable); GOOGL AMC risk-on setup tonight; deploy $68k in 2-3 positions Jul 24+ post-RTX earnings; RTX +20% trigger $209.58 (7.8% away — tighten to 5% trail on hit)
+
+---
+
+## 2026-07-23 — Market-Open Trades (Day 65, Thursday — Week 14 Day 4)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-07-23 | LMT | BUY | 40 | $549.50 | $510.28 (7% trail GTC, c8572779, HWM $548.69) — **POST-EARNINGS RULE: 7% trail (entry within 3 days of Q2 print)** | Q2 EPS $7.94 vs $7.19 est (+10.4% beat); rev $20.1B vs $18.2B; guidance raised $80.75B (+2% above est); record $230B backlog incl $35B THAAD contract; Iran defense tailwind; LMT gapped +6.83% at open | $659.40 (+20%) | 2.77:1 |
+
+**Stop tighten check — RTX +20% trigger $209.58:** RTX at open ~$207.35 / HWM $208.45 — NOT YET at $209.58 (0.54% away). Stop auto-advanced to $193.86 (7% trail, HWM $208.45). Flag for midday.
+
+**All GTC stops confirmed:**
+| Symbol | Trail | Stop | HWM | Order |
+|---|---|---|---|---|
+| LMT | 7% | $510.28 | $548.69 | c8572779 ✓ |
+| HWM | 10% | $255.83 | $284.25 | 96ab1030 ✓ |
+| RTX | 7% | $193.86 | $208.45 | b205a209 ✓ |
+
+**Week 14 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
