@@ -4046,3 +4046,56 @@ GE likely stops out at market open. Entry was $280.02; exit near $363.82 = **+$8
 - **HWM:** Near ATH $280.85 (current $280.47 +0.53%). CI Investments raised position. Thesis intact. No new negative catalysts. Stop 9.53% buffer ($253.75). HOLD.
 - **GOOGL AMC tonight:** 96% beat probability (Polymarket); potential EPS ~$8 vs $2.90 consensus (Anthropic stake mark-up, one bank model); ±5.4% implied move; if confirmed beat → risk-on tomorrow → positive RTX sentiment pre-earnings open. Primary post-close read.
 - **No action taken.** Both positions healthy. No cuts, no stop tightening. Portfolio 37.3% deployed — deployment resumes Jul 24+ post-RTX earnings.
+
+---
+
+## 2026-07-23 — Pre-Market Research (Day 65, Thursday — Week 14 Day 4)
+
+### Account Snapshot
+- **Equity:** $110,051.21 | **Cash:** $68,276.21 (62.0%) | **Long MV:** $41,775.00 (38.0% deployed — ⚠️⚠️ well below 75–85% target)
+- **Pre-mkt P&L:** +$1,226.07 (+1.13%) vs last close $108,825.14 | **Phase P&L:** +$10,051.21 (+10.05%) — NEW HIGH
+- **Week 14 trades:** 0/3 | **Open positions:** 2/6 | **Daytrade count:** 0
+
+### Live Positions (pre-market)
+| Symbol | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $280.00 | +$65.65 (+0.36%) | $253.78 (10% trail, 96ab1030, HWM $281.98) | 9.3% stop / 7.3% to -7% floor $259.46 | Near ATH; Q2 Aug 6 (14d); thesis intact |
+| RTX | 115 | $174.65 | $205.00 | +$3,490.25 (+17.38%) | $189.664 (7% trail, b205a209, HWM $203.94→auto) | AUTO-MANAGED | **Q2 BEAT BMO today**: EPS $1.89 vs $1.66 est, rev $24.7B vs $22.88B est, +14% YoY; +5.19% pre-mkt; +20% trigger $209.58 (2.2% away — tighten to 5% trail if hit at open) |
+
+**GTC stops confirmed active:** HWM 96ab1030 ✓ | RTX b205a209 ✓
+
+### Market Context
+- **WTI:** ~$88-91/bbl (range); **Brent:** ~$94-98/bbl — elevated; geopolitical Iran/Strait of Hormuz supply disruption fears (energy ban in effect)
+- **S&P 500 E-mini futures:** ~7,510 (-0.40%) — cautious; GOOGL after-hours disappointment + oil spike weighing
+- **VIX:** 16.64-17.44 (open 17.67) — mildly elevated
+- **Economic calendar today (Jul 23):** NO major US macro releases — clean macro day; ECB rate decision (Eurozone); Q2 GDP advance July 30 (next week)
+- **GOOGL AMC last night (Jul 22):** Revenue $119.8B beat ($116.9B est); EPS $9.11 (massively beat $2.89 est) BUT profit distorted by $98B Anthropic stake mark-up (unrealized gain); shares -3.6 to -4.7% AH on HIGH AI CAPEX concerns → tech sector cautious; S&P futures dragged -0.40%
+- **RTX BMO today (Jul 23):** EPS $1.89 vs $1.66 consensus (+13.9% beat); revenue $24.7B vs $22.88B est; sales +14% YoY / +16% organically — MASSIVE beat; stock +5.19% to $205 pre-mkt
+- **LMT BMO today (Jul 23):** EPS $7.94 vs $7.19 est (+10.4% beat); sales $20.1B vs $18.2B (+10.5% YoY); guidance raised to $80.75B (2% above estimates); record $230B backlog including $35B THAAD interceptor contract; "shares jump" (Bloomberg)
+- **GEV (reported Jul 22 BMO):** EPS $2.47 vs $3.04-3.17 est (MISS -18.7%); revenue $11.1B beat; raised revenue guidance; orders +88% YoY, backlog $176.3B — stock slipped on EPS miss; NOT a clean entry
+- **Sector momentum YTD:** Energy +30.6-33.8% (BANNED), Technology +16-34.9%, Industrials/Aerospace +16-26%
+
+### Position Thesis Check
+- **HWM (+0.36%):** Near all-time high $281.98 (Alpaca HWM). No negative catalysts. Commercial aero/gas turbine thesis intact — same demand drivers, analyst PT $293-311 (5-11% upside). Stop 9.3% buffer, -7% floor 7.3% buffer — comfortable. Q2 Aug 6 (14d — no near-term earnings overhang). HOLD.
+- **RTX (+17.38%):** MASSIVE Q2 beat: adj EPS $1.89 vs $1.66 consensus (beat $0.23, +13.9%); revenue $24.7B vs $22.88B; sales +14% YoY / +16% organic — beat in each of last 5 consecutive quarters. +5.19% pre-market to $205. Trailing stop (7%, HWM $203.94) will auto-advance once market opens at $205 → new HWM $205, new stop $205×0.93 = $190.65. CRITICAL ACTION at open: if RTX hits $209.58 (+20% from entry $174.65 × 1.20), tighten trail to 5%. Stop auto-manages; thesis confirmed and extended by earnings. HOLD (stop action at market open per market-open workflow).
+
+### Trade Ideas
+1. **LMT (Lockheed Martin) — PRIMARY SETUP:** Q2 beat (EPS $7.94 vs $7.19, +10.4%) + guidance raised ($80.75B midpoint, +2% above est) + record $230B backlog including $35B THAAD interceptor contract + Iran geopolitical tailwind (defense demand real and sustained). Prior close $514.50; pre-market wide spread ($484-$544 stale). Entry: verify live quote at open (gap-up protection). Shares: 20% equity ($22,010) ÷ open price. Stop: 10% trail. Target: +20% (~$618-640 at entry $515-534). LMT Q3: likely October — no near-term earnings overhang. Defense consecutive loss tally: 1/2 (LHX -9.99% Jul 21; NOC Jul 16 +2.31% prior — NOT consecutive) — sector NOT banned. Catalyst: beat-and-raise + record backlog + Iran demand. Gate: all buy-side checks to be verified at market open.
+2. **GD (General Dynamics) — SECONDARY WATCHLIST:** Defense adjacent; benefits from RTX/LMT sector confirmation. No recent earnings catalyst; keep on radar for Jul 24+ if LMT entry used today.
+3. **GEV (GE Vernova) — REMOVED:** EPS miss -18.7%; stock slipping; not a clean entry in cautious market.
+
+### Risk Factors
+1. **GOOGL capex concerns → broad market caution:** Futures -0.40%; risk-off sentiment could drag even defense names at open; LMT may see weaker open than earnings warrant if macro sentiment stays negative
+2. **Oil spike WTI $88-91, Brent $94-98:** Iran geopolitical → rate hike fear (July FOMC probability elevated); acts as tax on consumer/economy; energy ban in effect (don't confuse Iran tailwind with an energy sector trade)
+3. **RTX +20% trigger at $209.58 (2.2% away):** If RTX gaps to $209.58+ at open, the market-open workflow must tighten trail from 7% to 5% immediately; this is a positive problem (locking in more gain)
+4. **HWM near ATH:** A pullback from ATH area is normal; thesis intact; stop has comfortable 9.3% buffer
+5. **Concentrated defense exposure:** With RTX + potential LMT, 2/6 positions in defense/aerospace; acceptable (no sector ban) but monitor for defense-sector-specific risk events
+6. **S&P futures -0.4%:** Cautious open; LMT entry conditional on price behaving at open (gap-up protection required)
+
+### Decision
+**TRADE-conditional — LMT at market open if buy-side gate passes.** LMT Q2 beat-and-raise with record $230B backlog is a strong company-specific catalyst independent of the GOOGL/AI capex concerns dragging futures. Defense sector not banned. $68k cash idle (62%) must be deployed — LMT is the highest-conviction setup available. Entry conditions at open: verify live quote, confirm fill price × shares ≤ 20% equity ($22,010), all buy-side checks pass. If LMT opens in a disorderly gap or market deteriorates badly at open, defer to midday or tomorrow.
+
+RTX stop management: market-open workflow handles — check for +20% trigger ($209.58) at open; if hit, tighten to 5% trail immediately.
+
+**Week 14 trades:** 0/3 used | **Open positions:** 2/6 | **Daytrade count:** 0
+**Key watch at open:** RTX +20% trigger $209.58 (2.2% away); LMT entry (buy-side gate, live quote, gap-up limit); GOOGL capex narrative = tech headwind ≠ defense headwind; oil/Iran = defense tailwind; HWM ATH stop auto-advance
