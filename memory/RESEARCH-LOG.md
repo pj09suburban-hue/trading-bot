@@ -4105,3 +4105,56 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 - **LMT (+4.13% from entry, +11.24% from prior close):** Q2 EPS $7.94 vs $7.19, rev $20.1B, FCF $2.9B, record $230B backlog, FY26 EPS guidance raised $29.95–30.65, rev $80.75B midpoint. All thesis pillars confirmed. Post-earnings 7% trail c8572779 active (HWM $575.50, stop $535.22). RTX F-35 engine demand = positive sector-linked reinforcement for LMT. No adverse news.
 - **HWM (+2.71%):** Near ATH ($288.11 HWM on stop tracker). No company-specific catalyst. Commercial aero/gas turbine thesis intact. Stop 96ab1030 (10% trail, HWM $288.11, stop $259.30, 9.49% buf). Comfortable.
 - **Action taken:** RTX 7% trail canceled, 5% trail placed per +20% rule. Slack sent.
+
+---
+
+## 2026-07-24 — Pre-Market Research (Day 66, Friday — Week 14 Day 5)
+
+### Account Snapshot
+- **Equity:** $111,893.40 | **Cash:** $46,296.21 (41.4%) | **Long MV:** $65,597.20 (58.6% deployed — ⚠️ below 75–85% target)
+- **Pre-mkt P&L:** +$139.35 (+0.12%) vs last close $111,754.05 | **Phase P&L:** +$11,893.40 (+11.89%) — near new high
+- **Week 14 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+### Live Positions (pre-market)
+| Symbol | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $288.38 | +$610.35 (+3.37%) | $259.79 (10% trail, 96ab1030, HWM $288.66) | 9.91% stop / 9.99% to -7% floor $259.46 | Near ATH; Q2 Aug 6 (13d); Jefferies PT $340, JPM PT $310 OW; Strong Buy consensus $307.90 avg |
+| LMT | 40 | $549.50 | $569.00 | +$780.00 (+3.55%) | $535.68 (7% trail, c8572779, HWM $576.00) | 5.86% stop / 10.1% to -7% floor $511.24 | Q2 beat confirmed (EPS $7.94, rev $20.1B, $230B backlog); Wells Fargo PT cut $575 EW (at-price); thesis intact |
+| RTX | 115 | $174.65 | $209.50 | +$4,007.75 (+19.95%) | $200.39 (5% trail, 6490cd38, HWM $210.94) | 4.34% buf ⚠️ | Q2 beat (EPS $1.89, backlog $289B); 5% trail per +20% rule; +25% trigger $218.31 (4.2% away) |
+
+**GTC stops confirmed active:** HWM 96ab1030 ✓ | LMT c8572779 ✓ | RTX 6490cd38 ✓
+
+### Market Context
+- **WTI:** ~$79–80/bbl; **Brent:** ~$84–87/bbl — elevated; Iran conflict driving supply disruption fears (resumed US strikes; Brent +3% spike)
+- **S&P 500 futures:** ~7,503 (+0.04%) — essentially flat; AI spending concerns persist but defense/earnings strength provides floor
+- **VIX:** ~16–19 — mildly elevated, manageable
+- **Today's economic calendar:** US Flash PMI S&P Global (9:45 AM ET); US New Home Sales (10:00 AM ET); no CPI/PPI/payrolls; **FOMC Jul 28–29 (rate decision Wed Jul 29 2:00 PM ET — key risk event next week)**
+- **Earnings BMO today:** AXP (AmEx, cons. EPS $4.40 — financials lagging, showed -3.80% pre-reaction); NEE (NextEra); VZ (Verizon) — no trade in lagging/wrong-sector names
+- **Earnings digested yesterday:** RTX +7.3%, LMT +10.5% — both massive Q2 beats; defense/aero sector confirmation strong
+- **Sector momentum YTD:** Industrials/Aero +10–14% (Leading — all 3 positions); Materials +13–18% (Leading — no position); Consumer Staples +10–16% (Leading — no position); Energy +22–27% (BANNED); Technology -3–6% (Lagging); Financials -5–7% (Lagging)
+
+### Position Thesis Check
+- **HWM (+3.37%):** Commercial aero/gas turbine demand intact. Consensus Strong Buy, avg PT $307.90 (Jefferies $340, JPM $310 OW). Near ATH ($288.66 HWM on stop tracker). Stop 9.91% buffer, -7% floor 9.99% buffer — comfortable. Q2 Aug 6 (13d — no earnings overhang today). HOLD.
+- **LMT (+3.55%):** Q2 beat validated thesis (EPS $7.94 vs $7.20 est, rev $20.1B, record $230B backlog, FY26 guidance raised $29.95–30.65). Wells Fargo PT cut to $575 (EW, at-price) — single-analyst cautionary signal, not thesis-break. Post-earnings 7% trail active. +15% trigger $631.93 (11.1% away). HOLD.
+- **RTX (+19.95%):** Q2 massive beat (EPS $1.89 vs $1.66, rev $24.7B, backlog $289B, 2026 guidance $7.10–7.25/$95–96B). 5% trail per +20% rule. Stop $200.39 (4.34% buf ⚠️ — tight but correct per 5% rule; protects min +14.4% gain). +25% trigger $218.31 (4.2% away — strategy review if hit). HOLD.
+
+### Trade Ideas
+1. **GD (General Dynamics) — PRIMARY WATCHLIST Mon Jul 27:** Defense/aero in momentum; Iran conflict tailwind (same as RTX/LMT); Gulfstream commercial aero division; Q2 results expected late July/early August. RISK: if GD fails → 2/2 consecutive defense losses → sector exit rule triggers (closes RTX/LMT at current +20%/+3.5% gains). Manageable; both positions deeply profitable. Entry conditions: live quote check, 4 positions → 4/6 (OK), buy-side gate all green.
+2. **Materials (FCX, MLM, or NUE) — SECONDARY WATCHLIST Mon–Tue next week:** Sector in momentum (+13–18% YTD); copper/construction demand from AI data centers + infrastructure; no specific catalyst today; research Monday. Diversifies away from Industrials concentration.
+
+### Risk Factors
+1. **FOMC Jul 28–29 (rate decision Jul 29 2:00 PM ET):** Any hawkish surprise = equity selloff; new entries Monday carry FOMC risk. Consider entering Mon pre-FOMC or waiting post-FOMC Jul 30 for rate clarity.
+2. **RTX stop 4.34% buffer ⚠️:** Could auto-fire on -4.4% pullback (normal per 5% trail rule); would free ~$24k cash. If fired at stop $200.39, locks +14.7% gain ($3,217).
+3. **LMT Wells Fargo PT cut $575 EW:** Single analyst; at-price PT = muted near-term upside in their view. Monitor for additional bank downgrades.
+4. **Oil/Iran:** WTI $79–80, Brent $84–87 — elevated. Defense tailwind continues; but could fuel rate hike fears; energy sector BANNED (not a trade opportunity).
+5. **AI spending headwind (tech):** GOOGL AH capex concerns earlier this week; tech sector lagging -3–6% YTD; not directly impacting defense/aero but keeps broad market cautious.
+
+### Decision
+**HOLD — no new trades today (Friday, end of Week 14).**
+- All 3 positions healthy; no cuts, no stop tightening needed
+- No actionable catalyst for a new entry on a Friday before FOMC week
+- Plan: deploy $46,296 cash (41.4%) in 1–2 new positions Mon Jul 27 (pre-FOMC) prioritizing GD; Materials play as second entry this week
+- Weekly review fires today 4PM ET (separate routine)
+
+**Week 14 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch today:** RTX stop $200.39 (4.34% buf — auto-fires on -4.4%); RTX +25% trigger $218.31 (4.2% away — strategy review); LMT Wells Fargo $575 EW (monitor additional analyst moves); Flash PMI 9:45 AM + New Home Sales 10:00 AM; weekly review 4PM ET
