@@ -2981,3 +2981,29 @@ No positions yet. Bot launches tomorrow.
 
 **Week 14 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Fri Jul 24 (Week 14 Day 5):** RTX 5% stop $200.39 (4.16% buf — watch +25% trigger $218.31 for strategy review); LMT +15% trigger $631.93 (10.72% away — tighten stop to 7% trail on hit, already at 7%; +20% trigger $659.40 tighten to 5%); HWM -7% floor $259.46 (9.74% buf — comfortable); deploy $46,296 cash in 1-2 new positions next week Mon-Tue; weekly review fires Fri 4 PM ET.
+
+---
+
+## 2026-07-24 — Midday Scan (Day 66, Friday — Week 14 Day 5)
+
+**No action taken — all positions hold.**
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| HWM | $278.99 | $290.64 | +$757.25 | +4.18% | +1.24% | $263.70 (10% trail, 96ab1030, HWM $293.00) | 9.27% stop / 10.73% to -7% floor $259.46 | HOLD — sector tailwind; commercial aero thesis intact; Q2 Aug 6 (13d) |
+| LMT | $549.50 | $579.82 | +$1,212.80 | +5.52% | +1.98% | $547.22 (7% trail, c8572779, HWM $588.41) | 5.62% stop / 11.83% to -7% floor $511.24 | HOLD — Q2 beat thesis confirmed; record $230B backlog; FY26 guidance raised |
+| RTX | $174.65 | $213.42 | +$4,458.55 | +22.20% | +2.04% | $204.145 (5% trail, 6490cd38, HWM $214.89) | 4.34% buf ⚠️ | HOLD — 5% trail per +20% rule; +25% trigger $218.31 (2.29% away — strategy review if hit) |
+
+**Cut losers (-7%):** None — HWM +4.18%, LMT +5.52%, RTX +22.20%. No cuts.
+**Stop tightening (+15%/+20%):** HWM not at +15% trigger ($320.84). LMT not at +15% trigger ($631.93, already at 7% trail per post-earnings rule). RTX at +22.20% — already on 5% trail per +20% rule; no further tightening trigger in strategy (next watch: +25% strategy review at $218.31, 2.29% away).
+**Thesis check:**
+- HWM: +4.18% cumulative, +1.24% intraday. Moving with defense/aero sector tailwind. Commercial aero/gas turbine demand thesis intact. No adverse midday news. Stop 9.27% buffer, -7% floor 10.73% buffer — comfortable. Q2 Aug 6 (13d). HOLD.
+- LMT: +5.52% cumulative, +1.98% intraday. Continuation of Q2 beat-and-raise momentum (EPS $7.94 vs $7.19, rev $20.1B vs $18.2B, record $230B backlog, FY26 guidance raised $29.95–30.65). Reuters confirmed RTX/LMT both headed for weekly gains on "Pentagon stockpile replenishment" theme. Post-earnings 7% trail active. Stop 5.62% buffer, -7% floor 11.83% buffer. HOLD.
+- RTX: +22.20% cumulative, +2.04% intraday. Reuters/fxleaders confirmed Q2 beat continuation (record $289B backlog, 2026 guidance $95–96B/$7.10–7.25). Stop $204.145 (5% trail, HWM $214.89, buf 4.34% ⚠️ — correct per rule; protects min +16.9% gain). +25% trigger $218.31 ($4.89 / 2.29% away). HOLD.
+**Research (Step 6):** Perplexity confirmed no adverse midday news on any position. RTX/LMT both heading for weekly gains on defense sector strength (Pentagon stockpile replenishment, Iran conflict tailwind). HWM moving with sector, no specific catalyst. All intraday moves explained by post-earnings continuation.
+**Notification (Step 7):** No action taken → no Slack sent.
+
+**Portfolio (midday):** $112,881.93 | **Cash:** $46,296.20 (41.0%) | **Long MV:** $66,585.73 (59.0% deployed — ⚠️ below 75–85% target) | **Day P&L:** +$1,127.88 (+1.01%) | **Phase P&L:** +$12,881.93 (+12.88%)
+**Week 14 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch:** RTX +25% trigger $218.31 (2.29% away — strategy review on hit); RTX 5% stop $204.145 (4.34% buf — protects min +16.9% locked gain); LMT +15% trigger $631.93 (8.99% away — tighten to 7%, already at 7%; +20% trigger $659.40 tighten to 5%); HWM -7% floor $259.46 (10.73% buf — comfortable); $46,296 cash — target GD + 1 Materials play next week Mon–Tue post-FOMC (Jul 29 rate decision); weekly review fires today 4 PM ET
+
