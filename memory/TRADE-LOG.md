@@ -3007,3 +3007,20 @@ No positions yet. Bot launches tomorrow.
 **Week 14 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch:** RTX +25% trigger $218.31 (2.29% away — strategy review on hit); RTX 5% stop $204.145 (4.34% buf — protects min +16.9% locked gain); LMT +15% trigger $631.93 (8.99% away — tighten to 7%, already at 7%; +20% trigger $659.40 tighten to 5%); HWM -7% floor $259.46 (10.73% buf — comfortable); $46,296 cash — target GD + 1 Materials play next week Mon–Tue post-FOMC (Jul 29 rate decision); weekly review fires today 4 PM ET
 
+
+---
+
+## 2026-07-24 — EOD Snapshot (Day 66, Friday — Week 14 Day 5)
+
+**Portfolio:** $112,704.35 | **Cash:** $46,296.20 (41.1%) | **Day P&L:** +$847.99 (+0.76%) | **Phase P&L:** +$12,704.35 (+12.70%) — NEW HIGH
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $287.77 | +0.23% | +$570.37 (+3.15%) | $263.70 (10% trail, 96ab1030, HWM $293.00) — 8.36% buf / 10.73% to -7% floor $259.46 |
+| LMT | 40 | $549.50 | $581.26 | +2.23% | +$1,270.40 (+5.78%) | $547.22 (7% trail, c8572779, HWM $588.41) — 5.86% buf / 11.83% to -7% floor $511.24 |
+| RTX | 115 | $174.65 | $212.64 | +1.66% | +$4,368.27 (+21.75%) | $204.15 (5% trail, 6490cd38, HWM $214.89) — 3.99% buf |
+
+**Notes:** Day 66, Week 14 Day 5 (week close). Quiet close to a strong week. No trades today; all three positions held. Week 14: 1 trade (LMT BUY 40@$549.50 on Jul 23 Q2 beat catalyst), all positions green. Defense/aerospace sector continues: RTX +21.75% cumulative (5% trail per +20% rule), LMT +5.78% cumulative (7% trail post-earnings), HWM +3.15% cumulative (10% trail, Q2 Aug 6 upcoming). Portfolio NEW HIGH at $112,704.35 (+12.70% phase). Cash $46,296 (41.1%) — below 75–85% deployment target; targeting 1–2 new positions next week post-FOMC (Jul 29 rate decision). All three GTC trailing stops confirmed active. RTX 5% stop $204.15 (3.99% buf — per strategy; +25% review trigger $218.31 at 2.62% away). Week 14 closes: 1/3 trades, 3/6 positions, 0 daytrade events.
+
+**Week 14 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Mon Jul 28:** Deploy $46k cash — GD + 1 Materials play (FOMC Jul 29 risk); RTX 5% stop $204.15 (3.99% buf), +25% trigger $218.31 (2.62% away); LMT +15% trigger $631.93 (8.81% away — already at 7% trail; +20% $659.40 → 5%); HWM -7% floor $259.46 (10.73% buf), Q2 Aug 6 earnings; pre-market 6 AM, market-open 8:30 AM ET.
