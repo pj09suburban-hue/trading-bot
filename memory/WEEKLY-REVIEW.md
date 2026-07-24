@@ -838,3 +838,66 @@ Template for each entry:
 *Week 13 — portfolio -1.71% vs S&P -0.51% (-1.20% underperformance). NOC pre-earnings exit at +2.31% was disciplined and correct. HWM entry added a non-rate-sensitive aerospace component name. But LHX is on the edge of a 2nd -7% stop-out in this phase, RTX stop has just 1.98% buffer entering Q2 earnings week, and deployment collapsed to 54.8% — 9th consecutive week below target. Phase alpha compressed to +3.87% vs benchmark. C- reflects correct execution decisions (NOC exit, HWM add) offset by a losing week, two positions near forced exits, and chronic underdeployment that continues to be the portfolio's defining structural drag.*
 
 ---
+
+## Week ending 2026-07-24
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $109,024.50 |
+| Ending portfolio | $112,872.95 |
+| Week return | +$3,848.45 (+3.53%) |
+| S&P 500 week | -0.40% (7,533.77 → 7,503.85) |
+| Bot vs S&P | +3.93% |
+| Trades | 2 (W:0 / L:1 / open:3) |
+| Win rate | 0% (0/1 closed this week); 27.3% all-time (3/11) |
+| Best trade | RTX +21.84% (open) |
+| Worst trade | LHX -9.99% (closed) |
+| Profit factor | 1.74 all-time ($15,290 winners / $8,795 losers) |
+| Phase return | +$12,872.95 (+12.87%) vs S&P +4.73%; bot +8.14% vs benchmark |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| LHX | $297.00 (Jul 6 market open) | $270.76 (Jul 21 trail stop) | -$2,102.57 (-9.99%) | Deutsche Bank PT cut $300→$285 triggered stop; -$3.25 slippage through trail; 2nd consecutive LHX failure this phase |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| HWM | $278.99 | $289.26 | +$667.55 (+3.68%) | $263.70 (10% trail, HWM $293.00) |
+| LMT | $549.50 | $582.60 | +$1,324.00 (+6.02%) | $547.22 (7% trail post-earnings, HWM $588.41) |
+| RTX | $174.65 | $212.79 | +$4,386.10 (+21.84%) | $204.15 (5% trail, HWM $214.89) |
+
+### What Worked
+- RTX Q2 beat (+13.9% EPS, +14% YoY revenue, $289B backlog, guidance raised) delivered expected earnings pop; trailing stop correctly tightened 7%→5% at +20% threshold on Jul 23; position now +21.84% and running
+- LMT post-earnings entry Jul 23 (Q2 beat: EPS $7.94 vs $7.19, record $230B backlog, FY26 guidance raised) already +6.02% in one day; 7% post-earnings stop correctly applied per Rule 12
+- Discipline on LHX stop: let the GTC order work mechanically; did not intervene or average down despite narrative temptation; clean exit preserved remaining capital
+- Friday patience: no new trades before FOMC week (Jul 29); preserved all 3 remaining weekly trade slots; GD + materials earmarked for post-FOMC deployment
+
+### What Didn't Work
+- LHX (2nd entry, 70 shares, -$2,102.57 / -9.99%): 2nd consecutive LHX failure in this phase; both entries showed the same pattern — early weakness on Deutsche Bank analyst action, stop-out below entry; this name specifically carries structural event risk the strategy cannot absorb
+- Stop slippage: LHX trail set at $274.01 but filled at $270.76 (-$3.25 / -1.2% gap); momentum-driven slippage on institutional PT cuts remains a cost to size around
+- Deployment: only 41.4% deployed entering the weekend ($46.3k idle cash); 3 positions vs target of 5–6; phase alpha is strong but cash drag leaves alpha on the table
+- Phase win rate flat at 27.3% (3/11 closed): all phase alpha concentrated in MRVL (+$9,484) and GE (+$5,333); 8 of 11 closed trades are losses; strategy succeeds via large winners absorbing many small losers, not batting average
+
+### Key Lessons
+- LHX is effectively blacklisted: 2 entries, 2 stop-outs, same pattern each time; avoid LHX re-entry for remainder of phase regardless of catalyst quality
+- RTX is the model trade: high-conviction entry, hold through sector noise, tighten mechanically at rule thresholds, let GTC do the work; replicate this discipline for LMT
+- Post-earnings entry rule (Rule 12) is earning its keep: LMT entered the day after Q2 beat with 7% initial stop → less whipsaw risk than day-of-earnings entry; 3-day window gives time to confirm no sell-the-news reversal
+- FOMC week (Jul 29) will drive rate-sensitive defense names; plan entries for Mon–Tue but only execute if macro read is neutral-to-positive post-announcement
+
+### Adjustments for Next Week
+- **Deployment:** Target adding 1–2 positions post-FOMC (Jul 29); GD is the primary defense add (not yet entered this phase, strong Q1 beat, $315B backlog); materials name (NUE/FCX recovery) or AI infrastructure (AMAT) as sector diversifier
+- **LMT:** 7% post-earnings trail at $547.22; tighten to 7% standard trail once 3-day post-earnings window closes (Jul 26); at +15% (~$632) tighten to 5%
+- **RTX:** 5% trail at $204.15 (HWM $214.89); watch for new HWM above $214.89 to reset stop higher; protect profits at +21.84%; no new adds
+- **HWM:** 10% trail at $263.70 (HWM $293.00); thesis intact; no action unless close below $263.70 or HWM breaks above $293 to shift stop
+- **LHX:** Do not re-enter. No exceptions.
+- **FOMC calendar:** Fed decision Jul 29; pre-position any new buys for Mon morning before announcement, or wait until Thu/Fri Jul 31/Aug 1 depending on rate guidance
+
+### Overall Grade: B
+*Week 14 — portfolio +3.53% vs S&P -0.40% (+3.93% outperformance). New phase high: $112,872.95 (+12.87% since Apr 24, +8.14% vs benchmark). RTX at +21.84% unrealized executing the high-conviction multi-week hold playbook. LMT post-earnings entry showing +6.02% in one day. Demerits: LHX second stop-out at -9.99% repeating the first LHX failure pattern (avoidable in hindsight), deployment stuck at 41.4% (9th+ consecutive week below 75–85% target), and all-time win rate still at 27.3% reflecting the strategy's dependence on large winners to offset small losers. B reflects strong outperformance and clean execution offset by the recurring LHX error and chronic underdeployment.*
+
+---
