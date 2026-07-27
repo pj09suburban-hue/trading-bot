@@ -4158,3 +4158,72 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 
 **Week 14 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch today:** RTX stop $200.39 (4.34% buf — auto-fires on -4.4%); RTX +25% trigger $218.31 (4.2% away — strategy review); LMT Wells Fargo $575 EW (monitor additional analyst moves); Flash PMI 9:45 AM + New Home Sales 10:00 AM; weekly review 4PM ET
+
+## 2026-07-27 — Pre-Market Research (Day 67, Monday — Week 15 Day 1)
+
+### Account Snapshot
+- **Equity:** $113,004.75 | **Cash:** $46,296.20 (41.0%) | **Long MV:** $66,708.55 (59.0% deployed — ⚠️ below 75–85% target)
+- **Day P&L:** +$131.80 (+0.12% vs last close $112,872.95) | **Phase P&L:** +$13,004.75 (+13.00%) — NEW HIGH
+- **Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+### Live Positions (pre-market)
+| Symbol | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $292.42 | +$872.95 (+4.81%) | $263.70 (10% trail, 96ab1030, HWM $293.00) | 9.82% stop / 9.46% to -7% floor $259.46 | **Q2 EARNINGS JUL 30 (Wed)** — corrected from Aug 6; commercial aero/gas turbine thesis intact; Q1 EPS $1.22 (+41.9% YoY beat); guided Q2 $1.22–1.24 |
+| LMT | 40 | $549.50 | $578.00 | +$1,140.00 (+5.19%) | $547.22 (7% trail, c8572779, HWM $588.41) | 5.32% stop / 9.91% to -7% floor $511.24 | Q2 beat confirmed; record $230B backlog; UBS PT cut $453 EW noted (single analyst); MarketBeat consensus $613.63; intraday -0.79% |
+| RTX | 115 | $174.65 | $213.75 | +$4,496.50 (+22.39%) | $204.145 (5% trail, 6490cd38, HWM $214.89) | 4.49% buf | 5% trail per +20% rule; Jefferies Buy $220 PT (avg $215.73); +25% trigger $218.31 (2.07% away); near Jefferies target |
+
+**GTC stops confirmed active:** HWM 96ab1030 ✓ | LMT c8572779 ✓ | RTX 6490cd38 ✓
+
+### Market Context
+- **WTI:** ~$72.27/bbl (↓ sharply from ~$79–80); **Brent:** ~$90.43/bbl — oil DROPPED on US-Iran pause in hostilities
+- **S&P 500 futures:** ~7,500 (+0.87% / +65pts at 4:25 AM ET) — strong pre-market rally; Iran relief + oil drop driving risk-on
+- **VIX:** ~19.3 — mildly elevated; market pricing event risk (FOMC + mega-cap earnings)
+- **Today's data:** Durable Goods Orders (8:30 AM ET); Leading Indicators (1:00 PM ET) — minor; no market-moving releases today
+- **Week of catalysts (MAJOR RISK):**
+  - Tue Jul 28: FOMC Day 1, Wholesale Inventories, Consumer Confidence
+  - **Wed Jul 29: GD Q2 BMO + FOMC rate decision (2 PM ET) + Q2 GDP + PCE — triple-risk day**
+  - Thu Jul 30: HWM Q2 BMO (**corrected — earnings in 3 days!**) + AAPL + AMZN AMC
+  - Thu/Fri: MSFT + META AMC
+- **Sector momentum YTD:** Industrials +17.6% (Leading); Materials +15.7–17.4% (Leading); Consumer Staples Leading; Energy BANNED; Tech -3.8% (Lagging); Financials lagging
+
+### Position Thesis Check
+- **HWM (+4.81%):** Q2 earnings Jul 30 (Wednesday!) — CORRECTED date (was tracking as Aug 6). Guided Q2 EPS $1.22–1.24; Q1 beat $1.22 vs $1.11 est (+9.91% surprise); commercial aero +20% YoY, defense aero +10%, gas turbine +39% in Q1. Zacks consensus up +10.6% over past 90 days. Strong beat thesis into earnings. Stop 9.82% buffer — comfortable. HOLD into earnings.
+- **LMT (+5.19%):** Q2 beat thesis confirmed (EPS $7.94 vs $7.19, rev $20.1B, record $230B backlog, FY26 guidance raised $29.95–30.65). UBS PT cut to $453 (EW, below current $578) — bearish single analyst, not thesis-break. MarketBeat consensus $613.63 (Hold). Post-earnings 7% trail active. Stop 5.32% buffer. HOLD.
+- **RTX (+22.39%):** Q2 beat (EPS $1.89 vs $1.66, rev $24.7B, backlog $289B, 2026 guidance $7.10–7.25/$95–96B). Jefferies Buy $220 PT reiterated (avg PT $215.73 from 15 analysts). At 5% trail per +20% rule. Stop $204.145 (4.49% buf). +25% trigger $218.31 (2.07% away — strategy review if hit). HOLD.
+
+### Trade Ideas
+1. **GD (General Dynamics) — CONDITIONAL ENTRY THU–FRI JUL 30–31, NOT TODAY:**
+   - **Catalyst:** Q2 earnings Jul 29 BMO (record backlog, Q1 beat $4.10 vs est, rev $13.5B +10.3% YoY); Marine Systems productivity improving; Gulfstream deliveries solid; defense sector momentum
+   - **WHY NOT TODAY:** Q2 earnings + FOMC both hit Wednesday — entering today means holding through double binary event. Post-FOMC + post-Q2 entry Thu/Fri is lower risk with same thesis intact
+   - **Condition for entry Thu Jul 30:** GD Q2 beat confirmed (expect EPS ~$3.54, rev ~$12.34B) + FOMC neutral/dovish + buy-side gate all green
+   - **Setup if trigger fires:** Entry Thu Jul 30 at open; ~55 shares @ ~$361+ (≤$19,900 ≤ 20% equity); post-earnings 7% initial stop rule applies; target 14%+ (2:1 R:R); would be 4/6 positions (OK), 1/3 trades Week 15 (OK); 4th defense position — monitor sector concentration
+   - **Risk:** If GD misses or FOMC hawkish → skip, no entry this week
+   - **Last close:** $361.71 bid (Jul 24)
+
+2. **FCX (Freeport-McMoRan) — SKIP:**
+   - Q2 beat ($0.74 EPS vs $0.62 est, rev $7.03B vs $6.47B est) but STOCK FELL post-print on lower Q3 copper sales outlook and Grasberg operational concerns
+   - Sell-the-news dynamic + production headwinds = no entry; look at NUE or MLM post-FOMC instead
+
+3. **Materials (NUE or MLM) — WATCHLIST WED–THU post-FOMC:**
+   - Materials +15.7–17.4% YTD (leading momentum); infrastructure demand from AI data centers + construction
+   - No earnings overhang immediately; research Wed/Thu after FOMC clarity; secondary entry candidate if GD trade absorbs Week 15 trade slot 1/3
+
+### Risk Factors
+1. **FOMC (Jul 28–29, decision Wed Jul 29 2 PM ET):** Rate hold expected but hawkish tone = equity selloff across the board; new entries this week carry this risk → wait for resolution
+2. **Mega-cap tech earnings (Wed-Thu):** MSFT, META, AAPL, AMZN; AI capex narrative can swing broad market ±3%; defense/aero partially insulated but not immune
+3. **RTX stop 4.49% buffer:** Could auto-fire on -4.5% pullback; would lock +14.5% gain. Correct per rule; no action. +25% trigger watch $218.31 (2.07% away)
+4. **LMT UBS PT $453 EW:** Well below current price — if additional banks cut to below-price targets, thesis weakens; monitor; stop $547.22 provides 5.32% buffer
+5. **HWM earnings Jul 30 (3 days):** Potential gap risk up or down; thesis supports beat; 10% stop has 9.82% buffer; post-earnings stop rule would auto-shift to 7% if we enter fresh (already in, so existing 10% trail continues)
+6. **Iran ceasefire fragility:** US-Iran pause is driving today's relief rally — if hostilities resume, oil spikes, risk-off = defense sector could ironically sell on flight-to-cash
+
+### Decision
+**TRADE-conditional — NO new entry today; conditional GD buy on Thu Jul 30 post-Q2 beat + FOMC clarity.**
+- All 3 positions healthy; no cuts, no stop tightening needed today
+- Today: monitor open for Iran rally continuation; no buy-side gate check needed (no entry today)
+- Wed Jul 29: Assess GD Q2 result + FOMC tone before Thu decision
+- Thu Jul 30: Execute GD if conditions met (Q2 beat + FOMC neutral/dovish + gate all-green)
+- 41% cash ($46,296) idle — acceptable short-term given risk density this week
+
+**Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch today:** RTX +25% trigger $218.31 (2.07% away — strategy review on hit); LMT stop 5.32% buffer (monitor UBS $453 PT for additional analyst cuts); HWM opens strong on relief rally (Q2 Jul 30 — 3 days); Durable Goods 8:30 AM ET
