@@ -3024,3 +3024,29 @@ No positions yet. Bot launches tomorrow.
 
 **Week 14 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Mon Jul 28:** Deploy $46k cash — GD + 1 Materials play (FOMC Jul 29 risk); RTX 5% stop $204.15 (3.99% buf), +25% trigger $218.31 (2.62% away); LMT +15% trigger $631.93 (8.81% away — already at 7% trail; +20% $659.40 → 5%); HWM -7% floor $259.46 (10.73% buf), Q2 Aug 6 earnings; pre-market 6 AM, market-open 8:30 AM ET.
+
+---
+
+## 2026-07-27 — Midday Scan (Day 67, Monday — Week 15 Day 1)
+
+**No action taken — all positions hold.**
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| HWM | $278.99 | $284.29 | +$344.50 | +1.90% | -1.72% | $265.752 (10% trail, 96ab1030, HWM $295.28) | 6.52% stop / 8.73% to -7% floor $259.46 | HOLD — pre-earnings pullback; Q2 Jul 30 BMO (3d); consensus EPS $1.24 (+36.3% YoY); thesis intact |
+| LMT | $549.50 | $582.07 | +$1,302.80 | +5.93% | -0.09% | $547.22 (7% trail, c8572779, HWM $588.41) | 5.99% stop / 12.17% to -7% floor $511.24 | HOLD — Q2 beat thesis confirmed; record $230B backlog; post-earnings trail active |
+| RTX | $174.65 | $218.00 | +$4,985.25 | +24.82% | +2.45% | $207.86 (5% trail, 6490cd38, HWM $218.80) | 4.65% buf | HOLD — **+25% review trigger EXCEEDED** (HWM $218.80 > $218.31); already on 5% trail (max per strategy); no further tightening rule defined; 5% trail protects min +$4,370 (+19.5% locked) if fired |
+
+**Cut losers (-7%):** None — HWM +1.90%, LMT +5.93%, RTX +24.82%. No cuts.
+**Stop tightening (+15%/+20%/+25%):** RTX HWM $218.80 exceeded +25% review trigger $218.31 during session — already at max 5% trail per +20% rule; no further tightening trigger in TRADING-STRATEGY.md (strategy specifies +15%→7%, +20%→5%; nothing defined beyond that). LMT +5.93% — +15% trigger $631.93 not reached (already at 7% trail per post-earnings rule). HWM +1.90% — neither +15% ($320.84) nor +20% ($334.79) reached. **No stop actions.**
+**Thesis check:**
+- HWM: +1.90% cumulative, -1.72% intraday (pulling back from $289.26 close). Pre-earnings drift normal ahead of Q2 Jul 30 BMO (3 days). Consensus EPS $1.24 (+36.3% YoY from $0.91); mgmt Q2 guidance $1.22–$1.24 EPS / $2.39B–$2.41B rev; Q1 beat $1.22 vs $1.11 est (+9.91%); 3 of last 4 quarters beat bottom line. Beat thesis intact. Stop $265.752 (10% trail, HWM $295.28, buf 6.52%); -7% floor $259.46 (buf 8.73%). HOLD into earnings.
+- LMT: +5.93% cumulative, -0.09% intraday. Essentially flat; Q2 beat thesis intact (EPS $7.94 vs $7.19, rev $20.1B, record $230B backlog, FY26 guidance raised $29.95–$30.65). Post-earnings 7% trail active. Stop $547.22 (buf 5.99%). UBS $453 EW PT noted — single analyst; no additional downgrades found. HOLD.
+- RTX: +24.82% cumulative, +2.45% intraday. HWM $218.80 exceeded +25% strategy review threshold $218.31. Q2 beat thesis very intact (EPS $1.89 vs $1.66, backlog $289B, 2026 guidance raised $7.10–7.25/$95–96B). 5% trail ($207.86, HWM $218.80, buf 4.65%) — correct per +20% rule; protects minimum +$4,370 (+19.5% locked gain) if fired. Jefferies Buy $220 PT (vs current $218.00 — within range). No adverse intraday news found. HOLD.
+**Research (Step 6):** Perplexity confirmed HWM Q2 Jul 30 BMO (consensus $1.24 EPS, +36.3% YoY; mgmt guided $1.22–$1.24/$2.39B–$2.41B; Q1 beat $0.11 or +9.91%; 3/4 quarters beat). RTX Perplexity data stale (internet trailing); Alpaca live quote $218.00 (+24.82%) is ground truth; no adverse news identified. All intraday moves consistent with pre-market context (Iran ceasefire rally fading slightly for HWM/LMT; RTX continuing post-earnings momentum).
+**Notification (Step 7):** No action taken → no Slack sent per strategy rule.
+
+**Portfolio (midday):** $113,167.96 | **Cash:** $46,296.20 (40.9%) | **Long MV:** $66,871.76 (59.1% deployed — ⚠️ below 75–85% target) | **Phase P&L:** +$13,167.96 (+13.17%)
+**Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch:** RTX +25% trigger exceeded (HWM $218.80); 5% stop $207.86 (buf 4.65% — correct per rule; protects +19.5% locked); HWM Q2 BMO **Jul 30 (3d)** — beat thesis intact, thesis: EPS $1.24 est; LMT +15% trigger $631.93 (8.55% away — tighten to 7%, already at 7%; +20% trigger $659.40 → tighten to 5%); conditional GD entry deferred to Thu Jul 31 post-Q2 (Jul 29 BMO) + FOMC (Jul 29 2PM ET) clarity; $46,296 cash (40.9%) — deploy after FOMC
+
