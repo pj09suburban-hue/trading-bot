@@ -3067,3 +3067,31 @@ No positions yet. Bot launches tomorrow.
 
 **Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Tue Jul 28:** FOMC eve positioning (decision Jul 29 2PM ET); GD Q2 Jul 29 BMO — assess conditional entry post-print; RTX 5% stop $209.361 (4.85% buf, HWM $220.38); HWM Q2 BMO **Jul 30** (consensus $1.24 EPS); LMT +15% trigger $631.93 (8.53% away); hold cash until FOMC clarity Jul 29.
+
+---
+
+## 2026-07-28 — Midday Scan (Day 68, Tuesday — Week 15 Day 2)
+
+**No action taken — all positions hold.**
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| HWM | $278.99 | $285.59 | +$428.68 | +2.36% | -0.82% | $265.752 (10% trail, 96ab1030, HWM $295.28) | 6.95% stop / 9.26% to -7% floor $259.46 | HOLD — **Q2 earnings confirmed Aug 6** (not Jul 29); no imminent binary risk; commercial aero thesis intact |
+| LMT | $549.50 | $580.82 | +$1,252.80 | +5.70% | +0.14% | $552.206 (7% trail, c8572779, **HWM auto-adv $593.77**) | 4.93% stop / 11.17% to -7% floor $511.24 | HOLD — Q2 beat thesis intact; stop auto-advanced from $547.22 to $552.206 |
+| RTX | $174.65 | $217.74 | +$4,955.35 | +24.67% | -0.31% | $210.214 (5% trail, 6490cd38, **HWM auto-adv $221.28**) | 3.46% buf | HOLD — already at 5% max trail per +20% rule; stop auto-advanced from $209.361 to $210.214 |
+
+**Cut losers (-7%):** None — all positions positive. HWM +2.36%, LMT +5.70%, RTX +24.67%.
+**Stop tightening:** No manual action required.
+- LMT: 7% trail auto-advanced (HWM $588.41→$593.77; stop $547.22→$552.206). No manual action — Alpaca GTC trailing stop working correctly. ✓
+- RTX: 5% trail auto-advanced (HWM $220.38→$221.28; stop $209.361→$210.214). No manual action — correctly at 5% max per +20% rule. ✓
+- HWM: 10% trail; stop $265.752 (HWM $295.28 unchanged from prior). ✓
+**Thesis check:**
+- HWM: +2.36% cumulative, -0.82% intraday. **CRITICAL CORRECTION:** HWM Q2 earnings confirmed **August 6, 2026** per official company press release (July 9, 2026). Pre-market research erroneously flagged Jul 29 based on MarketScreener projected estimate. No imminent earnings binary event. Normal pre-FOMC positioning (-0.82%) with no adverse news. Commercial aero/gas turbine thesis intact. Stop $265.752 (6.95% buffer). HOLD.
+- LMT: +5.70% cumulative, +0.14% intraday. Q2 beat thesis intact (EPS $7.94 vs $7.19, rev $20.1B, record $230B backlog, FY26 guidance raised). No new adverse news beyond prior analyst PT cuts (WF $575, Bernstein $467, RBC $440 — all below current $580.82 but no new downgrades). Stop $552.206 (4.93% buffer). HOLD.
+- RTX: +24.67% cumulative, -0.31% intraday. Minor FOMC-eve pullback; thesis intact (Q2 EPS $1.89 vs $1.66, backlog $289B, 2026 guidance $7.10–7.25/$95–96B). Jefferies Buy PT $220 essentially met ($217.74 current). 5% trail auto-advancing correctly. Stop $210.214 (HWM $221.28, 3.46% buffer — correct per 5% rule). HOLD.
+**Research (Step 6):** Perplexity confirmed HWM Q2 earnings **August 6, 2026** per official company press release (removes overnight binary risk that pre-market research flagged as Jul 29). No adverse news on any position. FOMC Day 1 in progress — positioning drift across all three positions minor and expected. All intraday moves consistent with FOMC-eve risk-off lite.
+**Notification (Step 7):** No action taken → no Slack sent per strategy rule.
+
+**Portfolio (midday):** $113,069.59 | **Cash:** $46,296.20 (41.0%) | **Long MV:** $66,773.39 (59.0% deployed — ⚠️ below 75–85% target) | **Day P&L:** -$261.01 (-0.23%) | **Phase P&L:** +$13,069.59 (+13.07%)
+**Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch (afternoon / tomorrow):** FOMC decision tomorrow Jul 29 2PM ET (hold expected; hawkish tone = risk); GD Q2 BMO tomorrow — assess conditional entry Thu/Fri if GD beats + FOMC neutral; HWM **Q2 Aug 6** (corrected — 9 days away; no binary risk this week); RTX 5% stop $210.214 (HWM $221.28, 3.46% buf); LMT +15% trigger $631.93 (8.78% away); deploy $46,296 cash post-FOMC clarity Thu Jul 31

@@ -4296,3 +4296,6 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 
 **Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch today:** HWM — earnings tomorrow BMO (date now Jul 29 per latest research; confirm pre-open); RTX 5% stop auto-advancing (HWM now $220.73, stop ~$209.69); LMT PT cut watch; Consumer Confidence 10AM ET; chip sector for spillover to broader market
+
+### Afternoon Addendum — 2026-07-28 Midday
+**HWM EARNINGS DATE CORRECTION:** Official company press release (Howmet Aerospace, July 9, 2026) confirms Q2 2026 results on **August 6, 2026** (7:00 AM ET, call 10:00 AM ET). Pre-market research cited MarketScreener estimated date of Jul 29 and Barchart estimate of Jul 30 — both are third-party projections, not company-confirmed. Actual date is Aug 6. No imminent binary event this week. HWM thesis intact and stop (10% trail $265.752) provides adequate protection at 6.95% buffer. No adverse intraday news on HWM, LMT, or RTX. All positions holding normally with minor FOMC-eve drift.
