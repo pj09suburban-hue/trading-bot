@@ -4227,3 +4227,72 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 
 **Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch today:** RTX +25% trigger $218.31 (2.07% away — strategy review on hit); LMT stop 5.32% buffer (monitor UBS $453 PT for additional analyst cuts); HWM opens strong on relief rally (Q2 Jul 30 — 3 days); Durable Goods 8:30 AM ET
+
+---
+
+## 2026-07-28 — Pre-Market Research (Day 68, Tuesday — Week 15 Day 2)
+
+### Account Snapshot
+- **Equity:** $113,755.05 | **Cash:** $46,296.20 (40.8% — ⚠️ below 75–85% deployment target)
+- **Long MV:** $67,458.85 (59.2% deployed) | **Phase P&L:** +$13,755.05 (+13.76%)
+- **Open positions:** 3/6 | **Week 15 trades:** 0/3 | **Daytrade count:** 0
+
+| Symbol | Shares | Entry | Premarket | Unrealized P&L | Stop | Buffer |
+|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $287.94 | +$581.75 (+3.21%) | $265.752 (10% trail, HWM $295.28) | 7.37% / 9.02% to -7% floor $259.46 |
+| LMT | 40 | $549.50 | $583.97 | +$1,378.80 (+6.27%) | $547.2213 (7% trail, HWM $588.41) | 6.30% / 11.71% to -7% floor $511.24 |
+| RTX | 115 | $174.65 | $220.73 | +$5,299.20 (+26.38%) | $209.361 (5% trail, auto-adv; HWM now $220.73) | 5.16% → new stop ~$209.69 |
+
+**GTC stops confirmed active:** HWM 96ab1030 ✓ | LMT c8572779 ✓ | RTX 6490cd38 ✓
+**RTX note:** Current price $220.73 > prior HWM $220.38 → 5% trail auto-advancing; stop updates to ~$209.69 (Alpaca lags intraday; confirmed at next tick).
+
+### Market Context
+- **WTI:** ~$70.42–$71.10/bbl (↓ continuing, Brent ~$74.12–$74.76) — oil soft on Iran ceasefire; not a threat to defense thesis
+- **S&P 500 futures:** ~7,580 (−0.09% to −0.15%); Dow +0.19%; **Nasdaq −0.69%** (chip sell-off, AI financing fears + China competition — worst chip rout in years per some sources)
+- **VIX:** ~16.15 (down from 16.59 prior — calming; not panic mode)
+- **Today (Jul 28 — FOMC Day 1):**
+  - 8:30 AM ET: Wholesale Inventories Jun P, Retail Inventories (minor)
+  - 10:00 AM ET: Consumer Confidence July (minor)
+  - BMO earnings: PYPL ($1.28 est), BA (−$0.24 est), UPS ($1.65), KO, NXP, Danaher, Visa, Ford, Centene, S&P Global
+  - FOMC meeting Day 1 (rate decision **tomorrow Jul 29 2 PM ET** — hold expected; 1-in-3 hike priced by some)
+- **This week risk stack:** GD Q2 BMO tomorrow + FOMC decision (Jul 29 2PM) + Q2 GDP + PCE + MSFT/META/AAPL/AMZN earnings Wed–Thu
+- **Sector momentum:** Industrials +12–14% YTD (Leading) | Materials +11–17% YTD (Leading) | Tech lagging; chip sell-off ongoing
+
+### Position Thesis Check
+- **HWM (+3.21%):** **⚠️ EARNINGS DATE CONFLICT — research now indicates Q2 BMO Jul 29 (TOMORROW), not Jul 30.** Source: Perplexity Jul 29 cite (Yahoo Finance) + Jul 27 dividend declaration ($0.14/share payable Aug 25) consistent with pre-earnings board activity. Prior research (midday Jul 27) tracked Jul 30. Treating as **TOMORROW BMO Jul 29** until confirmed otherwise. Fundamental thesis intact: Q1 beat $1.22 vs $1.11 est (+9.91%); commercial aero +20%, gas turbine +39%; raised FY26 guidance to ~$9.575–9.725B revenue; analyst consensus improving. 10% trailing stop at $265.752 (7.37% buf below current $287.94) provides reasonable gap protection. HOLD into earnings.
+- **LMT (+6.27%):** Q2 beat thesis confirmed (EPS $7.94 vs $7.19, rev $20.1B, record $230.4B backlog, raised FY26 guidance to $79.75B–$81.75B). Analyst PT cuts noted: Wells Fargo $575, Bernstein $467, RBC $440 — all below current price $583.97; bearish vs current but no new adverse catalysts. LMT formed JV with Rheinmetall (European missile distribution) + $8.4B F-35 missile contract. 7% trail active; stop $547.22 (6.30% buf). HOLD.
+- **RTX (+26.38%):** Q2 beat (EPS $1.89 vs $1.66 est, rev $24.71B +14.5% YoY, backlog $289B, raised FY26 guidance to $7.18 EPS midpoint / $95.5B rev midpoint). Jefferies Buy $220 PT (stock now $220.73 — essentially at target, avg analyst $215.73). 5% trail auto-advancing with new HWM $220.73; stop ~$209.69 (5.16% buf — correct per +20% rule). HOLD.
+
+### Trade Ideas
+1. **GD (General Dynamics) — CONDITIONAL ENTRY THU–FRI JUL 30–31:**
+   - **Catalyst:** Q2 earnings tomorrow (Jul 29 BMO); Q1 beat $4.10 EPS vs est; Marine Systems improving; Gulfstream deliveries solid; defense sector tailwind
+   - **Condition for entry Thu Jul 31:** GD Q2 beat confirmed + FOMC neutral/dovish (decision tomorrow 2PM ET)
+   - **Setup:** ~55 shares @ ~$361+ (≤$19,900, ≤20% equity); post-earnings 7% initial stop; target +14%+ (2:1 R:R min); 4/6 positions (OK), 1/3 Week 15 trades (OK)
+   - **Buy-side gate at entry time:** verify live quote × shares ≤ 20% equity
+   - **Risk:** GD miss or hawkish FOMC → skip, no trade this week on that slot
+   - **Last close:** ~$361.71 (Jul 24); not pulling live quote today (no entry today)
+
+2. **NUE or MLM (Materials) — WATCHLIST THU–FRI:**
+   - Materials sector +11–17% YTD (Leading); infrastructure/AI data center construction demand
+   - Secondary slot after GD; research Thu/Fri post-FOMC clarity
+   - No near-term earnings overhang for either name
+
+3. **All chip/tech names — SKIP:** Global chip stocks in worst rout in years; Nasdaq −0.69% premarket; AI financing fears + China competition; not our sector
+
+### Risk Factors
+1. **FOMC (Jul 29 2PM ET — TOMORROW):** Rate hold expected but hawkish tone or dot-plot shift = equity selloff; 1-in-3 hike priced; biggest single risk this week → no new entries today
+2. **HWM earnings timing conflict:** If earnings are tomorrow (Jul 29 BMO) not Jul 30, holding through overnight binary event; 10% stop $265.752 (7.37% buf) provides protection; thesis supports beat but gap risk exists in either direction
+3. **Chip sell-off + Nasdaq −0.69%:** AI-financing fears and China competition driving worst chip rout in years; defense/industrials insulated but broad market stress can spill over
+4. **Mega-cap tech earnings Wed–Thu:** MSFT + META (Wed AMC) + AAPL + AMZN (Thu AMC); AI capex narrative can swing market ±3%; could dent broad sentiment
+5. **LMT analyst PT cuts (WF $575, Bernstein $467, RBC $440):** Multiple PTs below current $583.97; if more banks follow, thesis weakens; 7% stop $547.22 (6.30% buf) is protection floor
+6. **RTX stop buffer 5.16%:** Auto-advancing 5% trail; any −5.2% pullback fires stop locking +18.3% gain minimum; correct per +20% rule; next watch: Jefferies Buy PT essentially met at $220
+
+### Decision
+**HOLD — No new entry today.**
+- FOMC Eve + HWM earnings uncertainty + chip-driven risk-off = wrong environment for new positions
+- All 3 positions healthy; no cuts, no stop tightening triggered
+- **Tomorrow (Jul 29):** Watch HWM Q2 BMO (pre-open) + GD Q2 BMO + FOMC 2PM ET; reassess GD entry for Thu if conditions met
+- Cash $46,296 (40.8%) stays idle today — acceptable given risk density
+
+**Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch today:** HWM — earnings tomorrow BMO (date now Jul 29 per latest research; confirm pre-open); RTX 5% stop auto-advancing (HWM now $220.73, stop ~$209.69); LMT PT cut watch; Consumer Confidence 10AM ET; chip sector for spillover to broader market
