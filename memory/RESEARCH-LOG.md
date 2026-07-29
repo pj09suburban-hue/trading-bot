@@ -4299,3 +4299,72 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 
 ### Afternoon Addendum — 2026-07-28 Midday
 **HWM EARNINGS DATE CORRECTION:** Official company press release (Howmet Aerospace, July 9, 2026) confirms Q2 2026 results on **August 6, 2026** (7:00 AM ET, call 10:00 AM ET). Pre-market research cited MarketScreener estimated date of Jul 29 and Barchart estimate of Jul 30 — both are third-party projections, not company-confirmed. Actual date is Aug 6. No imminent binary event this week. HWM thesis intact and stop (10% trail $265.752) provides adequate protection at 6.95% buffer. No adverse intraday news on HWM, LMT, or RTX. All positions holding normally with minor FOMC-eve drift.
+
+---
+
+## 2026-07-29 — Pre-Market Research (Day 69, Wednesday — Week 15 Day 3)
+
+### Account Snapshot
+- **Equity:** $113,560.80 | **Cash:** $46,296.20 (40.8%) | **Long MV:** $67,264.60 (59.2% deployed — ⚠️ below 75–85%)
+- **Phase P&L:** +$13,560.80 (+13.56%) — off Monday NEW HIGH $113,522.83
+- **Open positions:** 3/6 | **Week 15 trades:** 0/3 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Open | Unrealized P&L | Stop | Buffer |
+|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $287.00 | +$520.65 (+2.87%) | $265.752 (10% trail, HWM $295.28) | 7.35% stop / 9.26% to -7% floor $259.46 |
+| LMT | 40 | $549.50 | $582.74 | +$1,329.60 (+6.05%) | $552.206 (7% trail, HWM $593.77) | 5.23% stop / 11.98% to -7% floor $511.24 |
+| RTX | 115 | $174.65 | $220.00 | +$5,215.25 (+25.97%) | $210.214 (5% trail, HWM $221.28) | 4.45% buf — ⚠️ close watch |
+
+**GTC stops confirmed:** HWM 96ab1030 ✓ | LMT c8572779 ✓ | RTX 6490cd38 ✓
+
+### Market Context
+- **WTI:** ~$79–83/bbl (↑ sharply; Iran fired ballistic missiles at US troops overnight — intercepted per CENTCOM; geopolitical premium back; Brent ~$83–84)
+- **S&P 500 Futures:** +0.2–0.4% premarket (E-minis +17.5pts at 5:42AM ET, ~7,570–7,580); rebound after tech sell-off
+- **VIX:** ~19–20 (elevated vs prior 16.15; FOMC-day uncertainty premium)
+- **FOMC (today 2PM ET):** Hold at 3.50–3.75% widely expected; "uncertainty creeps in" per Reuters (Warsh hawkish patience signal); ~26% hike probability priced per Polymarket. This is the single biggest risk of the day.
+- **Earnings today:** GD Q2 BMO (**BEAT** — see below); MSFT + META AMC (AI spending scrutiny, massive risk-on/risk-off post-4PM)
+- **Iran:** Ballistic missiles launched at US troops, intercepted by CENTCOM → oil spiking, defense sector tailwind confirmed (RTX/LMT/HWM beneficiaries)
+- **Sector momentum:** Industrials +12–18% YTD (Leading) | Materials +11–17% YTD (Leading) | Tech lagging; chip sell-off ongoing
+
+### GD Q2 Earnings — Conditional Entry Update
+- **Result:** BEAT — AP snapshot: EPS $4.24 vs ~$3.94 est (+7.6%); revenue $14.09B vs ~$13.48B est. BEAT on both lines.
+- **Premarket price:** $397.21 (+8.07% vs prior close $374.24 per Benzinga 5:58AM ET)
+- **Entry condition CHECK:**
+  - ✅ GD Q2 beat confirmed
+  - ⚠️ FOMC 2PM ET unknown — condition requires neutral/dovish; entering pre-FOMC locks in gap-up price without knowing tone
+  - ⚠️ Gap-up entry $397 vs prior close $374 — $23/share higher than prior plan basis
+  - Entry at $397: 50 shares = $19,850 (≤20% equity $22,712 ✓); 7% post-earnings stop ~$369 ($28 risk/share); target ~$454 (+14.2%, 2:1 R:R ✓)
+  - **Decision: DEFER to tomorrow Thu Jul 30 pre-market open.** Rationale: FOMC 2PM ET today; if FOMC neutral → enter GD at market open Thu Jul 30 on confirmed catalyst + settled price. No point chasing gap-up 2h before FOMC binary.
+
+### Position Thesis Check
+- **HWM (+2.87%):** Iran conflict = commercial aero + gas turbine demand thesis intact (engine demand, defense MRO). Q2 Aug 6 BMO (8 days). 10% trail intact. HOLD.
+- **LMT (+6.05%):** Iran ballistic missile launch directly validates Raytheon/LMT missile demand thesis. Record $230B backlog. 7% post-earnings trail intact (HWM $593.77, buf 5.23%). HOLD.
+- **RTX (+25.97%):** Iran intercepted by CENTCOM = Patriot/air-defense demand confirmation. 5% trail (HWM $221.28, buf 4.45% — tight, correct per rule). +26% phase gain protected. HOLD.
+- **No adverse news on any position today.** Defense sector = primary beneficiary of Iran resumed conflict.
+
+### Trade Ideas
+1. **GD — CONDITIONAL ENTRY THU JUL 30 (tomorrow):**
+   - Catalyst: Q2 beat (EPS $4.24 vs $3.94 est; rev $14.09B vs $13.48B est); defense sector tailwind; Iran conflict demand
+   - Condition for entry: FOMC today holds neutral → GD enter Thu Jul 30 at market open; verify live quote × shares ≤ 20% equity at fill (gap-up protection)
+   - Setup: ~50 shares @ live open quote ~$395–405 (~$19,750–20,250); 7% post-earnings initial stop; target +14%+ (2:1 R:R ✓); positions 4/6 (✓); Week 15 trades 1/3 (✓)
+   - Risk: GD faded by Thu if FOMC hawkish + broad selloff; MSFT/META AMC tonight could reset sentiment; do NOT enter if FOMC hawkish
+   - Sector: Industrials/Defense — 0 failed trades in sector (0 consecutive fails → no sector exit rule)
+2. **NUE or MLM (Materials) — WATCHLIST:**
+   - Materials +11–17% YTD (Leading); infrastructure/AI data center construction demand; no near-term earnings overhang
+   - Second deployment slot after GD; research next week if cash remains
+
+### Risk Factors
+1. **FOMC (today 2PM ET — hawkish Warsh):** Hold expected but "hawkish patience" tone likely; if dot-plot shifts or hike language introduced → equity selloff, GD conditional entry voided for today, reassess Thu
+2. **RTX stop buffer 4.45%:** 5% trail HWM $221.28; any −4.5% pullback fires stop; correct per rule; locked gain ~+19.5% if stopped
+3. **MSFT + META AMC today:** AI capex narrative ($145B+ scrutiny) can swing market ±3%; impacts tomorrow's open and GD entry environment
+4. **GD gap-up entry risk:** +8% premarket from $374→$397; entering on gap-up with FOMC same day doubles the binary risk; waiting for Thu is the disciplined call
+5. **VIX elevated ~19–20:** Higher uncertainty than prior sessions; FOMC premium embedded; will compress post-decision regardless of outcome
+
+### Decision
+**HOLD — No new entry today. GD entry deferred to tomorrow Thu Jul 30 (conditional on FOMC neutral).**
+- All 3 positions healthy with strong defense tailwind (Iran conflict confirmed, oil spiking)
+- GD beat is catalytic — condition shifts from "assess" to "highly likely Thu entry" if FOMC holds
+- Cash $46,296 (40.8%) held today — FOMC day gap-up entry is undisciplined
+- Watch: FOMC 2PM ET, MSFT/META AMC earnings, RTX 5% stop buffer
+
+**Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
