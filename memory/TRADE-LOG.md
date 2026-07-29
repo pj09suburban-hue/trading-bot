@@ -3141,3 +3141,20 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $111,973.30 | **Cash:** $46,296.20 (41.4%) | **Long MV:** $65,677.10 (58.6% deployed — ⚠️ below 75–85% target) | **Day P&L:** -$1,304.60 (-1.15%) | **Phase P&L:** +$11,973.30 (+11.97%)
 **Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch (afternoon / Thu Jul 30):** FOMC hold confirmed (mildly positive) → GD BUY Thu Jul 30 at open (~50sh, 7% post-earnings trail, 1/3 trades used); RTX 5% stop $210.214 (2.51% buf — watch post-FOMC recovery); LMT +15% trigger $631.93 (9.91% away); HWM Q2 Aug 6 BMO (confirmed, 8d); MSFT+META AMC tonight — monitor for overnight sentiment shift that could affect tomorrow's open; $46,296 cash remains for GD + 1 additional position
+
+---
+
+## 2026-07-29 — EOD Snapshot (Day 69, Wednesday — Week 15 Day 3)
+
+**Portfolio:** $112,772.18 | **Cash:** $46,296.20 (41.1%) | **Day P&L:** -$505.72 (-0.45%) | **Phase P&L:** +$12,772.18 (+12.77%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $281.39 | -1.63% | +$155.68 (+0.86%) | $265.752 (10% trail, 96ab1030, HWM $295.28) — 5.56% buf / 8.04% to -7% floor $259.46 |
+| LMT | 40 | $549.50 | $574.99 | -1.09% | +$1,019.60 (+4.64%) | $552.206 (7% trail, c8572779, HWM $593.77) — 3.96% buf / 10.38% to -7% floor $511.24 |
+| RTX | 115 | $174.65 | $218.89 | +0.14% | +$5,087.60 (+25.33%) | $210.214 (5% trail, 6490cd38, HWM $221.278) — 3.96% buf |
+
+**Notes:** Day 69, Week 15 Day 3. FOMC held at 3.50%–3.75% (5th consecutive hold; Warsh press conference 2:30PM ET). Pre-FOMC weakness during morning session gave way to post-FOMC relief — RTX the only green (+0.14%), HWM and LMT both slightly negative on the day. No trades; cash $46,296 (41.1%, below 75–85% target) held pending post-FOMC clarity. RTX +25.33% cumulative, 5% trail locked at $210.214 (HWM $221.278, 3.96% buf — correctly at max per +20% rule; locks in ~+$4,199 / +20.9% if fired). LMT +4.64% cumulative, 7% post-earnings trail intact (stop $552.206, 3.96% buf, HWM $593.77). HWM +0.86% cumulative, 10% trail at $265.752 (5.56% buf, HWM $295.28 unchanged); Q2 Aug 6 BMO (confirmed, 8d) — no binary risk this week. All three GTC stops confirmed active and correct. **GD BUY plan for Thu Jul 30 at market open** (~50 shares, ~$395–405, 7% post-earnings trail, position 4/6, trade 1/3 this week) contingent on no adverse overnight developments.
+
+**Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Thu Jul 30:** GD BUY at open (~50sh, 7% trail, verify no adverse overnight first); RTX 5% stop $210.214 (HWM $221.278, 3.96% buf — close watch post-FOMC recovery); LMT +15% trigger $631.93 (9.56% away); HWM Q2 Aug 6 BMO (8d, confirmed); FOMC hold = mild tail; $46,296 cash — GD ~$20k + 1 additional setup TBD in pre-market
