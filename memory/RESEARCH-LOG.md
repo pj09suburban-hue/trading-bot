@@ -4368,3 +4368,11 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 - Watch: FOMC 2PM ET, MSFT/META AMC earnings, RTX 5% stop buffer
 
 **Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+### Afternoon Addendum — 2026-07-29 Midday Scan
+- **FOMC CONFIRMED HOLD:** 3.50%–3.75% (5th consecutive hold; Warsh presser 2:30PM ET) — neutral to mildly positive. GD entry condition MET for Thu Jul 30.
+- **HWM Q2 earnings:** August 6 BMO (re-confirmed via Perplexity cross-check against official July 9 press release). MarketBeat/Market Chameleon July 30 dates are estimates. No binary event this week.
+- **HWM intraday -2.95%:** No company catalyst. Profit-taking + FOMC day de-risking per Quiver Quant. Thesis intact.
+- **All three positions HOLD:** HWM -0.50%, LMT +4.49%, RTX +23.46%. No -7% cuts; no stop tightening needed.
+- **GD BUY plan Thu Jul 30:** ~50 shares at market open; 7% post-earnings initial trail; ~$19,750–$20,250 (≤20% equity ✓); verify live quote at fill; target +14% (2:1 R:R ✓); week 1/3 trades; positions 4/6. Condition: confirm MSFT/META AMC not disastrous overnight; run pre-market verification.
+- **MSFT + META AMC tonight:** Monitor overnight — AI capex narrative; could shift tomorrow open environment. If either badly misses, reassess GD entry at pre-market.

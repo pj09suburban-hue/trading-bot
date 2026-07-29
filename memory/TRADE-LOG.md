@@ -3113,3 +3113,31 @@ No positions yet. Bot launches tomorrow.
 **Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Wed Jul 29:** FOMC decision 2PM ET (hold expected; hawkish tone = risk-off); GD Q2 BMO (conditional entry if beat + FOMC neutral → execute Thu Jul 31); HWM Q2 Aug 6 BMO (9d); RTX 5% stop $210.214 (HWM $221.28, 3.36% buf — close watch); LMT +15% trigger $631.93 (8.79% away — already at 7% trail); $46,296 cash to deploy post-FOMC
 
+
+---
+
+## 2026-07-29 — Midday Scan (Day 69, Wednesday — Week 15 Day 3)
+
+**No action taken — all positions hold.**
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| HWM | $278.99 | $277.60 | -$90.35 | -0.50% | -2.95% | $265.752 (10% trail, 96ab1030, HWM $295.28) | 4.27% stop / 6.30% to floor $259.46 | HOLD — FOMC day positioning; HWM Q2 confirmed Aug 6 BMO (8d); commercial aero/gas turbine thesis intact; no adverse news |
+| LMT | $549.50 | $574.15 | +$986.00 | +4.49% | -1.23% | $552.206 (7% trail, c8572779, HWM $593.77) | 3.82% stop / 10.50% to floor $511.24 | HOLD — FOMC day noise; Q2 beat thesis intact; post-earnings 7% trail |
+| RTX | $174.65 | $215.63 | +$4,712.70 | +23.46% | -1.35% | $210.214 (5% trail, 6490cd38, HWM $221.28) | 2.51% buf ⚠️ | HOLD — already at 5% max trail per +20% rule; FOMC hold = mildly positive; 2.51% buffer correct per 5% rule |
+
+**Cut losers (-7%):** None — HWM -0.50% (above -7% floor $259.46), LMT +4.49%, RTX +23.46%. No cuts.
+**Stop tightening:** No action.
+- RTX: 5% trail, already at max per +20% rule. HWM $221.28 unchanged (current $215.63 below HWM — stop fixed at $210.214). No manual action. ✓
+- LMT: +4.49% cumulative — +15% trigger $631.93 not reached (already at 7% trail per post-earnings rule). ✓
+- HWM: -0.50% cumulative — neither +15% ($320.84) nor +20% ($334.79) reached. ✓
+**Thesis check:**
+- HWM: -0.50% cumulative, -2.95% intraday. Perplexity: no company-specific catalyst — drop is profit-taking / FOMC day de-risking + broader market weakness. **HWM Q2 earnings CONFIRMED Aug 6 BMO** (company press release July 9, 2026; Perplexity cross-confirmed — July 30 dates on MarketBeat/Market Chameleon are estimates). No imminent earnings binary. Commercial aero/gas turbine + defense (Iran) thesis intact. Stop $265.752 (10% trail, HWM $295.28, 4.27% buf). HOLD.
+- LMT: +4.49% cumulative, -1.23% intraday. FOMC day positioning; Q2 beat thesis intact (EPS $7.94 vs $7.19, rev $20.1B, record $230B backlog). No new adverse news. Stop $552.206 (7% trail, HWM $593.77, 3.82% buf). HOLD.
+- RTX: +23.46% cumulative, -1.35% intraday. FOMC day drift; thesis intact (EPS $1.89 vs $1.66, backlog $289B, 2026 guidance $7.10–7.25). Already at 5% max trailing stop per +20% rule. Stop $210.214 (HWM $221.28, 2.51% buf — correct per rule; protects +$4,198 / +20.9% if fired). FOMC hold = mild tailwind post-2PM. HOLD.
+**Research (Step 6):** Perplexity confirmed FOMC held at 3.50%–3.75% (5th consecutive hold; decision 2PM ET, Warsh press conference 2:30PM ET). HWM drop = FOMC positioning + profit-taking, no company news. HWM Q2 Aug 6 re-confirmed. **GD entry condition MET:** FOMC neutral → plan confirmed for GD BUY Thu Jul 30 at market open (50 shares ~$395–$405, 7% post-earnings trail, positions 4/6, week trades 1/3).
+**Notification (Step 7):** No action taken → no Slack sent per strategy rule.
+
+**Portfolio (midday):** $111,973.30 | **Cash:** $46,296.20 (41.4%) | **Long MV:** $65,677.10 (58.6% deployed — ⚠️ below 75–85% target) | **Day P&L:** -$1,304.60 (-1.15%) | **Phase P&L:** +$11,973.30 (+11.97%)
+**Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch (afternoon / Thu Jul 30):** FOMC hold confirmed (mildly positive) → GD BUY Thu Jul 30 at open (~50sh, 7% post-earnings trail, 1/3 trades used); RTX 5% stop $210.214 (2.51% buf — watch post-FOMC recovery); LMT +15% trigger $631.93 (9.91% away); HWM Q2 Aug 6 BMO (confirmed, 8d); MSFT+META AMC tonight — monitor for overnight sentiment shift that could affect tomorrow's open; $46,296 cash remains for GD + 1 additional position
