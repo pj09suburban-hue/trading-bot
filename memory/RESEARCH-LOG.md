@@ -4462,3 +4462,10 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 - Watch: RTX stop buffer 2.23% (no action); 8:30 AM data; GD fill price vs 20% gate
 
 **Week 15 trades:** 0→1/3 (pending GD fill) | **Open positions:** 3→4/6 (pending GD fill) | **Daytrade count:** 0
+
+### Afternoon Addendum — 2026-07-30 Midday Scan
+- **RTX trailing stop fired 10:35 AM ET** at $210.20 (−4.0% intraday from $218.89 prior close); realized +$4,088.25 (+20.36%); 94-day hold. Stop functioned correctly per +20%/5%-trail rule. No thesis break — normal stop execution.
+- **Remaining positions:** GD -0.04% (day 1, thesis intact); HWM -1.21% cumul, +1.03% intraday post-Q2 earnings (modest positive; thesis intact); LMT +1.90% cumul, -1.63% intraday (stop buffer 1.38% — thin; cannot tighten per 3% rule; let trail do its job).
+- **Deployment gap:** RTX stop + cash position = $51,541 cash (46.5%). Need new 4th-position setup. Best candidates: NUE or MLM (Materials +13.7% YTD) or another high-conviction defense/industrials/materials name post-AAPL+AMZN AMC tonight. Research for Friday pre-market.
+- **AAPL+AMZN AMC tonight:** Critical sentiment read. AAPL EPS est $1.89, rev $108.86B; AMZN EPS est $1.82, rev $196.10B. Either miss = broad risk-off tomorrow morning → hold on new entry until reaction settles.
+- **HWM Q2 earnings:** Stock +1.03% post-print. Q2 consensus $1.24 EPS ($0.91 prior year, +36% YoY). Modest positive reaction (not a Q1-style +12% surge). 10% trailing stop at $265.752 (3.59% buf) intact.

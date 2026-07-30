@@ -3185,3 +3185,44 @@ No positions yet. Bot launches tomorrow.
 
 **Week 15 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch (Thu Jul 30 intraday):** GD 7% trail stop $349.51 (HWM $375.82, 6.7% buf); RTX 5% stop $210.214 (HWM $221.28, close watch); LMT +15% trigger $631.93; HWM Q2 Aug 6 BMO (7d); AAPL+AMZN AMC tonight — risk-on/risk-off post-close catalyst
+
+---
+
+## 2026-07-30 — Midday Scan (Day 70, Thursday — Week 15 Day 4)
+
+**RTX trailing stop fired — closed position.**
+
+### RTX Exit (trailing stop, auto-executed 10:35 AM ET)
+
+| Date | Ticker | Side | Shares | Exit Price | Realized P&L | % | Hold Period | Note |
+|---|---|---|---|---|---|---|---|---|
+| 2026-07-30 | RTX | SELL | 115 | $210.20 | +$4,088.25 | +20.36% | 94 days (entry 2026-04-27) | 5% trailing stop auto-fired; HWM $221.28 → stop $210.214; position dropped through stop level intraday |
+
+- **Entry:** $174.65 × 115 = $20,084.75 | **Exit:** $210.20 × 115 = $24,173.00
+- **Stop order:** 6490cd38 — filled at $210.20 at 14:35 UTC (10:35 AM ET)
+- **Stop rule applied correctly:** 5% trail triggered per +20% rule (tightened from 10% → 5% when position hit +20%); stop auto-advanced to $210.214 (HWM $221.28, 3.46% buf as of yesterday's check)
+- **Thesis:** Not broken. Normal trailing stop exit per strategy mechanics. Q2 beat thesis played out in full (+20.36%).
+
+### Remaining Positions — Midday Snapshot
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|
+| GD | $378.5682 | $378.42 | -$7.41 | -0.04% | -0.67% | $352.0701 (7% trail, 3c260832, HWM $378.57) | 6.96% stop / 8.19% to -7% floor $351.47 | HOLD — day 1; GD Q2 beat thesis intact; defense sector leading; 7% trail per post-earnings rule |
+| HWM | $278.99 | $275.605 | -$220.03 | -1.21% | +1.03% | $265.752 (10% trail, 96ab1030, HWM $295.28) | 3.59% stop / 5.79% to -7% floor $259.46 | HOLD — Q2 earnings released today BMO (+1.03% intraday); thesis intact; 10% trail |
+| LMT | $549.50 | $559.92 | +$416.80 | +1.90% | -1.63% | $552.206 (7% trail, c8572779, HWM $593.77) | 1.38% stop ⚠️ THIN | HOLD — 7% post-earnings trail; buffer thin but cannot tighten within 3% of price; thesis intact |
+
+**Cut losers (-7%):** None — GD -0.04%, HWM -1.21%, LMT +1.90%. All above -7% floor.
+**Stop tightening (STEP 4):** No action.
+- GD: -0.04% cumulative — no tightening rule applies. ✓
+- HWM: -1.21% cumulative — no tightening rule applies. ✓
+- LMT: +1.90% cumulative — +15% trigger $631.93 not reached; already at 7% trail (post-earnings); cannot tighten within 3% of current price ($559.92 vs stop $552.206 = 1.38% gap — within the 3% exclusion zone). ✓
+**Thesis check (STEP 5):**
+- GD: Flat on day 1. Q2 beat (EPS $4.24 vs $3.94, +7.6%) + FOMC hold + defense sector leading. No new adverse news. 7% trail $352.07 (6.96% buf). Thesis intact. HOLD.
+- HWM: Q2 released today BMO. Stock +1.03% intraday from $272.79 (positive reaction). Commercial aero/gas turbine/defense thesis intact. 10% trail $265.752 (3.59% buf). Thesis intact. HOLD.
+- LMT: -1.63% intraday; +1.90% cumulative. Post-Q2-beat momentum; record backlog $230.4B; Iran missile demand. Stop buffer 1.38% — THIN but per strategy rules (cannot tighten within 3%); may fire if LMT drops another 1.38%. No thesis break; HOLD.
+**RTX exit:** Successful 5% trailing stop execution per +20% rule. No thesis break. Counts as closed trade (position #8 in the log; 8th closed trade total).
+**Research (STEP 6):** RTX drop explanation — position was at +25.3% as of yesterday's close ($218.89); 5% trail locked at $210.214 (HWM $221.28). A −4.0% intraday move from $218.89 to $210.20 triggered the stop at 10:35 AM ET. No company-specific adverse news for RTX — likely broad defense sector/market rotation. Stop functioned correctly. HWM Q2 results released today BMO; consensus $1.24 EPS; stock +1.03% post-print (modest positive reaction, not a Q1-style surge). GDP/PCE/claims data released 8:30 AM ET — no dramatic market shock (S&P futures remained positive per pre-market research bias).
+
+**Portfolio (midday):** $110,768.19 | **Cash:** $51,540.79 (46.5%) | **Long MV:** $59,227.40 (53.5% deployed — ⚠️ below 75–85% target) | **Day P&L:** -$2,509.71 (-2.22%) | **Phase P&L:** +$10,768.19 (+10.77%)
+**Week 15 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch (Thu Jul 30 afternoon / Fri Jul 31):** RTX closed (+20.36% realized ✓); LMT stop buffer THIN (1.38% — $552.21; may fire; accept it per rules); HWM +1.03% post-Q2 earnings (monitor close); GD 7% trail $352.07 (6.96% buf — stable); cash $51,541 (46.5%) — **DEPLOYMENT GAP** needs new position setup; pre-market Fri research NUE/MLM (Materials) or other high-conviction setup for 4th position; AAPL+AMZN AMC tonight — major risk-on/risk-off catalyst.
