@@ -4376,3 +4376,89 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 - **All three positions HOLD:** HWM -0.50%, LMT +4.49%, RTX +23.46%. No -7% cuts; no stop tightening needed.
 - **GD BUY plan Thu Jul 30:** ~50 shares at market open; 7% post-earnings initial trail; ~$19,750–$20,250 (≤20% equity ✓); verify live quote at fill; target +14% (2:1 R:R ✓); week 1/3 trades; positions 4/6. Condition: confirm MSFT/META AMC not disastrous overnight; run pre-market verification.
 - **MSFT + META AMC tonight:** Monitor overnight — AI capex narrative; could shift tomorrow open environment. If either badly misses, reassess GD entry at pre-market.
+
+---
+
+## 2026-07-30 — Pre-Market Research (Day 70, Thursday — Week 15 Day 4)
+
+### Account Snapshot
+- **Equity:** $112,085.74 | **Cash:** $46,296.20 (41.3%) | **Long MV:** $65,789.54 (58.7% deployed — ⚠️ below 75–85%)
+- **Phase P&L:** +$12,085.74 (+12.09%) | **Last equity:** $113,277.90 (daily change -$1,192.16 / -1.05%)
+- **Open positions:** 3/6 | **Week 15 trades:** 0/3 | **Daytrade count:** 0
+
+### Live Positions (pre-market)
+| Symbol | Shares | Entry | Current | Unrealized P&L | Stop | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| HWM | 65 | $278.99 | $278.80 | -$12.35 (-0.07%) | $265.752 (10% trail, 96ab1030, HWM $295.28) | 4.67% stop / ~6.9% to -7% floor $259.46 | Q2 BMO **TODAY** — actual reporting this morning; stock +2.2% from yesterday's $272.79 |
+| LMT | 40 | $549.50 | $573.56 | +$962.54 (+4.38%) | $552.206 (7% trail, c8572779, HWM $593.77) | 3.72% stop / 11.98% to -7% floor $511.24 | Q2 beat confirmed; thesis intact |
+| RTX | 115 | $174.65 | $215.00 | +$4,640.25 (+23.10%) | $210.214 (5% trail, 6490cd38, HWM $221.28) | 2.23% stop ⚠️ VERY TIGHT — correct per +20% rule | Q2 beat (EPS $1.89, backlog $289B) |
+
+**GTC stops confirmed active:** HWM 96ab1030 ✓ | LMT c8572779 ✓ | RTX 6490cd38 ✓
+**RTX note:** 5% trail at $210.21; any −2.3% intraday pullback fires stop locking +14.8% gain minimum. Correct per rule; no intervention.
+
+### Market Context
+- **WTI:** ~$82–85/bbl (range cited $82.67–$84.90); **Brent** ~$85–88/bbl — elevated; Iran tensions ongoing
+- **S&P 500 futures:** ~7,477 (+12.5pts / +0.17%) — positive bias; MSFT earnings beat driving Nasdaq higher
+- **VIX:** ~18.9–19.4 (elevated but not panicked; prior day close 18.21 from Jul 28)
+- **MSFT (Jul 29 AMC):** BEAT — Azure annual revenue topped $100B; "Nasdaq futures rise as Microsoft surges" per TheStreet Jul 30. Stock positive overnight. ✓ No overnight disaster.
+- **META (Jul 29 AMC):** MISS — fell after earnings on weaker guidance. Tech sentiment mixed but defense/industrials insulated.
+- **Today's macro (8:30 AM ET — ALL SAME TIME):**
+  - Q2 2026 GDP Advance Estimate (BEA)
+  - June 2026 Personal Income/Outlays + PCE Price Index (consensus: PCE MoM −0.1%, personal spending +0.4%)
+  - Initial Jobless Claims
+- **BMO earnings today (not relevant to holdings):** AbbVie, Chevron, Linde, Eaton, Colgate-Palmolive, Mastercard
+- **AMC tonight:** AAPL (EPS est $1.89, rev $108.86B), AMZN (EPS est $1.82, rev $196.10B) — major risk-on/risk-off post-close
+- **Sector momentum YTD (as of mid-July 2026):** Energy +20.7% (BANNED); Industrials +19.3% (Leading ✓); Technology +16.7%; Materials +13.7% (Leading); Consumer Staples +10.5%; Financials +3.2% (Lagging)
+- **Iran:** US-Iran tensions ongoing; WTI elevated; defense sector tailwind confirmed
+
+### HWM Earnings Alert — DATE CORRECTION CONFIRMED
+- **Multiple sources confirm: HWM Q2 2026 results released TODAY (July 30 BMO)**
+- Analyst consensus: EPS $1.24 (36.3% YoY growth from $0.91 in Q2 2025)
+- Yesterday's addendum incorrectly re-confirmed August 6 — today's live data (stock +2.2% from yesterday's $272.79 close to $278.80) is consistent with earnings released this morning
+- Q1 2026 pattern: actual $1.22 vs $1.11 est (beat $0.11). Q2 growth thesis intact.
+- Stock reaction: +2.2% intraday from prior close → suggests beat/inline; no dramatic gap suggests no major negative surprise
+- 10% trailing stop $265.75 (4.67% buffer) provides adequate protection post-earnings
+
+### Position Thesis Check
+- **HWM (-0.07% vs entry; +2.2% today):** Q2 earnings today BMO. Stock up 2.2% → positive reception. Commercial aero +20% YoY, gas turbine +39% YoY (Q1 pattern), defense aero growing. Iran conflict = ongoing MRO/engine demand. 10% trail $265.75 (4.67% buf). HOLD.
+- **LMT (+4.38%):** Q2 beat confirmed (EPS $7.94 vs $7.19, rev $20.1B, backlog record $230.4B, raised FY26 guidance). Iran ballistic missiles = Patriot/THAAD/missile demand validated. $1.15T FY27 NDAA bill advancing in House. 7% trail $552.21 (3.72% buf). HOLD.
+- **RTX (+23.10%):** Q2 beat (EPS $1.89 vs $1.66, rev $24.7B, backlog $289B, guidance raised). 5% trail HWM $221.28, stop $210.21 (2.23% buf — very tight, correct per +20% rule). Jefferies Buy PT $220 essentially met. HOLD. ⚠️ Watch: −2.3% pullback triggers stop.
+
+### GD Conditional Entry — Status GREEN
+- **GD Q2 beat ✓:** EPS $4.24 vs ~$3.94 est (+7.6%); rev $14.09B vs $13.48B est (+4.5%); reported Jul 29 BMO
+- **FOMC neutral ✓:** 5th consecutive hold at 3.50%–3.75% confirmed Jul 29
+- **Overnight check ✓:** MSFT beat → Nasdaq futures positive; no overnight disaster
+- **GD price:** Jul 29 close $380.96 (gap-up → fade from ~$397 pre-market but still +$6.72 / +1.80% vs Jul 28 close $374.24); overnight $382.62
+- **Entry plan:** ~50 shares at market open (≈$383); 7% post-earnings initial stop (~$356); target $437 (+14%, 2:1 R:R ✓)
+- **Cost:** 50 × $383 = $19,150 ≤ 20% equity ($22,417) ✓ | cash $46,296 >> $19,150 ✓ | positions 4/6 ✓ | trades 1/3 ✓ | PDT 0/3 ✓ | catalyst documented ✓ | stock ✓
+- **Risk:** 8:30 AM triple-data (GDP/PCE/Claims) could spike volatility at open → enter after 8:30 data settles (not pre-data); AAPL+AMZN AMC tonight creates end-of-day uncertainty
+- **Sector:** Industrials/Defense (Leading +19.3% YTD); 0 consecutive failed trades in sector ✓
+
+### Trade Ideas
+1. **GD — EXECUTE TODAY (conditional on benign 8:30 AM data):**
+   - Buy 50 shares of GD at market open, after 8:30 AM GDP/PCE data settles
+   - Verify: `bash scripts/alpaca.sh quote GD` immediately before submission; confirm 50 × price ≤ $22,417
+   - Place 7% trailing stop GTC immediately after fill
+   - Skip ONLY if: GDP is catastrophically bad/good (creates hawkish repricing) OR pre-open quote × 50 > $22,417 (20% equity gate)
+   - Sector: Industrials/Defense (leading); Iran conflict = ongoing demand catalyst
+
+2. **NUE or MLM (Materials) — NEXT WEEK WATCHLIST:**
+   - Materials +13.7% YTD (leading); infrastructure/AI data center demand; no near-term earnings overhang
+   - Research after AAPL/AMZN AMC settles; potential 5th position next week if cash remains and GD is stable
+
+### Risk Factors
+1. **8:30 AM data triple (GDP/PCE/Claims):** All three simultaneous; if GDP shocks or PCE surprises higher → volatile open; wait for 8:30 settle before GD entry
+2. **RTX stop 2.23% buffer:** 5% trail auto-advancing; any −2.3% move fires stop; locks +14.8% gain minimum. Correct per +20% rule; monitor
+3. **AAPL + AMZN AMC tonight:** Either major miss could swing market -2% after close; if both miss → broad risk-off tomorrow
+4. **META miss (Jul 29 AMC):** Tech sentiment mixed; Nasdaq partially insulated by MSFT beat; defense/industrials unaffected
+5. **Iran ceasefire risk:** Oil elevated on Iran tensions; if ceasefire resumes → WTI drops, risk-on broad market positive; defense sector could see profit-taking
+
+### Decision
+**TRADE — GD buy 50 shares at market open after 8:30 AM data settles. All conditions met.**
+- GD Q2 beat ✓ + FOMC neutral ✓ + no overnight disaster ✓ + lower entry price than feared ($383 vs $397) ✓
+- All 3 existing positions healthy; no cuts or stop tightening needed today
+- HWM earnings positive read (+2.2%) → thesis intact, stop adequate
+- Deploy GD → cash drops from $46,296 to ~$27,146; portfolio 70-72% deployed (close to target band)
+- Watch: RTX stop buffer 2.23% (no action); 8:30 AM data; GD fill price vs 20% gate
+
+**Week 15 trades:** 0→1/3 (pending GD fill) | **Open positions:** 3→4/6 (pending GD fill) | **Daytrade count:** 0
