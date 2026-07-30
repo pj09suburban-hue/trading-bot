@@ -3158,3 +3158,30 @@ No positions yet. Bot launches tomorrow.
 
 **Week 15 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Thu Jul 30:** GD BUY at open (~50sh, 7% trail, verify no adverse overnight first); RTX 5% stop $210.214 (HWM $221.278, 3.96% buf — close watch post-FOMC recovery); LMT +15% trigger $631.93 (9.56% away); HWM Q2 Aug 6 BMO (8d, confirmed); FOMC hold = mild tail; $46,296 cash — GD ~$20k + 1 additional setup TBD in pre-market
+
+---
+
+## 2026-07-30 — Market-Open Trades (Day 70, Thursday — Week 15 Day 4)
+
+**BUY executed: GD**
+
+| Date | Ticker | Side | Shares | Entry Price | Stop Level | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-07-30 | GD | BUY | 50 | $378.5682 | $349.51 (7% trail GTC, 3c260832, HWM $375.82) | GD Q2 beat EPS $4.24 vs $3.94 est (+7.6%); rev $14.09B vs $13.48B est (+4.5%); FOMC 5th consecutive hold confirmed (3.50–3.75%); defense sector leading +19.3% YTD; Iran conflict ongoing demand tailwind | $431.57 (+14% from entry) | ~1.8:1 ($53 reward / $29 risk) |
+
+**Gate check (all passed):**
+- Positions after fill: 4/6 ✓
+- Week 15 trades: 1/3 ✓
+- Position cost 50 × $378.57 = $18,929 ≤ 20% equity $22,393 ✓
+- Cash $46,296 >> $18,929 ✓
+- PDT daytrade count: 0/3 ✓
+- Catalyst documented in today's RESEARCH-LOG ✓
+- Stock (not option) ✓
+- Post-earnings stop rule applied (entry within 3 days of GD Q2 Jul 29): 7% trail ✓
+
+**Stop confirmed:** 7% trailing stop GTC order 3c260832 active | HWM $375.82 | stop $349.51
+
+**Portfolio after trade:** $110,841.54 | **Cash:** $27,367.79 (24.7%) | **Long MV:** $83,473.75 (75.3% deployed — in target 75–85% ✓) | **Phase P&L:** +$10,841.54 (+10.84%)
+
+**Week 15 trades:** 1/3 | **Open positions:** 4/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch (Thu Jul 30 intraday):** GD 7% trail stop $349.51 (HWM $375.82, 6.7% buf); RTX 5% stop $210.214 (HWM $221.28, close watch); LMT +15% trigger $631.93; HWM Q2 Aug 6 BMO (7d); AAPL+AMZN AMC tonight — risk-on/risk-off post-close catalyst
