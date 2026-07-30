@@ -3226,3 +3226,21 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $110,768.19 | **Cash:** $51,540.79 (46.5%) | **Long MV:** $59,227.40 (53.5% deployed — ⚠️ below 75–85% target) | **Day P&L:** -$2,509.71 (-2.22%) | **Phase P&L:** +$10,768.19 (+10.77%)
 **Week 15 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch (Thu Jul 30 afternoon / Fri Jul 31):** RTX closed (+20.36% realized ✓); LMT stop buffer THIN (1.38% — $552.21; may fire; accept it per rules); HWM +1.03% post-Q2 earnings (monitor close); GD 7% trail $352.07 (6.96% buf — stable); cash $51,541 (46.5%) — **DEPLOYMENT GAP** needs new position setup; pre-market Fri research NUE/MLM (Materials) or other high-conviction setup for 4th position; AAPL+AMZN AMC tonight — major risk-on/risk-off catalyst.
+
+---
+
+## 2026-07-30 — EOD Snapshot (Day 70, Thursday — Week 15 Day 4)
+
+**Portfolio:** $111,408.14 | **Cash:** $51,540.79 (46.3%) | **Day P&L:** -$1,869.76 (-1.65%) | **Phase P&L:** +$11,408.14 (+11.41%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $381.52 | +0.78% (entry today) | +$147.59 (+0.78%) | $354.81 (7% trail, 3c260832, HWM $381.52) — 7.00% buf |
+| HWM | 65 | $278.99 | $278.15 | +1.97% day | -$54.60 (-0.30%) | $265.752 (10% trail, 96ab1030, HWM $295.28) — 4.46% buf / 6.75% to -7% floor $259.46 |
+| LMT | 40 | $549.50 | $567.83 | -0.24% day | +$733.20 (+3.34%) | $552.206 (7% trail, c8572779, HWM $593.77) — 2.75% buf ⚠️ THIN |
+| RTX | 115 | $174.65 | $210.20 | CLOSED (stop) | +$4,088.25 realized (+20.36%) | — |
+
+**Notes:** Day 70, Week 15 Day 4. GD BUY at open ($378.57, +0.78% day 1, Q2 beat thesis intact, 7% trail $354.81 GTC active). RTX 5% trailing stop auto-fired at 10:35 AM ET ($210.20; -4% intraday from $218.89 prior close), locking in +$4,088.25 (+20.36%) — stop mechanics worked correctly per +20% tighten rule. Day P&L -$1,869.76 driven by RTX declining ~$8.69/sh before stop fired. HWM +1.97% on day (Q2 released BMO, consensus beat, positive reaction; 10% trail unchanged, HWM still $295.28). LMT -0.24% intraday; +3.34% cumulative; stop buffer 2.75% (HWM $593.77) — thin but within 3% exclusion zone, cannot tighten. Cash 46.3% ($51,541) — deployment gap vs 75-85% target; 4th position needed. AAPL+AMZN reporting tonight AMC — key risk-on/risk-off signal for Fri open; pre-market tomorrow identifies high-conviction 4th setup.
+
+**Week 15 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Fri Jul 31:** GD 7% trail $354.81 (HWM $381.52, 7% buf — stable day 1); HWM 10% trail $265.752 (HWM $295.28, 4.46% buf — Q2 beat absorbing); LMT 7% trail $552.21 (HWM $593.77, 2.75% buf — THIN, next -1.38% fires it); AAPL+AMZN AMC tonight → pre-market research determines 4th position entry; weekly review EOD Fri
