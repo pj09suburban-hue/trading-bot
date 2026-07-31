@@ -3282,3 +3282,43 @@ No positions yet. Bot launches tomorrow.
 
 **Week 15 trades:** 2/3 | **Open positions:** 4/6 | **Daytrade count:** 0 | **Slack sent: pending**
 **Key watch (Fri Jul 31 intraday):** NUE -7% manual cut at $241.39 (HWM $256.86, stop $231.17 — 10% trail active); GD 7% trail (HWM auto-advancing from $384.90 → +1.67% pre-mkt, new HWM likely higher at open); LMT stop buf 3.49% (HWM $593.77, buf improved from Thursday; cannot tighten per 3% rule); HWM 10% trail (HWM $295.28; Q2 post-earnings drift day 2); weekly review EOD
+
+---
+
+## 2026-07-31 — Midday Scan (Day 71, Friday — Week 15 Day 5)
+
+**No action taken — all positions hold.**
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| NUE | $259.555 | $258.03 | -$131.16 | -0.59% | +0.39% | $233.955 (10% trail, b74a09c5, HWM $259.95) | $259.95 | 9.33% stop / 6.47% to -7% floor $241.39 | HOLD — day 1; gap-up entry effect; Q2 beat intact (EPS $4.84 vs $4.38 est); data center/steel thesis confirmed; no adverse news |
+| GD | $378.5682 | $382.62 | +$202.59 | +1.07% | +0.11% | $356.636 (7% trail, 3c260832, HWM $383.48) | $383.48 | 6.79% stop / 8.35% to -7% floor $351.97 | HOLD — Q2 beat thesis intact; defense sector leading +19.3% YTD |
+| HWM | $278.99 | $283.345 | +$283.08 | +1.56% | +2.19% | $265.752 (10% trail, 96ab1030, HWM $295.28) | $295.28 | 6.21% stop / 8.42% to -7% floor $259.46 | HOLD — Q2 released Jul 30 BMO; recovering well post-FOMC; commercial aero/gas turbine thesis intact |
+| LMT | $549.50 | $580.47 | +$1,238.80 | +5.64% | +1.11% | $552.206 (7% trail, c8572779, HWM $593.77) | $593.77 | 4.87% stop / 10.31% to -7% floor $511.24 | HOLD — Q2 beat thesis intact; record backlog $230.4B; 7% post-earnings trail |
+
+**Cut losers (-7%):** None.
+- NUE: -0.59% (floor $241.39, current $258.03 — 6.47% away) ✓
+- GD: +1.07% ✓
+- HWM: +1.56% ✓
+- LMT: +5.64% ✓
+
+**Stop tightening (STEP 4):** No action.
+- NUE: -0.59% cumulative — no trigger; 10% trail auto-advanced to HWM $259.95, stop $233.96 ✓
+- GD: +1.07% cumulative — no trigger; 7% trail auto-advanced to HWM $383.48, stop $356.64 ✓
+- HWM: +1.56% cumulative — +15% trigger $320.84 not reached ✓
+- LMT: +5.64% cumulative — already at 7% trail (post-earnings rule); +15% trigger $631.93 / +20% trigger $659.40 not reached ✓
+
+**Thesis check (STEP 5):**
+- NUE: -0.59% vs entry (gap-up fill at $259.555), +0.39% intraday. Perplexity confirms no adverse NUE-specific news. Q2 beat intact (EPS $4.84 vs $4.38 est, revenue $10.4B vs $10.14B est, record 7.1M ton shipments, data center + infrastructure demand confirmed). -3.61% on Jul 29 = broad market selloff (DJIA -2.19%, S&P -1.52%), not NUE-specific. KeyBanc upgraded on steel pricing. Street mean ~$258 (pre-Q2-beat; likely higher now). Stop b74a09c5 (10% trail, HWM $259.95, stop $233.96, 9.33% buf). Thesis intact. HOLD.
+- GD: +1.07% cumulative, +0.11% intraday. Q2 beat intact (EPS $4.24, +7.6%; rev $14.09B, +4.5%; backlog $136.5B; FY26 guidance raised; BofA PT raised to $415). Defense sector leading. 7% trail $356.64 (6.79% buf). Thesis intact. HOLD.
+- HWM: +1.56% cumulative, +2.19% intraday. Q2 released Jul 30 BMO with positive reception. Commercial aero/gas turbine/defense MRO thesis intact. Recovering from FOMC-week positioning. Next binary event Q3 (no near-term risk). 10% trail $265.752 (6.21% buf, HWM $295.28 unchanged). Thesis intact. HOLD.
+- LMT: +5.64% cumulative, +1.11% intraday. Record backlog $230.4B. Iran conflict = ongoing Patriot/THAAD/missile demand. Stop buffer improved to 4.87% (HWM $593.77, current $580.47). 7% post-earnings trail. +15% trigger $631.93 (8.87% away). Thesis intact. HOLD.
+
+**Research (STEP 6):** Perplexity check on NUE: no adverse company news; Q2 beat confirmed (Jul 27/28); stock +5% post-earnings then pulled back on Jul 29 broad market selloff (-3.61%); recovering today (+0.39%). Data center/infrastructure demand confirmed on earnings call. Thesis intact. No research addendum needed for other positions.
+
+**Notification (STEP 7):** No action taken → no Slack sent per strategy rule.
+
+**Portfolio (midday):** $112,123.94 | **Cash:** $29,187.47 (26.0%) | **Long MV:** $82,936.47 (74.0% deployed — approaching 75–85% target) | **Day P&L:** +$485.59 (+0.44%) | **Phase P&L:** +$12,123.94 (+12.12%)
+**Week 15 trades:** 2/3 | **Open positions:** 4/6 | **Daytrade count:** 0
+**Key watch (Fri Jul 31 afternoon / Weekly Review EOD):** NUE stop HWM $259.95 (stop $233.96, 9.33% buf — watch for further advance above entry); LMT stop buf 4.87% (HWM $593.77 — improved from thin 1.38% Thursday); GD 7% trail HWM $383.48 (6.79% buf); HWM 10% trail $265.752 (6.21% buf); weekly review fires EOD (Week 15 Day 5); deployment 74% (approaching target band); consider 5th position next week if high-conviction setup emerges
+
