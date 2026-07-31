@@ -3322,3 +3322,21 @@ No positions yet. Bot launches tomorrow.
 **Week 15 trades:** 2/3 | **Open positions:** 4/6 | **Daytrade count:** 0
 **Key watch (Fri Jul 31 afternoon / Weekly Review EOD):** NUE stop HWM $259.95 (stop $233.96, 9.33% buf — watch for further advance above entry); LMT stop buf 4.87% (HWM $593.77 — improved from thin 1.38% Thursday); GD 7% trail HWM $383.48 (6.79% buf); HWM 10% trail $265.752 (6.21% buf); weekly review fires EOD (Week 15 Day 5); deployment 74% (approaching target band); consider 5th position next week if high-conviction setup emerges
 
+---
+
+## 2026-07-31 — EOD Snapshot (Day 71, Friday — Week 15 Day 5)
+
+**Portfolio:** $112,029.00 | **Cash:** $29,187.47 (26.1%) | **Day P&L:** +$620.86 (+0.56%) | **Phase P&L:** +$12,029.00 (+12.03%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| NUE | 86 | $259.555 | $257.41 | +0.14% | -$184.47 (-0.83%) | $233.95 (10% trail, b74a09c5, HWM $259.95) — 9.12% buf / 6.23% to -7% floor $241.39 |
+| GD | 50 | $378.5682 | $382.39 | +0.05% | +$191.09 (+1.01%) | $356.64 (7% trail, 3c260832, HWM $383.48) — 6.74% buf |
+| HWM | 65 | $278.99 | $282.99 | +2.06% | +$260.00 (+1.43%) | $265.75 (10% trail, 96ab1030, HWM $295.28) — 6.09% buf |
+| LMT | 40 | $549.50 | $579.7605 | +0.98% | +$1,210.42 (+5.51%) | $552.21 (7% trail, c8572779, HWM $593.77) — 4.75% buf |
+
+**Notes:** Day 71, Week 15 Day 5 (Friday). NUE BUY at gap-up open ($259.555 vs pre-market ~$231.61 plan, +12.1% gap driven by AMZN Q2 AWS beat); trimmed 10 shares to comply with 20% gate → 86 shares net. No stops fired; all 4 positions held through close. HWM led on the day (+2.06% on continued post-Q2 recovery); LMT steady (+0.98%, 4.75% stop buffer vs dangerously thin 1.38% on Wednesday); GD minimal movement (+0.05%); NUE slightly negative (-0.83%, gap-up fill effect still absorbed). Week 15 closes at 2/3 trades used; 4/6 positions open; 73.9% deployed (approaching 75-85% target). All 4 trailing stops active and confirmed. Weekend holding period — no open trade orders. NUE is primary watch: gap-up entry partially priced in thesis, -7% floor at $241.39 (current buffer 6.23%), 10% trail at $233.95. Week 16 opens Monday Aug 3 with fresh 3-trade allocation; potential 5th position if high-conviction setup emerges.
+
+**Week 15 trades:** 2/3 | **Open positions:** 4/6 | **Daytrade count:** 0 | **Slack sent: yes**
+**Key watch Mon Aug 3 (Week 16 Day 1):** NUE gap-up integrity (-0.83% unrealized, -7% floor $241.39, 6.23% buf — watch for gap-fill continuation lower or Q2 beat reassertion above $259.95 HWM); LMT stop 4.75% buf (HWM $593.77 — approaching +20% at $659.40, will tighten to 5% if reached); HWM 10% trail HWM $295.28 (+15% trigger at $320.84 unmet); GD 7% trail steady; Week 16 fresh 3-trade allocation; seek 5th position if high-conviction setup (sectors: defense/industrials/materials leading); 74% deployed
+
