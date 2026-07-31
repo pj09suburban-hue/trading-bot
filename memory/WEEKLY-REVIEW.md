@@ -901,3 +901,72 @@ Template for each entry:
 *Week 14 — portfolio +3.53% vs S&P -0.40% (+3.93% outperformance). New phase high: $112,872.95 (+12.87% since Apr 24, +8.14% vs benchmark). RTX at +21.84% unrealized executing the high-conviction multi-week hold playbook. LMT post-earnings entry showing +6.02% in one day. Demerits: LHX second stop-out at -9.99% repeating the first LHX failure pattern (avoidable in hindsight), deployment stuck at 41.4% (9th+ consecutive week below 75–85% target), and all-time win rate still at 27.3% reflecting the strategy's dependence on large winners to offset small losers. B reflects strong outperformance and clean execution offset by the recurring LHX error and chronic underdeployment.*
 
 ---
+
+## Week ending 2026-07-31
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $112,872.95 |
+| Ending portfolio | $112,172.71 |
+| Week return | -$700.24 (-0.62%) |
+| S&P 500 week | ~+1.0% est (7,411.98 → ~7,500 est; Jul 31 close unconfirmed at report time) |
+| Bot vs S&P | ~-1.62% |
+| Phase return | +$12,172.71 (+12.17% from $100k baseline) |
+| Phase bot vs S&P | +7.50% est (bot +12.17% vs S&P ~+4.67% from Apr 24 start 7,165.08) |
+| Trades | 2 new (GD Jul 30, NUE Jul 31) + 1 closed (RTX Jul 30) — W:1 / L:0 / open:4 |
+| Win rate | 100% this week (1/1); 33.3% all-time (4/12 closed) |
+| Best trade | RTX +$4,088.25 (+20.36%) realized — 94-day hold |
+| Worst trade | NUE -$194.79 (-0.87%) unrealized (day 1 gap-up absorbed) |
+| Profit factor | 2.20 all-time ($19,379 winners / $8,795 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| RTX | $174.65 | $210.20 | +$4,088.25 (+20.36%) | 5% trailing stop auto-fired 10:35 AM ET Jul 30; 94-day hold (Apr 27 → Jul 30); stop progressed 10%→7%→5% mechanically; HWM $221.28 → stop $210.21 hit on -4.0% intraday pullback |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| GD | $378.57 | $383.50 | +$246.59 (+1.30%) | 7% trail (HWM $383.48, stop ~$356.64) — BofA PT $415; Q3 est ~Oct |
+| HWM | $278.99 | $282.26 | +$212.55 (+1.17%) | 10% trail (HWM $295.28, stop $265.75) — Q2 confirmed beat Jul 30 BMO |
+| LMT | $549.50 | $583.41 | +$1,356.40 (+6.17%) | 7% trail (HWM $593.77, stop $552.21) — +15% trigger $631.93 |
+| NUE | $259.555 | $257.29 | -$194.79 (-0.87%) | 10% trail (HWM $259.95, stop $233.95) — day 1; gap-up absorbed |
+
+### What Worked
+- RTX mechanical exit textbook: 5% trail at HWM $221.28 auto-fired at $210.20 (+20.36%); 94-day hold with stop progression 10%→7%→5% — zero manual intervention across the entire trade; 3rd largest realized win of the phase
+- FOMC patience paid off: held cash Mon–Wed through rate decision (hold confirmed 3.50–3.75%); avoided GD at pre-FOMC gap-up price $397 premarket; actual entry $378.57 on Thu saved ~$18/share × 50 shares = $900 in entry cost
+- GD post-earnings entry clean: Q2 beat (EPS $4.24 vs $3.94 est +7.6%; rev $14.09B vs $13.48B +4.5%); all Rule 12 gates passed; 7% post-earnings initial stop applied correctly
+- NUE as sector diversifier: Materials +13.7% YTD; AMZN AWS +37% YoY confirmed data center buildout catalyst; first non-defense position in weeks; breaks concentrated aerospace/defense exposure
+- Deployment improved from 41.4% (Week 14 end) to 73.9% (Week 15 end) — closest to 75–85% target in 10+ weeks
+
+### What Didn't Work
+- Portfolio -0.62% vs S&P ~+1.0% = ~-1.6% underperformance — driven by timing: RTX stop fired mid-week (Jul 30), GD/NUE positions started 0–1 days before week end; portfolio was underdeployed 4 of 5 trading days
+- NUE gap-up entry: pre-market research planned ~$231 entry; actual open $259.555 (+12.1% gap from AMZN beat); sizing breach triggered (22.2% equity) → immediate trim of 10 shares to 86; gap-up risk remains a repeating execution error despite live quote check rule
+- HWM earnings date tracked incorrectly across the week: MarketScreener/Barchart estimated Jul 29, then addendum corrected to Aug 6, then actual release was Jul 30 BMO — held through an unplanned earnings event; reaction was positive but the confusion was avoidable
+- Deployment below 75% target for first 4 of 5 trading days (started week at 41.4%); only reached 73.9% at Friday close, technically below the 75% lower band of the 75–85% target
+- Phase alpha slightly compressed vs Week 14: +7.50% vs +8.14% prior week — RTX stop timing artifact; recovers as GD/NUE positions mature
+
+### Key Lessons
+- RTX is the third proof of the core alpha playbook (after MRVL +50.77%, GE +28.42%): high-conviction entry → multi-month patience → mechanical stop tightening at +15%/+20% thresholds → autonomous exit at +20.36%; all three were 94+ day holds; replicating this discipline for LMT and GD is the primary task
+- NUE gap-up marks the second gap-up sizing breach in the phase (first was CVX Week 2); the existing Rule 5 live quote check is correct but the gap happens between the quote check and market open; the correct response (immediate trim) was executed in both cases; the lesson is to use limit orders at or near the pre-market quote rather than market orders for volatile setups like post-earnings catalysts
+- FOMC discipline: holding cash through the rate decision (Jul 29) and entering GD the next morning (Jul 30) at $378.57 vs $397 pre-FOMC gap — this saved ~$900 and avoided entering a name during a binary macro event; FOMC patience is now 3-for-3 in the phase
+- HWM earnings tracking failure: 3 different sources gave 3 different dates (Jul 29, Aug 6, Jul 30); official company IR press release is the only reliable source; Perplexity/MarketScreener/Barchart estimates cannot be trusted for binary event scheduling
+- All phase alpha concentrated in 4 wins: MRVL +$9,484, GE +$5,333, RTX +$4,088, NOC +$474 = $19,379; 8 losses total $8,795; strategy generates alpha via few outsized wins absorbing many smaller losses — the win rate (33.3%) is secondary to the profit factor (2.20)
+
+### Adjustments for Next Week
+- **GD:** Hold; 7% trail (HWM $383.48, stop ~$356.64, 7.0% buf); at +1.30% — entry still early; +15% trigger $435.36 ($51.86 / 13.5% away); BofA PT $415; thesis: Q2 beat, $136.5B backlog record, Gulfstream deliveries + shipbuilding + defense procurement
+- **HWM:** Hold; 10% trail (HWM $295.28, stop $265.75, 5.3% buf); Q2 beat confirmed Jul 30 BMO; no binary event until next quarter (Q3 est ~Oct/Nov); +15% trigger $320.84 ($38.58 / 13.7% away); commercial aero + gas turbine + defense MRO thesis intact
+- **LMT:** Hold; 7% trail (HWM $593.77, stop $552.21, 4.7% buf); at +6.17% cumulative; +15% trigger $631.93 ($48.52 / 8.3% away); within 3% exclusion zone — cannot tighten; Iran conflict = ongoing Patriot/THAAD demand; $1.15T NDAA advancing in House
+- **NUE:** Primary watch; 10% trail (HWM $259.95, stop $233.95, 9.33% buf); gap-up entry absorbed; -7% cut floor $241.39 (current 6.23% buffer); thesis is structural (AMZN AWS +37% → data center buildout → US steel demand); give it 2 weeks before judging; no new catalyst needed short-term
+- **5th position:** 1 position slot open, 1 trade slot remaining (Week 15 used 2/3); look for high-conviction setup in Materials (MLM alt to NUE), non-defense Industrials, or AI infrastructure; AMZN cloud supercycle catalyst fresh; require catalyst + 2:1+ R:R; no energy (sector ban)
+- **Earnings verification protocol:** For any open position, verify earnings date via company IR press release only — third-party estimate sites (MarketScreener, Barchart, Perplexity) are unreliable; flag discrepancy if two sources disagree
+- **Sector risk:** 0 defense sector failures currently (GD/LMT/HWM healthy, LHX blacklisted); 2-consecutive sector ban not close to triggering; Materials is 1 position (NUE), clean entry
+
+### Overall Grade: B
+*Week 15 — portfolio -0.62% vs S&P ~+1.0% (~-1.6% underperformance). RTX clean mechanical exit at +20.36% / +$4,088 in 94 days — textbook 3rd execution of the core stop-progression playbook. GD and NUE entered correctly with documented catalysts and appropriate initial stops. Deployment improved from 41.4% to 73.9%, approaching the 75–85% target band for first time in 10+ weeks. Phase return +12.17% vs S&P ~+4.67% (+7.50% phase alpha). Demerits: weekly underperformance due to RTX-exit/redeployment timing gap, NUE gap-up sizing breach (corrected), HWM earnings date confusion (held through unplanned earnings event — lucky outcome), and deployment ended technically below 75% minimum. B reflects flawless RTX exit and solid redeployment discipline offset by continued execution edge cases and a down week vs the market.*
+
+---
