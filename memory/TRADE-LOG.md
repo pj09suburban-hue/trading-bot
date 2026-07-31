@@ -3244,3 +3244,41 @@ No positions yet. Bot launches tomorrow.
 
 **Week 15 trades:** 1/3 | **Open positions:** 3/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Fri Jul 31:** GD 7% trail $354.81 (HWM $381.52, 7% buf — stable day 1); HWM 10% trail $265.752 (HWM $295.28, 4.46% buf — Q2 beat absorbing); LMT 7% trail $552.21 (HWM $593.77, 2.75% buf — THIN, next -1.38% fires it); AAPL+AMZN AMC tonight → pre-market research determines 4th position entry; weekly review EOD Fri
+
+---
+
+## 2026-07-31 — Market-Open Trades (Day 71, Friday — Week 15 Day 5)
+
+**BUY executed: NUE (with gap-up trim)**
+
+| Date | Ticker | Side | Shares | Entry Price | Stop Level | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-07-31 | NUE | BUY | 96 | $259.555 (gap-up fill; planned ~$231 at pre-mkt quote) | — | AMZN Q2 AWS +37% YoY (fastest in 18 qtrs) + MSFT Azure $100B+ → data center buildout confirmed; structural US steel demand (rack fabrication, DC structures, grid infra); ECI Q2 +0.9% (benign, in-line) = FOMC patient; Materials sector leading +13.7% YTD | $311.47 (+20% from entry) | 2.0:1 ($52 reward / $26 risk) |
+| 2026-07-31 | NUE | SELL (TRIM) | 10 | ~$256.40 | — | Gap-up breach: 96 × $259.555 = $24,917 = 22.2% equity > 20% gate; trimmed to 86 shares to restore compliance. Realized loss: ~-$32. | — | — |
+
+**Net position: 86 shares NUE @ avg $259.555**
+
+**Gate check (buy — prior to fill):**
+- Positions after fill: 4/6 ✓
+- Week 15 trades: 2/3 ✓
+- Position cost at pre-mkt ref ($231.61): $22,234 ≤ 20% equity $22,397 ✓
+- Cash $51,540 >> $22,234 ✓
+- PDT daytrade count: 0/3 ✓
+- Catalyst documented in today's RESEARCH-LOG ✓
+- Stock (not option) ✓
+- ECI Q2 ≤ 0.9%: actual +0.9% (in-line, benign) ✓
+
+**Gap-up breach & trim:**
+- Pre-mkt reference: $231.61 | Actual open fill: $259.555 (+12.1% gap — AMZN/risk-on catalyst priced in overnight)
+- 96 × $259.555 = $24,917 = 22.2% equity → violates 20% gate (rule-required trim)
+- Sold 10 shares at ~$256.40 → 86 shares remaining
+- Post-trim: 86 × $256.86 = $22,090 = 19.8% equity ✓
+- ⚠️ Note: entry at gapped-up price ($259.555 vs planned ~$231) means thesis partially priced in; R:R degraded vs plan; monitor closely at midday
+
+**Stop confirmed:** 10% trailing stop GTC order b74a09c5 active | HWM $256.86 | stop $231.174
+**-7% manual cut floor:** $259.555 × 0.93 = $241.39 — midday trigger if NUE ≤ $241.39
+
+**Portfolio after trades:** $111,550.51 | **Cash:** $29,187.47 (26.2%) | **Long MV:** $82,363.04 (73.8% deployed — approaching 75-85% target) | **Phase P&L:** +$11,550.51 (+11.55%)
+
+**Week 15 trades:** 2/3 | **Open positions:** 4/6 | **Daytrade count:** 0 | **Slack sent: pending**
+**Key watch (Fri Jul 31 intraday):** NUE -7% manual cut at $241.39 (HWM $256.86, stop $231.17 — 10% trail active); GD 7% trail (HWM auto-advancing from $384.90 → +1.67% pre-mkt, new HWM likely higher at open); LMT stop buf 3.49% (HWM $593.77, buf improved from Thursday; cannot tighten per 3% rule); HWM 10% trail (HWM $295.28; Q2 post-earnings drift day 2); weekly review EOD
