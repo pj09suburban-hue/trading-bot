@@ -4469,3 +4469,68 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 - **Deployment gap:** RTX stop + cash position = $51,541 cash (46.5%). Need new 4th-position setup. Best candidates: NUE or MLM (Materials +13.7% YTD) or another high-conviction defense/industrials/materials name post-AAPL+AMZN AMC tonight. Research for Friday pre-market.
 - **AAPL+AMZN AMC tonight:** Critical sentiment read. AAPL EPS est $1.89, rev $108.86B; AMZN EPS est $1.82, rev $196.10B. Either miss = broad risk-off tomorrow morning → hold on new entry until reaction settles.
 - **HWM Q2 earnings:** Stock +1.03% post-print. Q2 consensus $1.24 EPS ($0.91 prior year, +36% YoY). Modest positive reaction (not a Q1-style +12% surge). 10% trailing stop at $265.752 (3.59% buf) intact.
+
+---
+
+## 2026-07-31 — Pre-Market Research (Day 71, Friday — Week 15 Day 5)
+
+### Account Snapshot
+- **Equity:** $111,908.20 | **Cash:** $51,540.75 (46.1%) | **Long MV:** $60,367.45 (53.9%)
+- **Day P&L:** +$269.85 (+0.24%) | **Phase P&L:** +$11,908.20 (+11.91%)
+- **Positions:** 3/6 | **Week 15 trades:** 1/3 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Pre-mkt | Unrealized | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.57 | $384.90 | +$316.59 (+1.67%) | 7% trail, 3c260832, ~$357.96 (auto-advancing) | $383.47→$384.90 | 7.0% |
+| HWM | 65 | $278.99 | $280.53 | +$100.10 (+0.55%) | 10% trail, 96ab1030, $265.752 | $295.28 | 5.3% |
+| LMT | 40 | $549.50 | $572.20 | +$908.00 (+4.13%) | 7% trail, c8572779, $552.206 | $593.77 | 3.49% |
+
+### Market Context
+- **WTI:** ~$84.18/bbl | **Brent:** ~$85.56/bbl — elevated; Iran tensions ongoing (energy sector BANNED)
+- **S&P 500 futures:** ~+0.46% (+34.5pts, ~7,499–7,517 range) — positive bias driven by AMZN
+- **Nasdaq 100 futures:** ~+1.1% — AMZN cloud beat is dominant driver
+- **VIX:** ~17.98–18.91 range (Jul 28 close 18.21); elevated but not panicked; declining from FOMC-week highs
+- **AMZN (Q2 2026, AMC Jul 30):** MASSIVE BEAT — AWS +37% YoY (fastest in 18 quarters), revenue $200.6B (first >$200B quarter), EPS $5.75 vs $1.82 est. Stock +7–9% AH. **AI/cloud thesis reignited. Strong risk-on signal.**
+- **AAPL (Q3 FY2026, AMC Jul 30):** Beat headline (EPS $2.02 vs $1.89, rev $109.4B vs $108.65B, +16% YoY). BUT stock -4–6.7% AH on weaker Q4 guidance and supply chain concerns. Mixed signal.
+- **Net overnight sentiment:** RISK-ON — AMZN surges offset AAPL drag. Nasdaq +1.1% confirms market treating AMZN as dominant read.
+- **MSFT (Jul 29 AMC):** Beat — Azure $100B+ annual revenue; stock +15% Jul 30. Confirms mega-cap cloud capex supercycle.
+- **Today's macro (8:30 AM ET):** Employment Cost Index Q2 2026 — consensus +0.9% QoQ (prior +0.9%). **Key risk event: if hot (>1.0%), hawkish repricing possible; wait for settle before entry.**
+- **BMO today:** CVX, XOM (energy — sector BANNED; irrelevant to positions), CCJ, Cboe
+- **Sector momentum YTD:** Energy +20.7% (BANNED) | Industrials +19.3% (LEADING ✓) | Technology +16.7% | Materials +13.7% (LEADING ✓) | A&D subtheme +37.4% within Industrials
+
+### Position Thesis Check
+- **GD (+1.67%):** Q2 beat intact (EPS $4.24, +7.6%; rev $14.09B, +4.5%; backlog $136.5B record; FY26 EPS guidance raised to $16.80–$16.90). BofA raised PT to $415 from $400 (Buy). Defense sector leading. Gulfstream + shipbuilding demand strong. **Thesis strong. HOLD.**
+- **HWM (+0.55%):** Q2 released Jul 30 BMO; positive market reaction (+1.03% intraday yesterday, stock +$100 unrealized). Commercial aero/gas turbine/defense MRO thesis intact. No binary event until next quarter. 10% trail HWM $295.28 (stop $265.75, 5.3% buf). **Thesis intact. HOLD.**
+- **LMT (+4.13%):** Q2 beat (EPS $7.94 vs $7.19, rev $20.1B, backlog $230.4B record). Iran conflict = sustained demand. Stop buffer improved to 3.49% (HWM $593.77 − $552.21 / $572.20). Still within 3% exclusion zone — cannot tighten. **Thesis intact. HOLD.**
+
+### Trade Ideas
+1. **NUE (Nucor Steel) — TRADE-CONDITIONAL: Buy after 8:30 AM ECI settle**
+   - **Catalyst:** AMZN Q2 AWS +37% = largest hyperscaler confirming accelerating data center buildout → structural US steel demand (rack fabrication, data center structures, grid infrastructure). MSFT cloud surge confirms. ECI benign = FOMC stays patient = infrastructure/materials spending continues.
+   - **Sector:** Materials (LEADING, +13.7% YTD; in "Leading" quadrant per momentum map)
+   - **Entry condition:** ECI ≤0.9% QoQ at 8:30 AM (no hawkish surprise); verify `bash scripts/alpaca.sh quote NUE` before submit; 20× price ≤ $22,382 gate
+   - **Size:** ~$20,000 (~20% equity — exact shares at open quote)
+   - **Stop:** 10% trailing stop GTC immediately after fill (standard rule, not post-earnings)
+   - **Target:** +20% (minimum 2:1 R:R vs 10% stop = 2.0:1 ✓)
+   - **Skip if:** ECI >1.0% (hawkish surprise) OR quote × shares >$22,382 (20% gate) OR NUE down >2% pre-market (sector-specific weakness)
+
+2. **MLM (Martin Marietta Materials) — Alternative if NUE setup fails**
+   - Same thesis (data center site prep + infrastructure aggregates), Materials leading
+   - Defer to next week if NUE entry taken today
+
+### Risk Factors
+1. **ECI 8:30 AM ET:** If QoQ >1.0% = hawkish surprise → Treasuries reprice → possible broad equity pullback; hold on NUE entry until data settles
+2. **AAPL -4–6.7% AH:** Consumer tech weakness could weigh on overall sentiment; defense/materials less correlated but broad-market drag possible at open
+3. **GD stop advancing:** Price $384.90 is new HWM (above prior $383.47); 7% trail should auto-advance to ~$357.96; confirm GTC 3c260832 advances
+4. **LMT stop buffer 3.49%:** Improved from yesterday's thin 1.38% but still relatively close; any -3.5% drop fires stop; no action available per 3% exclusion rule
+5. **Week 15 end:** This is the last trading day of the week; any NUE buy = trade 2/3 this week; 1 slot remaining for next week's setups
+6. **Iran ceasefire risk:** Any ceasefire news → WTI drops → broad risk-on, defense profit-taking; manageable given no energy positions
+
+### Decision
+**TRADE-conditional — NUE after 8:30 AM ECI settle (ECI ≤0.9% required).**
+- AMZN cloud blowout + MSFT beat = structural data center demand confirmed → Materials sector high-conviction setup
+- All 3 existing positions healthy; no cuts or stop tightening needed at open
+- Cash $51,540 (46.1%) → NUE ~$20k → cash drops to ~$31k, deployed ~72% (approaching 75-85% target)
+- **Default HOLD if ECI surprises hot.** Patience > activity.
+
+**Week 15 trades:** 1/3 used (NUE would be 2/3) | **Open positions:** 3→4/6 (pending NUE) | **Daytrade count:** 0
+**Key watch today:** ECI 8:30 AM (gate); NUE entry if benign; GD HWM advance ($384.90); LMT stop buf 3.49%; HWM Q2 post-earnings drift; weekly review EOD
