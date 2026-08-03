@@ -3381,3 +3381,20 @@ No positions yet. Bot launches tomorrow.
 **Week 16 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
 **Key watch (Mon Aug 3 afternoon / PLTR AMC):** NUE 10% trail auto-advancing (~HWM $265.62, stop ~$239.06 if CNBC price confirmed); LMT defense headwind watch — stop buf 4.75% (HWM $593.77, stop $552.21); GD HWM $387.68 locked in this morning; PLTR AMC tonight (EPS est $0.35 +119% YoY) — if beat → evaluate data center infrastructure play (EQIX/VRT/PWR) for Wed entry; ISM 55.6 = Materials strength sustained; NFP Friday = dominant macro event of week
 
+
+---
+
+## 2026-08-03 — EOD Snapshot (Day 72, Week 16 Day 1)
+**Portfolio:** $112,631.19 | **Cash:** $29,187.45 (25.9%) | **Day P&L:** +$489.30 (+0.44%) | **Phase P&L:** +$12,631.19 (+12.63%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| NUE | 86 | $259.555 | $260.21 | +1.14% | +$56.33 (+0.25%) | $234.50 (10% trail, b74a09c5, HWM $260.56) — 9.88% buf |
+| GD | 50 | $378.5682 | $383.00 | -0.11% | +$221.59 (+1.17%) | $360.54 (7% trail, 3c260832, HWM $387.68) — 5.87% buf |
+| HWM | 65 | $278.99 | $285.895 | +1.29% | +$448.83 (+2.48%) | $265.75 (10% trail, 96ab1030, HWM $295.28) — 7.05% buf |
+| LMT | 40 | $549.50 | $583.24 | +0.09% | +$1,349.60 (+6.14%) | $552.21 (7% trail, c8572779, HWM $593.77) — 5.32% buf |
+
+**Notes:** Day 72, Week 16 Day 1 (Monday). No trades. All 4 positions held through close. NUE recovered strongly from -0.83% (Jul 31 close) to +0.25% cumulative; trailing stop auto-advanced to HWM $260.56, stop $234.50 (CNBC showed NUE +7.165% at midday before afternoon pullback to $260.21 close). HWM led day (+1.29% intraday, +2.48% cumulative). LMT held steady (+0.09%) despite Iran de-escalation defense sector headwind — stop buffer 5.32% (HWM $593.77). GD slight pullback (-0.11%) from HWM $387.68 set at open; thesis intact. Portfolio closed +$489.30 / +0.44% on the day. Week 16 opens with 0/3 trades used; 4/6 positions; 74.1% deployed (in 75-85% target band). PLTR AMC tonight — beat would validate data center infrastructure thesis; evaluate VRT/EQIX/PWR for 5th position in tomorrow morning pre-market.
+
+**Week 16 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
+**Key watch Tue Aug 4 (Week 16 Day 2):** PLTR AMC result → if beat, evaluate data center infra play (VRT/EQIX/PWR) for 5th position (pre-market tomorrow); NUE stop HWM $260.56 (stop $234.50, 9.88% buf); LMT stop buf 5.32% (HWM $593.77, +15% trigger $631.93 = 8.33% away); HWM 10% trail (HWM $295.28, stop $265.75, 7.05% buf); GD 7% trail (HWM $387.68, stop $360.54, 5.87% buf); NFP Friday = dominant macro event; Week 16 fresh 3-trade allocation (0/3 used)
