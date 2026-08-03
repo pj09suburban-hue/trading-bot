@@ -4,6 +4,72 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-08-03 — Pre-Market Research (Day 72, Week 16 Day 1)
+
+### Account Snapshot
+- **Equity:** $112,631.19 | **Cash:** $29,187.45 (25.9%) | **Long MV:** $83,443.74 (74.1% deployed)
+- **Phase P&L:** +$12,631.19 (+12.63%) | **Day P&L:** +$489.30 (+0.44% pre-mkt)
+- **Positions:** 4/6 | **Week 16 trades:** 0/3 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Pre-mkt | Unrealized | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|
+| NUE | 86 | $259.555 | $257.00 | -$219.73 (-0.98%) | 10% trail b74a09c5, HWM $259.95, stop $233.95 | $259.95 | 8.97% / 6.08% to -7% floor |
+| GD | 50 | $378.5682 | $388.00 | +$471.59 (+2.49%) | 7% trail 3c260832, HWM $384.67, stop $357.74 | $384.67→$388 | 7.81% (advancing at open) |
+| HWM | 65 | $278.99 | $285.97 | +$453.79 (+2.50%) | 10% trail 96ab1030, HWM $295.28, stop $265.75 | $295.28 | 7.07% |
+| LMT | 40 | $549.50 | $583.84 | +$1,373.60 (+6.25%) | 7% trail c8572779, HWM $593.77, stop $552.21 | $593.77 | 5.42% |
+
+### Market Context
+- **WTI:** ~$74.40/bbl | **Brent:** ~$78.89/bbl — below last week's ~$84 (Iran tensions possibly easing + contract rollover); energy BANNED
+- **S&P 500 futures:** +0.5–0.6% (~7,477–7,478) | Dow +0.7% | Nasdaq +1.0% (First Squawk, early AM) — modest risk-on open
+- **VIX:** 15.99 (Jul 31 close, -1.10 / -6.44%) — comfortably below 20; low-fear environment; declining from FOMC-week highs of ~18–20
+- **Fed:** Powell July 29 "data-dependent flexibility" = dovish pivot perception; rate-sensitive equities (Industrials, Materials) supported
+- **10:00 AM ET:** ISM Manufacturing PMI July — est. 54.0 vs prior 53.3 (June = 20th consecutive expansion month)
+- **9:45 AM ET:** S&P Global PMI Manufacturing Final July — est. 53.8, prior 53.9
+- **10:00 AM ET:** Construction Spending June — neutral read; supports Industrials/Materials if strong
+- **BMO today:** Marriott (MAR) EPS est $3.08; ON Semiconductor (ON) — neither relevant to positions
+- **AMC tonight:** Palantir (PLTR) EPS est ~$0.35 (+119% YoY), revenue ~$1.81B (+80% YoY) — dominant AI sentiment read for Week 16
+- **Week macro:** ADP (Wed), NFP (Fri) — payrolls is the dominant macro event of the week; can reset rate expectations
+- **Incoming dividends:** GD $1.59/sh payable Aug 7 (50 sh = $79.50) | NUE $0.56/sh payable Aug 11 (86 sh = $48.16)
+- **Sector momentum YTD:** Energy +25% (BANNED) | Technology +17–18% | Industrials +13–19% (LEADING ✓) | Materials +13–18% (LEADING ✓)
+- **Momentum map:** Industrials, Materials, Consumer Staples, Energy in "Leading" quadrant (momentum + relative strength)
+
+### Position Thesis Check
+- **NUE (-0.98%):** Q2 beat ($5.04 EPS, record 2nd consecutive quarterly record shipments, Q3 guidance higher per management). KeyBanc upgraded OW PT $274 post-Q2. Steel pricing expected to continue rising through August per KeyBanc. Gap-up entry effect ($259.55 vs $231 plan) still absorbing — current $257 is 6.08% above -7% floor $241.39. 10% trail HWM $259.95 (stop $233.95, 8.97% buf). No adverse news Aug 2–3. **Thesis intact. HOLD.**
+- **GD (+2.49%):** Q2 beat (EPS $4.24 +7.3% surprise, rev $14.1B +8.1% YoY, backlog $136.5B record, FY26 guidance raised). Amundi boosted GD position today (Aug 3 filing). BofA PT $415. Trading at $388 pre-mkt — new HWM above prior $384.67; 7% trail will auto-advance at open. $1.59 div payable Aug 7 → $79.50 incoming. **Thesis strong. HOLD.**
+- **HWM (+2.50%):** Q2 released Jul 30 BMO with positive market reception. Commercial aero/gas turbine/defense MRO thesis intact. 10% trail HWM $295.28 (stop $265.75, 7.07% buf). No near-term binary events. **Thesis intact. HOLD.**
+- **LMT (+6.25%):** Q2 beat (EPS $7.94 vs $7.19 est, $230.4B record backlog). 7% post-earnings trail HWM $593.77 (stop $552.21, 5.42% buf). +15% trigger $631.93 (8.23% away); +20% trigger $659.40. Stop buffer improved from last week's thin 1.38%. **Thesis intact. HOLD.**
+
+### Trade Ideas
+1. **No new entry today — HOLD pending PLTR AMC and ISM data**
+   - 5th-position capacity within 85% deployment cap: ($112,631 × 0.85) − $83,443 = ~$12,293 → too small for a standard position; would push deployment to 85% cap
+   - Uncertainty today: ISM 10 AM (could move Materials/Industrials), PLTR AMC (dominant AI sentiment read)
+   - **Watchlist (evaluate Wed–Thu):** tech/AI infrastructure name if PLTR beats AMC tonight (7% post-earnings trail rule applies); MLM (Martin Marietta) as Materials alternative if ISM prints 54.0+
+   - Patience > activity; 74.1% deployment is just below 75% floor but all 4 positions healthy; no strong catalyst to force entry today
+
+2. **PLTR beat setup (conditional, evaluate tomorrow morning):**
+   - PLTR EPS est $0.35 (+119% YoY), rev $1.81B (+80% YoY)
+   - If PLTR beats → AI/data center momentum confirmed → evaluate data center infrastructure play (e.g., EQIX, VRT, PWR) for Wed entry
+   - Entry trigger: confirmed beat + sector reaction + 7% post-earnings trail acceptable
+
+### Risk Factors
+1. **PLTR AMC tonight:** Miss = broad AI/tech selloff → Materials/Industrials likely drag too; Beat = risk-on continuation
+2. **NFP Friday:** Dominant macro for the week; if labor market hot → hawkish repricing → pressure on rate-sensitive sectors
+3. **NUE gap-up integrity:** -7% floor $241.39 (current 6.08% above floor); any broad selloff could test this level
+4. **GD trailing stop auto-advance:** New HWM ~$388 at open → stop ~$360.84 (7% below new HWM); intraday volatility risk if gap-up reversal
+5. **ISM Prices Paid (10 AM):** Prior 73.0, expected ~70.0 — if hot → input cost inflation concerns for Industrials/Materials margins
+
+### Decision
+**HOLD — no new trade today.**
+- All 4 positions healthy; no cuts or stop tightening required
+- 5th-position capacity capped at ~$12k within 85% deployment limit — below meaningful position size
+- Uncertainty today: ISM 10 AM + PLTR AMC → evaluate 5th position Wednesday with better information
+- Dividend income incoming: $79.50 (GD, Aug 7) + $48.16 (NUE, Aug 11) = $127.66 total
+
+**Week 16 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
+**Key watch today:** ISM Mfg PMI 10 AM (54.0 expected); PLTR AMC (dominant AI sentiment read); GD trailing stop auto-advance at open ($388 → new HWM, stop ~$360.84); NUE -7% floor $241.39; LMT +15% trigger $631.93
+
+---
+
 ## 2026-07-20 — Pre-Market Research (Day 62, Monday — Week 14 Day 1)
 
 ### Account Snapshot
