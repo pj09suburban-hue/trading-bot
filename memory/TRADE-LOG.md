@@ -3340,3 +3340,44 @@ No positions yet. Bot launches tomorrow.
 **Week 15 trades:** 2/3 | **Open positions:** 4/6 | **Daytrade count:** 0 | **Slack sent: yes**
 **Key watch Mon Aug 3 (Week 16 Day 1):** NUE gap-up integrity (-0.83% unrealized, -7% floor $241.39, 6.23% buf — watch for gap-fill continuation lower or Q2 beat reassertion above $259.95 HWM); LMT stop 4.75% buf (HWM $593.77 — approaching +20% at $659.40, will tighten to 5% if reached); HWM 10% trail HWM $295.28 (+15% trigger at $320.84 unmet); GD 7% trail steady; Week 16 fresh 3-trade allocation; seek 5th position if high-conviction setup (sectors: defense/industrials/materials leading); 74% deployed
 
+---
+
+## 2026-08-03 — Midday Scan (Day 72, Week 16 Day 1)
+
+**No action taken — all positions hold.**
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| NUE | $259.555 | $257.08* | -$212.85 | -0.95% | -0.08% | $233.955 (10% trail, b74a09c5) | $259.95 | 8.99% stop / 6.11% to -7% floor $241.39 | HOLD — CNBC shows NUE +7.165% at $265.62; Alpaca feed lag; ISM 55.6 + Iran peace = dual Materials catalysts; 10% trail auto-advancing; thesis strongly confirmed |
+| GD | $378.5682 | $381.63 | +$153.09 | +0.81% | -0.47% | $360.54 (7% trail, 3c260832) | $387.68 | 5.52% | HOLD — HWM $387.68 set at open gap; defense slight headwind Iran de-escalation but Q2 beat thesis intact; Amundi position increase (filings) |
+| HWM | $278.99 | $284.00 | +$325.65 | +1.80% | +0.62% | $265.752 (10% trail, 96ab1030) | $295.28 | 6.43% | HOLD — commercial aero/gas turbine MRO thesis intact; unaffected by Iran geopolitics |
+| LMT | $549.50 | $579.73 | +$1,209.10 | +5.50% | -0.52% | $552.206 (7% trail, c8572779) | $593.77 | 4.75% | HOLD — Iran peace = defense sector rotation (-0.52%); $230.4B backlog is contract-driven, not geopolitics-driven; thesis intact; +15% trigger $631.93 (8.87% away) |
+
+*NUE Alpaca price lag: CNBC real-time shows $265.62 (+7.165%) — Materials sector top gainer on Iran peace + ISM 55.6 beat. 10% trailing stop b74a09c5 has auto-advanced (new HWM ~$265.62, stop ~$239.06 from prior $233.96).
+
+**Cut losers (-7%):** None.
+- NUE: -0.95% (Alpaca feed); real-time likely +2.3% per CNBC; floor $241.39 — clear ✓
+- GD: +0.81% ✓
+- HWM: +1.80% ✓
+- LMT: +5.50% ✓
+
+**Stop tightening (STEP 4):** No action.
+- NUE: -0.95% cumul (Alpaca) / ~+2.3% (CNBC) — +15% trigger $298.49 not reached ✓
+- GD: +0.81% cumul — +15% trigger $435.35 not reached ✓
+- HWM: +1.80% cumul — +15% trigger $320.84 not reached ✓
+- LMT: +5.50% cumul — already at 7% trail (post-earnings rule); +15% trigger $631.93 not reached ✓
+
+**Thesis check (STEP 5):**
+- NUE: ISM Manufacturing PMI July = **55.6** (vs 54.0 est, vs 53.3 prior) — 7th consecutive expansion month, well above expectations. Trump called off Iran strike → peace talks resume Aug 3 → WTI -6.78% to $78.93 → lower steel input costs. Dual catalysts confirm data center / infrastructure steel demand thesis. CNBC top gainer. Stop auto-advancing. Thesis strongly confirmed. HOLD.
+- GD: HWM $387.68 set at open; GD gapped up ~$388 at open then pulled back -0.47% intraday. Iran de-escalation creates modest defense headwind; however Q2 beat (EPS $4.24 +7.3%, backlog $136.5B record, FY26 guidance raised) is the primary thesis driver — not daily Iran news. Amundi filed increased GD position today. 7% trail $360.54 (5.52% buf). Thesis intact. HOLD.
+- HWM: +0.62% intraday; +1.80% cumulative. Commercial aero/gas turbine/defense MRO demand thesis independent of US-Iran geopolitics. 10% trail HWM $295.28 (stop $265.752, 6.43% buf). Thesis intact. HOLD.
+- LMT: -0.52% intraday on defense sector rotation (Iran peace news deflating geopolitical premium). But LMT $230.4B backlog = multi-year contracted revenue; short-term Iran news does not break thesis. 7% post-earnings trail HWM $593.77 (stop $552.21, 4.75% buf). +15% trigger $631.93 unmet. Thesis intact. HOLD.
+
+**Research (STEP 6):** ISM 55.6 (vs 54.0 est) = strong manufacturing expansion, 7th consecutive month. Iran peace talks = WTI crashed 6.78% to $78.93, broad risk-on rotation, Materials sector leading. NUE confirmed as top gainer per CNBC. No adverse company-specific news on any of the 4 holdings. PLTR AMC tonight is next dominant market sentiment event.
+
+**Notification (STEP 7):** No action taken → no Slack sent per midday rule.
+
+**Portfolio (midday):** $112,061.97 | **Cash:** $29,187.45 (26.0%) | **Long MV:** $82,874.52 (73.9% deployed) | **Day P&L:** -$79.92 (-0.07%; Alpaca feed lag on NUE likely understating) | **Phase P&L:** +$12,061.97 (+12.06%)
+**Week 16 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
+**Key watch (Mon Aug 3 afternoon / PLTR AMC):** NUE 10% trail auto-advancing (~HWM $265.62, stop ~$239.06 if CNBC price confirmed); LMT defense headwind watch — stop buf 4.75% (HWM $593.77, stop $552.21); GD HWM $387.68 locked in this morning; PLTR AMC tonight (EPS est $0.35 +119% YoY) — if beat → evaluate data center infrastructure play (EQIX/VRT/PWR) for Wed entry; ISM 55.6 = Materials strength sustained; NFP Friday = dominant macro event of week
+

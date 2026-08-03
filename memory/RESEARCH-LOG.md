@@ -68,6 +68,17 @@ Daily pre-market research entries will be appended here.
 **Week 16 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
 **Key watch today:** ISM Mfg PMI 10 AM (54.0 expected); PLTR AMC (dominant AI sentiment read); GD trailing stop auto-advance at open ($388 → new HWM, stop ~$360.84); NUE -7% floor $241.39; LMT +15% trigger $631.93
 
+### Afternoon Addendum — 2026-08-03 Midday Scan
+- **ISM Manufacturing PMI July = 55.6** (vs 54.0 est, vs 53.3 prior) — 7th consecutive expansion month, well above expectations. Bullish for Materials (NUE) and Industrials (GD, HWM, LMT).
+- **Trump called off Iran strike** → peace talks resume today → WTI crashed 6.78% to $78.93 → broad risk-on rotation. Materials sector leading; defense sector slight headwind (geopolitical premium deflating).
+- **NUE:** CNBC top gainer at $265.62 (+7.165%) — ISM beat + Iran peace (lower oil input costs) = dual Materials catalysts confirming thesis. Alpaca paper feed showing $257.08 (lag). 10% trailing stop b74a09c5 auto-advancing (new HWM ~$265.62, stop ~$239.06).
+- **GD:** HWM $387.68 locked at open; -0.47% intraday pullback. Defense slight headwind Iran de-escalation but Q2 beat / Amundi position increase thesis intact.
+- **HWM:** +0.62% intraday — commercial aero/gas turbine thesis unaffected by Iran geopolitics.
+- **LMT:** -0.52% intraday on Iran peace defense rotation; $230.4B backlog contract-driven thesis intact.
+- **No action taken.** All 4 positions hold. No Slack sent per midday rule.
+- **PLTR AMC tonight:** EPS est $0.35 (+119% YoY), rev $1.81B (+80% YoY). Beat → evaluate data center infrastructure play (EQIX/VRT/PWR) for Wed entry. Miss → hold and reassess.
+- **Week 16 remaining:** 0/3 trades used; 4/6 positions; 73.9% deployed; NFP Friday = dominant macro event.
+
 ---
 
 ## 2026-07-20 — Pre-Market Research (Day 62, Monday — Week 14 Day 1)
