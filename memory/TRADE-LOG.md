@@ -3462,3 +3462,21 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $113,866.66 equity | $29,187.45 cash (25.6%) | $84,679.21 long MV (74.4% deployed) | **Day P&L:** +$1,023.93 (+0.91%) | **Phase P&L:** +$13,866.66 (+13.87%)
 **Week 16 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
 **Key watch (Aug 4 afternoon/AMC):** AMD AMC (AI chip demand read-through → VRT thesis confirmation or invalidation); JOLTS June confirm via BLS.gov overnight; VRT re-evaluate tomorrow pre-market; NUE stop HWM $270.72 (9.89% buf); LMT stop buf 5.84% (HWM $593.77); GD stop buf 6.12% (recovered from pre-market weakness); NFP Friday = dominant macro event
+
+---
+
+## 2026-08-04 — EOD Snapshot (Day 73, Week 16 Day 2)
+**Portfolio:** $114,552.51 | **Cash:** $29,187.45 (25.5%) | **Day P&L:** +$1,709.78 (+1.52%) | **Phase P&L:** +$14,552.51 (+14.55%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| NUE | 86 | $259.555 | $272.56 | +4.32% | +$1,118.43 (+5.01%) | $246.48 (10% trail, b74a09c5, HWM $273.87) — 9.57% buf |
+| GD | 50 | $378.5682 | $387.16 | +1.24% | +$429.59 (+2.27%) | $361.17 (7% trail, 3c260832, HWM $388.36) — 6.71% buf |
+| HWM | 65 | $278.99 | $291.38 | +1.76% | +$805.35 (+4.44%) | $265.75 (10% trail, 96ab1030, HWM $295.28) — 8.80% buf |
+| LMT | 40 | $549.50 | $590.68 | +0.75% | +$1,647.20 (+7.49%) | $552.21 (7% trail, c8572779, HWM $593.77) — 6.51% buf |
+
+**Notes:** Day 73, Week 16 Day 2 (Tuesday). No trades. Strong broad day: NUE led +4.32% (ISM manufacturing/infrastructure steel momentum; trailing stop HWM advanced from $270.72 midday to $273.87 by close). GD recovered +1.24% from morning weakness (Q2 beat $136.5B backlog thesis intact, HWM $388.36 new high). HWM +1.76% on commercial aero/MRO demand continuation. LMT +0.75% steady (stop buf 6.51%, HWM $593.77, +15% trigger $631.93 = 6.98% away). Total unrealized P&L across all positions: +$4,000.57 (+4.73% blended). All 4 GTC trailing stops confirmed live. AMD reports AMC tonight — read-through for VRT data center thesis (AI chip demand). VRT deferred from today (JOLTS unverifiable, 94% deployment cap risk); evaluate fresh tomorrow pre-market with AMD result in hand. No sector failures; all theses intact.
+
+**Week 16 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
+**Key watch Wed Aug 5 (Week 16 Day 3):** AMD AMC result → VRT thesis confirm/invalidate; JOLTS June BLS.gov confirm; VRT re-evaluate (entry ~$274, 82 shares ≈ $22,468, deployment ~$107,553 = 93.9% — above 85% ceiling; watch for cash position constraint); NUE stop HWM $273.87 (stop $246.48, 9.57% buf); LMT +15% trigger $631.93 (6.98% away); NFP Friday dominant macro event
+
