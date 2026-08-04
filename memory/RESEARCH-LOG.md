@@ -4611,3 +4611,85 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 
 **Week 15 trades:** 1/3 used (NUE would be 2/3) | **Open positions:** 3→4/6 (pending NUE) | **Daytrade count:** 0
 **Key watch today:** ECI 8:30 AM (gate); NUE entry if benign; GD HWM advance ($384.90); LMT stop buf 3.49%; HWM Q2 post-earnings drift; weekly review EOD
+
+---
+
+## 2026-08-04 — Pre-Market Research (Day 73, Week 16 Day 2)
+
+### Account Snapshot
+- **Equity:** $112,687.38 | **Cash:** $29,187.45 (25.9%) | **Long MV:** $83,499.93 (74.1% deployed)
+- **Day P&L (pre-open):** -$155.35 / -0.14% | **Phase P&L:** +$12,687.38 (+12.69%)
+- **Week 16 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
+
+### Live Positions (pre-market)
+| Symbol | Entry | Pre-Mkt | Unreal P&L | % | Stop (live) | HWM | Buf | Status |
+|---|---|---|---|---|---|---|---|---|
+| NUE | $259.555 | $262.15 | +$223.17 | +1.00% | $235.44 (10% trail, b74a09c5) | $261.60 | 10.19% | HOLD |
+| GD | $378.5682 | $376.85 | -$85.91 | -0.45% | $360.54 (7% trail, 3c260832) | $387.68 | 4.33% | HOLD — -1.46% pre-mkt; stop safe; thesis intact |
+| HWM | $278.99 | $287.4375 | +$549.09 | +3.03% | $265.75 (10% trail, 96ab1030) | $295.28 | 7.55% | HOLD |
+| LMT | $549.50 | $585.7273 | +$1,449.09 | +6.59% | $552.21 (7% trail, c8572779) | $593.77 | 5.72% | HOLD |
+
+### Market Context
+- **S&P futures:** ~7,465–7,478 pre-market (CNBC implied open +$49 / +0.66% vs prior close 7,428.78); futures green on PLTR beat
+- **VIX:** ~19.3 (Investing.com real-time) — elevated; manageable
+- **WTI:** ~$84–87/bbl (recovering from Iran peace crash to $78.93 on Aug 3; supply concerns re-emerging)
+- **Brent:** ~$87–88/bbl
+- **Sector momentum YTD (as of Jul 24):** Energy +20.7% (BANNED) | Industrials +19.3% (LEADING ✓) | Technology +16.7% | Materials +13.7% (LEADING ✓)
+
+### Today's Macro Releases
+- **10:00 AM ET — JOLTS Job Openings (June):** Prior 7.594M (2-yr high), consensus 6.90–7.25M; below consensus = labor-market cooling = dovish signal; above = hawkish risk
+- **10:00 AM ET — Factory Orders (June):** Consensus +0.4% vs prior -1.3%
+- **10:00 AM ET — Trade Balance (June):** Consensus -$73.0B vs prior -$77.6B
+- **No CPI/FOMC today.** NFP Friday = dominant macro event of the week.
+- **BMO earnings:** CAT, MRK, MCD, PFE, FIS, HSBC — large-cap results; sentiment read
+
+### Last Night's Catalyst: PLTR Q2 BLOWOUT
+- **Revenue:** $1.94B vs $1.81B est (+93% YoY) — massive beat
+- **GAAP EPS:** $0.41 vs $0.35 est (+17%)
+- **U.S. commercial revenue:** +149% YoY — AI demand re-accelerating
+- **Q3 guidance:** $2.16B midpoint (8% above consensus)
+- **PLTR AH:** +12% to ~$142; pulled back to ~$134-136 extended hours
+- **Read-through:** 12th consecutive quarter of accelerating revenue growth → hyperscaler AI buildout spend is real, sustained, and re-accelerating. AMZN/MSFT cloud confirmation plus PLTR commercial surge = structural data center infrastructure demand. VRT is the direct picks-and-shovels play.
+
+### AMC Tonight
+- **AMD Q2 2026 AMC:** EPS est $1.60–1.61 vs $0.48 prior yr; revenue est $11.25B. Key AI chip demand read-through for GPU/compute infrastructure spend.
+- **SpaceX (SPCX) Q2 2026 AMC:** First earnings as public company. Lock-up expiration risk.
+
+### Position Thesis Check
+- **NUE (+1.00%):** Q2 confirmed strong ($5.04 EPS vs ~$4.75 est; $10.4B revenue; record consecutive quarterly shipments). KeyBanc Overweight $274 PT. ISM 55.6 + infrastructure demand intact. 10% trail HWM $261.60, stop $235.44 (10.19% buf). **Thesis strong. HOLD.**
+- **GD (-0.45% cumul, -1.46% pre-mkt):** Q2 beat intact (EPS $4.24, rev $14.09B, backlog $136.5B record, FY raised to $16.80–16.90). Pre-market weakness likely rotation/profit-taking. 7% trail HWM $387.68, stop $360.54 (4.33% buf). -7% floor $352.07 (6.57% away from current). **Thesis intact. HOLD.**
+- **HWM (+3.03%):** Commercial aero/gas turbine/defense MRO thesis intact. 10% trail HWM $295.28, stop $265.75 (7.55% buf). +15% trigger $320.84 (11.6% away). **Thesis intact. HOLD.**
+- **LMT (+6.59%):** Record backlog $230.4B. 7% trail HWM $593.77, stop $552.21 (5.72% buf). +15% trigger $631.93 (7.9% away). Post-earnings 7% trail rule applies. **Thesis intact. HOLD.**
+
+### Trade Ideas
+
+#### 1. VRT (Vertiv Holdings) — TRADE-CONDITIONAL: 5th position, post-JOLTS
+- **Catalyst:** PLTR +93% revenue / U.S. commercial +149% = AI buildout confirmed → direct demand for data center power/cooling infrastructure → VRT is the picks-and-shovels play. NVIDIA 800VDC alignment, expanding liquid cooling manufacturing (Italy, Ohio July 2026), BYOP&C collaboration with Generate Capital. Industrials sector LEADING (+19.3% YTD).
+- **Sector:** Industrials (LEADING ✓)
+- **Entry condition:** JOLTS ≤ 7.6M (no hawkish labor surprise) at 10:00 AM; verify `bash scripts/alpaca.sh quote VRT`; confirm Q2 2026 already reported (if not reported → initial stop 7% per post-earnings rule); confirm position cost ≤ 20% equity ($22,537 gate) at live quote
+- **Size:** ~$20k (20% equity cap); exact shares at live quote
+- **Stop:** 10% trailing GTC after fill (or 7% if pre-Q2 entry per post-earnings rule); -7% manual cut floor applies
+- **Target:** +20% (2:1 R:R vs 10% stop ✓)
+- **Skip if:** JOLTS >7.6M (hawkish) OR VRT not yet reported Q2 and pre-earnings risk too high OR quote × shares > $22,537
+
+#### 2. Continue holding all 4 positions (no cuts needed)
+- All stops active and confirmed via live order data
+- GD -1.46% pre-market is noise; stop safe at $360.54 (4.33% buf); -7% floor $352.07
+
+### Risk Factors
+1. **JOLTS 10 AM:** If labor market still tight (>7.6M) → hawkish repricing → broad equity headwind; hold VRT entry until data settles
+2. **GD stop buffer 4.33%:** Below the 5% comfort zone; any -4.3% move from current fires stop; no tightening available (below 3% exclusion threshold from HWM). Monitor.
+3. **AMD AMC tonight:** If AMD misses on AI chip revenue → semiconductor selloff could hit data center infra sentiment → risk to VRT thesis. Plan: VRT entry today is before AMD report; consider sizing smaller if concerned.
+4. **VIX 19.3:** Elevated; not extreme but above 20 = broad hedging demand; macro event risk (NFP Friday) keeps VIX elevated through week
+5. **PLTR giveback:** Stock gave back part of gains in extended hours ($142 → $134). If broad "sell the news" on AI names at open → risk-off rotation into value/defense; defensive portfolio holdings (GD, HWM, LMT) should hold
+
+### Decision
+**TRADE-CONDITIONAL — VRT after JOLTS 10:00 AM (if benign ≤7.6M).**
+- PLTR +93% revenue / +149% U.S. commercial = AI infrastructure demand structurally confirmed → VRT picks-and-shovels
+- All 4 existing positions healthy; no cuts or stop tightening triggered
+- Cash $29,187 → VRT ~$20k → cash drops to ~$9k, deployed ~91% (above 75–85% target; acceptable given high conviction)
+- Wait for JOLTS. If labor market hot → reduce to HOLD.
+- **Secondary consideration:** AMD AMC tonight → if AMD beats on AI → VRT thesis further confirmed; entry today is ahead of catalyst.
+
+**Week 16 trades:** 0/3 used (VRT would be 1/3) | **Open positions:** 4→5/6 (pending VRT)
+**Key watch today:** JOLTS 10 AM (gate); VRT entry after 10 AM if benign; GD stop buffer 4.33% (monitor); AMD AMC (data center read-through); LMT +15% trigger $631.93 (7.9% away); NFP Friday
