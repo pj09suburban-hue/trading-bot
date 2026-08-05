@@ -4693,3 +4693,72 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 
 **Week 16 trades:** 0/3 used (VRT would be 1/3) | **Open positions:** 4→5/6 (pending VRT)
 **Key watch today:** JOLTS 10 AM (gate); VRT entry after 10 AM if benign; GD stop buffer 4.33% (monitor); AMD AMC (data center read-through); LMT +15% trigger $631.93 (7.9% away); NFP Friday
+
+---
+
+## 2026-08-05 — Pre-Market Research (Day 74, Week 16 Day 3)
+
+### Account Snapshot
+- **Equity:** $114,723.71 | **Cash:** $29,187.45 (25.5%) | **Long MV:** $85,536.26 (74.6% deployed)
+- **Phase P&L:** +$14,723.71 (+14.72%) | **Day P&L (prev close):** +$374.62 (+0.33%)
+- **Week 16 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
+
+### Market Context
+- **WTI:** ~$74.63/bbl (-1.5%) | **Brent:** ~$78.44/bbl (-1.16%) — 3rd consecutive day of decline on Hormuz shipping de-escalation; Iran-U.S. deal talks continuing
+- **S&P 500 futures:** +0.25–0.3% premarket (CNBC: 7,477.75 vs prior close 7,428.78) — S&P hit ALL-TIME RECORD yesterday on dual catalysts: Hormuz peace hopes + AI earnings rally
+- **VIX:** ~15.84 (down sharply from ~19.3 yesterday) — materially calmer, confirmed risk-on mode
+- **10:00 AM ET — ISM Services PMI (July 2026):** Key data today. Prior: Jun 54.0, May 54.5 — trend has been strong expansion; consensus ~53.5–54.5
+- **BMO earnings today:** DIS, SHOP, UBER (EPS est $1.03), LLY, NVO — large-cap sentiment reads; no direct holdings impacted
+
+### Key Overnight Catalyst: AMD Q2 2026 BEAT
+- **Revenue:** $11.5B (+50% YoY) — beat vs $11.3B est ✓
+- **Non-GAAP EPS:** $1.66 vs $1.62 est ✓ | **GAAP EPS:** $1.38
+- **Data Center:** $6.7B (+107% YoY) — exceeded all forecasts; 58% of total revenue
+- **Q3 guide:** ~$13B revenue (well above $11.5B consensus — massive raise) ✓
+- **Stock action:** -8.9% AH on sell-the-news ($472) → RECOVERED, +7.52% premarket today ($556) — sell-the-news reversed; conviction buy
+- **Read-through:** After PLTR +149% US commercial revenue, AMD DC +107% confirms structural AI infrastructure capex is accelerating, not plateauing → VRT picks-and-shovels thesis freshly validated with two consecutive data points
+
+### Position Thesis Check
+| Symbol | Entry | Current | Unrealized | Stop (ID) | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|
+| NUE | $259.555 | $278.01 | +$1,587 (+7.11%) | $246.97 (10% trail, b74a09c5) | $274.415 | 11.17% | HOLD — ISM mfg 55.6 + infrastructure steel thesis intact; stop auto-advancing |
+| GD | $378.5682 | $384.18 | +$280 (+1.48%) | $361.17 (7% trail, 3c260832) | $388.36 | 5.99% | HOLD — Q2 beat ($136.5B backlog), stop buf 6.0% |
+| HWM | $278.99 | $290.00 | +$715 (+3.95%) | $265.75 (10% trail, 96ab1030) | $295.28 | 8.36% | HOLD — commercial aero MRO thesis intact |
+| LMT | $549.50 | $589.21 | +$1,588 (+7.23%) | $552.21 (7% trail, c8572779) | $593.77 | 6.27% | HOLD — +15% trigger $631.93 (7.25% away) |
+
+### Trade Ideas
+
+#### 1. VRT (Vertiv Holdings) — TRADE-CONDITIONAL: 5th position, after ISM Services 10:00 AM
+- **Catalyst:** AMD Q2 data center revenue +107% YoY ($6.7B), Q3 guide $13B (+13% seq above consensus) = AI infrastructure capex structurally accelerating. Combined with PLTR +149% US commercial: two consecutive mega-beat confirmation events in 3 days. VRT is the direct picks-and-shovels beneficiary.
+- **VRT fundamentals:** Q2 reported Jul 29 (7 days ago — no post-earnings rule): EPS $1.52 (+60%, BEAT $1.43 est), revenue $3.27B (+24%, missed by $109M), FY guidance raised. Stock surged ~+12% on earnings day. Thesis intact.
+- **Sector:** Industrials LEADING (+21.34% YTD through Q2) ✓
+- **Gate:** ISM Services (10:00 AM) ≥ 53 (expansion confirms macro backdrop)
+- **Entry:** VRT ~$274–280 (verify `bash scripts/alpaca.sh quote VRT` at/after 9:30 AM); ~82 shares
+- **Stop:** 10% trailing GTC after fill (no post-earnings restriction — 7+ days past print)
+- **-7% manual cut:** ~$254–260 depending on fill
+- **Target:** +20% (~$329–336); 2:1 R:R vs 10% stop ✓
+- **Deployment note:** 82 shares × $274 = $22,468 → deployment rises to ~94% (above 85% target); accepted given dual PLTR+AMD catalyst confirmation and Industrials sector leadership
+- **Skip if:** ISM Services < 53 OR live quote × shares > $22,945 (20% equity cap) OR position count gate fails
+
+#### 2. Hold all 4 current positions
+- No cuts needed (all above -7% floor)
+- No stop tightening triggered (no position ≥ +15%)
+
+### Risk Factors
+1. **ISM Services miss (<53):** Services contraction = hawkish surprise; delay/cancel VRT entry
+2. **Deployment overshoot (94%):** Reduces cash buffer to ~$6.7k; any simultaneous stop-out on 2 positions could create forced selling without rebalancing cash
+3. **AMD pattern repeat:** AMD sold off AH before recovering; risk that VRT "buy the AMD beat" thesis is crowded; monitor open for quick reversals
+4. **GD stop buffer 6.0%:** Below 7% comfort zone; any -6% move fires stop — monitor intraday
+5. **NFP Friday:** Dominant macro event of the week; keep powder dry for potential Friday chop
+
+### Decision
+**TRADE-CONDITIONAL — VRT after ISM Services (10:00 AM, gate ≥ 53)**
+- PLTR +149% + AMD +107% DC revenue = back-to-back structural confirmation of AI infrastructure demand
+- VRT past own earnings (Jul 29), guidance raised, Industrials sector leading
+- Market at all-time highs, VIX ~15.84 (risk-on), oil declining (dovish macro backdrop)
+- Gate: ISM Services expansion ≥ 53 at 10:00 AM
+- Size: ~82 shares at live quote (stay ≤ 20% equity cap); 94% deployment accepted on conviction
+
+**Week 16 trades:** 0/3 used (VRT would be 1/3) | **Open positions:** 4→5/6 (pending VRT)
+**Key watch today:** ISM Services 10 AM (gate for VRT); VRT entry after 10 AM; GD stop buf 6.0% (monitor); NUE +15% trigger $298.49 (now 7.36% away); LMT +15% trigger $631.93 (7.25% away); NFP Friday
+
