@@ -3555,3 +3555,21 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday post-trade):** $114,007.37 equity | $6,485.56 cash (5.7%) | $107,521.81 long MV (94.3% deployed) | **Day P&L:** -$341.72 (-0.30%) | **Phase P&L:** +$14,007.37 (+14.01%)
 **Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch (Aug 5 afternoon):** VRT open P&L (watch for quick thesis reversal); LMT stop buf 5.19% (monitor intraday); GD stop buf 5.49% (monitor); NUE +15% trigger $298.49 (8.41% away); LMT +15% trigger $631.93 (8.44% away); NFP Friday dominant macro event
+
+---
+
+## 2026-08-05 — EOD Snapshot (Day 74, Week 16 Day 3)
+**Portfolio:** $114,118.09 | **Cash:** $6,485.56 (5.7%) | **Day P&L:** -$434.42 (-0.38%) | **Phase P&L:** +$14,118.09 (+14.12%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| NUE | 86 | $259.555 | $274.04 | $0.00 (0.00%) | +$1,245.71 (+5.58%) | $252.10 (10% trail, HWM $280.11) |
+| GD | 50 | $378.5682 | $383.81 | -$97.75 (-0.51%) | +$261.84 (+1.38%) | $362.24 (7% trail, HWM $389.50) |
+| HWM | 65 | $278.99 | $290.47 | +$147.55 (+0.79%) | +$746.20 (+4.12%) | $265.75 (10% trail, HWM $295.28) |
+| LMT | 40 | $549.50 | $581.47 | -$314.40 (-1.33%) | +$1,278.80 (+5.82%) | $552.21 (7% trail, HWM $593.77) |
+| VRT | 81 | $280.27 | $280.69 | +$33.59 (NEW) | +$33.59 (+0.15%) | $254.25 (10% trail, HWM $282.50) |
+
+**Notes:** Day 74, Week 16 Day 3 (Wednesday). Mixed session — portfolio slipped -$434.42 (-0.38%) driven by LMT -1.33% (Hormuz de-escalation headwind, $230.4B backlog thesis intact, stop buf 5.03%) and GD -0.51% (stop buf 5.62%). HWM +0.79% continued commercial aero MRO strength. NUE flat on thin data (close = last-close $274.04). VRT new entry at $280.27 (81 shares midday) on AMD +107% DC confirmation + ISM Svc 54.1%; closed at $280.69, unrealized +$33.59 (+0.15%), stop HWM $282.50. All 5 GTC trailing stops confirmed live. Total unrealized P&L across 5 positions: +$3,566.14. No -7% cuts triggered. No stop tightening triggered (all positions < +15%). 94.3% deployed — at ceiling; no new buys unless VRT or another position closes.
+
+**Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch Thu Aug 6 (Week 16 Day 4 — NFP Friday tomorrow):** NFP (Aug 7 8:30 AM ET) — dominant macro event, prep pre-market; LMT stop buf 5.03% (watch intraday swings); GD stop buf 5.62% (monitor); VRT stop HWM $282.50 (watch first full session); NUE +15% trigger $298.49 (8.92% away); LMT +15% trigger $631.93 (8.68% away); 94.3% deployed — no new buys unless a position closes
