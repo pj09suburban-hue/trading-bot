@@ -3504,3 +3504,54 @@ No positions yet. Bot launches tomorrow.
 **Account:** $115,070.67 equity | $29,187.45 cash (25.4%) | $85,883.22 long MV (74.6% deployed)
 **Week 16 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
 **Key watch today:** ISM Services 10:00 AM ET (gate for VRT; ≥53 = green light); VRT ask ~$283 AH (verify live quote at open; 80 shares × $283 ≈ $22,640 ≈ 19.7% equity — check cap); NUE +15% trigger $298.49; LMT +15% trigger $631.93; NFP Friday
+
+---
+
+## 2026-08-05 — Midday Scan (Day 74, Week 16 Day 3)
+
+**TRADE: VRT bought — 81 shares @ $280.27 | Stop: 10% trail GTC (39fc75c9, stop $251.65)**
+
+### VRT Entry Checklist
+- **Catalyst:** AMD Q2 DC revenue +107% YoY ($6.7B), Q3 guide $13B (massive raise) — back-to-back structural AI infra confirmation (PLTR +149% US commercial Aug 1). ISM Services July 54.1% ≥53 gate met at 10:00 AM. VRT = picks-and-shovels AI infra play; own earnings Jul 29 (EPS $1.52 BEAT, guidance raised, no post-earnings trail restriction).
+- **Sector:** Industrials LEADING (+21.34% YTD Q2) ✓
+- **Stop:** 10% trail GTC (39fc75c9), initial stop $251.65, HWM $279.61 ✓
+- **-7% manual cut:** $280.27 × 0.93 = $260.65 ✓
+- **Target:** +20% ≈ $336.32 (2:1 R:R on 10% stop) ✓
+- **Live quote verified:** $280.05 ask → filled $280.27 avg ✓
+
+### Buy-Side Gate (all pass)
+- [x] Positions after fill: 5/6 ✓
+- [x] Trades this week: 1/3 ✓
+- [x] Position cost: 81 × $280.27 = $22,702 ≤ $22,818 (20% of $114,089 equity) ✓
+- [x] Position cost ≤ cash: $22,702 ≤ $29,187 ✓
+- [x] PDT count: 0 < 3 ✓
+- [x] Catalyst in RESEARCH-LOG: AMD DC +107%, PLTR +149%, ISM Svc 54.1% ✓
+- [x] Instrument: stock (VRT NYSE) ✓
+
+### Existing Positions (midday)
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| NUE | $259.555 | $273.46 | +$1,195.83 | +5.36% | -0.22% | $252.10 (10% trail, b74a09c5) | $280.11 | 7.81% | HOLD — ISM mfg 55.6 + infra steel; minor pullback from HWM |
+| GD | $378.5682 | $383.26 | +$234.59 | +1.24% | -0.63% | $362.24 (7% trail, 3c260832) | $389.50 | 5.49% | HOLD — Q2 beat/backlog thesis intact; stop buf 5.49% |
+| HWM | $278.99 | $290.87 | +$772.20 | +4.26% | +0.99% | $265.75 (10% trail, 96ab1030) | $295.28 | 8.73% | HOLD — commercial aero MRO intact |
+| LMT | $549.50 | $582.69 | +$1,327.60 | +6.04% | -1.07% | $552.21 (7% trail, c8572779) | $593.77 | 5.19% | HOLD — $230.4B backlog; stop buf 5.19%; thesis intact |
+| VRT | $280.27 | $279.88 | -$31.61 | -0.14% | NEW | $251.65 (10% trail, 39fc75c9) | $279.61 | 9.87% | NEW — just filled |
+
+**Cut losers (-7%):** None. All ≥ entry or within normal range.
+**Stop tightening (STEP 4):** None triggered. No position ≥ +15%.
+- NUE: +5.36% — trigger $298.49 (unmet) ✓
+- GD: +1.24% — trigger $435.35 (unmet) ✓; already at 7% trail ✓
+- HWM: +4.26% — trigger $320.84 (unmet) ✓
+- LMT: +6.04% — trigger $631.93 (unmet) ✓; already at 7% trail ✓
+
+**Thesis check (STEP 5):** All intact.
+- NUE: Minor -0.22% intraday pullback from HWM $280.11; ISM mfg 55.6 + infrastructure steel thesis unchanged. HOLD.
+- GD: -0.63% intraday, stop buf 5.49%; Q2 beat ($136.5B backlog) thesis intact. HOLD.
+- HWM: +0.99% intraday; commercial aero/MRO demand thesis solid. HOLD.
+- LMT: -1.07% intraday (minor defense sector pressure from Hormuz de-escalation) — $230.4B contracted backlog = thesis intact. Stop buf 5.19% — tight but clear. HOLD.
+- VRT: New entry; thesis: AMD/PLTR dual confirmation + ISM Svc 54.1%. 10% trail set.
+
+**Portfolio (midday post-trade):** $114,007.37 equity | $6,485.56 cash (5.7%) | $107,521.81 long MV (94.3% deployed) | **Day P&L:** -$341.72 (-0.30%) | **Phase P&L:** +$14,007.37 (+14.01%)
+**Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch (Aug 5 afternoon):** VRT open P&L (watch for quick thesis reversal); LMT stop buf 5.19% (monitor intraday); GD stop buf 5.49% (monitor); NUE +15% trigger $298.49 (8.41% away); LMT +15% trigger $631.93 (8.44% away); NFP Friday dominant macro event
