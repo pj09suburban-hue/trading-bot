@@ -3480,3 +3480,27 @@ No positions yet. Bot launches tomorrow.
 **Week 16 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
 **Key watch Wed Aug 5 (Week 16 Day 3):** AMD AMC result → VRT thesis confirm/invalidate; JOLTS June BLS.gov confirm; VRT re-evaluate (entry ~$274, 82 shares ≈ $22,468, deployment ~$107,553 = 93.9% — above 85% ceiling; watch for cash position constraint); NUE stop HWM $273.87 (stop $246.48, 9.57% buf); LMT +15% trigger $631.93 (6.98% away); NFP Friday dominant macro event
 
+
+---
+
+## 2026-08-05 — Market-Open (Day 74, Week 16 Day 3)
+
+**No trades executed.**
+
+**VRT SKIPPED — ISM Services gate not evaluatable at open:** Research plan requires ISM Services PMI (July 2026) ≥ 53; releases 10:00 AM ET. Market-open fires 8:30 AM ET — gate condition not yet available. Midday scan (12:00 PM ET) should evaluate ISM Services and execute VRT if ≥ 53.
+
+**Stops confirmed active (all 4):**
+- NUE b74a09c5: 10% trail, HWM $274.415, stop $246.97 ✓
+- GD 3c260832: 7% trail, HWM $388.36, stop $361.17 ✓
+- HWM 96ab1030: 10% trail, HWM $295.28, stop $265.75 ✓
+- LMT c8572779: 7% trail, HWM $593.77, stop $552.21 ✓
+
+**Live positions at market-open:**
+- NUE: $277.99 (+7.11% cumul) | stop buf 9.57%
+- GD: $388.42 (+2.60% cumul) | stop buf 7.02%
+- HWM: $289.77 (+3.86% cumul) | stop buf 8.29%
+- LMT: $593.00 (+7.92% cumul) | stop buf 6.89%; +15% trigger $631.93 (6.56% away)
+
+**Account:** $115,070.67 equity | $29,187.45 cash (25.4%) | $85,883.22 long MV (74.6% deployed)
+**Week 16 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
+**Key watch today:** ISM Services 10:00 AM ET (gate for VRT; ≥53 = green light); VRT ask ~$283 AH (verify live quote at open; 80 shares × $283 ≈ $22,640 ≈ 19.7% equity — check cap); NUE +15% trigger $298.49; LMT +15% trigger $631.93; NFP Friday
