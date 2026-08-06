@@ -3573,3 +3573,45 @@ No positions yet. Bot launches tomorrow.
 
 **Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch Thu Aug 6 (Week 16 Day 4 — NFP Friday tomorrow):** NFP (Aug 7 8:30 AM ET) — dominant macro event, prep pre-market; LMT stop buf 5.03% (watch intraday swings); GD stop buf 5.62% (monitor); VRT stop HWM $282.50 (watch first full session); NUE +15% trigger $298.49 (8.92% away); LMT +15% trigger $631.93 (8.68% away); 94.3% deployed — no new buys unless a position closes
+
+---
+
+## 2026-08-06 — Midday Scan (Day 75, Week 16 Day 4)
+
+**No action taken — all positions hold.**
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| NUE | $259.555 | $272.525 | +$1,115.42 | +4.997% | -0.806% | $252.099 (10% trail, b74a09c5) | $280.11 | 7.51% | HOLD — ISM mfg + infrastructure steel thesis intact |
+| GD | $378.5682 | $387.435 | +$443.34 | +2.342% | +0.874% | $362.235 (7% trail, 3c260832) | $389.50 | 6.50% | HOLD — Q2 beat/backlog thesis intact |
+| HWM | $278.99 | $291.415 | +$807.625 | +4.454% | ~flat (-0.002%) | $278.694 (10% trail, 96ab1030) | $309.66 | 4.37% | HOLD — see note below |
+| LMT | $549.50 | $583.37 | +$1,354.80 | +6.164% | +0.999% | $552.206 (7% trail, c8572779) | $593.77 | 5.34% | HOLD — $230.4B backlog; Hormuz talks mild headwind |
+| VRT | $280.27 | $280.19 | -$6.50 | -0.029% | +0.810% | $257.724 (10% trail, 39fc75c9) | $286.36 | 8.02% | HOLD — recovered from pre-market -2.32% weakness; thesis intact |
+
+**Cut losers (-7%):** None.
+- NUE: +4.997% ✓ | GD: +2.342% ✓ | HWM: +4.454% ✓ | LMT: +6.164% ✓ | VRT: -0.029% ✓
+
+**Stop tightening (STEP 4):** None triggered.
+- NUE: +4.997% — +15% trigger $298.49 (9.55% away) ✓
+- GD: +2.342% — already 7% trail; +15% trigger $435.35 (unmet) ✓
+- HWM: +4.454% — +15% trigger $320.84 (10.1% away) ✓
+- LMT: +6.164% — already 7% trail; +15% trigger $631.93 (8.34% away) ✓
+- VRT: -0.029% — +15% trigger $322.31 (15.0% away) ✓
+
+**Thesis check (STEP 5):**
+- NUE: -0.806% intraday; ISM mfg 55.6 + infrastructure steel demand unchanged. PH BMO positive Industrials read-through. HOLD.
+- GD: +0.874% intraday; Q2 beat ($136.5B backlog record) thesis intact. Stop buf 6.50%. HOLD.
+- HWM: **Sell-the-news reversal after Q2 BEAT.** Gapped to pre-market $302.99 (+3.97%), surged to $309.66 intraday (HWM on trailing stop updated 09:35 ET), then fully retraced to $291.415 (~flat from yesterday close $291.42). Stop auto-advanced to $278.694 (HWM $309.66 × 90% = $278.694) — effectively a breakeven stop ($278.99 entry). Thesis INTACT: Q2 beat confirmed (rev $2.547B +24% YoY, EPS $1.33 +33%, FCF $479M +39%, guidance raised). Perplexity confirms no downgrade, no bad news; Moderate Buy consensus, $294 avg target. Sell-the-news dynamics normal; trailing stop protecting at breakeven. Buffer only 4.37% — tightest in portfolio. HOLD; manual cut only at -7% from entry ($259.46).
+- LMT: +0.999% intraday; Iran-Oman peace talks = mild defense sentiment headwind, but $230.4B multi-year contracted backlog = thesis intact. Stop buf 5.34%. HOLD.
+- VRT: Recovered from pre-market -2.32% weakness; now +0.81% intraday, essentially flat from entry ($280.19 vs $280.27 entry). Stop HWM advanced to $286.36 (stop $257.724 = 8.02% buf). AMD/PLTR dual-confirmation + ISM Svc 54.1% thesis intact. HOLD; manual cut at $260.65.
+
+**Thesis check summary:** All 5 intact. HWM warrants monitoring (4.37% stop buf, breakeven stop) but no fundamental break.
+
+**Intraday research (STEP 6):** Perplexity confirms HWM Q2 beat fundamentals (revenue +24%, EPS $1.33 beat, guidance raised, Moderate Buy, $294 avg target). No analyst downgrades, no negative news. Sell-the-news reversal attributable to crowded post-earnings positioning, not fundamental deterioration.
+
+**Notification (STEP 7):** No action taken → no Slack sent per midday rule.
+
+**Portfolio (midday):** $114,280.64 equity | $6,485.55 cash (5.7%) | $107,795.09 long MV (94.3% deployed) | **Day P&L:** +$404.01 (+0.35%) | **Phase P&L:** +$14,280.64 (+14.28%)
+**Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch (Aug 6 afternoon → NFP Friday):** HWM stop buf 4.37% (monitor intraday; stop at breakeven $278.694; any further weakness risks stop-out at near-zero P&L); LMT stop buf 5.34% (monitor); GD stop buf 6.50% (watch); VRT recovery holding (+0.81%); NFP Aug 7 8:30 AM ET (July jobs: consensus +85–110k, unemployment 4.1–4.3%) — dominant macro event; all 5 positions exposed to macro shock
+
