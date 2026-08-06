@@ -4762,3 +4762,73 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 **Week 16 trades:** 0/3 used (VRT would be 1/3) | **Open positions:** 4→5/6 (pending VRT)
 **Key watch today:** ISM Services 10 AM (gate for VRT); VRT entry after 10 AM; GD stop buf 6.0% (monitor); NUE +15% trigger $298.49 (now 7.36% away); LMT +15% trigger $631.93 (7.25% away); NFP Friday
 
+
+---
+
+## 2026-08-06 — Pre-Market Research (Day 75, Week 16 Day 4)
+
+### Account Snapshot
+- **Equity:** $114,549.70 | **Cash:** $6,485.55 (5.7%) | **Long MV:** $108,064.15 (94.3% deployed)
+- **Daytrade count:** 0 | **Week 16 trades:** 1/3 | **Open positions:** 5/6
+- **Day P&L (premarket):** +$673.07 vs yesterday close ($113,876.63)
+
+### Current Positions (premarket prices)
+| Symbol | Entry | Premarket | Unreal P&L | Stop (ID) | HWM | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| NUE | $259.555 | $275.56 | +$1,376 (+6.17%) | 10% trail (b74a09c5) | $280.11 | 8.52% | Thesis intact |
+| GD | $378.5682 | $384.08 | +$276 (+1.46%) | 7% trail (3c260832) | $389.50 | 5.74% | Q2 beat; backlog $136.5B |
+| HWM | $278.99 | $302.99 | +$1,560 (+8.60%) | 10% trail (96ab1030) | $295.28 | 12.29% | **Q2 BEAT today BMO** |
+| LMT | $549.50 | $582.33 | +$1,313 (+5.97%) | 7% trail (c8572779) | $593.77 | 5.18% | Hormuz talks mild headwind |
+| VRT | $280.27 | $273.77 | -$527 (-2.32%) | 10% trail (39fc75c9) | $282.50 | 7.12% | **Monitor** — -7% cut at $260.65 |
+
+### Market Context
+- **Oil:** WTI $75.00 (-0.2%), Brent $79.40 (-0.09%) — Iran-Oman peace deal talks; Strait of Hormuz de-escalation in progress
+- **S&P 500 futures:** ~+0.11% steady (7,550–7,580 range) — Dow steady, Nasdaq slipping on AI anxiety
+- **VIX:** ~15.84–18 (moderate; not alarming)
+- **Sectors leading YTD:** Energy (+22–38%) > Materials (+9–17%) > Industrials (+10–21%) > Consumer Staples (+10–16%). Our sectors (Industrials/Materials) intact.
+- **Today's data releases (Aug 6):**
+  - 8:30 AM ET: Initial Jobless Claims (est. 195K, prev. 197K)
+  - 8:30 AM ET: Q2 Nonfarm Productivity Prelim (est. +0.5%, prev. +0.3%)
+  - 8:30 AM ET: Q2 Unit Labor Costs Prelim (est. +1.5%, prev. +1.8%)
+  - 10:00 AM ET: Wholesale Inventories (June Final)
+- **NFP Friday (Aug 7 8:30 AM ET):** July jobs consensus +85–110k vs prior +57k; unemployment 4.1–4.3% est. — DOMINANT macro event
+
+### Key Earnings Today (Aug 6 BMO)
+- **HWM (our position) — Q2 BEAT:** Revenue $2.547B (+24% YoY), Adj EPS $1.33 (vs $1.23 Q1 guide, ~+8% beat), Op margin 27.9%, EBITDA margin 32.1%, FCF $479M. Stock +3.97% premarket to $302.99 — **commercial aero/MRO thesis strongly confirmed.**
+- COP: BMO (EPS est $2.10 / $2.89, revenue est $15.2B) — oil sector; no direct portfolio impact
+- PH: Parker-Hannifin BMO — Industrials read-through (positive for NUE thesis)
+- CEG: Constellation Energy BMO — energy/nuclear read-through (VRT data center power demand)
+- WBD, SRE: reporting BMO, no direct impact
+
+### Position Thesis Check
+| Symbol | Thesis | Status |
+|---|---|---|
+| NUE | ISM mfg 55.6 + infrastructure steel + record Q2 shipments | **INTACT** — PH BMO could add Industrials positive read-through |
+| GD | Q2 beat ($136.5B backlog, record $76.6B sub contract) | **INTACT** — Hormuz deal talks slight headwind but backlog = contracted rev |
+| HWM | Commercial aero/MRO structural demand + Q2 BEAT today | **STRENGTHENED** — EPS $1.33 beat, rev +24%, margin expansion confirmed |
+| LMT | $230.4B contracted backlog, defense spending structural | **INTACT** — Iran-Oman talks = mild sentiment headwind; backlog is multi-year |
+| VRT | AI infra capex (AMD +107% DC, PLTR +149%) + ISM Svc 54.1% | **INTACT but monitoring** — -2.32% premarket; cut at $260.65 (7.12% buffer to stop) |
+
+### Trade Ideas
+1. **HOLD all 5 positions — no new trades** (94.3% deployed, no capacity; patience before NFP Friday)
+2. HWM stop auto-advances today: at $302.99 → new stop ~$272.69 (10% trail) — Alpaca will update automatically during session
+3. Watch VRT closely at open: if drops toward $265 (-5.4% from entry) increase vigilance; cut at $260.65
+
+### Risk Factors
+1. **NFP Friday (Aug 7):** Soft print (<80k) = risk-off pressure on all positions; consensus ~+85–110k
+2. **VRT continued weakness:** -2.32% premarket and falling; manual cut at $260.65 (~5.1% further decline); trailing stop at $254.25
+3. **LMT/GD stop buffers tight:** LMT 5.18%, GD 5.74% — any intraday swing from Hormuz news or defense budget headlines could fire stops
+4. **Deployment at 94.3% ceiling:** No cash buffer if two stops fire simultaneously; no new buys possible today
+5. **Iran-Oman deal closing:** Oil decline = mild LMT/GD sentiment headwind; structural backlogs intact
+
+### Decision
+**HOLD — no new trades**
+- 94.3% deployed: at ceiling, zero capacity for new positions
+- HWM Q2 beat (+3.97% premarket) is a strong positive; stop HWM will auto-advance
+- All 4 profitable positions have intact theses
+- VRT: -2.32% — within normal range, thesis intact, monitoring; cut at $260.65
+- NFP Friday dominates: patience is the right call — do not trade into a major macro print
+- Week 16 budget: 1/3 trades used, 2 remaining (preserve for post-NFP opportunities next week)
+
+**Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch today:** HWM reaction to Q2 beat (stop auto-advancing; +15% trigger $320.84 = 5.87% away); VRT open price (cut at $260.65); LMT stop buf 5.18% (Hormuz headlines); Jobless Claims 8:30 AM; NFP Friday tomorrow 8:30 AM ET
