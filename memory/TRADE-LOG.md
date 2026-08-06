@@ -3615,3 +3615,21 @@ No positions yet. Bot launches tomorrow.
 **Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch (Aug 6 afternoon → NFP Friday):** HWM stop buf 4.37% (monitor intraday; stop at breakeven $278.694; any further weakness risks stop-out at near-zero P&L); LMT stop buf 5.34% (monitor); GD stop buf 6.50% (watch); VRT recovery holding (+0.81%); NFP Aug 7 8:30 AM ET (July jobs: consensus +85–110k, unemployment 4.1–4.3%) — dominant macro event; all 5 positions exposed to macro shock
 
+
+---
+
+## 2026-08-06 — EOD Snapshot (Day 75, Week 16 Day 4)
+**Portfolio:** $114,200.94 | **Cash:** $6,485.55 (5.7%) | **Day P&L:** +$324.31 (+0.28%) | **Phase P&L:** +$14,200.94 (+14.20%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| NUE | 86 | $259.555 | $272.27 | -$212.42 (-0.90%) | +$1,093.49 (+4.90%) | $252.10 (10% trail, HWM $280.11) |
+| GD | 50 | $378.5682 | $386.71 | +$131.50 (+0.69%) | +$407.09 (+2.15%) | $362.24 (7% trail, HWM $389.50) |
+| HWM | 65 | $278.99 | $292.005 | +$38.03 (+0.20%) | +$845.98 (+4.67%) | $278.694 (10% trail, HWM $309.66) |
+| LMT | 40 | $549.50 | $581.758 | +$166.32 (+0.72%) | +$1,290.32 (+5.87%) | $552.21 (7% trail, HWM $593.77) |
+| VRT | 81 | $280.27 | $280.415 | +$200.48 (+0.89%) | +$11.72 (+0.05%) | $257.72 (10% trail, HWM $286.36) |
+
+**Notes:** Day 75, Week 16 Day 4 (Thursday). Quiet positive session — portfolio +$324.31 (+0.28%). Four of five advanced: LMT +0.72%, GD +0.69%, VRT +0.89%, HWM +0.20%. NUE pulled back -0.90% on no catalyst (stop HWM $280.11 → stop $252.10; buf 7.41%). HWM stop buf remains tightest at 4.56% (breakeven stop $278.694; sell-the-news hangover from Aug 5 Q2 beat). All 5 GTC trailing stops confirmed live. No trades today. Total unrealized P&L across 5 positions: +$3,648.60. 94.3% deployed — no new buys unless a position closes.
+
+**Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch Fri Aug 7 (NFP Day):** NFP (July) at 8:30 AM ET — consensus +85–110k, unemployment 4.1–4.3%; dominant macro event; all 5 positions exposed to surprise; HWM stop buf 4.56% most vulnerable to downside shock; NUE +15% trigger $298.49 (9.55% away); LMT +15% trigger $631.93 (8.57% away); GD +15% trigger $435.35 (12.6% away)
