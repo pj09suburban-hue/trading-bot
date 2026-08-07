@@ -4896,3 +4896,8 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 
 **Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch today:** NFP 8:30 AM ET (consensus +83-97K, prev +57K); HWM stop buf 4.54% (manual cut at $260.26); LMT GS Sell overhang; GD div payable today; VRT recovery continuation
+
+### Market-Open Addendum — 2026-08-07 (8:30 AM ET)
+**NFP ACTUAL:** −23,000 vs +83,000 consensus — major miss (>100k below estimates). Unemployment 4.1% (↓ from 4.2%). Labor force participation 61.4% (5-year low). Market reaction: **RISK-OFF**, S&P 500 futures fell immediately.
+**Action:** NO TRADES. All 5 positions profitable; 94.3% deployed (zero capacity). GTC trailing stops are live and protecting downside. HWM (4.88% stop buf, breakeven stop $278.694) is the primary watch item.
+**Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
