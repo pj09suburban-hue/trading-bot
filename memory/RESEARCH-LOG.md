@@ -4831,4 +4831,68 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 - Week 16 budget: 1/3 trades used, 2 remaining (preserve for post-NFP opportunities next week)
 
 **Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
-**Key watch today:** HWM reaction to Q2 beat (stop auto-advancing; +15% trigger $320.84 = 5.87% away); VRT open price (cut at $260.65); LMT stop buf 5.18% (Hormuz headlines); Jobless Claims 8:30 AM; NFP Friday tomorrow 8:30 AM ET
+
+---
+
+## 2026-08-07 — Pre-Market Research (Day 76, Week 16 Day 5 — NFP Day)
+
+### Account Snapshot
+- **Equity:** $114,388.49 | **Cash:** $6,485.55 (5.7%) | **Long MV:** $107,902.94 (94.3% deployed)
+- **Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+- **Phase P&L:** +$14,388.49 (+14.39%) vs S&P 500
+
+### Live Positions (pre-market)
+| Symbol | Entry | Current | Unreal P&L | Stop (ID) | HWM | Buffer | Note |
+|---|---|---|---|---|---|---|---|
+| NUE | $259.555 | $271.03 | +$986.85 (+4.42%) | 10% trail (b74a09c5) | $280.11 | 6.99% | 52-wk high Aug 4; Q2 guide $4.70-4.80/sh; BofA $290 target |
+| GD | $378.5682 | $387.50 | +$446.59 (+2.36%) | 7% trail (3c260832) | $389.50 | 6.52% | Q2 beat; $1.59/sh dividend payable today |
+| HWM | $278.99 | $291.96 | +$843.05 (+4.65%) | 10% trail (96ab1030) | $309.66 | 4.54% | Breakeven stop; sell-the-news hangover from Q2 beat Aug 5 |
+| LMT | $549.50 | $583.46 | +$1,358.40 (+6.18%) | 7% trail (c8572779) | $593.77 | 5.36% | GS Sell rating ($487 target); $230.4B contracted backlog intact |
+| VRT | $280.27 | $282.38 | +$170.89 (+0.75%) | 10% trail (39fc75c9) | $286.36 | 8.73% | Q2 EPS beat ($1.52 vs $1.43E); rev miss → sold off, recovered; Bernstein Buy |
+
+### Market Context
+- **Oil:** WTI ~$78/bbl (WSJ Sep 2026 front month; Iran-Oman peace talks = mild downward pressure)
+- **S&P 500 futures:** +0.16% (~+12 pts to 7,477); Nasdaq +0.45%; Dow -0.1% — tech/chips leading pre-market (Microchip Tech, Atlassian strong forecasts; AI deleveraging 95% complete per MW)
+- **VIX:** ~18.21-18.39 (elevated; front-month futures 19.3 = NFP volatility priced in; up from ~16 prior week)
+- **Sectors leading YTD (Jun-Jul 2026):** Energy (+22-27%) > Tech (+17.5%) > Industrials (+13.4%) > Materials (+13.2%). XLI and XLB in "Leading" momentum quadrant per rotation screens. Portfolio sectors intact.
+- **NFP (July 2026) — THE EVENT TODAY:** Released 8:30 AM ET. Consensus: +83-97.5K (range of estimates); prev June: +57K; unemployment: 4.2% est (same). *Note: One data source (mql5) showed an unconfirmed "43K" actual, which would be a significant miss — unverified, treat as noise.* Framework: <80K = rate-cut expectations rise → equities up; >110K = hawkish fear → equities down.
+
+### Earnings / Events Today
+- **GD dividend payable today:** $1.59/share × 50 shares = $79.50 to account (minor positive)
+- **Vistra (VST):** Reports today (consensus EPS $2.43, +141% YoY) — no direct portfolio impact
+
+### Position Thesis Check
+| Symbol | Thesis | Status |
+|---|---|---|
+| NUE | ISM mfg 55.6 + infrastructure steel + record Q1 shipments + Q2 guide $4.70-4.80/sh | **INTACT** — 52-wk high Aug 4; KeyBanc OW $274, BofA $290; $0.56 div payable Aug 11 |
+| GD | Q2 beat ($136.5B backlog record) + $209.3M Army contract + dividend today | **INTACT** — stop buf 6.52%; div payable Aug 7 |
+| HWM | Commercial aero/MRO + Q2 BEAT (rev +24%, EPS $1.33 vs guide $1.23) | **INTACT but MONITOR** — breakeven stop $278.694; buf 4.54% tightest in portfolio; sell-the-news hangover fading |
+| LMT | $230.4B contracted multi-year backlog; PAC-3 $7B contracts Q1 | **INTACT — headwind:** GS maintains Sell ($487 target); stop buf 5.36%; Hormuz talks minor sentiment drag |
+| VRT | AI infra capex + Q2 EPS beat ($1.52) + Bernstein Buy; liquid-cooling/ThermoKey acquisition | **INTACT** — buf 8.73% healthiest; recovered from Jul 29 post-earnings selloff; Zacks Rank #1 Strong Buy |
+
+### Trade Ideas
+1. **No new trades today (HOLD)** — 94.3% deployed, zero capacity; never trade into a binary macro print
+2. **Post-NFP Week 17 watch list (if capacity opens):**
+   - NUE: If position closes or cash frees → add exposure on dip below $268; steel pricing expected strong through Aug-Oct (Wells Fargo, KeyBanc); Q2 earnings release upcoming
+   - VRT: Already long; thesis strengthening with AI infrastructure spend; hold through volatility; $336 analyst avg target vs $282 current
+   - Defense (LMT/GD): GS Sell on LMT is a headwind; consider rotating to GD if LMT stop fires; GD has better recent relative performance (+15.4% vs LMT -4.3% over 3 months)
+3. **HWM management:** If NFP is a big downside miss (< 50K) and risk-off, HWM's 4.54% stop buf is the most vulnerable — watch closely; do NOT add to or adjust stop; let GTC order run
+
+### Risk Factors
+1. **NFP binary event (8:30 AM ET):** All 5 positions exposed; a big miss could trigger risk-off and fire HWM stop (4.54% buf at breakeven); a strong beat = hawkish fears = LMT/GD headwinds
+2. **HWM stop buf 4.54%:** Tightest in portfolio; stop at breakeven ($278.694); any intraday spike to ~$278 = stop-out at near-zero P&L
+3. **Goldman Sachs Sell on LMT ($487 target):** Significant below current $583; if any negative defense catalyst hits, GS thesis may attract copycat selling
+4. **VIX 18+ pre-NFP:** Elevated fear index → expect 1-2% intraday swings at 8:30 AM; all stops are real GTC orders and will not be touched
+5. **94.3% deployed:** If two stops fire (HWM + any other) simultaneously, we have no cash to re-deploy efficiently
+
+### Decision
+**HOLD — no new trades**
+- At deployment ceiling (94.3%); no capacity for new buys regardless of NFP outcome
+- NFP release at 8:30 AM = binary macro event; strict no-trade-into-print rule
+- All 5 thesis intact heading into print
+- HWM is the monitoring priority: 4.54% buf, breakeven stop — a <$279 print could trigger stop-out
+- GD dividend ($79.50) payable today — minor positive
+- Patience > activity: Week 16 ends with 1/3 trades used; 2 remaining budget preserved for Week 17 post-NFP opportunities
+
+**Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch today:** NFP 8:30 AM ET (consensus +83-97K, prev +57K); HWM stop buf 4.54% (manual cut at $260.26); LMT GS Sell overhang; GD div payable today; VRT recovery continuation
