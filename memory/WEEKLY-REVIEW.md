@@ -970,3 +970,72 @@ Template for each entry:
 *Week 15 — portfolio -0.62% vs S&P ~+1.0% (~-1.6% underperformance). RTX clean mechanical exit at +20.36% / +$4,088 in 94 days — textbook 3rd execution of the core stop-progression playbook. GD and NUE entered correctly with documented catalysts and appropriate initial stops. Deployment improved from 41.4% to 73.9%, approaching the 75–85% target band for first time in 10+ weeks. Phase return +12.17% vs S&P ~+4.67% (+7.50% phase alpha). Demerits: weekly underperformance due to RTX-exit/redeployment timing gap, NUE gap-up sizing breach (corrected), HWM earnings date confusion (held through unplanned earnings event — lucky outcome), and deployment ended technically below 75% minimum. B reflects flawless RTX exit and solid redeployment discipline offset by continued execution edge cases and a down week vs the market.*
 
 ---
+
+## Week ending 2026-08-07
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $112,172.71 |
+| Ending portfolio | $113,694.02 |
+| Week return | +$1,521.31 (+1.36%) |
+| S&P 500 week | ~+2.54% est (7,489.72 → ~7,680 est; Mon ATH 7,736.52; confirmed thru Thu 7,709.96; Fri est with NFP miss) |
+| Bot vs S&P | ~-1.18% est |
+| Phase return | +$13,694.02 (+13.69% from $100k baseline) |
+| Phase bot vs S&P | ~+6.50% est (bot +13.69% vs S&P ~+7.19% est from Apr 24 start 7,165.08) |
+| Trades | 1 new (VRT Aug 5) — W:0 / L:0 / open:5 |
+| Win rate | N/A — no closed trades this week (33.3% all-time, 4/12 closed) |
+| Best trade | NUE +5.82% week gain (cumul -0.87% → +4.89%) |
+| Worst trade | VRT -1.86% unrealized (new entry, 3rd session) |
+| Profit factor | 2.20 all-time (no change; $19,379 winners / $8,795 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| GD | $378.57 | $390.02 | +$572.59 (+3.03%) | $362.81 (7% trail, HWM $390.12) — BofA PT $415 |
+| HWM | $278.99 | $284.99 | +$390.00 (+2.15%) | $278.694 (10% trail, HWM $309.66) ⚠️ 2.21% buf — breakeven stop |
+| LMT | $549.50 | $587.36 | +$1,514.40 (+6.89%) | $552.21 (7% trail, HWM $593.77) — +15% trigger $631.93 |
+| NUE | $259.555 | $272.25 | +$1,091.77 (+4.89%) | $252.10 (10% trail, HWM $280.11) — +15% trigger $298.49 |
+| VRT | $280.27 | $275.05 | -$422.84 (-1.86%) | $257.72 (10% trail, HWM $286.36) — -7% cut $260.65 |
+
+### What Worked
+- VRT entry disciplined: ISM Services 54.1% gate confirmed 10:00 AM; AMD DC revenue +107% + PLTR +149% dual-confirmation; all buy-side checks passed; filled $280.27 within live quote range; 10% trail correctly placed on fill
+- NUE week's best performer: +5.82% week gain (cumul -0.87% → +4.89%); AMZN AWS +37% data center buildout + ISM mfg 55.6 steel demand thesis strengthening; 52-week high hit Aug 4
+- HWM Q2 fundamentals confirmed Aug 6 BMO: revenue +24% YoY, EPS $1.33 beat (vs $1.23 guided), FCF $479M +39%, FY guidance raised; sell-the-news intraday reversal was mechanics, not thesis; UBS/RBC/DB all raised PTs post-print
+- NFP patience: no new trades on NFP day (94.3% deployed, zero capacity); all 5 GTC stops worked through macro volatility without manual intervention; no rule violations all week
+- Deployment restored from chronic shortfall: 73.9% (Week 15) → 94.2% (Week 16) with VRT add; first time above 75% floor in 10+ weeks
+
+### What Didn't Work
+- Portfolio +1.36% vs S&P ~+2.54% est = -1.18% underperformance; S&P set ATH Monday (7,736.52) on Hormuz peace + AI earnings while our names lagged index
+- HWM sell-the-news: Q2 beat +3.97% premarket fully reversed intraday on Aug 6; stop buffer narrowed to 2.21% (breakeven stop $278.694); enters Week 17 as portfolio's highest binary risk
+- VRT -1.86% unrealized by week end: new position caught NFP risk-off; well above -7% cut ($260.65) but early weakness while thesis matures is uncomfortable; 5.44% cushion to cut floor
+- Deployment overshot to 94.2% (above 85% ceiling): only $6,485 cash remaining; any two simultaneous stop-outs create a redeployment liquidity constraint; no new positions until something closes
+- NFP -23K miss (vs +85K consensus) signals significant payroll deterioration: rate cut expectations rising (bullish) but recession fears also live; risk-off heading into Week 17 could pressure all 5 positions
+
+### Key Lessons
+- HWM sell-the-news pattern = second observed instance this phase (AVGO Week 7, HWM Week 16): strong Q2 beat pre-market pop → full intraday reversal; the GTC stop (here at breakeven $278.694) is the correct response; do not widen it to give more room; the trail's job is to protect capital, not to save a thesis-intact position from a normal reversal
+- VRT thesis is multi-quarter (AMD/PLTR AI capex cycle not a one-week trade); 3-session weakness ≠ thesis break; the entry checklist was clean; allow the 10% trail to manage the position rather than forcing a quick exit
+- Deployment ceiling overshoot (94.2% vs 85% max): VRT was a high-conviction add and the 94% level was intentional, but it eliminates tactical flexibility; correct response is to let positions run via stops and only redeploy on a stop-out (not force an additional position to "optimize" deployment)
+- NFP miss of -23K is the weakest print since 2020 (est.); rate cut expectations now fully re-priced; sector rotation toward rate-sensitive growth names may compress defense/industrials multiples in coming weeks; monitor sector momentum in every pre-market
+- All 5 positions are thesis-intact at week end; the week's underperformance is macro-driven (S&P ATH Monday on catalysts not directly applicable to our holdings), not execution error
+
+### Adjustments for Next Week
+- **HWM:** Stop $278.694 (2.21% buf from $284.99) — CRITICAL; if Monday gap-down ≥2.21% GTC fires; accept near-zero P&L exit; if HWM survives, any new HWM above $309.66 auto-advances stop; do NOT intervene or widen stop under any circumstances
+- **VRT:** Cumul -1.86%; -7% cut at $260.65 ($14.40 / 5.44% below $275.05); AMD AI infra capex cycle thesis multi-quarter — hold unless thesis breaks or -7% triggers; monitor AMD follow-through on Q3 $13B guide
+- **NUE:** +4.89% cumul; +15% tighten trigger $298.49 ($26.24 / 9.65% away); $0.56 div payable Aug 11 (minor positive); verify Q2 earnings date via company IR press release (not third-party estimates)
+- **GD:** +3.03% cumul; stop $362.81 (7% trail, 6.95% buf); +15% trigger $435.35 ($45.33 / 11.6% away); thesis intact; BofA PT $415; Q3 earnings est ~Oct
+- **LMT:** +6.89% cumul; stop $552.21 (7% trail, 6.06% buf); +15% trigger $631.93 ($44.57 / 7.58% away); thesis intact; GS Sell overhang unchanged; $230.4B contracted backlog insulates
+- **Week 17 budget:** 2 trade slots remain; no new buys while at 94% deployment (zero capacity); if HWM stops out, immediately scout 1 quality non-defense name (AI infra, Materials, non-defense Industrials) with documented catalyst and 2:1+ R:R; do NOT leave freed cash idle more than 1 pre-market cycle
+
+### Overall Grade: C+
+*Week 16 — positive week (+1.36%) but underperformed S&P by ~1.18% est in a week where the index hit all-time highs. VRT entry on AMD/ISM dual-confirmation was disciplined and rule-compliant. NUE advanced +5.82% for the week. Deployment restored from chronic sub-75% shortfall to 94.2% via VRT add — first time above the 75% floor in 10+ weeks, though now above the 85% ceiling. HWM enters Week 17 at 2.21% stop buffer (breakeven stop) as the primary binary risk; any Monday gap-down auto-exits with near-zero P&L. No rule violations. Grade C+ reflects positive week and deployment improvement offset by S&P underperformance, HWM stop fragility, VRT early weakness, and no new realized gains to strengthen the profit factor.*
+
+---
