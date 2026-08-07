@@ -3672,3 +3672,23 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $113,698.86 equity | $6,485.55 cash (5.7%) | $107,213.31 long MV (94.3% deployed) | **Day P&L:** +$40.74 (+0.04%) | **Phase P&L:** +$13,698.86 (+13.70%)
 **Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch (Aug 7 afternoon → Week 17):** HWM stop buf 2.15% (CRITICAL — GTC fires at $278.694, near breakeven; do NOT intervene); NUE +15% trigger $298.49 (9.55% away); LMT +15% trigger $631.93 (8.38% away); Week 17 Mon Aug 10 (2 trade budget remains); GD div $79.50 clearing today
+**Key watch (Aug 7 afternoon → Week 17):** HWM stop buf 2.15% (CRITICAL — GTC fires at $278.694, near breakeven; do NOT intervene); NUE +15% trigger $298.49 (9.55% away); LMT +15% trigger $631.93 (8.38% away); Week 17 Mon Aug 10 (2 trade budget remains); GD div $79.50 clearing today
+
+---
+
+## 2026-08-07 — EOD Snapshot (Day 76, Week 16 Day 5 — NFP Friday)
+**Portfolio:** $113,694.02 | **Cash:** $6,485.55 (5.7%) | **Day P&L:** +$35.90 (+0.03%) | **Phase P&L:** +$13,694.02 (+13.69%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $390.02 | +$155.00 (+0.80%) | +$572.59 (+3.03%) | $362.81 (7% trail, HWM $390.12) |
+| HWM | 65 | $278.99 | $284.99 | -$307.45 (-1.63%) | +$390.00 (+2.15%) | $278.694 (10% trail, HWM $309.66) |
+| LMT | 40 | $549.50 | $587.36 | +$180.40 (+0.77%) | +$1,514.40 (+6.89%) | $552.21 (7% trail, HWM $593.77) |
+| NUE | 86 | $259.555 | $272.25 | +$21.50 (+0.09%) | +$1,091.77 (+4.89%) | $252.10 (10% trail, HWM $280.11) |
+| VRT | 81 | $280.27 | $275.05 | -$9.72 (-0.04%) | -$422.84 (-1.86%) | $257.72 (10% trail, HWM $286.36) |
+
+**Notes:** Day 76, Week 16 Day 5 (Friday — NFP Day). NFP July report: -23K miss vs +85–110K consensus (unemployment 4.3%); macro risk-off tone all session. Portfolio closed up marginally +$35.90 (+0.03%): LMT (+0.77%) and GD (+0.80%) carried the day; NUE flat (+0.09%); HWM down -1.63% (ex-div $0.14/sh + NFP risk-off + sell-the-news from Q2 beat Aug 5) — stop buf narrowed to 2.21% ($284.99 vs stop $278.694); VRT near flat (-0.04%). Total unrealized P&L: +$3,145.92. All 5 GTC trailing stops confirmed active. No trades today; Week 16 total: 1 trade. GD dividend $79.50 (50sh × $1.59) payable today credited to cash. Phase P&L +$13,694.02 (+13.69%) from $100,000 starting equity.
+
+**Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch Week 17 (Mon Aug 10):** HWM stop buf 2.21% (CRITICAL — stop at breakeven $278.694; GTC running; do NOT intervene unless -7% triggered); VRT unrealized -1.86% (well above -7% cut, watch for deterioration); fresh 3-trade budget Week 17; seek opportunities if HWM stops out (frees ~$18.5K); NUE +15% trigger $298.49, LMT +15% trigger $631.93
+
