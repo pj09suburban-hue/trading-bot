@@ -4901,3 +4901,6 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 **NFP ACTUAL:** −23,000 vs +83,000 consensus — major miss (>100k below estimates). Unemployment 4.1% (↓ from 4.2%). Labor force participation 61.4% (5-year low). Market reaction: **RISK-OFF**, S&P 500 futures fell immediately.
 **Action:** NO TRADES. All 5 positions profitable; 94.3% deployed (zero capacity). GTC trailing stops are live and protecting downside. HWM (4.88% stop buf, breakeven stop $278.694) is the primary watch item.
 **Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+
+### Midday Addendum — 2026-08-07 (Midday ET)
+**HWM intraday research (Perplexity):** No downgrades, no fundamental deterioration. UBS raised PT $299→$326 (Neutral), RBC raised PT $325→$350 (Outperform), Deutsche Bank raised PT $338→$343 (Buy) — all post Q2 beat Aug 6. Sell-the-news + NFP risk-off accounts for -1.69% today. Ex-div record date today ($0.14/sh payable Aug 25). Stop buf compressed to 2.15% ($278.694 GTC). Risk = macro-driven stop-out at near breakeven, not thesis failure. No action taken.

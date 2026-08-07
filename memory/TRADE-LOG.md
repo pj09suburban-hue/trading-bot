@@ -3633,3 +3633,42 @@ No positions yet. Bot launches tomorrow.
 
 **Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch Fri Aug 7 (NFP Day):** NFP (July) at 8:30 AM ET — consensus +85–110k, unemployment 4.1–4.3%; dominant macro event; all 5 positions exposed to surprise; HWM stop buf 4.56% most vulnerable to downside shock; NUE +15% trigger $298.49 (9.55% away); LMT +15% trigger $631.93 (8.57% away); GD +15% trigger $435.35 (12.6% away)
+
+---
+
+## 2026-08-07 — Midday Scan (Day 76, Week 16 Day 5 — NFP Friday)
+
+**No action taken — all positions hold.**
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| NUE | $259.555 | $272.24 | +$1,090.91 | +4.887% | +0.088% | $252.099 (10% trail, b74a09c5) | $280.11 | 7.40% | HOLD — ISM mfg + infrastructure steel; NFP miss = rate cut expectations (mildly bullish cyclicals) |
+| GD | $378.5682 | $388.95 | +$519.09 | +2.742% | +0.525% | $362.235 (7% trail, 3c260832) | $389.50 | 6.87% | HOLD — Q2 beat; $79.50 div payable today; thesis intact |
+| HWM | $278.99 | $284.83 | +$379.60 | +2.093% | -1.688% | $278.694 (10% trail, 96ab1030) | $309.66 | 2.15% | HOLD — stop buf CRITICAL (2.15%); NFP risk-off + ex-div today ($0.14/sh); Perplexity: no downgrades; UBS/RBC/DB all raised PT post Q2; aero MRO thesis intact; GTC order running |
+| LMT | $549.50 | $583.075 | +$1,343.00 | +6.110% | +0.039% | $552.206 (7% trail, c8572779) | $593.77 | 5.29% | HOLD — $230.4B backlog insulates from Hormuz sentiment; thesis intact |
+| VRT | $280.27 | $278.47 | -$145.82 | -0.642% | +1.199% | $257.724 (10% trail, 39fc75c9) | $286.36 | 7.45% | HOLD — recovering intraday; AI infra capex + Q2 EPS beat thesis intact |
+
+**Cut losers (-7%):** None.
+- NUE: +4.887% ✓ | GD: +2.742% ✓ | HWM: +2.093% ✓ | LMT: +6.110% ✓ | VRT: -0.642% ✓
+
+**Stop tightening (STEP 4):** None triggered.
+- NUE: +4.887% — +15% trigger $298.49 (9.55% away) ✓
+- GD: +2.742% — already 7% trail; +15% trigger $435.35 (unmet) ✓
+- HWM: +2.093% — +15% trigger $320.84 (12.59% away) ✓
+- LMT: +6.110% — already 7% trail; +15% trigger $631.93 (8.38% away) ✓
+- VRT: -0.642% — +15% trigger $322.31 (15.74% away) ✓
+
+**Thesis check (STEP 5):**
+- NUE: +0.088% intraday; NFP -23K miss → rate cut expectations = mildly positive for cyclicals/steel; ISM mfg 55.6 + infrastructure steel demand unchanged. HOLD.
+- GD: +0.525% intraday; Q2 beat ($136.5B backlog) intact; GD div $79.50 (50sh × $1.59) payable today; stop buf 6.87%. HOLD.
+- HWM: -1.688% intraday — CRITICAL WATCH. Stop buf 2.15% ($284.83 → stop $278.694). Cause: NFP macro risk-off + ex-div record date ($0.14/sh). Perplexity confirms no downgrades — UBS raised PT $326 (Neutral), RBC raised PT $350 (Outperform), DB raised PT $343 (Buy), all post Q2 beat Aug 6. Q2 fundamentals fully intact (rev +24%, EPS $1.33 beat, FY guidance raised to $5.27). Commercial aero/MRO demand continuing. GTC trailing stop managing per rules. No intervention: -7% not hit, thesis intact. HOLD; let GTC run.
+- LMT: +0.039% intraday; $230.4B contracted backlog = insulated from Hormuz sentiment drag; GS Sell overhang unchanged. HOLD.
+- VRT: +1.199% intraday, recovering from NFP risk-off open; AI infra capex intact; AMD/PLTR confirmation holds; Bernstein Buy. Unrealized -0.642% = noise. HOLD.
+
+**Intraday research (STEP 6):** Perplexity HWM sweep: no downgrades, no fundamental deterioration. UBS $326, RBC $350, DB $343 — all PT increases post Q2. Revenue guidance raised; EPS guided $5.27 FY2026. Today's weakness is NFP macro risk-off + sell-the-news continuation from Aug 5 Q2 beat. Ex-div record date today ($0.14/sh payable Aug 25). No thesis change.
+
+**Notification (STEP 7):** No action taken → no Slack sent per midday rule.
+
+**Portfolio (midday):** $113,698.86 equity | $6,485.55 cash (5.7%) | $107,213.31 long MV (94.3% deployed) | **Day P&L:** +$40.74 (+0.04%) | **Phase P&L:** +$13,698.86 (+13.70%)
+**Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch (Aug 7 afternoon → Week 17):** HWM stop buf 2.15% (CRITICAL — GTC fires at $278.694, near breakeven; do NOT intervene); NUE +15% trigger $298.49 (9.55% away); LMT +15% trigger $631.93 (8.38% away); Week 17 Mon Aug 10 (2 trade budget remains); GD div $79.50 clearing today
