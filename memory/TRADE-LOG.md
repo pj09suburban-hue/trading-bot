@@ -3692,3 +3692,42 @@ No positions yet. Bot launches tomorrow.
 **Week 16 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch Week 17 (Mon Aug 10):** HWM stop buf 2.21% (CRITICAL — stop at breakeven $278.694; GTC running; do NOT intervene unless -7% triggered); VRT unrealized -1.86% (well above -7% cut, watch for deterioration); fresh 3-trade budget Week 17; seek opportunities if HWM stops out (frees ~$18.5K); NUE +15% trigger $298.49, LMT +15% trigger $631.93
 
+
+---
+
+## 2026-08-10 — Midday Scan (Day 77, Week 17 Day 1)
+
+**No action taken — all positions hold.**
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| GD | $378.5682 | $395.45 | +$844.09 | +4.459% | +0.867% | $369.396 (7% trail, 3c260832) | $397.20 | 6.59% | HOLD — Q2 beat $136.5B backlog; stop auto-advanced; thesis intact |
+| HWM | $278.99 | $282.815 | +$248.63 | +1.371% | +0.332% | $278.694 (10% trail, 96ab1030) | $309.66 | 1.46% | HOLD — CRITICAL stop buf; GTC running; Q2 beat thesis intact; do NOT intervene |
+| LMT | $549.50 | $603.185 | +$2,147.40 | +9.770% | +2.591% | $562.604 (7% trail, c8572779) | $604.95 | 6.73% | HOLD — strong session; $230.4B backlog intact; +15% trigger $631.93 (4.8% away) |
+| NUE | $259.555 | $275.355 | +$1,358.80 | +6.087% | +1.000% | $252.099 (10% trail, b74a09c5) | $280.11 | 8.45% | HOLD — ISM mfg + infrastructure steel; $0.56 div payable Aug 11; +15% trigger $298.49 |
+| VRT | $280.270 | $271.420 | -$716.87 | -3.158% | -0.360% | $257.724 (10% trail, 39fc75c9) | $286.36 | 5.05% | HOLD — thesis intact; -7% cut at $260.65 (not triggered); GLJ Buy $381 Aug 7 |
+
+**Cut losers (-7%):** None.
+- GD: +4.459% ✓ | HWM: +1.371% ✓ | LMT: +9.770% ✓ | NUE: +6.087% ✓ | VRT: -3.158% (cut at $260.65, current $271.42) ✓
+
+**Stop tightening (STEP 4):** None triggered.
+- GD: +4.459% — already 7% trail; +20% trigger $454.28 (unmet) ✓
+- HWM: +1.371% — +15% trigger $320.84 (13.5% away) ✓
+- LMT: +9.770% — already 7% trail; +15% trigger $631.93 (4.8% away) ✓
+- NUE: +6.087% — +15% trigger $298.49 (8.4% away) ✓
+- VRT: -3.158% — below +15% trigger ✓
+
+**Thesis check (STEP 5):**
+- GD: +0.867% intraday; Q2 beat ($136.5B backlog) intact; stop auto-advanced to $369.40 (HWM $397.20); stop buf 6.59%. HOLD.
+- HWM: +0.332% intraday; stop buf CRITICAL at 1.46% ($282.815 vs stop $278.694). Q2 beat (rev +24%, EPS $1.33, FY guide raised $5.23–$5.31); UBS $326, RBC $350, DB $343; commercial aero/MRO thesis fully intact. GTC protecting at near-breakeven. Do NOT intervene. HOLD.
+- LMT: +2.591% intraday — strong session; $230.4B contracted backlog insulates from macro; GS Sell overhang unchanged; approaching +15% tighten trigger ($631.93, 4.8% away). HOLD.
+- NUE: +1.0% intraday; ISM mfg 55.6 + infrastructure steel demand intact; $0.56 div payable tomorrow Aug 11. HOLD.
+- VRT: -0.360% intraday; ongoing post-Q2-earnings sell-the-news drift. Perplexity confirms no downgrades — GLJ Research upgraded to Buy (PT $381) Aug 7; Bernstein and Mizuho Buy; AI infra capex demand fully intact; FY guidance raised ($13.8–14.2B rev, EPS $6.65–$6.75); revenue miss on top line was one-time, EPS beat was strong (+60% YoY). No thesis break. Cut only at $260.65 (well above current $271.42). HOLD.
+
+**Intraday research (STEP 6):** Perplexity VRT sweep — no downgrades confirmed; GLJ Buy upgrade Aug 7 (PT $381); Bernstein Buy; Mizuho Buy maintained; Q2 revenue +24.1% YoY, EPS $1.52 beat; FY guidance raised above Street estimate; AI data center demand strong; new Bitzero collaboration announced (AI/HPC infra). Some GS/Mizuho/Daiwa PT trims post-earnings but consensus remains broadly bullish. Thesis intact; weakness is post-earnings noise.
+
+**Notification (STEP 7):** No action taken → no Slack sent per midday rule.
+
+**Portfolio (midday):** $114,455.33 equity | $6,485.55 cash (5.7%) | $107,969.78 long MV (94.3% deployed) | **Day P&L:** +$1,016.50 (+0.90%) | **Phase P&L:** +$14,455.33 (+14.46%)
+**Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch (Aug 10 afternoon → CPI Wed):** HWM stop buf 1.46% (CRITICAL — GTC at $278.694, near breakeven; do NOT intervene); LMT approaching +15% tighten trigger (4.8% away at $631.93); VRT -3.16% ongoing drift (cut at $260.65, monitor thesis); CPI July Wed Aug 12 8:30 AM ET (consensus 3.4% YoY — dominant risk event); NUE $0.56 div payable Aug 11

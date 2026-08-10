@@ -4964,3 +4964,6 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 
 **Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch today:** HWM stop buf 1.73% (CRITICAL — GTC fires at $278.694; do NOT touch); NUE div payable Aug 11; VRT recovery confirmation; CPI positioning begins
+
+### Midday Addendum — 2026-08-10 (Midday ET)
+**VRT intraday research (Perplexity):** No downgrades confirmed. GLJ Research Buy (PT $381) Aug 7; Bernstein Buy; Mizuho Buy maintained. Q2 revenue +24.1% YoY, EPS $1.52 beat (+60% YoY), FY guidance raised to EPS $6.65–$6.75 (above Street $6.49 est). AI data center demand fully intact; Bitzero AI/HPC collaboration announced. Goldman Sachs, Mizuho, Daiwa trimmed PTs marginally but consensus broadly bullish. Current weakness (-3.16% unrealized from entry) is post-earnings sell-the-news drift, not fundamental deterioration. -7% cut at $260.65; current $271.42 = 4.0% above cut. HOLD; GTC protecting.
