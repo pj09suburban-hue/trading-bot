@@ -4904,3 +4904,63 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 
 ### Midday Addendum — 2026-08-07 (Midday ET)
 **HWM intraday research (Perplexity):** No downgrades, no fundamental deterioration. UBS raised PT $299→$326 (Neutral), RBC raised PT $325→$350 (Outperform), Deutsche Bank raised PT $338→$343 (Buy) — all post Q2 beat Aug 6. Sell-the-news + NFP risk-off accounts for -1.69% today. Ex-div record date today ($0.14/sh payable Aug 25). Stop buf compressed to 2.15% ($278.694 GTC). Risk = macro-driven stop-out at near breakeven, not thesis failure. No action taken.
+
+---
+
+## 2026-08-10 — Pre-Market Research (Day 77, Week 17 Day 1)
+
+### Account Snapshot
+- **Equity:** $114,061.31 | **Cash:** $6,485.55 (5.7%) | **Long MV:** $107,575.76 (94.3% deployed)
+- **Day P&L (prior close):** +$622.48 (+0.55%) vs Aug 7 close | **Phase P&L:** +$14,061.31 (+14.06%)
+- **Daytrade count:** 0 | **Week 17 trades:** 0/3 | **Positions:** 5/6
+
+| Ticker | Shares | Entry | Pre-Mkt | Unreal P&L | % | Stop (GTC) | HWM | Buf |
+|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $393.00 | +$721.59 | +3.81% | $364.69 (7% trail) | $392.14 | 7.67% |
+| HWM | 65 | $278.99 | $283.60 | +$299.65 | +1.65% | $278.694 (10% trail) | $309.66 | 1.73% |
+| LMT | 40 | $549.50 | $590.81 | +$1,652.51 | +7.52% | $552.21 (7% trail) | $593.77 | 6.55% |
+| NUE | 86 | $259.555 | $272.63 | +$1,124.45 | +5.04% | $252.10 (10% trail) | $280.11 | 7.52% |
+| VRT | 81 | $280.27 | $276.70 | -$288.82 | -1.27% | $257.72 (10% trail) | $286.36 | 6.87% |
+
+### Market Context
+- **Oil:** WTI ~$78.42/bbl (+0.31%); Brent ~$84.36/bbl (+0.96%); Strait of Hormuz peace-talk doubts keeping oil elevated vs recent trough; no spike
+- **S&P 500 futures:** ~7,777 (-0.03%); Nasdaq +modest; markets mixed on Hormuz uncertainty + pre-CPI positioning; flat open expected
+- **VIX:** 14.90 (down from 18+ during NFP week) — material decompression; calm environment entering Week 17
+- **Sectors YTD:** Industrials (XLI) +19.38% | Materials (XLB) +16.56% | Both in "Leading" momentum quadrant; portfolio sectors intact
+- **Monday releases:** None scheduled (quiet macro day)
+- **Week calendar:** CPI July (Wed Aug 12, 8:30 AM ET, consensus YoY 3.4% vs 3.5% prior); PPI July (Thu Aug 13); ADP employment (Tue)
+
+### Earnings Today
+- BMO: Barrick Mining (B), Ferguson (FERG), Monday.com (MNDY), On Holding (ONON), Cardinal Health (CAH) — no portfolio impact
+- AMC: ASTS, RKLB — no portfolio impact
+
+### Position Thesis Check
+| Symbol | Thesis | Status |
+|---|---|---|
+| NUE | ISM mfg 55.6 + infrastructure steel + Q2 EPS $4.84 beat (rev +23% YoY) | **INTACT** — $0.56/sh div payable tomorrow Aug 11; +15% trigger $298.49 (9.55% away) |
+| GD | Q2 beat ($136.5B backlog); pre-mkt $393 = new price high above GTC HWM $392.14 | **INTACT** — 7% trail updating; +15% trigger $435.35 |
+| HWM | Q2 BEAT (rev +24%, EPS $1.33, FY guide raised $5.23–$5.31); aero MRO demand | **INTACT — CRITICAL WATCH:** stop buf 1.73% ($283.60 vs stop $278.694); UBS $326, RBC $350, DB $343, BTIG Buy $300; avg analyst PT $303–$328; GTC running; do NOT intervene |
+| LMT | $230.4B contracted backlog; PAC-3 $58.62B multiyear contract; Bernstein Hold $629 | **INTACT** — consensus Hold (14% Buy, 64% Hold, 7% Strong Sell); GS Sell overhang; +15% trigger $631.93 (7.0% away at $590.81); 7% trail |
+| VRT | AI infra capex + Q2 EPS $1.52 beat; FY guide raised ($13.8–14.2B rev, EPS $6.65–6.75) | **INTACT** — GLJ upgraded to Buy (PT $381) Aug 7; Bernstein Buy; Mizuho Buy; KeyCorp cut to $325; avg PT $348; -7% cut at $260.65 (well above current $276.70) |
+
+### Trade Ideas
+1. **No new trades today (HOLD)** — 94.3% deployed, zero buy capacity; quiet macro Monday
+2. **If HWM stops out** (~$278.69 GTC fires): freed ~$18.1K → candidate sectors Energy (VST, VST reported Q2 beat; Energy +29%+ YTD) or re-size into VRT/NUE if momentum confirms
+3. **Post-CPI Wednesday watch:** If July CPI < 3.4% (dovish surprise) → rate-cut expectations rise → cyclicals/industrials bounce; if > 3.5% → risk-off → stops protect; either way, no action before print
+
+### Risk Factors
+1. **HWM stop buf 1.73% (CRITICAL):** Any intraday weakness to $278.69 fires stop at near-breakeven; soft open or risk-off sentiment could trigger; do NOT intervene — GTC protects
+2. **CPI Wednesday binary risk:** July CPI (consensus 3.4%); hot print = risk-off; all 5 positions exposed; VRT and NUE most macro-sensitive
+3. **VRT -1.27% unrealized:** Still well above -7% cut ($260.65); GLJ Buy upgrade Aug 7 + AI thesis intact; monitor for thesis deterioration if falls below $268
+4. **Strait of Hormuz doubts:** Driving mixed pre-market; indirect macro risk (oil/inflation uncertainty); not a direct portfolio trigger today
+
+### Decision
+**HOLD — no new trades**
+- 94.3% deployed; no buy capacity without a stop-out
+- VIX at 14.90 = calm; all 5 GTC trailing stops protecting downside
+- HWM is the daily monitoring priority (1.73% buf); NUE div payable Aug 11 (minor positive)
+- CPI Wednesday is the week's key risk event; patience before that print is correct
+- Week 17 trade budget: 0/3 used; 3 remaining for post-CPI opportunities
+
+**Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch today:** HWM stop buf 1.73% (CRITICAL — GTC fires at $278.694; do NOT touch); NUE div payable Aug 11; VRT recovery confirmation; CPI positioning begins
