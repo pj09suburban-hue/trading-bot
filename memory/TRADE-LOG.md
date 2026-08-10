@@ -3731,3 +3731,21 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $114,455.33 equity | $6,485.55 cash (5.7%) | $107,969.78 long MV (94.3% deployed) | **Day P&L:** +$1,016.50 (+0.90%) | **Phase P&L:** +$14,455.33 (+14.46%)
 **Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch (Aug 10 afternoon → CPI Wed):** HWM stop buf 1.46% (CRITICAL — GTC at $278.694, near breakeven; do NOT intervene); LMT approaching +15% tighten trigger (4.8% away at $631.93); VRT -3.16% ongoing drift (cut at $260.65, monitor thesis); CPI July Wed Aug 12 8:30 AM ET (consensus 3.4% YoY — dominant risk event); NUE $0.56 div payable Aug 11
+
+---
+
+## 2026-08-10 — EOD Snapshot (Day 77, Week 17 Day 1)
+**Portfolio:** $114,588.21 | **Cash:** $6,485.55 (5.7%) | **Day P&L:** +$894.19 (+0.79%) | **Phase P&L:** +$14,588.21 (+14.59%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $394.80 | +$137.50 (+0.70%) | +$811.59 (+4.29%) | $369.40 (7% trail, HWM $397.20) |
+| HWM | 65 | $278.99 | $284.21 | +$151.45 (+0.83%) | +$339.30 (+1.87%) | $278.694 (10% trail, HWM $309.66) ⚠️CRITICAL 1.94% buf |
+| LMT | 40 | $549.50 | $600.94 | +$519.60 (+2.21%) | +$2,057.60 (+9.36%) | $564.18 (7% trail, HWM $606.65) |
+| NUE | 86 | $259.555 | $275.51 | +$247.68 (+1.06%) | +$1,372.13 (+6.15%) | $252.10 (10% trail, HWM $280.11) |
+| VRT | 81 | $280.27 | $273.55 | +$93.15 (+0.42%) | -$544.34 (-2.40%) | $257.72 (10% trail, HWM $286.36) |
+
+**Notes:** Day 77, Week 17 Day 1 (Monday). Broad-based green session: LMT led at +2.21% intraday (stop auto-advanced to $564.18 from new HWM $606.65); NUE +1.06%; HWM +0.83%; GD +0.70%; VRT +0.42% (recovering). Total unrealized P&L +$4,036.28. HWM stop buffer remains critical at 1.94% ($284.21 vs GTC stop $278.694) — do NOT intervene; thesis intact per Q2 beat and multiple analyst PT raises. No trades today; Week 17 full 3-trade budget available. Phase P&L +$14,588.21 (+14.59%) from $100,000 starting equity. Key watch for Tuesday: NUE $0.56/sh dividend payable; Wednesday CPI July 8:30 AM ET (consensus ~3.4% YoY) is dominant risk event for macro/sector momentum; LMT +15% tighten trigger approaching at $631.93 (5.1% away).
+
+**Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch Week 17 (Tue Aug 11 →):** HWM stop buf 1.94% (CRITICAL — GTC $278.694; do NOT intervene); NUE $0.56 div payable Aug 11; CPI July Wed Aug 12 8:30 AM ET (key macro risk); LMT +15% trigger $631.93 (5.1% away); VRT -2.40% (cut at $260.65, thesis intact); 3/3 trade budget available
