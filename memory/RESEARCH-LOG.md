@@ -5025,3 +5025,8 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 
 **Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch today:** HWM GTC 1.77% buf (CRITICAL — oil selloff could fire today; GTC running; do NOT touch); VRT -1.91% (manual cut at $260.65 if breached; CRWV/SMCI AMC read-through); NUE div $48.16 today; ADP weekly 8:15 AM ET; CPI Wed dominant
+
+### Midday Addendum — 2026-08-11 (Midday ET)
+**VRT intraday research (Perplexity):** +3.26% intraday confirmed driven by AI data center demand + raised full-year guidance reaffirmation (Tradingkey Aug 11 market-movers). GLJ Research Buy $381 (Aug 7); 79% analyst Buy consensus (CNN, 33 analysts); avg PT $333–$338 (public.com, investing.com). Q2 rev +24.1% YoY, EPS $1.52 beat, FY guidance raised. Current -0.469% unrealized = near-breakeven and actively recovering; -7% manual cut at $260.65 ($278.96 vs $260.65 = 6.5% above cut). CRWV AMC tonight (Q2 est: rev ~$2.5–2.6B, EPS loss ~$1.17) is next AI thesis read-through. HOLD.
+
+**HWM intraday research (Perplexity):** No new negatives. Q2 beat and raised guidance fully intact: rev $2.55B (+24%), EPS $1.33 (vs $1.24 est), FY guide $10.05B rev/$5.27 EPS; commercial aero/MRO thesis supported by Reuters, Investing.com. 54% Strong Buy consensus (13 analysts, public.com); UBS $326, RBC $350, DB $343. Stop buf CRITICAL at 1.21% ($282.11 vs GTC $278.694); intraday -0.564% is macro risk-off (oil spike/Iran) not fundamental. GTC at $278.694 manages downside; do NOT intervene under any circumstances.
