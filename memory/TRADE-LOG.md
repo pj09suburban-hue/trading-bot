@@ -3790,3 +3790,21 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $114,468.63 equity | $6,485.55 cash (5.7%) | $107,983.08 long MV (94.3% deployed) | **Day P&L:** +$122.47 (+0.11%) | **Phase P&L:** +$14,468.63 (+14.47%)
 **Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch (Aug 11 afternoon → CPI Wed):** HWM stop buf 1.21% (CRITICAL — any -1.2% further = GTC fires at $278.694; do NOT intervene); VRT recovery on track — CRWV AMC tonight is thesis validator; LMT +15% trigger $631.93 (5.9% away); NUE div $48.16 credited today; CPI July Wed Aug 12 8:30 AM ET (DOMINANT risk event — oil spike raises upside CPI risk)
+
+---
+
+## 2026-08-11 — EOD Snapshot (Day 78, Week 17 Day 2)
+**Portfolio:** $114,424.58 | **Cash:** $6,485.55 (5.7%) | **Day P&L:** +$78.42 (+0.07%) | **Phase P&L:** +$14,424.58 (+14.42%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $392.66 | -$165.50 (-0.84%) | +$704.60 (+3.72%) | $369.40 (7% trail, HWM $397.20) |
+| HWM | 65 | $278.99 | $282.06 | -$107.25 (-0.58%) | +$199.55 (+1.10%) | $278.694 (10% trail, HWM $309.66) ⚠️CRITICAL 1.19% buf |
+| LMT | 40 | $549.50 | $596.73 | -$257.20 (-1.07%) | +$1,889.20 (+8.60%) | $564.185 (7% trail, HWM $606.65) |
+| NUE | 86 | $259.555 | $273.81 | -$68.80 (-0.29%) | +$1,225.93 (+5.49%) | $252.099 (10% trail, HWM $280.11) |
+| VRT | 81 | $280.27 | $278.44 | +$675.54 (+3.09%) | -$148.25 (-0.65%) | $257.724 (10% trail, HWM $286.36) |
+
+**Notes:** Day 78, Week 17 Day 2 (Tuesday). Risk-off session: Iran/Hormuz oil spike drove mild defense pullback (GD -0.84%, HWM -0.58%, LMT -1.07%, NUE -0.29%). VRT was the standout exception — +3.09% recovery from post-earnings drift on confirmed AI infra demand and full-year guidance raise; GLJ Buy $381 still fresh. CRWV reports AMC tonight (key AI infra read-through). HWM GTC stop holding at $278.694 — buffer narrowed to 1.19% ($282.06 vs stop); do NOT intervene; thesis intact per Q2 beat and analyst Buy consensus. NUE $0.56/sh dividend ($48.16 for 86 shares) payable/credited today. Total unrealized P&L +$3,871.03 across 5 positions. No trades placed; Week 17 full 3-trade budget intact. CPI July data releases Wednesday Aug 12 8:30 AM ET (dominant risk event; oil supply risk adds upside CPI pressure beyond the 3.4% consensus).
+
+**Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch Week 17 (Wed Aug 12 → CPI):** CPI July 8:30 AM ET Wed Aug 12 (DOMINANT risk event — hot print = rate-rise fear = broad selloff; cold print = rally); HWM stop buf 1.19% (CRITICAL — GTC $278.694; do NOT intervene); VRT recovery thesis — CRWV AMC tonight; LMT +15% trigger $631.93 (5.6% away at $596.73); NUE div $48.16 credited today
