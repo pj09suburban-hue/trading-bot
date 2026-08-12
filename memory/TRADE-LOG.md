@@ -3808,3 +3808,46 @@ No positions yet. Bot launches tomorrow.
 
 **Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch Week 17 (Wed Aug 12 → CPI):** CPI July 8:30 AM ET Wed Aug 12 (DOMINANT risk event — hot print = rate-rise fear = broad selloff; cold print = rally); HWM stop buf 1.19% (CRITICAL — GTC $278.694; do NOT intervene); VRT recovery thesis — CRWV AMC tonight; LMT +15% trigger $631.93 (5.6% away at $596.73); NUE div $48.16 credited today
+
+
+---
+
+## 2026-08-12 — Midday Scan (Day 79, Week 17 Day 3 — CPI Day)
+
+**No action taken — all positions hold.**
+
+| Symbol | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|
+| GD | $378.5682 | $391.715 | +$657.34 | +3.47% | -0.05% | $369.396 (7% trail, 3c260832) | $397.20 | 5.70% | HOLD — defense thesis intact; Iran tensions tailwind; Q2 beat |
+| HWM | $278.99 | $284.035 | +$327.93 | +1.81% | +0.96% | $278.694 (10% trail, 96ab1030) | $309.66 | **1.88% ⚠️ CRITICAL** | HOLD — CPI relief widened buf from 1.19%→1.88%; GTC running; do NOT intervene |
+| LMT | $549.50 | $598.841 | +$1,973.66 | +8.98% | +0.18% | $564.185 (7% trail, c8572779) | $606.65 | 5.79% | HOLD — $230.4B backlog; Iran tailwind; +15% trigger $631.93 (5.5% away) |
+| NUE | $259.555 | $270.86 | +$972.23 | +4.36% | -0.40% | $252.099 (10% trail, b74a09c5) | $280.11 | 6.93% | HOLD — steel demand intact; mild CPI-day pullback; stop buf healthy |
+| VRT | $280.27 | $293.395 | +$1,063.10 | +4.68% | +4.11% | $268.461 (10% trail, 39fc75c9) | $298.29 | 8.50% | HOLD — CRWV beat validates AI infra thesis; GTC HWM auto-advanced $286→$298.29 |
+
+**Cut losers (-7%):** None.
+- GD: +3.47% ✓ | HWM: +1.81% ✓ | LMT: +8.98% ✓ | NUE: +4.36% ✓ | VRT: +4.68% ✓
+
+**Stop tightening (STEP 4):** None triggered.
+- GD: +3.47% — 7% trail already set; +20% trigger $454.28 (unmet)
+- HWM: +1.81% — +15% trigger $320.84 (12.9% away)
+- LMT: +8.98% — 7% trail already set; +20% trigger $659.40 (10.1% away); +15% trigger $631.93 (5.5% away — watch)
+- NUE: +4.36% — +15% trigger $298.49 (10.2% away)
+- VRT: +4.68% — +15% trigger $322.31 (9.8% away)
+
+**Thesis check (STEP 5):**
+- GD: -0.05% intraday; defense thesis intact; GDIT $1.3B Army contract Aug 7; $136.5B backlog; Iran tensions direct positive; UBS PT $395, WFC $440. HOLD.
+- HWM: +0.96% intraday — recovering; CPI in-line = no rate shock = positive for HWM; stop buf widened 1.19%→1.88% ($284.035 vs stop $278.694). Q2 beat (rev +24%, EPS $1.33, FY guide $5.27); UBS $326, RBC $350, DB $343 Buy consensus. GTC at $278.694 running. Do NOT intervene. HOLD.
+- LMT: +0.18% intraday; $230.4B contracted backlog; Iran tensions direct positive; CPI in-line = no macro headwind. +15% trigger $631.93 now 5.5% away — approaching. HOLD.
+- NUE: -0.40% intraday; steel demand intact; ISM mfg 55.6; infrastructure thesis unchanged; CPI in-line benign for Materials sector. HOLD.
+- VRT: +4.11% intraday surge — CRWV Q2 beat (AMC Aug 11) validates AI infra demand; VRT own Q2 beat (EPS +53% YoY, rev +24.1%); record $15B+ backlog; FY guidance raised; GLJ Buy $381, Bernstein Buy, Mizuho Buy. GTC HWM auto-advanced from $286.36→$298.29 on today's high — stop now $268.461 (8.50% buffer). Thesis fully confirmed. HOLD.
+
+**Intraday research (STEP 6):**
+- CPI July: +0.1% MoM / +3.4% YoY headline (in-line with consensus); core +0.2% MoM / +2.5% YoY (in-line). Mildly risk-on reaction: equities up, Treasury yields fell. Dominant binary risk event neutralized — portfolio fully intact.
+- VRT surge catalyst: CRWV/CoreWeave Q2 beat (AMC Aug 11) + VRT own Q2 fundamentals (rev +24.1% YoY, record $15B+ backlog, FY guidance raised above Street). Perplexity confirms no deterioration; AI data center demand accelerating. GTC trailing stop self-managed correctly (HWM $298.29).
+- HWM: No new downgrades. CPI in-line removes rate-shock risk. Stop buffer 1.88% remains critical but improving. GTC running per rules.
+
+**Notification (STEP 7):** No action taken → no Slack sent per midday rule.
+
+**Portfolio (midday):** $115,560.74 equity | $6,485.55 cash (5.6%) | $109,075.19 long MV (94.4% deployed) | **Day P&L:** +$1,068.48 (+0.93%) | **Phase P&L:** +$15,560.74 (+15.56%)
+**Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch (Aug 12 afternoon → EOD):** HWM stop buf 1.88% (CRITICAL — GTC $278.694; any -1.9% = fires; do NOT intervene); LMT +15% trigger $631.93 (5.5% away — if hit, confirm 7% trail already set, no action needed; +20% trigger $659.40 is when to tighten to 5%); VRT recovery on track (GTC HWM $298.29 auto-advanced; let it run); NUE minor pullback = noise; Week 17 full 3-trade budget available

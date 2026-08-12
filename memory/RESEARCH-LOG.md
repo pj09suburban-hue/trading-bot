@@ -5086,3 +5086,10 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 
 **Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch today:** CPI July 8:30 AM ET (DOMINANT — consensus 3.4%; cold = rally, hot = risk-off); HWM GTC 1.23% buf ($278.694 — fire risk on CPI volatility); VRT recovery thesis confirmed by CRWV beat; LMT +15% trigger $631.93 watch post-CPI
+
+### Afternoon Addendum — 2026-08-12 Midday (CPI Day)
+- **CPI July actual:** +0.1% MoM / +3.4% YoY headline (in-line); core +0.2% MoM / +2.5% YoY (in-line). Dominant risk event neutralized. Mildly risk-on: equities up, Treasury yields fell.
+- **VRT +4.11% intraday:** CRWV Q2 beat (AMC Aug 11) + VRT own Q2 fundamentals (EPS +53% YoY, rev +24.1%, record $15B+ backlog, FY guidance raised). GTC HWM auto-advanced $286.36→$298.29. AI infra thesis fully confirmed.
+- **HWM +0.96%:** CPI relief widened stop buffer 1.19%→1.88% — still critical but improving. GTC $278.694 running.
+- **LMT +0.18%:** +15% tighten trigger $631.93 now 5.5% away — rule says 7% trail at +15%; already set; no action needed at +15%; watch for +20% ($659.40) to tighten to 5%.
+- **All theses intact.** No trades placed. No Slack sent (no action taken).
