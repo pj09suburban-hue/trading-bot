@@ -3851,3 +3851,21 @@ No positions yet. Bot launches tomorrow.
 **Portfolio (midday):** $115,560.74 equity | $6,485.55 cash (5.6%) | $109,075.19 long MV (94.4% deployed) | **Day P&L:** +$1,068.48 (+0.93%) | **Phase P&L:** +$15,560.74 (+15.56%)
 **Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch (Aug 12 afternoon → EOD):** HWM stop buf 1.88% (CRITICAL — GTC $278.694; any -1.9% = fires; do NOT intervene); LMT +15% trigger $631.93 (5.5% away — if hit, confirm 7% trail already set, no action needed; +20% trigger $659.40 is when to tighten to 5%); VRT recovery on track (GTC HWM $298.29 auto-advanced; let it run); NUE minor pullback = noise; Week 17 full 3-trade budget available
+
+---
+
+## 2026-08-12 — EOD Snapshot (Day 79, Week 17 Day 3 — CPI Day)
+**Portfolio:** $115,847.29 | **Cash:** $6,485.55 (5.6%) | **Day P&L:** +$1,355.03 (+1.18%) | **Phase P&L:** +$15,847.29 (+15.85%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $394.72 | +0.72% | +$807.34 (+4.27%) | $369.40 (7% trail, HWM $397.20) |
+| HWM | 65 | $278.99 | $283.35 | +0.71% | +$283.08 (+1.56%) | $278.694 (10% trail, HWM $309.66) ⚠️CRITICAL 1.64% buf |
+| LMT | 40 | $549.50 | $606.77 | +1.51% | +$2,290.80 (+10.42%) | $565.83 (7% trail, HWM $608.42) |
+| NUE | 86 | $259.555 | $272.06 | +0.04% | +$1,075.00 (+4.82%) | $252.099 (10% trail, HWM $280.11) |
+| VRT | 81 | $280.270 | $290.63 | +3.13% | +$839.14 (+3.70%) | $268.461 (10% trail, HWM $298.29) |
+
+**Notes:** Day 79, Week 17 Day 3 (Wednesday — CPI Day). CPI July +0.1% MoM / +3.4% YoY (in-line); core +0.2% MoM / +2.5% YoY (in-line) — dominant binary risk event neutralized; mildly risk-on reaction drove broad gains. Portfolio +$1,355 (+1.18%) on the day. VRT led +3.13% on CRWV/CoreWeave Q2 beat (AMC Aug 11) confirming AI infra demand; GTC HWM advanced $286.36→$298.29 (stop $268.46, 8.5% buffer). LMT +1.51% to new HWM $608.42 (stop auto-advanced to $565.83); now +10.42% cumulative — approaching +20% tighten trigger $659.40 (8.7% away). GD +0.72%, HWM +0.71%; NUE nearly flat +0.04%. HWM trailing stop remains CRITICAL at 1.64% buffer ($283.35 vs stop $278.694) — GTC running; do NOT intervene; thesis intact. Total unrealized: +$5,295.36. No trades today; Week 17 still at 0/3. Phase P&L reaches new high +$15,847 (+15.85%) from $100,000 starting equity.
+
+**Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch Week 17 (Thu Aug 13 →):** HWM stop buf 1.64% (CRITICAL — GTC $278.694; any -1.6% = fires; do NOT intervene); LMT +20% tighten trigger $659.40 (8.7% away — when hit, tighten to 5%); VRT recovery intact (GTC $268.46, thesis confirmed); 3/3 trade budget Week 17; NUE thesis intact (steel demand + infrastructure)
