@@ -5030,3 +5030,59 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 **VRT intraday research (Perplexity):** +3.26% intraday confirmed driven by AI data center demand + raised full-year guidance reaffirmation (Tradingkey Aug 11 market-movers). GLJ Research Buy $381 (Aug 7); 79% analyst Buy consensus (CNN, 33 analysts); avg PT $333–$338 (public.com, investing.com). Q2 rev +24.1% YoY, EPS $1.52 beat, FY guidance raised. Current -0.469% unrealized = near-breakeven and actively recovering; -7% manual cut at $260.65 ($278.96 vs $260.65 = 6.5% above cut). CRWV AMC tonight (Q2 est: rev ~$2.5–2.6B, EPS loss ~$1.17) is next AI thesis read-through. HOLD.
 
 **HWM intraday research (Perplexity):** No new negatives. Q2 beat and raised guidance fully intact: rev $2.55B (+24%), EPS $1.33 (vs $1.24 est), FY guide $10.05B rev/$5.27 EPS; commercial aero/MRO thesis supported by Reuters, Investing.com. 54% Strong Buy consensus (13 analysts, public.com); UBS $326, RBC $350, DB $343. Stop buf CRITICAL at 1.21% ($282.11 vs GTC $278.694); intraday -0.564% is macro risk-off (oil spike/Iran) not fundamental. GTC at $278.694 manages downside; do NOT intervene under any circumstances.
+
+## 2026-08-12 — Pre-Market Research (Day 79, Week 17 Day 3)
+
+### Account Snapshot
+- **Equity:** $114,462.61 | **Cash:** $6,485.55 (5.7%) | **Long MV:** $107,977.06 (94.3%)
+- **Phase P&L:** +$14,462.61 (+14.46%) | **Week 17 trades:** 0/3 | **Positions:** 5/6 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Pre-Mkt | Unreal P&L | % | Stop (GTC) | HWM | Buf |
+|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $390.00 | +$571.59 | +3.02% | $369.40 (7% trail, 3c260832) | $397.20 | 5.53% |
+| HWM | 65 | $278.99 | $282.16 | +$206.26 | +1.14% | $278.694 (10% trail, 96ab1030) | $309.66 | **1.23% ⚠️ CRITICAL** |
+| LMT | 40 | $549.50 | $596.37 | +$1,874.80 | +8.53% | $564.185 (7% trail, c8572779) | $606.65 | 5.26% |
+| NUE | 86 | $259.555 | $272.07 | +$1,076.29 | +4.82% | $252.099 (10% trail, b74a09c5) | $280.11 | 7.94% |
+| VRT | 81 | $280.27 | $282.51 | +$181.74 | +0.80% | $257.724 (10% trail, 39fc75c9) | $286.36 | 8.85% |
+
+### Market Context
+- **Oil:** WTI ~$83.68-83.86/bbl; Brent ~$87.71-89.80/bbl — Iran/Oman reportedly moving toward deal; Brent OilPrice.com "near $85 as markets price possible reopening"; elevated but slightly off yesterday's spike high
+- **S&P 500 futures:** +0.25-0.30% pre-market (~7,766-7,778); Barron's: "Nasdaq set to open up ahead of CPI inflation report"; Nasdaq 100 futures +0.7%, S&P +0.3%, Dow +0.1%
+- **VIX:** ~15.28-15.55 (prior close 15.28); stable — pre-CPI calm; no elevated fear
+- **CRWV (CoreWeave) AMC beat:** Surged after beating Q2 revenue expectations — STRONG positive AI infra read-through for VRT thesis
+- **Sectors YTD leaders:** Energy (+25-34%), Industrials (+21%), Materials (+17-22%); Financials/Discretionary lagging — portfolio sectors (Defense/Industrials, Steel/Materials) remain leading
+- **Today's dominant risk event:** July CPI 8:30 AM ET (consensus 3.4% YoY, 0.1% MoM; June was 3.5% YoY). Cold print = rally; hot print = risk-off across all positions
+- **BMO earnings today:** NBIS, AMCR, JD.com, FRVO — no portfolio read-through. CSCO/COHR AMC today (CSCO est. $1.17 EPS, $16.84B rev)
+- **GD news:** GDIT won $1.3B Army National Guard IT/cybersecurity contract Aug 7; board declared $1.59/sh quarterly div; raised FY forecast on Q2 beat; UBS PT raised $366→$395, WFC $400→$440, GS Sell but PT raised $308→$319
+
+### Position Thesis Check
+| Symbol | Thesis | Status |
+|---|---|---|
+| GD | Q2 beat, raised FY guide; $136.5B backlog; $1.3B contract win Aug 7; Iran tensions = defense tailwind | **INTACT** — thesis strengthened; stop buf 5.53%; no action needed |
+| HWM | Q2 beat (rev +24%, EPS $1.33, FY guide $5.27); aero/MRO demand intact; Buy consensus | **INTACT — CRITICAL BUF 1.23%** — CPI risk day; GTC at $278.694 running; any -1.23% = fires; do NOT intervene under any circumstances |
+| LMT | $230.4B contracted backlog; Iran tensions direct positive; raised Q2 guidance | **INTACT** — +15% tighten trigger $631.93 (5.9% away at $596.37); stop buf 5.26%; watch for trigger post-CPI |
+| NUE | ISM mfg + infrastructure steel demand; Q2 beat; div credited yesterday; Moderate Buy consensus | **INTACT** — stop buf 7.94%; healthy; steel sector (Materials) YTD +17-22% leading |
+| VRT | AI infra demand; CRWV beat overnight validates thesis; Q2 EPS beat +53% YoY; FY guidance raised | **INTACT** — CRWV beat = direct positive catalyst; VRT recovering (+0.80% unrealized); -7% cut at $260.65 (8.3% above current $282.51); 8.85% stop buffer |
+
+### Trade Ideas
+1. **HOLD — no new trades pre-CPI** — 94.3% deployed; dominant binary risk event at 8:30 AM ET; no position sizing before the print
+2. **Contingent — If HWM GTC fires (~$278.69) AND CPI cool (<3.4%):** Freed ~$18.3K → evaluate **VST (Vistra Energy)**: energy + AI data center power demand; sector YTD leader (+34%); Iran tensions oil spike tailwind; 10% trailing stop; target +20% = 2:1 R:R; post-CPI confirmation required before entry
+3. **LMT stop tighten watch:** +15% trigger at $631.93; if LMT rallies 5.9%+ post-CPI, tighten trailing stop from 7% to 7% (already set correctly per rule — +15% → 7% trail already in place); if reaches +20% = $659.40, tighten to 5%
+
+### Risk Factors
+1. **CPI hot (>3.4% YoY):** Rate-rise fear → broad risk-off selloff; all 5 positions exposed; HWM most vulnerable (1.23% buffer = GTC fires on -1.3% move); VRT macro-sensitive; GD/LMT less sensitive (defense demand insulated)
+2. **HWM GTC 1.23% buffer (CRITICAL):** Any intraday volatility around CPI print at 8:30 AM ET could trigger GTC at $278.694; if fired, do NOT re-enter same day; evaluate post-CPI clarity
+3. **Iran/Hormuz partial resolution risk:** If deal progresses → oil falls sharply → Energy sector reversal → NUE (steel input costs improve but demand thesis unchanged); LMT/GD may give back geopolitical premium
+4. **VRT post-earnings drift resumption:** Despite CRWV beat, VRT could retrace if broader market sells off on hot CPI; -7% cut at $260.65 still well above current $282.51
+
+### Decision
+**HOLD — no new trades**
+- 94.3% deployed; no capacity without a stop-out
+- CPI at 8:30 AM ET is the binary pivot — all positioning waits on that print
+- CRWV beat overnight = VRT AI thesis fully validated; recovery on track
+- HWM GTC at $278.694 is the morning's key risk: if fires, evaluate VST post-CPI only
+- LMT +15% trigger $631.93 approaching — monitor throughout session
+- Week 17 trade budget: 0/3 used; full budget available post-CPI if opportunity presents
+
+**Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch today:** CPI July 8:30 AM ET (DOMINANT — consensus 3.4%; cold = rally, hot = risk-off); HWM GTC 1.23% buf ($278.694 — fire risk on CPI volatility); VRT recovery thesis confirmed by CRWV beat; LMT +15% trigger $631.93 watch post-CPI
