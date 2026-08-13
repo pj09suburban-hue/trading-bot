@@ -5093,3 +5093,63 @@ RTX stop management: market-open workflow handles — check for +20% trigger ($2
 - **HWM +0.96%:** CPI relief widened stop buffer 1.19%→1.88% — still critical but improving. GTC $278.694 running.
 - **LMT +0.18%:** +15% tighten trigger $631.93 now 5.5% away — rule says 7% trail at +15%; already set; no action needed at +15%; watch for +20% ($659.40) to tighten to 5%.
 - **All theses intact.** No trades placed. No Slack sent (no action taken).
+
+---
+
+## 2026-08-13 — Pre-Market Research (Day 80, Week 17 Day 4)
+
+### Account Snapshot
+- **Equity:** $115,526.60 | **Cash:** $6,485.55 (5.6%) | **Long MV:** $109,041.05 (94.4%)
+- **Phase P&L:** +$15,526.60 (+15.53%) | **Week 17 trades:** 0/3 | **Positions:** 5/6 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Last | Unreal P&L | % | Stop (GTC) | HWM | Buf |
+|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $395.21 | +$832.23 | +4.40% | $369.40 (7% trail, 3c260832) | $397.20 | 6.53% |
+| HWM | 65 | $278.99 | $281.63 | +$171.60 | +0.95% | $278.694 (10% trail, 96ab1030) | $309.66 | **1.04% ⚠️ CRITICAL** |
+| LMT | 40 | $549.50 | $606.77 | +$2,290.80 | +10.42% | $567.63 (7% trail, c8572779) | $610.36 | 6.45% |
+| NUE | 86 | $259.555 | $271.81 | +$1,053.93 | +4.72% | $252.099 (10% trail, b74a09c5) | $280.11 | 7.25% |
+| VRT | 81 | $280.27 | $288.00 | +$626.11 | +2.76% | $268.461 (10% trail, 39fc75c9) | $298.29 | 6.78% |
+
+Note: LMT GTC HWM auto-advanced to $610.36 (stop $567.63); confirmed active per live orders.
+
+### Market Context
+- **Oil:** WTI $82.04–$82.39/bbl (down ~-1.1% from yesterday's $83.69 — oil easing on Aug 13); Brent $85.00–$88.18/bbl. Iran/Hormuz tensions persist but off peak spike.
+- **S&P 500 futures:** +0.18%–+0.42% pre-market (~7,780–7,784); S&P chasing all-time record per Barron's. Constructive but not euphoric.
+- **VIX:** 14.69 (vs 15.28 yesterday close — declining; very calm). No elevated fear.
+- **Today's dominant events:** PPI July 8:30 AM ET (consensus: +0.2% MoM, -0.3% prior; YoY 4.9% vs 5.5% prior); Initial Jobless Claims 8:30 AM ET (consensus 202K, prior 199K); Fed Hammack 12:15 PM ET.
+- **AI theme:** CRWV/CoreWeave Q2 beat (AMC Aug 11) and SMCI beat driving AI infra rally — directly validates VRT thesis. AMAT (Applied Materials) reports AMC tonight — next AI semi read-through catalyst.
+- **Sectors YTD:** Energy +37% | Technology +33% | Capital Goods/Industrials +31% | Materials +22% — portfolio sectors (Industrials/Defense, Materials) remain leading.
+- **Earnings today BMO:** BN (Brookfield), GLNG, MSGS, DDS, BLTE — no portfolio read-through.
+- **Note:** S&P 500 is within 71 points of all-time record per Barron's; positive market tone.
+
+### Position Thesis Check
+| Symbol | Thesis | Status |
+|---|---|---|
+| GD | Q2 beat ($14.1B rev, $4.24 EPS), raised FY; $136.5B backlog; $76.6B Navy sub contract; GDIT $1.3B Army contract; $1.59 div; Buy consensus (13 analysts, $418 avg PT) | **INTACT** — thesis strengthened; stop buf 6.53%; no action needed |
+| HWM | Q2 beat (rev +24%, EPS $1.33, FY guide $5.27); aero/MRO demand; UBS $326, RBC $350, DB $343 Buy | **INTACT — CRITICAL BUF 1.04%** — any -1% from last close triggers GTC $278.694 at open; do NOT intervene; oil easing may reduce risk-off pressure slightly |
+| LMT | $230.4B contracted backlog; Iran tensions direct positive; raised guidance; +15% trigger $631.93 (4.2% away at $606.77) | **INTACT** — stop buf 6.45%; GTC HWM advanced to $610.36; approaching +15% tighten threshold; watch today |
+| NUE | ISM mfg 55.6; infrastructure steel demand; Q2 beat; div credited Aug 11; 12/16 Moderate Buy | **INTACT** — stop buf 7.25%; healthy; PPI cool = positive for steel/Materials cost environment |
+| VRT | AI infra; CRWV Q2 beat validates demand; Q2 EPS +53% YoY; record $15B+ backlog; FY guidance raised; GLJ Buy $381; AMAT AMC tonight = additional read-through | **INTACT** — recovering; +2.76% unrealized; -7% cut at $260.65 (well above $288); GTC HWM $298.29 |
+
+### Trade Ideas
+1. **HOLD — no new trades pre-PPI** — 94.4% deployed; 8:30 AM ET PPI/claims is the binary pivot; no new positioning before the print
+2. **Contingent — If HWM GTC fires (~$278.69) AND PPI benign (≤+0.2% MoM):** Freed ~$18.3K → evaluate **VST (Vistra Energy)**: energy sector #1 YTD (+37%); AI data center power demand; Iran geopolitical tailwind; entry range $90–95; 10% trailing stop; target +20% = 2:1 R:R; run live quote via `bash scripts/alpaca.sh quote VST` before sizing; post-PPI confirmation required
+3. **AMAT AMC tonight:** If AMAT beats → AI semi theme extends → VRT could leg higher Thursday/Friday; no action pre-print, but watch for entry opportunity in AI infra names
+
+### Risk Factors
+1. **PPI hot (>+0.2% MoM):** Rate-rise fear revival → risk-off; all 5 positions exposed; HWM at 1.04% buf is most vulnerable; GD/LMT relatively insulated (defense demand secular)
+2. **HWM GTC 1.04% buffer (CRITICAL):** Any -1% move at open (possible on PPI volatility) fires GTC $278.694; do NOT re-enter same day; if fires, evaluate VST post-PPI clarity only
+3. **LMT +15% trigger approaching:** At $631.93 (4.2% away); rule says tighten to 7% trail — already set; no mechanical action needed at +15%; only action at +20% ($659.40 = tighten to 5%); confirm no double-action needed
+4. **Fed Hammack 12:15 PM ET:** Hawkish surprise post-PPI could compound rate-rise risk; monitor for tone shift
+
+### Decision
+**HOLD — no new trades**
+- 94.4% deployed; no buy capacity without a stop-out
+- PPI 8:30 AM ET is today's binary pivot — all positioning deferred until print
+- VIX 14.69 and S&P near record = constructive backdrop; risk skewed to upside if PPI in-line
+- HWM GTC at $278.694 remains mission-critical — oil easing slightly reduces risk but 1.04% buffer means any early weakness fires it; GTC manages automatically; do NOT touch
+- LMT approaching +15% trigger — no mechanical action at +15% (already at 7% trail); watch for +20% at $659.40 to tighten to 5%
+- AMAT earnings AMC = VRT catalyst watch for tomorrow's pre-market
+
+**Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch today (Aug 13):** PPI 8:30 AM ET (DOMINANT — benign = rally/HOLD; hot = risk-off/protect); HWM GTC 1.04% buf ($278.694 — fire risk at open; let it run; do NOT intervene); LMT +15% trigger $631.93 (4.2% away — if hit, no action needed; +20% at $659.40 = tighten to 5%); VRT thesis confirmed by CRWV beat (AMAT AMC tonight = next read-through)
