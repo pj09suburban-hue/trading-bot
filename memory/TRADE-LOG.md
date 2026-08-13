@@ -3869,3 +3869,67 @@ No positions yet. Bot launches tomorrow.
 
 **Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch Week 17 (Thu Aug 13 →):** HWM stop buf 1.64% (CRITICAL — GTC $278.694; any -1.6% = fires; do NOT intervene); LMT +20% tighten trigger $659.40 (8.7% away — when hit, tighten to 5%); VRT recovery intact (GTC $268.46, thesis confirmed); 3/3 trade budget Week 17; NUE thesis intact (steel demand + infrastructure)
+
+---
+
+## 2026-08-13 — HWM Exit (GTC Trailing Stop — Day 80, Week 17 Day 4)
+
+**HWM — STOPPED OUT (GTC trailing stop)**
+- Exit: 65 shares @ **$278.00** | Filled: 2026-08-13T13:36 UTC
+- Entry: $278.99 | Realized P&L: **-$64.35 (-0.35%)**
+- Stop was at $278.694 (10% trail, HWM $309.66 from peak Jul 31)
+- Stop buffer yesterday: 1.04% ($281.63); fire triggered by early morning weakness today
+- Exit reason: GTC trailing stop executed automatically per rules — do NOT re-enter same day
+- Thesis was intact (Q2 beat, aero/MRO demand, Buy consensus) but stop buffer too thin; rules followed
+
+**Closed trade count to date (Phase):** Running total includes this exit.
+
+---
+
+## 2026-08-13 — Midday Scan (Day 80, Week 17 Day 4 — PPI Day)
+
+**STEP 3 — Cut losers (-7%):** None.
+- GD: +3.15% ✓ | LMT: +8.59% ✓ | NUE: +4.97% ✓ | VRT: +3.85% ✓
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| GD | +3.15% | $435.51 (11.3% away) | $454.28 (16.3% away) | None |
+| LMT | +8.59% | $631.93 (5.9% away) | $659.40 (10.5% away) | None — watch +20% ($659.40) |
+| NUE | +4.97% | $298.49 (9.6% away) | $311.46 (14.4% away) | None |
+| VRT | +3.85% | $322.31 (10.7% away) | $336.32 (15.6% away) | None |
+
+**Active GTC trailing stops (confirmed):**
+| Symbol | Order ID | Trail | Stop | HWM | Buffer |
+|---|---|---|---|---|---|
+| GD | 3c260832 | 7% | $369.40 | $397.20 | 5.4% |
+| LMT | c8572779 | 7% | $567.63 | $610.36 | 4.9% |
+| NUE | b74a09c5 | 10% | $252.10 | $280.11 | 7.5% |
+| VRT | 39fc75c9 | 10% | $268.46 | $298.29 | 7.8% |
+
+**STEP 5 — Thesis check:**
+- GD: -0.95% intraday; defense thesis intact; Iran/Hormuz tailwind; $136.5B backlog; UBS $395, WFC $440. HOLD.
+- LMT: -1.66% intraday — profit-taking after strong run (Citi Buy note, NVIDIA drone demo, PAC-3 contract strength); no thesis break; session low ~$588 held well above stop $567.63. HOLD. +20% trigger $659.40 = next action point.
+- NUE: +0.24% intraday; PPI flat (0.0% MoM) = positive for Materials cost environment; steel demand intact. HOLD.
+- VRT: +0.93% intraday; AMAT reports AMC tonight (next AI infra read-through); thesis intact. HOLD.
+
+**STEP 6 — Intraday research:**
+- PPI July: 0.0% MoM (vs +0.2% consensus, prior -0.1% revised). Core PPI +0.2% MoM (vs +0.3% consensus). YoY PPI 4.7% (vs 4.9% consensus). DOUBLE BENIGN — better than CPI yesterday. Risk-on signal.
+- VST (contingent pre-market idea): HWM GTC fired → evaluated VST per pre-market plan. Live quote: ask $149.03, bid $145.60 (~$147 mid). Pre-market entry range of $90–95 was STALE data. At $147, trade setup invalidated — catalyst not documented at this price level; buy-side gate fails (entry range mismatch). SKIP. 78.6% deployed remains within 75-85% target; no forced deployment.
+- LMT intraday dip (-1.66%): Profit-taking confirmed per Perplexity; Citi Buy note, NVIDIA/LMT public airspace protection demo, PAC-3 MSE contract all positive. Session low ~$588, well above stop $567.63.
+- LMT GTC HWM auto-advanced: $608.42 → $610.36 today (stop auto-tightened to $567.63 from $565.83). Correct behavior.
+- AMAT AMC tonight: VRT catalyst watch — Applied Materials earnings will be next AI semi/infra read-through.
+
+**Notification (STEP 7):** Action taken (HWM stop-out) → Slack sent.
+
+**Portfolio (midday Aug 13):** $114,966.86 equity | $24,555.55 cash (21.4%) | $90,411.31 long MV (78.6% deployed) | **Day P&L:** -$536.76 (-0.46%) | **Phase P&L:** +$14,966.86 (+14.97%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $390.485 | +$595.84 | +3.15% | -0.95% | $369.40 (7% trail, 3c260832) | $397.20 | 5.4% |
+| LMT | 40 | $549.50 | $596.675 | +$1,887.00 | +8.59% | -1.66% | $567.63 (7% trail, c8572779) | $610.36 | 4.9% |
+| NUE | 86 | $259.555 | $272.46 | +$1,109.83 | +4.97% | +0.24% | $252.10 (10% trail, b74a09c5) | $280.11 | 7.5% |
+| VRT | 81 | $280.270 | $291.046 | +$872.85 | +3.85% | +0.93% | $268.46 (10% trail, 39fc75c9) | $298.29 | 7.8% |
+
+**Week 17 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
+**Key watch (Aug 13 afternoon):** LMT +20% trigger $659.40 (10.5% away at current — monitor over coming days; at hit, tighten trail to 5%); VRT AMAT AMC tonight (AI infra read-through — watch for gap-up tomorrow); NUE PPI tailwind; 78.6% deployed (within target, no forced trade); Week 17 3-trade budget intact for new opportunities; HWM stop-out freed $18.1K cash — evaluate new setups pre-market tomorrow if thesis available

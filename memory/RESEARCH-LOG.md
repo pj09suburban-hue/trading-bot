@@ -5153,3 +5153,18 @@ Note: LMT GTC HWM auto-advanced to $610.36 (stop $567.63); confirmed active per 
 
 **Week 17 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch today (Aug 13):** PPI 8:30 AM ET (DOMINANT — benign = rally/HOLD; hot = risk-off/protect); HWM GTC 1.04% buf ($278.694 — fire risk at open; let it run; do NOT intervene); LMT +15% trigger $631.93 (4.2% away — if hit, no action needed; +20% at $659.40 = tighten to 5%); VRT thesis confirmed by CRWV beat (AMAT AMC tonight = next read-through)
+
+### Afternoon Addendum — Aug 13 Midday Scan
+
+**PPI July actual:** 0.0% MoM (vs +0.2% consensus) | Core +0.2% MoM (vs +0.3%) | YoY 4.7% (vs 4.9%). Double benign — removes rate-rise fear; risk-on backdrop confirmed.
+
+**HWM stop-out (13:36 UTC):** GTC trailing stop fired at $278.00 (stop set $278.694; slippage $0.694). Realized P&L: -$64.35 (-0.35%). Stop buffer was 1.04% at yesterday's pre-market; any dip at open triggered it. Rules followed — no re-entry today. Cash freed: ~$18,070.
+
+**VST evaluated (contingent pre-market plan):** Live quote $145.60–149.03 (~$147 mid). Pre-market entry range of $90–95 was stale data. Trade invalidated — cannot enter 55% above the researched range; buy-side gate fails (catalyst not documented at $147 price level). No trade placed. 78.6% deployed remains within 75-85% target.
+
+**LMT -1.66% intraday:** Profit-taking confirmed. Citi Buy, NVIDIA drone demo, PAC-3 MSE contract — thesis intact. LMT GTC HWM auto-advanced to $610.36 (stop $567.63 — 4.9% buffer). Session low ~$588, held well above stop.
+
+**AMAT AMC tonight:** Applied Materials earnings = next AI semi/infra read-through catalyst for VRT. Watch for gap-up opportunity or confirmation in tomorrow's pre-market.
+
+**Portfolio state:** 4 positions, 78.6% deployed, $24,555 cash, $114,967 equity.
+**Tomorrow (Aug 14):** Evaluate new setups for 5th position using freed HWM cash (~$18K); prioritize Energy (VST price TBD with fresh quote), AI infra, or defense; AMAT beat/miss will frame AI names; Week 17 still 0/3 trades.
