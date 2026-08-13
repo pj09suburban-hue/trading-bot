@@ -3933,3 +3933,23 @@ No positions yet. Bot launches tomorrow.
 
 **Week 17 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
 **Key watch (Aug 13 afternoon):** LMT +20% trigger $659.40 (10.5% away at current — monitor over coming days; at hit, tighten trail to 5%); VRT AMAT AMC tonight (AI infra read-through — watch for gap-up tomorrow); NUE PPI tailwind; 78.6% deployed (within target, no forced trade); Week 17 3-trade budget intact for new opportunities; HWM stop-out freed $18.1K cash — evaluate new setups pre-market tomorrow if thesis available
+
+---
+
+## 2026-08-13 — EOD Snapshot (Day 80, Week 17 Day 4 — Thursday, PPI Day)
+**Portfolio:** $115,234.26 | **Cash:** $24,555.55 (21.3%) | **Day P&L:** -$269.36 (-0.23%) | **Phase P&L:** +$15,234.26 (+15.23%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $391.97 | -0.57% | +$669.84 (+3.54%) | $369.40 (7% trail, HWM $397.20) |
+| LMT | 40 | $549.50 | $598.05 | -1.43% | +$1,942.00 (+8.84%) | $567.63 (7% trail, HWM $610.36) |
+| NUE | 86 | $259.555 | $272.85 | +0.38% | +$1,143.37 (+5.12%) | $252.10 (10% trail, HWM $280.11) |
+| VRT | 81 | $280.270 | $292.50 | +1.44% | +$990.61 (+4.36%) | $268.46 (10% trail, HWM $298.29) |
+
+**Exited:** HWM — 65 sh @ $278.00 (GTC trailing stop fired) | Realized P&L: -$64.35 (-0.35%)
+**Total unrealized:** +$4,745.82
+
+**Notes:** Day 80, Week 17 Day 4 (Thursday — PPI Day). Portfolio -$269 (-0.23%) on mixed defense/industrials session. GD -0.57%, LMT -1.43% (continued profit-taking after strong run; thesis intact; no stop breach — stop $567.63, 5.1% buffer); NUE +0.38% (steel demand / PPI flat = positive cost environment); VRT +1.44% (AMAT earnings AMC tonight = next AI infra read-through, watch pre-market tomorrow for gap reaction). HWM GTC trailing stop fired at open ($278.00; -$64 / -0.35%); cash freed $18.1K; cash now 21.3% ($24,556) — within 75-85% deployed target (78.7% deployed). All 4 trailing stops confirmed live via Alpaca GTC orders. Phase P&L +$15,234 (+15.23%) from $100,000 starting equity.
+
+**Week 17 trades:** 0/3 buys (1 GTC stop-out, doesn't count toward buy limit) | **Open positions:** 4/6 | **Daytrade count:** 0
+**Key watch (Fri Aug 14):** AMAT earnings read-through → watch VRT at open (gap risk; stop $268.46, 8.2% buf); LMT +20% tighten trigger $659.40 (10.3% away at $598.05 — monitor over coming days; tighten to 5% trail when hit); pre-market research for new position candidate (21.3% cash available; 3/3 buy budget intact for Week 17 Fri — last day of week to deploy if thesis found)
