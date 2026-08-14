@@ -5168,3 +5168,63 @@ Note: LMT GTC HWM auto-advanced to $610.36 (stop $567.63); confirmed active per 
 
 **Portfolio state:** 4 positions, 78.6% deployed, $24,555 cash, $114,967 equity.
 **Tomorrow (Aug 14):** Evaluate new setups for 5th position using freed HWM cash (~$18K); prioritize Energy (VST price TBD with fresh quote), AI infra, or defense; AMAT beat/miss will frame AI names; Week 17 still 0/3 trades.
+
+---
+
+## 2026-08-14 — Pre-Market Research (Day 81, Week 17 Day 5 — Friday, Retail Sales Day)
+
+### Account Snapshot
+- **Equity:** $115,121.76 | **Cash:** $24,555.14 (21.3%) | **Long MV:** $90,566.62 (78.7%)
+- **Phase P&L:** +$15,121.76 (+15.12%) | **Week 17 trades:** 0/3 | **Positions:** 4/6 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Last | Unreal P&L | % | Stop (GTC) | HWM | Buf |
+|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $394.49 | +$796.09 | +4.21% | $369.40 (7% trail, 3c260832) | $397.20 | 6.36% |
+| LMT | 40 | $549.50 | $600.00 | +$2,019.98 | +9.19% | $567.63 (7% trail, c8572779) | $610.36 | 5.40% |
+| NUE | 86 | $259.555 | $272.29 | +$1,095.21 | +4.91% | $252.10 (10% trail, b74a09c5) | $280.11 | 7.42% |
+| VRT | 81 | $280.27 | $289.20 | +$723.31 | +3.19% | $268.46 (10% trail, 39fc75c9) | $298.29 | 7.15% |
+
+All 4 GTC trailing stops confirmed live via Alpaca orders.
+
+### Market Context
+- **Oil:** WTI ~$81.40–$82.01/bbl (recovering; yesterday close ~$79.90; +0.65% to +2.6% in early trading); Brent ~$86.96–$87.71/bbl. Iran/Hormuz supply risk persists.
+- **S&P 500 futures:** ~7,826–7,828 (flat to +0.07%). **S&P 500 hit a record-high close yesterday** — first record of 2026 cycle — on CPI/PPI double-benign inflation relief and tech/AI momentum (SandDisk, Micron led).
+- **VIX:** 14.62 (very calm, declining from 14.69 yesterday). No fear; mildly risk-on.
+- **Today's dominant event:** Retail Sales (July) at 8:30 AM ET (consensus: +0.2% MoM; core ex-autos +0.2%; prior headline +0.2%). University of Michigan Consumer Sentiment (Aug prelim) at 10:00 AM ET. No Fed speakers.
+- **AMAT earnings (AMC Aug 13):** Beat on rev ($9.12B vs $8.99B) and EPS ($3.50 vs $3.40), record +25% YoY growth driven by AI infrastructure capex. **BUT: sold off -4.9% to -5.2% in AH** — sell-the-news reaction on guidance concern. VRT pre-market +0.74% at $289.20 — AI infrastructure names differentiating vs. semis; minimal contagion.
+- **Sectors YTD:** Energy +25–32% (leader, top 121/136 trading days) | Technology +17–21% | Industrials +17% | Materials +9–11%. Portfolio sectors (Defense/Industrials, Materials, AI Infra) remain momentum leaders.
+
+### Position Thesis Check
+| Symbol | Thesis | Status |
+|---|---|---|
+| GD | Q2 beat; $136.5B backlog; $76.6B Navy sub contract; GDIT $1.3B Army National Guard ENOCS contract; $1.59 div paid; Buy consensus (13 analysts, ~$418 avg PT); pre-market +0.39% | **INTACT** — no new negatives; stop buf 6.36%; HOLD |
+| LMT | PAC-3 MSE $58.62B multiyear award; Strigo $250M defense suite; UAE $211M contract; Verizon/NVIDIA airspace demo (Citi Buy note); new $3.45 div (ex-date Sep 1); pre-market ~$598.54 AH (+0.08%) | **INTACT** — +15% trig $631.93 (5.3% away at $600); +20% trig $659.40 (10% away); stop buf 5.40%; HOLD |
+| NUE | $59M Vulcraft Indiana expansion (bullish on capacity); Q2 EPS $4.84 beat; record 2nd consecutive quarter; KeyBanc Overweight PT $274; PPI flat = benign cost environment; CMC (steel peer) reports BMO today | **INTACT** — stop buf 7.42%; monitor CMC BMO for steel read-through; HOLD |
+| VRT | AMAT beat (AI infra capex intact) but sell-the-news — VRT +0.74% pre-market (not selling off alongside semis); GTC HWM $298.29 active; thesis confirmed by CRWV beat (Aug 11) + VRT Q2 own beat | **INTACT** — stop buf 7.15%; sell-the-news on AMAT not spreading to VRT; HOLD |
+
+### Trade Ideas
+1. **CONDITIONAL TRADE — VST (Vistra Energy, NYSE):** Energy sector #1 YTD leader (+25–32%); AI/data center power demand; nuclear fleet (20-yr PPAs with Meta, 2,609 MW carbon-free); Q2 adj. EBITDA +31% YoY ($1.77B), FY guidance reaffirmed; Helix Digital Infrastructure JV with KKR, KIA, NVIDIA ($1B commitment, AI workload power infrastructure); Buy consensus (12 analysts, avg PT ~$226–$232); last Alpaca bid $139.27 pre-market (thin — no ask posted; web sources ~$146.40 at close Aug 13 + AH $146.82).
+   - **Entry plan:** Verify live quote at market-open via `bash scripts/alpaca.sh quote VST`; enter at ~$143–148 if retail sales in-line (+0.1–0.3% MoM).
+   - **Stop:** 10% trailing stop (earnings Aug 7 = 7 days ago, outside 3-day post-earnings window → standard 10% applies).
+   - **Target:** +20% from entry (~$172–178) = 2:1+ R:R vs 10% risk.
+   - **Size:** ~157 shares × $146 = $22,922 (≤20% equity $23,024).
+   - **All buy-gate checks:** (5) positions ≤ 6 ✓ | (0+1) trades ≤ 3 ✓ | ~$22,922 ≤ 20% equity ✓ | ~$22,922 ≤ cash ✓ | PDT 0 ✓ | catalyst documented ✓ | stock ✓ → **CONTINGENT on retail sales in-line and live quote confirmation at open**.
+2. **HOLD existing 4 positions** — all stops active; all theses intact; no action pre-retail-sales print.
+
+### Risk Factors
+1. **Retail Sales hot (>+0.4% MoM):** Rate-hike fears revived → risk-off → could pressure all names; worst case for VST entry plan.
+2. **Retail Sales weak (<+0.0%):** Consumer slowdown signal → risk-off → pause any new trade, reassess.
+3. **AMAT sell-the-news spillover:** If AI/tech names continue selling Friday (common end-of-week de-risk), VRT could give back; stop $268.46 provides protection (7.15% buf). Monitor at open.
+4. **LMT stop buffer 5.40%:** Approaching territory where a broad risk-off day (-5.4% move) could fire stop. GTC manages; do NOT intervene.
+5. **VST thin pre-market bid ($139.27 on Alpaca vs. web ~$146):** Could indicate wide spread at open; must verify live ask before sizing; may gap and require limit order strategy.
+
+### Decision
+**CONDITIONAL TRADE (VST) — execute in market-open routine pending retail sales**
+- Pre-market: HOLD; no action before 8:30 AM ET retail sales print.
+- **IF retail sales +0.1–0.3% (in-line):** Market-open routine → get live VST quote → buy ~157 shares if ask ≤ $148 → place 10% trailing stop immediately.
+- **IF retail sales hot (>+0.4%) or cold (<+0.0%):** HOLD all positions, skip VST; reassess Monday.
+- Existing 4 positions: all HOLD; all GTC stops confirmed active; no manual stop adjustments needed.
+- LMT: Watch for +20% trigger ($659.40) in coming days → tighten to 5% trail when hit.
+
+**Week 17 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
+**Key watch today:** Retail Sales 8:30 AM ET (DOMINANT — in-line = execute VST; hot/cold = hold); VRT open (AMAT sell-the-news spillover risk; stop $268.46 active); LMT stop buf 5.40% (watch on risk-off); VST live quote verification at open (Alpaca bid $139.27 vs web ~$146 — confirm spread before entry)
