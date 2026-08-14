@@ -1039,3 +1039,71 @@ Template for each entry:
 *Week 16 — positive week (+1.36%) but underperformed S&P by ~1.18% est in a week where the index hit all-time highs. VRT entry on AMD/ISM dual-confirmation was disciplined and rule-compliant. NUE advanced +5.82% for the week. Deployment restored from chronic sub-75% shortfall to 94.2% via VRT add — first time above the 75% floor in 10+ weeks, though now above the 85% ceiling. HWM enters Week 17 at 2.21% stop buffer (breakeven stop) as the primary binary risk; any Monday gap-down auto-exits with near-zero P&L. No rule violations. Grade C+ reflects positive week and deployment improvement offset by S&P underperformance, HWM stop fragility, VRT early weakness, and no new realized gains to strengthen the profit factor.*
 
 ---
+
+## Week ending 2026-08-14
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $113,694.02 |
+| Ending portfolio | $115,791.30 |
+| Week return | +$2,097.28 (+1.85%) |
+| S&P 500 week | +0.66% (7,757.64 → 7,808.87) |
+| Bot vs S&P | +1.19% |
+| Phase return | +$15,791.30 (+15.79% from $100k baseline) |
+| Phase bot vs S&P | +6.81% (bot +15.79% vs S&P +8.98% from Apr 24 start 7,165.08) |
+| Trades | 1 new (VST Aug 14) + 1 closed (HWM GTC stop-out Aug 13) — W:0 / L:1 / open:5 |
+| Win rate | 0% this week (0/1 closed); 30.8% all-time (4/13 closed) |
+| Best trade | VRT +4.87% unrealized (recovered from -2.40% Mon → +4.87% Fri on CRWV read-through) |
+| Worst trade | HWM -$64.35 (-0.35%) realized — GTC stop fired Aug 13 |
+| Profit factor | 2.19 all-time ($19,379 winners / $8,859 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| HWM | $278.99 | $278.00 | -$64.35 (-0.35%) | GTC trailing stop fired Aug 13 (morning weakness); 16-day hold (Jul 30→Aug 13); 10% trail from HWM $309.66 (Jul 31 peak) spent 5+ consecutive sessions in 1.0–2.0% buffer zone with no recovery; slot efficiency failure — thesis intact but stop buffer structurally exhausted |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| GD | $378.57 | $395.74 | +$858.34 (+4.54%) | $369.40 (7% trail, HWM $397.20) — BofA PT $415; Q3 est ~Oct |
+| LMT | $549.50 | $607.49 | +$2,319.60 (+10.55%) | $567.63 (7% trail, HWM $610.36) — +20% trig $659.40 (8.5% away) |
+| NUE | $259.555 | $269.51 | +$855.70 (+3.83%) | $252.10 (10% trail, HWM $280.11) |
+| VRT | $280.27 | $293.93 | +$1,106.44 (+4.87%) | $268.46 (10% trail, HWM $298.29) |
+| VST | $147.957 | $148.91 | +$147.65 (+0.64%) | $134.43 (10% trail, HWM $149.37) — day 1; nuclear/energy AI-power |
+
+### What Worked
+- VRT recovery: -2.40% (Mon) → +4.87% (Fri) on CRWV/CoreWeave Q2 AMC beat confirming AI infrastructure demand; AMAT sell-the-news did not bleed into VRT; GTC HWM self-advanced $286→$298.29 on CPI day; thesis re-confirmed
+- CPI and PPI double-benign: CPI +0.1% MoM / +3.4% YoY (in-line), PPI 0.0% MoM (below +0.2% consensus) — zero forced exits; S&P hit record-high close on Thursday; portfolio reached phase intra-week high $115,847 (+15.85%)
+- HWM GTC honored without override: Stop fired at $278.00 Aug 13; -$64 accepted mechanically; $18.1K freed and immediately scouted for VST redeployment — no idle cash overnight
+- VST entry disciplined: Retail sales +0.1% MoM in-line per plan; all 7 buy-gate checks passed; live quote verified $147.957; 10% GTC placed immediately; adds nuclear/energy/AI-power sector outside aerospace/defense concentration
+- CRWV-to-VRT read-through confirmed: Monitoring related-company earnings (CRWV beat Aug 11 AMC → VRT +3.13% Aug 12) is a documented repeatable signal — second clear instance after COMPUTEX → MRVL (Week 7)
+
+### What Didn't Work
+- HWM 16-day slot for -0.35%: Position entered Jul 30 (unplanned earnings event Jul 30 BMO per Week 15 confusion); Q2 beat produced only 1-day pop then full sell-the-news reversal; 10% trail from HWM $309.66 spent its last 5+ sessions in 1.0–2.0% buffer with no recovery path; effectively a 16-day flat trade that consumed a slot
+- Deployment at 98.6% post-VST (above 85% ceiling): $1,622 cash remaining; zero capacity for opportunistic adds in Week 18; any two simultaneous stop-outs create redeployment sequencing constraint; VST entry was rule-compliant but strategic flexibility is eliminated
+- NUE -1.02% Friday: Week's only losing position at EOD; mild pullback; thesis intact per CMC Q3 beat (EPS $1.73 beat, NA Steel EBITDA +41% YoY) but Materials are more macro-sensitive than defense on risk-off days
+- 0/1 win rate this week: All-time win rate fell to 30.8% (4/13); strategy remains dependent on large winners to absorb accumulated smaller losses
+
+### Key Lessons
+- When a stop buffer stays below 2% for 5+ consecutive sessions, the GTC is statistically likely to fire soon regardless of thesis health — mentally prepare for the exit rather than checking the buffer every session; the stop is the decision, not the monitoring
+- Related-earnings read-through is a repeatable and documentable signal: CRWV beat → VRT is the second confirmed instance; pre-market research should explicitly identify "earnings read-through catalysts" for each open position and log expected impact direction
+- Post-earnings sell-the-news (HWM) permanently compressed the 10% trail from a 10% buffer to near-zero — the trailing stop is designed for this; accepting the mechanical exit without intervening is the discipline, not a failure
+- CMC Q3 beat (EPS $1.73 vs $1.60E, EBITDA +41% YoY, guidance "meaningful sequential increase") is the strongest fundamental confirmation yet for the NUE steel/materials thesis; structural US steel demand from AI data center buildout is multi-quarter
+
+### Adjustments for Next Week
+- **LMT:** +20% tighten trigger $659.40 (8.5% away from $607.49); monitor daily; on any session LMT hits $659.40, immediately cancel existing 7% trail and place 5% trail GTC — do not wait for EOD
+- **VRT:** GTC HWM $298.29, stop $268.46 (10% trail, 9.65% buf); +15% trigger $322.31 (9.65% away at $293.93); thesis fully confirmed; let it run; AMAT sell-the-news confirmed not spreading
+- **VST:** Week-2 watch; stop $134.43 (10% trail, HWM $149.37, 9.7% buf); -7% manual cut floor $137.60; verify GTC order 69ff0c3a active Monday; thesis: nuclear PPAs (Meta 2,609 MW), Helix AI/DC JV (KKR/KIA/NVIDIA $1B), Buy consensus avg PT ~$226–$232; no new catalyst needed near-term
+- **GD:** Hold; 7% trail ($369.40 stop, 6.5% buf); +15% trigger $435.35 (10.0% away); BofA PT $415; Q3 est ~Oct; no action
+- **NUE:** Hold; 10% trail ($252.10 stop, 6.5% buf); +15% trigger $298.49 (10.7% away); CMC beat confirms thesis; no action unless close below stop
+- **No new positions Week 18:** Deployment at 98.6% ($1,622 cash); zero capacity; do NOT free a position artificially to redeploy — let trailing stops manage exits naturally; only redeploy when a GTC fires or a -7% cut executes; when cash frees, scout immediately (2 trade slots available if needed)
+- **LHX blacklist:** Remains in effect for remainder of phase — no exceptions
+
+### Overall Grade: B+
+*Week 17 — portfolio +1.85% vs S&P +0.66% = +1.19% outperformance. Phase high $115,847 reached Wednesday on CPI relief. VRT recovered from -2.40% to +4.87% on CRWV earnings read-through, the second documented instance of a related-company catalyst driving an open position. HWM GTC stop honored mechanically at -$64; VST entry on nuclear/energy/AI-power thesis was rule-compliant with all gates passed. CPI and PPI both benign — zero forced exits. B+ reflects clean benchmark outperformance, disciplined mechanical execution (two rule-triggered events handled without override), and a valid new entry, offset by HWM's 16-day slot waste for near-zero return, deployment ceiling overshoot at 98.6%, and an all-time win rate below 33%.*
+
+---
