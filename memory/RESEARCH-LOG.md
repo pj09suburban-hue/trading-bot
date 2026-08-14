@@ -5228,3 +5228,9 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Week 17 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
 **Key watch today:** Retail Sales 8:30 AM ET (DOMINANT — in-line = execute VST; hot/cold = hold); VRT open (AMAT sell-the-news spillover risk; stop $268.46 active); LMT stop buf 5.40% (watch on risk-off); VST live quote verification at open (Alpaca bid $139.27 vs web ~$146 — confirm spread before entry)
+
+### Afternoon Addendum (Midday Scan — Aug 14)
+- **CMC Q3 2026 (reported Jun 25):** EPS $1.73 (beat $1.60E), Rev $2.48B (beat $2.37E), NA Steel EBITDA +41% YoY ($253.5M), Q4 EBITDA guide "meaningful sequential increase." → Positive NUE read-through. Steel demand robust; PPI flat = benign cost environment. **NUE thesis confirmed.**
+- **VST intraday:** +1.05–1.63% at ~$147.94–$148.78; no new adverse catalyst. GTC HWM auto-advanced to $148.93 (stop $134.04). Q2 beat, Helix JV (KKR/KIA/NVIDIA), FERC Cogentrix approval intact. **VST thesis intact, day 1.**
+- **VRT:** +1.94% intraday — AMAT sell-the-news not spreading to VRT. AI infra differentiation holding. **VRT thesis confirmed.**
+- **No action taken this midday.** All 5 GTC trailing stops active. Portfolio +$898.85 (+0.78%) on the day.
