@@ -4015,3 +4015,23 @@ No positions yet. Bot launches tomorrow.
 
 **Week 17 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch (afternoon Aug 14):** LMT +15% trigger $632.43 (3.9% away); LMT +20% trigger $659.40 (8.5% away); VST day-1 stop tracking (HWM $148.93, stop $134.04); NUE recovery watch (minor pullback, steel thesis intact per CMC beat)
+
+---
+
+## 2026-08-14 — EOD Snapshot (Day 81, Week 17 Day 5 — Friday, Retail Sales Day)
+**Portfolio:** $115,791.30 | **Cash:** $1,621.74 (1.4%) | **Day P&L:** +$557.04 (+0.48%) | **Phase P&L:** +$15,791.30 (+15.79%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $395.74 | +0.71% | +$858.34 (+4.54%) | $369.40 (7% trail, HWM $397.20) |
+| LMT | 40 | $549.50 | $607.49 | +1.59% | +$2,319.60 (+10.55%) | $567.63 (7% trail, HWM $610.36) |
+| NUE | 86 | $259.555 | $269.51 | -1.02% | +$855.70 (+3.83%) | $252.10 (10% trail, HWM $280.11) |
+| VRT | 81 | $280.270 | $293.93 | +2.39% | +$1,106.44 (+4.87%) | $268.46 (10% trail, HWM $298.29) |
+| VST | 155 | $147.957 | $148.91 | +1.71% | +$147.65 (+0.64%) | $134.43 (10% trail, HWM $149.37) |
+
+**Total unrealized:** +$5,287.73
+
+**Notes:** Day 81, Week 17 Day 5 (Friday — Retail Sales Day). Portfolio +$557 (+0.48%) to cap the week on a positive note. VRT led +2.39% (AMAT sell-the-news didn't bleed over; AI infra differentiation confirmed), LMT +1.59% (defense momentum sustained, now +10.55% unrealized; +15% trigger at $631.92 = 3.9% away, watch Monday), VST +1.71% day-1 (energy/nuclear thesis on track; HWM advanced to $149.37, stop $134.43), GD +0.71% (steady grind), NUE -1.02% (only detractor; pullback mild, steel thesis intact per CMC beat Thursday). All 5 GTC trailing stops confirmed live and correctly tracking. VST stop auto-advanced from $134.04 → $134.43 intraday as price made new HWM. No stop tighten triggers hit today (LMT +10.55%, next trigger +15% = $631.92). Week 17 closed: 1 buy (VST; all gate checks passed), 0 stop-outs, 0 forced cuts; solid risk-adjusted finish.
+
+**Week 17 trades:** 1/3 buys | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch (Mon Aug 17):** LMT +15% trigger $631.92 (3.9% away at $607.49) → tighten to 7% already set; actually LMT already at 7%, watch for +20% trigger $659.40 (8.5% away) → tighten to 5%; VST week-2 tracking (day-1 gap covered; stop $134.43 protects 9.1% below HWM); NUE thesis confirmation (any steel demand data); 2 buy slots open for Week 18 if catalyst emerges
