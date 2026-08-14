@@ -3953,3 +3953,30 @@ No positions yet. Bot launches tomorrow.
 
 **Week 17 trades:** 0/3 buys (1 GTC stop-out, doesn't count toward buy limit) | **Open positions:** 4/6 | **Daytrade count:** 0
 **Key watch (Fri Aug 14):** AMAT earnings read-through → watch VRT at open (gap risk; stop $268.46, 8.2% buf); LMT +20% tighten trigger $659.40 (10.3% away at $598.05 — monitor over coming days; tighten to 5% trail when hit); pre-market research for new position candidate (21.3% cash available; 3/3 buy budget intact for Week 17 Fri — last day of week to deploy if thesis found)
+
+---
+
+## 2026-08-14 — Market-Open Trades (Day 81, Week 17 Day 5 — Friday, Retail Sales Day)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-08-14 | VST | BUY | 155 | $147.957 | $133.00 (10% trail GTC, 69ff0c3a, HWM $147.78) | Energy sector YTD leader (+25–32%); nuclear fleet 20-yr PPAs with Meta (2,609 MW carbon-free); Q2 adj. EBITDA +31% YoY ($1.77B), FY guide reaffirmed; Helix AI/DC power JV (KKR/KIA/NVIDIA $1B commitment); Buy consensus 12 analysts avg PT ~$226–232; retail sales +0.1% MoM (in-line with plan $0.1–0.3% range) = green light; VST within entry range $143–148 | $177.55 (+20%) | 2:1 |
+
+**Buy-gate checks passed:**
+- Positions 4→5 ≤ 6 ✓ | Trades 0→1 ≤ 3 ✓ | $22,933 ≤ 20% equity ($23,024) ✓ | $22,933 ≤ cash ($24,555) ✓ | PDT 0 ✓ | Catalyst documented ✓ | Stock ✓
+
+**All GTC trailing stops confirmed (post-entry):**
+| Symbol | Trail | Stop | HWM | Order |
+|---|---|---|---|---|
+| GD | 7% | $369.40 | $397.20 | 3c260832 ✓ |
+| LMT | 7% | $567.63 | $610.36 | c8572779 ✓ |
+| NUE | 10% | $252.10 | $280.11 | b74a09c5 ✓ |
+| VRT | 10% | $268.46 | $298.29 | 39fc75c9 ✓ |
+| VST | 10% | $133.00 | $147.78 | 69ff0c3a ✓ |
+
+**Stop tighten check (existing positions):** GD +4.33% | LMT +10.41% | NUE +5.04% | VRT +3.57% — none at +15% trigger; no action needed.
+
+**Week 17 trades:** 1/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Deployment:** $113,964 / $115,586 = 98.6% (high; per pre-market plan — all buy-gate checks passed; HWM stop-out freed $18.1K, VST used $22.9K of $24.6K available cash; all 5 GTC trailing stops protecting downside)
+**Key watch (rest of day):** LMT +20% tighten trigger $659.40 (8.9% away at $606.75); VST initial volatility watch — GTC $133.00 is 10% below HWM; VRT stable at open (+0.90% intraday)
+
