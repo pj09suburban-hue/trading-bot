@@ -4,6 +4,68 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-08-17 — Pre-Market Research (Day 82, Week 18 Day 1 — Monday)
+
+### Account Snapshot
+- **Equity:** $115,934.65 | **Cash:** $1,621.73 (1.4%) | **Long MV:** $114,312.92 (98.6% deployed)
+- **Phase P&L:** +$15,934.65 (+15.93%) | **Week 18 trades:** 0/3 | **Positions:** 5/6 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Pre-mkt | Unrealized | Stop (GTC) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $394.00 | +$771.59 (+4.08%) | 7% trail 3c260832 | $397.20 | 6.3% |
+| LMT | 40 | $549.50 | $606.96 | +$2,298.54 (+10.46%) | 7% trail c8572779 | $610.36 | 6.5% |
+| NUE | 86 | $259.555 | $268.00 | +$726.27 (+3.25%) | 10% trail b74a09c5 | $280.11 | 5.9% |
+| VRT | 81 | $280.27 | $296.95 | +$1,351.06 (+5.95%) | 10% trail 39fc75c9 | $298.29 | 9.6% |
+| VST | 155 | $147.957 | $149.89 | +$300.03 (+1.31%) | 10% trail 69ff0c3a | $149.37 | 10.3% |
+
+All 5 GTC trailing stops confirmed live via Alpaca orders.
+
+### Market Context
+- **Oil:** WTI ~$81.81/bbl (-0.72% from $82.40 Fri close); Brent ~$88.32/bbl. Geopolitical risk (Strait of Hormuz / Iran sanctions) maintaining supply premium; Energy sector +1.36% Friday, biggest weekly gain since Oct 2022.
+- **S&P 500 futures:** ~$7,815–7,823 (+0.1–0.7% pre-mkt). S&P 500 hit record high last week on dual CPI/PPI benign prints. Slight positive start to Week 18.
+- **VIX:** ~14.92–14.99 (+4.7–5.2% from Fri close 14.25). Mild pre-market uptick — typical Monday open; still calm territory but watch if it breaks above 16.
+- **Macro today (Aug 17):** 8:30 AM ET — NY Empire State Manufacturing Index (key directional open-driver for cyclicals). NAHB Housing Market Index (secondary). No CPI/PPI/FOMC today.
+- **Week ahead:** FOMC Minutes (Wed Aug 20 — rate-cut probability read); Home Depot BMO Tue (consumer read); Walmart BMO Thu (consumer + cost-environment read); Global Flash PMIs Thu.
+- **Earnings today:** No noteworthy BMO. AMC: PANW (cybersecurity), FN (Fabrinet — AI infra read-through for VRT tomorrow).
+- **Macro context:** July CPI +0.1% MoM / +3.4% YoY (Aug 12, in-line). Core CPI +0.2%/+2.5%. PPI YoY +4.70%. July payrolls -23K (slight miss). Fed dovish-leaning; market pricing rate cuts.
+
+### Sector Momentum
+- **Energy:** YTD +37.78% — #1 sector, dominant momentum leader. Holding; all year. VST thesis intact.
+- **Industrials / Capital Goods:** YTD ~+34.6%, "Leading" quadrant in momentum map. GD + LMT thesis intact.
+- **Materials:** "Leading" quadrant, YTD ~+21.7%. Lower momentum score vs Energy/Industrials but positive. NUE thesis intact.
+- **Technology / AI Infra:** YTD ~+39%; strong. AI infra (VRT) differentiating from broader semi sell-the-news.
+- All 4 portfolio sectors remain in momentum leadership — no sector exit rule triggered.
+
+### Position Thesis Check
+| Symbol | News / Catalyst | Status |
+|---|---|---|
+| **LMT** | No new news Aug 17. Citi Buy reaffirmed; $58.62B PAC-3 MSE multiyear award intact; record $230B backlog; raised FY guidance $29.95–$30.65 EPS. Pre-mkt $606.96 (-0.28%). +20% trigger $659.40 = 8.6% away. +15% trigger $631.93 = 4.1% away (already on 7% trail — no new action at +15%). | **INTACT — HOLD** |
+| **VST** | Q2 adj. EBITDA +31% YoY ($1.767B), FY guide reaffirmed, Helix JV (KKR/KIA/NVIDIA, $1B). Pre-mkt $149.89 (+1.19%), above old HWM $149.37 → Alpaca GTC stop auto-advancing. Week 2. | **INTACT — HOLD** |
+| **VRT** | FN (Fabrinet) AMC tonight = AI infra read-through. AI hyperscale trade validated by CRWV/CoreWeave beat last week. Pre-mkt $296.95 (+1.06%). HWM $298.29 (9.6% buf). | **INTACT — HOLD** |
+| **GD** | No new news. $136.5B backlog, Navy sub contract, GDIT ENOCS contract intact. Pre-mkt $394.00 (-0.45%). HWM $397.20 (6.3% buf). | **INTACT — HOLD** |
+| **NUE** | No new news. Steel thesis: PPI flat (benign cost env); CMC Q3 beat (+41% EBITDA); KeyBanc Overweight PT $274. Pre-mkt $268.00 (-0.34%). HWM $280.11 (5.9% buf). Watch Empire State Mfg at 8:30. | **INTACT — HOLD** |
+
+### Trade Ideas
+1. **No actionable new position — cash insufficient:** Only $1,621.73 cash available. A new position requires ~$23,187 (20% equity). Must wait for a stop-out to free capital before deploying a 6th position.
+2. **Pipeline watch (for when cash opens up):** Energy sector leaders (nuclear / AI power) and defense remain in momentum. VST gap from HWM $149.37 suggests momentum intact; continue tracking. No new entry setup documented yet.
+
+### Risk Factors
+1. **NUE stop buffer 5.9%:** Tightest of all positions at pre-mkt $268. Empire State Manufacturing data at 8:30 AM — a weak print (<45) could pressure steel/industrials names and close the buffer fast. GTC manages; do NOT intervene, but monitor.
+2. **VIX rising +4.7% pre-market:** Still calm but direction is up; typical Monday uncertainty. Watch if VIX breaks above 16 — would signal risk-off.
+3. **98.6% deployed:** Outside 75–85% target range. All positions covered by GTC stops; exposure is managed. If a stop fires, reassess deployment target before reinvesting.
+4. **FOMC Minutes (Wed Aug 20):** Could reprice rate-cut odds and move all positions (rate-sensitive defense, AI infra, steel). Benign read = tailwind; hawkish surprise = headwind.
+5. **FN (Fabrinet) AMC tonight:** Sell-the-news on AI infra would be a VRT read-through risk for Tuesday open. Monitor.
+
+### Decision
+**HOLD — insufficient cash for new position; all theses intact; GTC stops managing downside**
+- 0/3 Week 18 buy budget unused — preserve for when capital becomes available
+- Patience > activity; no forcing a thesis with thin cash
+- Key watch: LMT +20% trigger $659.40 (8.6% away, tighten to 5% trail when hit); NUE buffer 5.9% (Empire State data risk at 8:30 AM); VST HWM auto-advance confirmation; FN earnings AMC (VRT read-through)
+
+**Week 18 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+
+---
+
 ## 2026-08-03 — Pre-Market Research (Day 72, Week 16 Day 1)
 
 ### Account Snapshot
