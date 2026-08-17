@@ -4089,3 +4089,23 @@ Note: VRT GTC HWM auto-advanced $298.29→$300.27 over weekend (stop $268.46→$
 
 **Week 18 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch (Aug 17 afternoon):** LMT stop buffer 5.03% (watch if defense sector selloff deepens — GTC $567.63 manages; do NOT intervene); LMT +20% trigger $659.40 (10.3% away — multi-day watch); VRT continued run (HWM $300.27 = new milestone; AI infra on track); VST day-4 tracking (thesis intact; stop $134.878 protects 8.06% below HWM); Week 18 fresh 3-trade budget + 1 open position slot available if new catalyst emerges
+
+---
+
+## 2026-08-17 — EOD Snapshot (Day 82, Week 18 Day 1 — Monday)
+**Portfolio:** $115,012.66 | **Cash:** $1,621.73 (1.41%) | **Day P&L:** -$778.64 (-0.67%) | **Phase P&L:** +$15,012.66 (+15.01%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $390.33 | -1.38% | +$588.09 (+3.11%) | $369.40 (7% trail, HWM $397.20) |
+| LMT | 40 | $549.50 | $595.97 | -2.09% | +$1,858.80 (+8.46%) | $567.63 (7% trail, HWM $610.36) |
+| NUE | 86 | $259.555 | $271.76 | +1.06% | +$1,049.20 (+4.70%) | $252.10 (10% trail, HWM $280.11) |
+| VRT | 81 | $280.270 | $293.95 | +0.04% | +$1,108.06 (+4.88%) | $270.24 (10% trail, HWM $300.27) |
+| VST | 155 | $147.957 | $147.43 | -0.47% | -$82.14 (-0.36%) | $134.88 (10% trail, HWM $149.86) |
+
+**Total unrealized:** +$4,522.01
+
+**Notes:** Day 82, Week 18 Day 1 (Monday). Defense names led the decline — GD -1.38%, LMT -2.09% on typical Monday profit-taking; no thesis-breaking news on either name. NUE +1.06% (steel thesis intact, CMC beat continues to support sector). VRT essentially flat +0.04% (AI infra holding; HWM $300.27 maintained). VST -0.47% (energy/nuclear mild softness; HWM $149.86, stop $134.88, 8.06% buffer intact — thesis remains intact: Q2 beat, Helix JV KKR/KIA/NVIDIA, FERC Cogentrix approval). All 5 GTC trailing stops confirmed live and correctly positioned. No trades executed today. VST at -0.36% unrealized — well within -7% hard cut, HOLD. Portfolio unrealized fell from +$5,288 (Aug 14) to +$4,522 on defense pullback — normal consolidation, no structural thesis break.
+
+**Week 18 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch (Tue Aug 18):** LMT stop buffer 5.03% — watch if defense sector continues lower (GTC $567.63 manages; do NOT manually intervene unless -7% hard cut); LMT +20% trigger $659.40 (10.7% away); VST day-5 tracking (thesis intact, stop $134.88 protects 8.5% below entry); NUE next catalyst = any steel demand data; 1 open position slot + 3 trade budget available for Week 18 if momentum-backed catalyst emerges
