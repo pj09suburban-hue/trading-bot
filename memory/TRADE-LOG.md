@@ -4035,3 +4035,57 @@ No positions yet. Bot launches tomorrow.
 
 **Week 17 trades:** 1/3 buys | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch (Mon Aug 17):** LMT +15% trigger $631.92 (3.9% away at $607.49) → tighten to 7% already set; actually LMT already at 7%, watch for +20% trigger $659.40 (8.5% away) → tighten to 5%; VST week-2 tracking (day-1 gap covered; stop $134.43 protects 9.1% below HWM); NUE thesis confirmation (any steel demand data); 2 buy slots open for Week 18 if catalyst emerges
+
+---
+
+## 2026-08-17 — Midday Scan (Day 82, Week 18 Day 1 — Monday)
+
+**STEP 3 — Cut losers (-7%):** None.
+- GD: +3.50% ✓ | LMT: +8.77% ✓ | NUE: +4.45% ✓ | VRT: +6.07% ✓ | VST: -0.85% ✓
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| GD | +3.50% | $435.35 (11.1% away) | $454.28 (16.0% away) | None |
+| LMT | +8.77% | $631.93 (5.7% away) | $659.40 (10.3% away) | None — watch +20% at $659.40 |
+| NUE | +4.45% | $298.49 (10.1% away) | $311.46 (14.9% away) | None |
+| VRT | +6.07% | $322.31 (8.4% away) | $336.32 (13.1% away) | None |
+| VST | -0.85% | $170.15 (16.0% away) | $177.55 (21.0% away) | None |
+
+**Active GTC trailing stops (confirmed live):**
+| Symbol | Order ID | Trail | Stop | HWM | Buffer |
+|---|---|---|---|---|---|
+| GD | 3c260832 | 7% | $369.40 | $397.20 | 5.72% |
+| LMT | c8572779 | 7% | $567.63 | $610.36 | 5.03% |
+| NUE | b74a09c5 | 10% | $252.10 | $280.11 | 7.01% |
+| VRT | 39fc75c9 | 10% | $270.243 | $300.27 | 9.10% |
+| VST | 69ff0c3a | 10% | $134.878 | $149.86 | 8.06% |
+
+Note: VRT GTC HWM auto-advanced $298.29→$300.27 over weekend (stop $268.46→$270.243). Correct behavior.
+
+**STEP 5 — Thesis check:**
+- GD: -1.00% intraday. No new adverse catalyst. GDIT $1.3B Army contract (Aug 7) and $136.5B backlog intact. Minor Monday defense pullback. HOLD.
+- LMT: -1.81% intraday. No thesis-breaking news. Defense sector profit-taking; stop buffer 5.03% — manageable; GTC $567.63 running. +20% trigger $659.40 = 10.3% away. HOLD.
+- NUE: +0.82% intraday. Steel demand thesis intact. PPI benign environment ongoing. HOLD.
+- VRT: +1.18% intraday. AI infra thesis intact. HWM auto-advanced to $300.27; stop $270.243 (9.10% buffer). HOLD.
+- VST: -0.96% intraday; -0.85% from entry. Energy/nuclear thesis intact. Q2 beat, Helix JV (KKR/KIA/NVIDIA), FERC Cogentrix approval — no adverse news. HWM $149.86, stop $134.878 (8.06% buffer). HOLD.
+
+**STEP 6 — Intraday research:**
+- Perplexity scan: No thesis-breaking news on any portfolio name. GD confirmed ~$391–$396 range today; GDIT Army contract and Q2 beat remain dominant narratives. LMT/NUE/VRT/VST — no specific adverse headlines found. Defense sector mild Monday pullback appears to be normal consolidation.
+- Broad market: No specific macro catalyst identified driving today's defense dip (GD -1%, LMT -1.81%). NUE +0.82% and VRT +1.18% suggest rotation within portfolio — Materials/AI Infra outperforming Defense intraday. VST -0.96% (energy slight weakness).
+- No sharp unexplained moves requiring deeper research.
+
+**Notification (STEP 7):** No action taken → no Slack per notification philosophy.
+
+**Portfolio (midday Aug 17):** $115,328.66 equity | $1,621.73 cash (1.4%) | $113,706.93 long MV (98.6% deployed) | **Day P&L:** -$316.72 (-0.27%) | **Phase P&L:** +$15,328.66 (+15.33%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $391.81 | +$662.09 | +3.50% | -1.00% | $369.40 (7% trail, 3c260832) | $397.20 | 5.72% |
+| LMT | 40 | $549.50 | $597.68 | +$1,927.20 | +8.77% | -1.81% | $567.63 (7% trail, c8572779) | $610.36 | 5.03% |
+| NUE | 86 | $259.555 | $271.11 | +$993.73 | +4.45% | +0.82% | $252.10 (10% trail, b74a09c5) | $280.11 | 7.01% |
+| VRT | 81 | $280.270 | $297.295 | +$1,379.00 | +6.07% | +1.18% | $270.243 (10% trail, 39fc75c9) | $300.27 | 9.10% |
+| VST | 155 | $147.957 | $146.705 | -$194.12 | -0.85% | -0.96% | $134.878 (10% trail, 69ff0c3a) | $149.86 | 8.06% |
+
+**Week 18 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch (Aug 17 afternoon):** LMT stop buffer 5.03% (watch if defense sector selloff deepens — GTC $567.63 manages; do NOT intervene); LMT +20% trigger $659.40 (10.3% away — multi-day watch); VRT continued run (HWM $300.27 = new milestone; AI infra on track); VST day-4 tracking (thesis intact; stop $134.878 protects 8.06% below HWM); Week 18 fresh 3-trade budget + 1 open position slot available if new catalyst emerges
