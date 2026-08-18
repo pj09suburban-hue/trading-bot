@@ -5296,3 +5296,61 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **VST intraday:** +1.05–1.63% at ~$147.94–$148.78; no new adverse catalyst. GTC HWM auto-advanced to $148.93 (stop $134.04). Q2 beat, Helix JV (KKR/KIA/NVIDIA), FERC Cogentrix approval intact. **VST thesis intact, day 1.**
 - **VRT:** +1.94% intraday — AMAT sell-the-news not spreading to VRT. AI infra differentiation holding. **VRT thesis confirmed.**
 - **No action taken this midday.** All 5 GTC trailing stops active. Portfolio +$898.85 (+0.78%) on the day.
+
+## 2026-08-18 — Pre-Market Research (Day 83, Week 18 Day 2 — Tuesday)
+
+### Account Snapshot
+- **Equity:** $113,802.15 | **Cash:** $1,621.73 (1.4%) | **Long MV:** $112,180.42 (98.6% deployed)
+- **Phase P&L:** +$13,802.15 (+13.80%) | **Week 18 trades:** 0/3 | **Positions:** 5/6 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (GTC) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $395.22 | +$832.66 | +4.40% | +1.04% | $369.40 (7% trail, 3c260832) | $397.20 | 6.5% |
+| LMT | 40 | $549.50 | $597.01 | +$1,900.40 | +8.65% | +0.55% | $567.63 (7% trail, c8572779) | $610.36 | 4.9% |
+| NUE | 86 | $259.555 | $271.00 | +$984.27 | +4.41% | -0.62% | $252.10 (10% trail, b74a09c5) | $280.11 | 7.0% |
+| VRT | 81 | $280.270 | $281.90 | +$132.01 | +0.58% | -3.60% | $270.24 (10% trail, 39fc75c9) | $300.27 | 4.1% |
+| VST | 155 | $147.957 | $144.51 | -$534.35 | -2.33% | -1.10% | $134.88 (10% trail, 69ff0c3a) | $149.86 | 6.7% |
+
+### Market Context
+- **Oil:** WTI ~$85.15/bbl (+0.7%); Brent ~$91.00/bbl (+0.3%). Highest levels since Jul 30-31. Middle East tensions (Iran/Hormuz risk) driving supply premium.
+- **S&P 500 futures:** ES Sep'26 ~7,737-7,770 (down ~0.4-0.6% premarket). Nasdaq 100 futures -1.3%. Markets fell Monday — Dow -273pts — as oil surged past $90 and 30-year Treasury yields hit highest since 2007. Broad risk-off continues pre-market.
+- **VIX:** ~15.03-15.95 (closed Friday at 14.25; up +5-6% today). Fear gauge accelerating.
+- **30Y Treasury yields:** Hit highest level since 2007 on Monday — DOMINANT macro risk for high-multiple growth names (VRT) and rate-sensitive utilities/energy (VST).
+- **Today's releases (8:30 AM ET):** Housing Starts & Building Permits (July), Import & Export Price Indexes (July). Industrial Production/Capacity Utilization at 9:15 AM; Pending Home Sales at 10:00 AM. CPI already released Aug 12 (+3.4% YoY, in-line). PPI already released Aug 13 (benign). No FOMC today.
+- **BMO Earnings:** Home Depot (HD, $4.73 EPS est, $47.25B rev est — dominant consumer sentiment barometer); CMC Commercial Metals ($1.73 prior beat — NUE read-through; reports again today for Q4 FY2026); BIDU, HSAI, Amer Sports, Klarna. Keysight (KEYS) AMC.
+- **Sector YTD:** Energy +40% (leader) | Technology +33% | Industrials +21% | Materials +10%. Defense/Industrials and AI Infra portfolio sectors in momentum, but rate shock threatens multiples.
+- **Special event:** Danish Defence Industry Day today — LMT, RTX, AVAV, and GD featured. Positive for defense narrative.
+- **GD-specific:** Mesquite TX artillery shell plant production setbacks disclosed in early August — minor negative. $136.5B backlog, GDIT $1.3B Army contract, Q2 EPS $4.24 beat (vs $3.93E) intact. GD trading $389-$395 range today.
+
+### Position Thesis Check
+| Symbol | Thesis | Risk Today | Status |
+|---|---|---|---|
+| GD | Q2 beat; $136.5B backlog; GDIT Army $1.3B contract; Danish Defence Day feature | Mesquite shell delay (minor); stop buf 6.5% | **INTACT — HOLD** |
+| LMT | PAC-3 MSE multiyear; UAE/Verizon/NVIDIA contracts; Danish Defence Day | Stop buf 4.9% — THIN; broad risk-off; +20% trigger $659.40 = 10.7% away | **INTACT — HOLD; watch stop** |
+| NUE | CMC peer beat pattern; PPI benign; $59M Indiana expansion | CMC Q4 FY2026 BMO today = key read-through; -0.62% intraday; stop buf 7.0% | **INTACT — HOLD; watch CMC** |
+| VRT | AI infra capex intact; CRWV/VRT Q2 own beat | 30Y yield spike most damaging for high-multiple AI name; -3.60% intraday; stop buf 4.1% — CRITICAL | **INTACT but AT RISK — HOLD; do NOT intervene; GTC $270.24 manages** |
+| VST | Q2 EBITDA +31%; Helix JV (KKR/KIA/NVIDIA); FERC Cogentrix; nuclear/AI power theme | Rate spike = utility headwind; -1.10% intraday; -2.33% unrealized; stop buf 6.7% | **INTACT — HOLD; well within -7% cut** |
+
+### Trade Ideas
+1. **HOLD ONLY — No new trades.** Environment is risk-off: rate shock (30Y highest since 2007) + oil >$90 + Nasdaq -1.3% premarket. Portfolio 98.6% deployed, only $1,621 cash. 1 open slot available but deploying into this volatility violates Patience > Activity rule. 
+2. **CONDITIONAL WATCH — Energy pure-play (CVX/COP/OXY):** Oil $85-91 is sector tailwind. Energy sector YTD +40%. IF rate shock stabilizes and equities find footing, a high-FCF energy name could fill the 6th slot later this week. Needs: (a) market stabilization; (b) specific catalyst; (c) VRT and LMT stops NOT fired. Not actionable today.
+3. **NUE add watch:** CMC BMO today — if CMC beats again (prior Q3 EPS $1.73 vs $1.60E), NUE thesis confirmed. Could justify sizing up later this week if cash freed by stop-out. Not actionable today (no cash).
+
+### Risk Factors
+1. **VRT stop fire:** -3.60% intraday at $281.90, stop at $270.24 = only 4.14% cushion. If Nasdaq continues lower post-open, VRT could hit GTC stop automatically. This would be CORRECT behavior — do not re-enter same day. Freed cash ~$22,834.
+2. **LMT stop buffer 4.9%:** Another broad risk-off day could bring LMT toward $567.63. Do NOT intervene. GTC manages.
+3. **Import Price data hot (8:30 AM):** Confirms rate-rise fears → additional selling across all names.
+4. **HD earnings miss:** Consumer slowdown signal → risk-off → broad market pressure.
+5. **30Y yield trajectory:** If yields continue to new highs post-2007, growth names (VRT) and utility-adjacent names (VST) face structural valuation compression.
+
+### Decision
+**HOLD — No new trades today.**
+- Rate shock (30Y highest since 2007) + oil >$90 + equities weak premarket = unfavorable risk environment.
+- 98.6% deployed with only $1,621 cash — cannot add new positions even if desired.
+- Patience > Activity applies today. Let GTC stops manage risk; do NOT manually intervene.
+- Key monitors: VRT stop trigger ($270.24 — 4.1% buffer); LMT stop buffer (4.9%); CMC earnings for NUE thesis confirmation; Import Price data at 8:30 AM for rate direction.
+- If VRT stop fires → accept it, log the close, reassess energy/defensive rotation with freed $22K.
+
+**Week 18 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch (Aug 18 open):** VRT stop $270.24 (4.1% buffer — most at-risk position); LMT stop $567.63 (4.9% buffer); Import Price 8:30 AM ET (rate direction); HD BMO earnings (consumer/macro sentiment); CMC BMO (NUE steel read-through); Danish Defence Day catalyst for GD/LMT
+
