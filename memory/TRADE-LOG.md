@@ -4155,3 +4155,21 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 18 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch (Aug 18 afternoon):** VRT GTC stop $270.24 (0.46% buffer — likely to fire today on continued rate pressure); LMT +15% trigger $631.93 (3.6% away — watch for tighten opportunity); NUE thesis confirmation (next real catalyst = CMC Oct 15; watch steel price data); VST thesis intact (rate headwind manageable; Q2 beat, Helix JV, FERC intact)
+
+## 2026-08-18 — EOD Snapshot (Day 83, Week 18 Day 2 — Tuesday)
+**Portfolio:** $112,048.35 | **Cash:** $1,621.73 (1.45%) | **Day P&L:** -$2,664.34 (-2.32%) | **Phase P&L:** +$12,048.35 (+12.05%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $394.06 | +0.75% | +$774.59 (+4.09%) | $369.40 (7% trail, HWM $397.20) |
+| LMT | 40 | $549.50 | $608.92 | +2.56% | +$2,376.80 (+10.81%) | $569.86 (7% trail, HWM $612.75) |
+| NUE | 86 | $259.555 | $264.46 | -3.02% | +$421.83 (+1.89%) | $252.10 (10% trail, HWM $280.11) |
+| VRT | 81 | $280.270 | $271.71 | -7.09% | -$693.38 (-3.05%) | $270.24 (10% trail, HWM $300.27) ⚠️ |
+| VST | 155 | $147.957 | $139.45 | -4.56% | -$1,318.65 (-5.75%) | $134.88 (10% trail, HWM $149.86) |
+
+**Total unrealized:** +$1,561.19
+
+**Notes:** Day 83, Week 18 Day 2 (Tuesday). Broad macro selloff driven by 30Y Treasury hitting ~5.33% (19-year high) crushed growth and energy names while defense held as relative safe haven. VRT -7.09% intraday (largest single-day drop for the position) but unrealized from entry only -3.05%; GTC stop $270.24 held with 0.54% buffer — stop did NOT fire. VST -4.56% intraday, now -5.75% from entry; hard-cut trigger at $137.60 (current $139.45, 1.3% away — monitor closely). LMT led portfolio: +2.56% intraday on Danish Defence Day continued momentum; HWM auto-advanced $610.36→$612.75, stop auto-advanced $567.63→$569.86. GD +0.75% intraday (defense sector resilience). NUE -3.02% intraday (macro-driven, not thesis-break; CMC next catalyst Oct 15). No trades executed. 5 GTC trailing stops confirmed live. VST approaching -7% hard cut threshold — watch pre-market tomorrow; if open below $137.60 or continues lower, close per rules.
+
+**Week 18 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch (Wed Aug 19):** VST hard cut trigger $137.60 (1.3% away from current); VRT stop $270.24 (0.54% buffer — likely to fire on any continued weakness); LMT +15% = $631.93 (3.6% away); rate environment — any relief rally in bonds benefits VRT/VST
