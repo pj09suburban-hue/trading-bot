@@ -4109,3 +4109,49 @@ Note: VRT GTC HWM auto-advanced $298.29→$300.27 over weekend (stop $268.46→$
 
 **Week 18 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch (Tue Aug 18):** LMT stop buffer 5.03% — watch if defense sector continues lower (GTC $567.63 manages; do NOT manually intervene unless -7% hard cut); LMT +20% trigger $659.40 (10.7% away); VST day-5 tracking (thesis intact, stop $134.88 protects 8.5% below entry); NUE next catalyst = any steel demand data; 1 open position slot + 3 trade budget available for Week 18 if momentum-backed catalyst emerges
+
+---
+
+## 2026-08-18 — Midday Scan (Day 83, Week 18 Day 2 — Tuesday)
+
+**Portfolio:** $112,867.79 | **Cash:** $1,621.73 (1.44%) | **Long MV:** $111,246.06 (98.6% deployed) | **Day P&L:** -$2,144.87 (-1.86%) | **Phase P&L:** +$12,867.79 (+12.87%)**
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $394.72 | +$807.59 | +4.27% | +0.92% | $369.40 (7% trail, 3c260832) | $397.20 | 6.5% |
+| LMT | 40 | $549.50 | $610.10 | +$2,424.00 | +11.03% | +2.76% | $568.12 (7% trail, c8572779) | $610.88 | 6.9% |
+| NUE | 86 | $259.555 | $264.85 | +$455.37 | +2.04% | -2.87% | $252.10 (10% trail, b74a09c5) | $280.11 | 4.8% |
+| VRT | 81 | $280.270 | $271.50 | -$710.39 | -3.13% | -7.16% | $270.24 (10% trail, 39fc75c9) | $300.27 | **0.46% ⚠** |
+| VST | 155 | $147.957 | $144.015 | -$611.07 | -2.67% | -1.43% | $134.88 (10% trail, 69ff0c3a) | $149.86 | 6.3% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- GD: +4.27% ✓ | LMT: +11.03% ✓ | NUE: +2.04% ✓ | VRT: -3.13% ✓ | VST: -2.67% ✓
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| GD | +4.27% | $435.35 (10.3% away) | $454.28 (15.1% away) | None |
+| LMT | +11.03% | $631.93 (3.6% away) | $659.40 (8.1% away) | None — watch +15% closely |
+| NUE | +2.04% | $298.49 (12.7% away) | $311.46 (17.6% away) | None |
+| VRT | -3.13% | N/A (below trigger) | N/A | None |
+| VST | -2.67% | N/A (below trigger) | N/A | None |
+Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568.12. Correct behavior.
+
+**STEP 5 — Thesis check:**
+- **GD:** +0.92% intraday (defense outperforming). Danish Defence Day (LMT/RTX/GD featured) providing positive narrative. Thesis intact. HOLD.
+- **LMT:** +2.76% intraday (strong session; leading portfolio). Danish Defence Day catalyst. HWM $610.88. Stop $568.12 (6.9% buffer). +15% trigger $631.93 = 3.6% away — watch closely. Thesis intact. HOLD.
+- **NUE:** -2.87% intraday. CMC Q4 FY2026 does NOT report today (next earnings Oct 15 per Perplexity). Today's sell is macro-driven (30Y Treasury at 5.33% = 19-year high; risk-off). Steel thesis intact — CMC Q3 beat ($1.73 vs $1.60E) still the most recent steel read. GTC stop $252.10 (4.8% buffer). HOLD.
+- **VRT:** -7.16% intraday. GTC stop $270.243 at **0.46% buffer** — CRITICAL. Today's move is macro-driven (rate shock + broad risk-off; no new VRT-specific catalyst). Original Q2 earnings drop was July 29 (revenue miss/timing shifts — since partially recovered); today's selloff is continuation of rate-driven pressure. Unrealized -3.13% from entry (NOT at -7% manual cut). Thesis (AI infra capex, Q2 EPS +53% YoY, rev +24% YoY) is intact but rate headwinds are structural. Per pre-market: "do NOT manually intervene; GTC $270.24 manages." GTC stop will fire automatically if price drops ~$1.26 further. **Do NOT close manually; let GTC manage.** HOLD/GTC manages.
+- **VST:** -1.43% intraday. Rate-driven utility/energy weakness. Unrealized -2.67% from entry. GTC $134.88 (6.3% buffer). Q2 EBITDA +31%, Helix JV, FERC Cogentrix intact. HOLD.
+
+**STEP 6 — Intraday research:**
+- VRT: Down -7.16% on macro (30Y Treasury 5.33% = 19-year high; oil >$90; Iran/Hormuz geopolitical risk). No new VRT-specific catalyst. Pre-market warned this was the primary tail risk. GTC at $270.24 IS the risk management.
+- NUE: CMC Q4 FY2026 not today (Oct 15). NUE's -2.87% intraday is sector rotation/macro, not thesis break. Most recent CMC data (Q3 FY2026) confirmed positive steel margins.
+- Broad market: 30Y Treasury near 5.33% creating multiple compression across all names. Defense (GD +0.92%, LMT +2.76%) acting as relative safe haven. Growth/AI (VRT) and utility/energy (VST) bearing the brunt. No action indicated beyond watching GTC stops.
+
+**STEP 7 — Notification:** No action taken → no Slack per notification philosophy.
+
+**CRITICAL WATCH:** VRT GTC stop $270.243 vs current $271.50 (0.46% buffer). If VRT stop fires: accept it, do NOT re-enter same day. Freed cash ~$21,991. If stop fires before EOD, will log close at next routine.
+
+**Week 18 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+**Key watch (Aug 18 afternoon):** VRT GTC stop $270.24 (0.46% buffer — likely to fire today on continued rate pressure); LMT +15% trigger $631.93 (3.6% away — watch for tighten opportunity); NUE thesis confirmation (next real catalyst = CMC Oct 15; watch steel price data); VST thesis intact (rate headwind manageable; Q2 beat, Helix JV, FERC intact)

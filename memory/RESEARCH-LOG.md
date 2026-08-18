@@ -5354,3 +5354,13 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 18 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
 **Key watch (Aug 18 open):** VRT stop $270.24 (4.1% buffer — most at-risk position); LMT stop $567.63 (4.9% buffer); Import Price 8:30 AM ET (rate direction); HD BMO earnings (consumer/macro sentiment); CMC BMO (NUE steel read-through); Danish Defence Day catalyst for GD/LMT
 
+
+### Afternoon Addendum — Midday Scan 12:00 PM ET
+
+**VRT (-7.16% intraday):** Macro-driven rate shock (30Y Treasury 5.33% = 19-year high). No new company-specific catalyst. Q2 earnings context: July 29 revenue miss (timing shifts) caused 17% one-day drop; stock partially recovered. Today is rate/risk-off continuation. GTC stop $270.24 at 0.46% buffer — expected to fire today. Thesis (AI infra, Q2 EPS +53% YoY, rev +24% YoY) intact structurally.
+
+**NUE (-2.87% intraday):** CMC Q4 FY2026 does NOT report today (next Oct 15, 2026 per Perplexity). Pre-market was incorrect on CMC timing. Most recent CMC data (Q3 FY2026, June 25): EPS $1.73 beat vs $1.60E — positive steel read-through remains intact. NUE sell is macro/sector rotation.
+
+**LMT (+2.76% intraday):** Danish Defence Day featuring LMT/RTX/GD as positive catalyst. Defense acting as safe haven on risk-off day. +15% trigger = $631.93 (3.6% away from $610.10 midday). Watch for tighten opportunity this afternoon.
+
+**Macro:** 30Y Treasury ~5.33% (19-year high), WTI >$85-91, Iran/Hormuz geopolitical risk, Nasdaq futures -1.3% premarket now confirmed in session. All consistent with pre-market risk assessment. No portfolio repositioning needed; GTC stops are the risk management mechanism.
