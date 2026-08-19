@@ -5364,3 +5364,68 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **LMT (+2.76% intraday):** Danish Defence Day featuring LMT/RTX/GD as positive catalyst. Defense acting as safe haven on risk-off day. +15% trigger = $631.93 (3.6% away from $610.10 midday). Watch for tighten opportunity this afternoon.
 
 **Macro:** 30Y Treasury ~5.33% (19-year high), WTI >$85-91, Iran/Hormuz geopolitical risk, Nasdaq futures -1.3% premarket now confirmed in session. All consistent with pre-market risk assessment. No portfolio repositioning needed; GTC stops are the risk management mechanism.
+
+---
+
+## 2026-08-19 — Pre-Market Research (Day 84, Week 18 Day 3 — Wednesday)
+
+### Account Snapshot
+- **Equity:** $112,201.11 | **Cash:** $1,621.73 (1.45%) | **Long MV:** $110,579.38 (98.6% deployed)
+- **Week 18 trades:** 0/3 | **Open positions:** 5/6 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Premarket | Unreal P&L | % | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $395.50 | +$846.59 | +4.47% | $369.40 (7% trail, 3c260832) | $397.20 | 6.6% |
+| LMT | 40 | $549.50 | $608.43 | +$2,357.19 | +10.72% | $569.86 (7% trail, c8572779) | $612.75 | 6.3% |
+| NUE | 86 | $259.555 | $264.19 | +$398.61 | +1.79% | $252.10 (10% trail, b74a09c5) | $280.11 | 4.6% |
+| VRT | 81 | $280.270 | $270.155 | -$819.34 | -3.61% | $270.24 (10% trail, 39fc75c9) ⚠️ | $300.27 | **-0.03% STOP BREACH** |
+| VST | 155 | $147.957 | $141.06 | -$1,069.10 | -4.66% | $134.88 (10% trail, 69ff0c3a) | $149.86 | 4.4% |
+
+### Market Context
+- **WTI:** ~$85.86/bbl | **Brent:** ~$91.89/bbl (elevated — geopolitical/Middle East tensions ongoing)
+- **S&P 500 futures:** +0.1% (~7,477) — mildly positive premarket; stabilizing after yesterday's selloff
+- **VIX:** 15.86 — easing from yesterday's elevated levels; moderate, not panic
+- **No major macro releases today** — CPI was Aug 12 (3.4% y/y, 2.5% core); next CPI Sept 11; no FOMC minutes or jobs data
+- **Earnings BMO:** ADI (Analog Devices), TGT (Target), TJX, LOW (Lowe's), EL (Estée Lauder) — consumer/semi read-throughs; no direct portfolio names
+
+### Sector Momentum (YTD)
+| Sector | YTD |
+|---|---|
+| Energy | +38.47% |
+| Technology | +31.98% |
+| Industrials | +20.24% |
+| Materials | +15.85% |
+| Health Care | +8.12% |
+| Financials | +6.19% |
+| Utilities | +3.79% |
+
+### Portfolio Ticker Research
+- **GD:** Defense sector broadly favorable; no specific catalyst today. 7% trailing stop (tighter, justified by prior rapid run). Buffer 6.6%. HOLD.
+- **LMT:** Q2 beat + record backlog (July); Citi PT raised to $691. Danish Defence Day catalyst was yesterday. Stop auto-advancing as HWM progresses ($612.75). +15% trigger = $631.93 (3.8% away). No new catalyst today; stop manages. HOLD.
+- **NUE:** No NUE-specific news. Steel sector: next major catalyst CMC earnings Oct 15. Macro stabilizing (VIX 15.86 vs yesterday's rate shock). 10% stop at $252.10 (4.6% buffer). HOLD.
+- **VRT:** Premarket $270.155 vs GTC stop $270.243 — **stop breached in premarket; trailing stop will fire at market open**. Q2 EPS $1.52 beat (+$1.43E); revenue miss/timing shifts. AI infra thesis intact structurally. VRT announced ~$1B acquisition of PurgeRite (liquid cooling). Rate relief (VIX stabilizing) insufficient to offset near-term positioning. **EXPECT AUTO-STOP AT OPEN. Do NOT re-enter same day. Freed cash ~$21,883.**
+- **VST:** Guidance reiterated ($6.8B-$7.6B EBITDA 2026). Analysts: Buy ratings $206-$232 targets. Energy sector #1 YTD (+38.47%). Current $141.06, unrealized -4.66%. Hard-cut trigger: $137.60 (entry × 0.93). Buffer from hard cut: $3.46 (2.5%). GTC stop at $134.88 (HWM $149.86). Thesis intact. HOLD — but within 2.5% of hard-cut; monitor at market open.
+
+### Trade Ideas (for post-VRT cash deployment ~$23K total cash if stop fires)
+1. **ADI (Analog Devices) — WATCH:** Reports BMO today. Semiconductor sector momentum (Tech +31.98% YTD). If ADI beats + guides up, could be momentum entry. If entered within 3 days of earnings = 7% trailing stop rule applies. **Entry gate: wait for confirmed beat + price action above prior highs. Do NOT chase gap.** Setup price TBD on print.
+2. **Energy name — WATCH:** Energy #1 YTD sector. Could rotate VRT proceeds into a pure energy name (not VST, already held). No specific catalyst today. Pass unless setup emerges.
+3. **No action today — HOLD cash:** Patience > activity. No pre-identified catalyst with sufficient conviction. Deploy freed VRT proceeds only on a clean setup with documented thesis.
+
+### Risk Factors
+1. **VRT stop fire at open** — already anticipated/managed. Do NOT re-enter same day.
+2. **VST hard cut $137.60** — 2.5% buffer; if market opens down on oil/macro surprise, could breach.
+3. **Oil elevated ($86/$92)** — sustained high oil pressures utility-adjacent names (VST) and adds geopolitical risk premium.
+4. **NUE stop buffer 4.6%** — thinning; another macro risk-off day could approach $252 stop. Watch.
+5. **Macro: no catalyst today** — quiet calendar means any unexpected headline (Fed speaker, geopolitical) drives outsized moves.
+
+### Decision
+**HOLD — No new trades today.**
+- VRT GTC stop will fire automatically; accept and hold proceeds as cash.
+- VST and NUE both within rules; thesis intact; GTC stops manage risk.
+- LMT approaching +15% trigger ($631.93); watch midday for potential stop tighten.
+- No fresh catalyst with 2:1 R:R meeting buy-side gate today. Patience > activity.
+- **If ADI beats strongly BMO and clear momentum emerges:** could revisit at market-open scan. Not actionable premarket.
+
+**Week 18 trades:** 0/3 | **Open positions:** 5/6 (→ 4/6 when VRT fires) | **Daytrade count:** 0
+**Key watch (Aug 19 open):** VRT stop fire (do not intervene, do not re-enter); VST hard cut $137.60 (2.5% buffer); LMT +15% tighten trigger $631.93 (3.8% away); ADI BMO beat potential as semi catalyst for future setup
+
