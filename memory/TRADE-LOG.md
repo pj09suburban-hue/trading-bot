@@ -4223,3 +4223,21 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 18 trades:** 0/3 | **Open positions:** 4/6 | **Daytrade count:** 0
 **Key watch (Aug 19 afternoon):** VST hard cut $137.60 (2.6% buffer; recovering today — monitor into close); LMT +15% trigger $631.93 (5.3% away); NUE stop buffer 3.23% (watch for further macro weakness); 1 open slot + $23K cash if clean catalyst emerges Thursday
+
+## 2026-08-19 — EOD Snapshot (Day 84, Week 18 Day 3 — Wednesday)
+**Portfolio:** $110,409.48 | **Cash:** $45,073.56 (40.8%) | **Day P&L:** -$1,749.73 (-1.56%) | **Phase P&L:** +$10,409.48 (+10.41%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $393.26 | -0.06% | +$734.59 (+3.88%) | $369.40 (7% trail, HWM $397.20) |
+| LMT | 40 | $549.50 | $594.75 | -2.05% | +$1,810.00 (+8.24%) | $569.86 (7% trail, HWM $612.75) |
+| VST | 155 | $147.957 | $141.22 | +0.50% | -$1,044.30 (-4.55%) | $134.88 (10% trail, HWM $149.86) |
+
+**Closed today:**
+- VRT: GTC stop at open, 81 shares @ $269.79, realized -$848.90 (-3.74%) [logged at market-open]
+- NUE: GTC stop (post-midday), 86 shares @ ~$251.15, realized ~-$722.89 (-3.24%)
+
+**Notes:** Day 84, Week 18 Day 3 (Wednesday). Two GTC trailing stops fired: VRT at open (anticipated; 30Y Treasury ~5.33%) and NUE in the afternoon (continued macro weakness past the $252.10 floor). Defense holdings GD and LMT remain stable with positive unrealized; VST +0.50% intraday, recovering from Tuesday's selloff, now -4.55% from entry with 4.54% buffer to stop. Portfolio deployed 59.2% — well below 75-85% target. Two open slots, $45K cash. No new buys placed (no clean catalyst; EOD not the time to force entries). Week 18: 0 new buys, 3 remaining.
+
+**Week 18 trades:** 0 new buys/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch (Thu Aug 20):** Find 1-2 replacement positions to restore 75-85% deployment (~$18-28K to deploy); VST hard cut trigger $137.60 (2.54% buffer); LMT +15% trigger $631.93 (6.0% away); 30Y Treasury — any rate relief rally benefits all names
