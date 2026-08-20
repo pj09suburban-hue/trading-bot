@@ -4300,3 +4300,19 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 18 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch (Aug 20 afternoon):** LMT stop buffer 0.86% (any further weakness triggers GTC $569.86); VST hard cut $137.60 (1.16% buffer — if breaks intraday, close manually); GD stable; consider Fri setup if macro recovers
+
+## 2026-08-20 — EOD Snapshot (Day 85, Week 18 Day 4 — Thursday)
+**Portfolio:** $108,881.70 | **Cash:** $45,072.61 (41.4%) | **Day P&L:** -$1,492.41 (-1.35%) | **Phase P&L:** +$8,881.70 (+8.88%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $386.74 | -1.43% | +$408.63 (+2.16%) | $369.40 (7% trail, HWM $397.20) |
+| LMT | 40 | $549.50 | $573.99 | -2.57% | +$979.60 (+4.46%) | $569.86 (7% trail, HWM $612.75) |
+| VST | 155 | $147.957 | $138.77 | -2.75% | -$1,424.05 (-6.21%) | $134.88 (10% trail, HWM $149.86) |
+
+**Trades today:** None (MPC/VLO gate failed on 235K jobless claims print > 215K risk-off trigger; no new buys, no closes, no GTC fires).
+
+**Notes:** Day 85, Week 18 Day 4 (Thursday). Broad risk-off day driven by soft macro: initial jobless claims 235K (vs 210K consensus, +25K miss) + weak Philly Fed. All three names finished red intraday. VST worst — closed -2.75% intraday, now -6.21% from entry (0.85% buffer to -7% hard cut $137.60; GTC $134.88 has 2.81% buffer). LMT stop buffer tightened to 0.72% ($569.86 stop vs $573.99 close) — one bad print away from being taken out via GTC. GD steady at +2.16%. Deployment 58.6% (below 75-85% target). Week 18: 0 new buys used, 3 remaining. Fri agenda: monitor VST hard cut ($137.60 = manual close if breached), watch LMT for GTC fire; consider replacement entries only if macro tape stabilizes and a clean catalyst emerges.
+
+**Week 18 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch (Fri Aug 21):** VST hard cut $137.60 (0.85% buffer — manual close if breached; else GTC $134.88); LMT stop $569.86 (0.72% buffer — GTC will fire on further defense weakness); GD comfortable; macro reaction to claims data & any Fri fed-speak; 3 open slots + $45K cash if clean setup emerges
