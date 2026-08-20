@@ -4241,3 +4241,28 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 18 trades:** 0 new buys/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch (Thu Aug 20):** Find 1-2 replacement positions to restore 75-85% deployment (~$18-28K to deploy); VST hard cut trigger $137.60 (2.54% buffer); LMT +15% trigger $631.93 (6.0% away); 30Y Treasury — any rate relief rally benefits all names
+
+## 2026-08-20 — Market Open (Day 85, Week 18 Day 4 — Thursday)
+
+**Action:** NO TRADE — MPC skipped per pre-market risk gate.
+
+**Rationale:**
+- Pre-market plan: BUY MPC ~50 sh @ ~$366 IF (SPX futures green AND VIX ≤16 AND jobless claims ≤212K AND MPC $360+)
+- Actual: SPX futures 7,730 ✓ | VIX 15.32 ✓ | MPC premarket $366 ✓ | **Jobless claims 235K ✗** (>215K risk-off trigger)
+- Rule: "if claims prints >215K (surprise jump), risk-off = don't buy" — 235K = 25K miss vs 210K consensus
+- Backup VLO: Same gate applies → SKIP.
+
+**Existing positions:**
+| Ticker | Shares | Entry | Open | Unreal % | Stop (live) | Action |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $392.22 | +3.61% | $369.40 (7% trail, 3c260832) | HOLD — GTC managing |
+| LMT | 40 | $549.50 | $593.00 | +7.92% | $569.86 (7% trail, c8572779) | HOLD — GTC managing |
+| VST | 155 | $147.957 | $141.35 | -4.66% | $134.88 (10% trail, 69ff0c3a) | HOLD — 2.6% buffer to -7% cut |
+
+- No -7% hard cuts triggered (VST -4.66% closest)
+- No +15%/+20% stop tightens triggered (LMT +7.92% closest; +15% = $631.93 = 6.6% away)
+- All 3 GTC trailing stops confirmed live
+- Deployment 59.2% (below 75-85% target — will pursue clean setup Fri/next week when macro signals cooperate)
+
+**Week 18 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch (Aug 20 afternoon/PM):** Market reaction to 235K claims print (labor softening = potential rate-cut tailwind medium term; short-term risk-off); VST hard cut $137.60 (2.6% buffer); LMT +15% trigger $631.93 (6.6% away); MPC/energy setup re-evaluate tomorrow if macro cooperates
