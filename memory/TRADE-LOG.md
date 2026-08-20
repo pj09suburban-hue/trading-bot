@@ -4266,3 +4266,37 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 18 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch (Aug 20 afternoon/PM):** Market reaction to 235K claims print (labor softening = potential rate-cut tailwind medium term; short-term risk-off); VST hard cut $137.60 (2.6% buffer); LMT +15% trigger $631.93 (6.6% away); MPC/energy setup re-evaluate tomorrow if macro cooperates
+
+## 2026-08-20 — Midday Scan (Day 85, Week 18 Day 4 — Thursday)
+
+**Portfolio:** $109,201.41 | **Cash:** $45,072.61 (41.3%) | **Long MV:** $64,128.80 (58.7% deployed) | **Day P&L:** -$1,172.70 (-1.06%) | **Phase P&L:** +$9,201.41 (+9.20%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $390.55 | +$599.09 | +3.17% | -0.46% | $369.40 (7% trail, 3c260832) | $397.20 | 5.42% |
+| LMT | 40 | $549.50 | $574.80 | +$1,012.00 | +4.60% | -2.44% | $569.86 (7% trail, c8572779) | $612.75 | 0.86% |
+| VST | 155 | $147.957 | $139.21 | -$1,355.85 | -5.91% | -2.44% | $134.88 (10% trail, 69ff0c3a) | $149.86 | 3.11% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- GD: +3.17% ✓ | LMT: +4.60% ✓ | VST: -5.91% (hard cut $137.60; current $139.21 = 1.16% buffer; HOLD — GTC $134.88 manages) ✓
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| GD | +3.17% | $435.35 (11.5% away) | $454.28 (16.3% away) | None |
+| LMT | +4.60% | $631.93 (9.9% away) | $659.40 (14.7% away) | None |
+| VST | -5.91% | N/A | N/A | None |
+
+**STEP 5 — Thesis check:**
+- **GD:** -0.46% intraday. Normal noise. Defense sector weak today (LMT -2.44%) but no GD-specific catalyst. HOLD.
+- **LMT:** -2.44% intraday, -2.05% yesterday = -4.4% two-session drawdown. Broad defense rotation + macro risk-off (235K claims). Stop $569.86, current $574.80 = **0.86% buffer** — very tight. No thesis break (Danish Defence Day, $58.6B PAC-3, Citi $691 target intact). HOLD — GTC will fire if it breaches. Do NOT tighten below current price (rule: never within 3%).
+- **VST:** -2.44% intraday, -5.91% from entry. Macro risk-off day (claims 235K = 25K miss). Structural thesis intact (Q2 EBITDA +31%, Helix JV, FERC Cogentrix). Hard cut trigger $137.60 = **1.16% buffer**. GTC $134.88 (3.11% buffer). Watching closely — if breaks $137.60 intraday I'll close manually per rule.
+
+**STEP 6 — Intraday research:** No unexpected sharp single-name moves requiring Perplexity. Broad selloff traces to 235K jobless claims + Philly Fed disappointment (macro, not name-specific).
+
+**Deployment:** 58.7% (below 75-85% target). $45K cash + 3 open slots. Week 18: 0 trades used, 3 remaining. No clean catalyst justified entry today (macro risk-off invalidated MPC/VLO gate at open).
+
+**STEP 7 — Notification:** None (no action taken — per notification philosophy, midday only sends if action).
+
+**Week 18 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch (Aug 20 afternoon):** LMT stop buffer 0.86% (any further weakness triggers GTC $569.86); VST hard cut $137.60 (1.16% buffer — if breaks intraday, close manually); GD stable; consider Fri setup if macro recovers
