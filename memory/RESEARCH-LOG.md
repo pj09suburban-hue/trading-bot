@@ -5429,3 +5429,75 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 18 trades:** 0/3 | **Open positions:** 5/6 (→ 4/6 when VRT fires) | **Daytrade count:** 0
 **Key watch (Aug 19 open):** VRT stop fire (do not intervene, do not re-enter); VST hard cut $137.60 (2.5% buffer); LMT +15% tighten trigger $631.93 (3.8% away); ADI BMO beat potential as semi catalyst for future setup
 
+
+---
+
+## 2026-08-20 — Pre-Market Research (Day 85, Week 18 Day 4 — Thursday)
+
+### Account Snapshot
+- **Equity:** $110,357.56 | **Cash:** $45,072.61 (40.9%) | **Long MV:** $65,284.95 (59.2% deployed ⚠️ — below 75-85% target)
+- **Week 18 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Premarket | Unreal P&L | % | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $392.22 | +$682.59 | +3.61% | $369.40 (7% trail, 3c260832) | $397.20 | 5.8% |
+| LMT | 40 | $549.50 | ~$591.87 (AH) | +$1,670 | +7.60% | $569.86 (7% trail, c8572779) | $612.75 | 3.6% |
+| VST | 155 | $147.957 | $142.09 | -$909.45 | -3.97% | $134.88 (10% trail, 69ff0c3a) | $149.86 | 5.8% |
+
+### Market Context
+- **WTI:** ~$84.87/bbl (easing from yesterday's ~$86; range $83.99-84.92 today) | **Brent:** ~$91.97-93.90
+- **S&P 500 futures:** ~7,726-7,750 (+0.16-0.48%) — mild positive premarket; recovering from rate shock selloff
+- **VIX:** 15.13 (closed yesterday 14.89, down from 15.84 — risk sentiment improving meaningfully)
+- **Macro releases today:** Jobless claims 8:30 AM ET (prior 209K, consensus 210K); Philly Fed Manufacturing (prior 41.4, consensus 25.3) — key data risk
+- **Key premarket catalysts:** MRNA +84-87% (Phase 3 personalized cancer vaccine trial positive with MRK); MRK +9%; MRVL +11% (Google $12B custom chip/warrant deal, +9.85% yesterday); EL +11-13%
+- **No Fed speakers confirmed**
+
+### Sector Momentum (YTD most current — chartrow.com Aug 20)
+| Sector | YTD |
+|---|---|
+| Energy | +43.1% |
+| Technology | +27.7% |
+| Industrials | +17.6% |
+| Basic Materials | +22.1% |
+| Financials | +5.5% |
+
+### Portfolio Ticker Research
+- **GD:** Defense sector stable. No specific negative catalyst. +0.41% overnight per yesterday AH trend. Stop $369.40 (7% trail, HWM $397.20, 5.8% buffer). HOLD.
+- **LMT:** Closed $589.47 yesterday (-2.92%), AH $591.87 (+0.41%). Citi raised target $641→$691 (Aug 13, Buy). Q2 beat (EPS $7.94, rev +10.5% YoY), raised 2026 guidance. $58.6B PAC-3 multiyear contract. Aug 17: awarded $211.4M Missile Defense Agency contract. Stop $569.86 (7% trail, HWM $612.75, 3.6% buffer). +15% tighten trigger = $631.93 (6.9% away from AH price). Thesis strong. HOLD — watch closely at open.
+- **VST:** Q2 EBITDA +31% ($1.37B), reaffirmed $6.8-7.6B guidance, Helix JV (KKR/KIA/NVIDIA), FERC Cogentrix approval. Down 27% YTD. CFRA $230 Buy; Wells Fargo $212 (reduced from $220). Q2 headline miss on GAAP (revenue $4.02B vs $5.5-5.7B est; $472M unrealized mark-to-market hedge loss distorted). Structural intact. Hard cut: $137.60 (entry×0.93; 3.2% buffer from current). GTC $134.88 (5.8% buffer). HOLD.
+
+### Trade Ideas — Deployment (Need ~$16-28K to restore 75-85%)
+**1. MPC (Marathon Petroleum) — CONDITIONAL TRADE — PRIMARY SETUP**
+- Catalyst: Energy sector #1 YTD (+43.1%); WTI $84-87 (elevated, geopolitical premium); MPC #1 on WallStreetZen energy screen (Grade A Momentum + Growth + AI); refining margins supported
+- Entry: ~50 shares at ~$366 (live quote confirm at open) = ~$18,300 (16.6% equity ✓)
+- Stop: 10% trailing GTC below fill
+- Target: $406+ (10.9% gain = 2:1 vs 5% initial trail; minimum acceptable per rules)
+- Gate: Confirm fills ≤ 20% equity ($22,071 max). Market opens constructively (SPX futures green). MPC holding above $360 at open.
+- Risk: No company-specific catalyst today; pure sector momentum play. If claims data disappoints (>215K) or market opens red, skip.
+
+**2. VLO (Valero Energy) — BACKUP IF MPC SETUP FAILS**
+- Catalyst: Same energy sector momentum; VLO 44.98% 12-week price change, 282.87% projected EPS growth (Zacks #1-ranked); refiner with operating leverage to WTI spread
+- Entry: ~35-40 shares at ~$130-135 (live quote confirm) = ~$4,500-5,400 (too small relative to position rules — need to verify share price)
+- Note: Will verify VLO share price at market open before deciding position size
+- Risk: Refining margin compression if WTI falls and product prices lag
+
+**3. MRVL — DO NOT BUY**
+- Google $12B custom chip deal was yesterday's catalyst (+9.85%). Earnings Aug 27 (7 days). Buying after +10% move 7 days pre-earnings = gap risk. PASS.
+
+### Risk Factors
+1. **Jobless claims 8:30 AM** — if prints >215K (surprise jump), risk-off = don't buy. If ≤205K (beat), confirms labor market resilience = green light for entries.
+2. **VST hard cut $137.60** — 3.2% buffer (current $142.09); if macro opens weak, could breach. No intervention; GTC manages below $134.88.
+3. **LMT stop buffer 3.6%** — if further defense rotation out, stop could approach. Monitor at open.
+4. **Oil easing ($84.87 vs $87+ last week)** — a move toward $80 removes energy sector tailwind; MPC entry gate includes oil price check at open.
+5. **Philly Fed miss risk** — prior 41.4 vs consensus 25.3; a bad print would confirm manufacturing weakness = negative sentiment.
+
+### Decision
+**TRADE-conditional — Primary setup MPC (energy) at market open.**
+- If SPX futures green, VIX ≤16, claims ≤212K, MPC quote $360+: BUY ~50 shares MPC (~$18.3K, ~16.6% equity). Set 10% GTC trailing stop immediately.
+- If conditions don't line up or market opens red: HOLD, stay at 59.2% deployed, wait for cleaner setup.
+- VST/GD/LMT: All HOLD. GTC stops manage risk.
+- **Default: HOLD.** Patience > activity. Do NOT chase open just to hit deployment target.
+- Market-open routine will execute/confirm.
+
+**Week 18 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
+**Key watch (Aug 20 open):** Jobless claims 8:30 AM ET; MPC quote at open; VST hard cut $137.60 (3.2% buffer); LMT stop buffer 3.6% (HWM $612.75); VIX direction
