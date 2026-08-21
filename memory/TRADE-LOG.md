@@ -4383,3 +4383,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 18 trades:** 0 new buys/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (next session Mon Aug 25):** Restore deployment to 75–85% (need ~$42–52K deployed; 2 new positions); energy sector watching MPC/VLO entry gate; GD +1.39% comfortable; Week 18 → Week 19 with 0 new buys used; VST sector (Energy) at 1 failed trade — next energy trade must succeed or sector exit triggers
+
+## 2026-08-21 — EOD Snapshot (Day 86, Week 18 Day 5 — Friday)
+**Portfolio:** $108,294.28 | **Cash:** $89,118.02 (82.3%) | **Day P&L:** -$406.24 (-0.37%) | **Phase P&L:** +$8,294.28 (+8.29%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $383.5251 | -0.66% | +$247.85 (+1.31%) | $369.40 (7% trail, HWM $397.20) |
+
+**Trades today:** VST — closed (hard cut, -7.31%, -$1,676.70 realized) | LMT — GTC stop fired Thu Aug 20 3:40PM ET (+$809.20, +3.69%), logged at market-open today
+
+**Notes:** Day 86, Week 18 Day 5 (Friday). Closes out the week with only 1 position (GD) and 17.7% deployed — far below the 75–85% target. VST hard-cut at midday (-7.31%, -$1,676.70 realized) on 30Y Treasury spike to 5.33% 19-year high; LMT GTC stop fired yesterday at market close (+3.69%, +$809.20 realized). Week 18 ends with 0 new buys placed (3 remaining cap untouched). Day P&L -$406.24 (-0.37%) driven by GD intraday softness (-0.66%). Phase P&L remains positive +8.29%. Week 19 priority: restore deployment to 75–85% — need 2–3 quality new setups at pre-market Mon Aug 25. Energy sector at 1 consecutive failed trade (VST) — next energy entry must succeed or full sector exit triggered. MPC/VLO setups require reassessment when macro stabilizes (30Y rate outlook key gating factor).
+
+**Week 18 trades:** 0 new buys/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (Mon Aug 25, Week 19 open):** Build toward 75-85% deployment (need ~2 new positions); MPC/VLO energy gate — recheck at pre-market; GD stop $369.40 (7% trail, HWM $397.20, 3.67% buffer); energy sector at 1 failed trade (1 more = full sector exit)
