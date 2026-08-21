@@ -5501,3 +5501,78 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Week 18 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch (Aug 20 open):** Jobless claims 8:30 AM ET; MPC quote at open; VST hard cut $137.60 (3.2% buffer); LMT stop buffer 3.6% (HWM $612.75); VIX direction
+
+---
+
+## 2026-08-21 — Pre-Market Research (Day 86, Week 18 Day 5 — Friday)
+
+### Account Snapshot
+- **Equity:** $109,007.32 | **Cash:** $67,861.32 (62.3%) | **Long MV:** $41,146 (37.7% deployed ⚠️ — far below 75-85% target)
+- **Week 18 trades:** 0/3 | **Open positions:** 2/6 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Premarket | Unreal P&L | % | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $387.99 | +$471.09 | +2.49% | $369.40 (7% trail, 3c260832) | $397.20 | 5.3% |
+| VST | 155 | $147.957 | $140.30 | -$1,186.90 | -5.18% | $134.878 (10% trail, 69ff0c3a) | $149.86 | 3.8% |
+
+**LMT (closed):** GTC trailing stop $569.86 fired (premarket/open Fri Aug 21). 40 sh × ~$569.86 ≈ +$814 realized (+3.7%). LMT had 0.72% stop buffer going into today; no thesis break — macro-driven defense rotation. Defense sector: 1 consecutive failure (LMT); GD still open and positive. No sector ban.
+
+### Market Context
+- **WTI:** $86.38–$86.87/bbl (elevated; US-Iran geopolitical premium on Strait of Hormuz; supportive for energy sector)
+- **Brent:** $93.6–$93.8/bbl
+- **S&P 500 futures:** Near flat to slightly negative; ~7,668–7,707; mixed/volatile premarket (range of sources -0.80% to +0.07%)
+- **VIX:** ~15.70–15.86 (up slightly from 14.89 Thursday close; not alarming but watch)
+- **Economic releases today:** S&P Global Flash PMI at 9:45 AM ET (Manufacturing forecast 53.9; Services/Composite also due); Fed Barkin speech ~8:15 AM ET
+- **Earnings BMO:** BJ's Wholesale (BJ), Ubiquiti (UI), KE Holdings (BEKE), Buckle (BKE), Darden (DRI), TD SYNNEX (SNX) — no major market-movers
+- **CMC Q4 FY2026:** No confirmed report today per Perplexity; next steel catalyst likely Oct 2026
+
+### Sector Momentum (YTD)
+| Sector | YTD |
+|---|---|
+| Energy | +39.9–44.6% (#1) |
+| Technology | +24.3–31.0% (#2) |
+| Industrials | +20.9–22.3% |
+| Basic Materials | ~+22% |
+| Communication Services | -5.4% to +1.7% (worst) |
+
+### Portfolio Ticker Research
+- **GD:** Q2 2026 EPS $4.24 beat; revenue $14.1B beat; raised 2026 guidance; record backlog $136.5B. Jefferies upgraded to Buy/$400 PT. $1.3B Army cybersecurity contract. Thesis strong. Stop $369.40 (7% trail, HWM $397.20, 5.3% buffer). HOLD.
+- **VST:** Premarket ~$140.30 (+1.0% from Thursday close $138.94). Q2 EBITDA +31%, Helix JV (KKR/KIA/NVIDIA), FERC Cogentrix intact. CFRA $230 Buy; TD Cowen cut to $221. Hard cut trigger: $137.60 (1.9% buffer from current). GTC stop $134.878 (3.8% buffer). Rate-driven pressure persists (30Y Treasury ~5.33%); but recovering intraday. HOLD — GTC manages. **Watch: if opens below $137.60 → manual close per rules.**
+- **LMT (closed):** GTC stop fired; defense rotation/macro, not thesis break. Freed ~$22,790 cash. 1 failed defense trade (GD still positive; no sector ban). Realized ~+$814 (+3.7%).
+
+### Trade Ideas — Deployment (Need ~$40-50K to restore 75-85%)
+**1. MPC (Marathon Petroleum) — CONDITIONAL TRADE — PRIMARY**
+- Catalyst: Energy sector #1 YTD (+39.9-44.6%); WTI $86-87 (elevated geopolitical premium + strong refining margins); no claims gate today; MPC Grade A momentum + growth screen
+- Entry: ~50 shares at ~$366 (verify live quote at open) = ~$18,300 (16.8% equity ✓)
+- Stop: 10% trailing GTC below fill
+- Target: $406+ (+10.9% from $366 = 2:1 minimum R:R vs 5% initial trail)
+- Gate: SPX futures positive at open (or at least flat; not deteriorating) AND VIX ≤16 AND MPC quote ≥$360 AND PMI not a disaster
+- Risk: Pure sector momentum, no company-specific catalyst today; rate-sensitive if 30Y spikes again
+
+**2. VLO (Valero Energy) — CONDITIONAL BACKUP**
+- Same energy sector rationale; Zacks #1 with 44.98% 12-week price change; 282% projected EPS growth
+- Entry: verify price/size at open; target ~$4,500-5,400 position (may need to size up on shares given lower price)
+- Gate: Same as MPC — only enter if macro tape is constructive
+
+**3. HOLD CASH — DEFAULT if conditions don't line up**
+- SPX futures are slightly negative premarket → not a green light; wait for open tape to confirm
+- PMI at 9:45 AM ET could move market either direction
+- Default is HOLD; force nothing
+
+### Risk Factors
+1. **VST hard cut $137.60** — 1.9% buffer from premarket $140.30; if opens below $137.60, close manually per -7% rule
+2. **SPX futures slightly negative** — macro tape uncertain; gate required before any new entry
+3. **S&P PMI 9:45 AM ET** — manufacturing forecast 53.9; miss = risk-off pressure; beat = green light for entries
+4. **30Y Treasury / rate environment** — elevated ~5.33% continues to pressure growth/utility names (VST)
+5. **LMT realized +$814** — positive outcome; deployment now 37.7%, recovery is priority but not at the cost of chasing a weak tape
+
+### Decision
+**TRADE-conditional (energy MPC if gate met; else HOLD)**
+- If SPX futures stable/positive, VIX ≤16, MPC ≥$360 at open: BUY ~50 MPC, 10% GTC trailing stop immediately after fill.
+- If gate fails or market opens red: HOLD all cash, monitor VST/GD GTC stops.
+- GD: HOLD. Thesis strong, Jefferies $400 PT, 5.3% stop buffer.
+- VST: HOLD unless opens below $137.60 (then manual close).
+- **Default: HOLD.** This is the last trading day of Week 18; patience > forcing deployment on a weak tape.
+
+**Week 18 trades:** 0/3 remaining | **Open positions:** 2/6 | **Daytrade count:** 0
+**Key watch (Aug 21 open):** VST hard cut $137.60 (1.9% buffer — close manually if breached); GD stable; MPC entry gate (SPX green, VIX ≤16, MPC ≥$360); PMI 9:45 AM ET; 3 open slots + $67K cash available; end of Week 18
