@@ -1107,3 +1107,73 @@ Template for each entry:
 *Week 17 — portfolio +1.85% vs S&P +0.66% = +1.19% outperformance. Phase high $115,847 reached Wednesday on CPI relief. VRT recovered from -2.40% to +4.87% on CRWV earnings read-through, the second documented instance of a related-company catalyst driving an open position. HWM GTC stop honored mechanically at -$64; VST entry on nuclear/energy/AI-power thesis was rule-compliant with all gates passed. CPI and PPI both benign — zero forced exits. B+ reflects clean benchmark outperformance, disciplined mechanical execution (two rule-triggered events handled without override), and a valid new entry, offset by HWM's 16-day slot waste for near-zero return, deployment ceiling overshoot at 98.6%, and an all-time win rate below 33%.*
 
 ---
+
+## Week ending 2026-08-21
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $115,791.30 |
+| Ending portfolio | $108,332.52 |
+| Week return | -$7,458.78 (-6.44%) |
+| S&P 500 week | -1.92% (7,790.68 → 7,641.16) |
+| Bot vs S&P | -4.52% |
+| Phase return | +$8,332.52 (+8.33% from $100k baseline) |
+| Phase bot vs S&P | +1.68% (bot +8.33% vs S&P +6.65% from Apr 24 start 7,165.08) |
+| Trades | 0 new buys / 4 closed (W:1 / L:3 / open:1) |
+| Win rate | 25% this week (1/4); 29.4% all-time (5/17 closed) |
+| Best trade | LMT +3.69% (+$809.20) |
+| Worst trade | VST -7.31% (-$1,676.70) |
+| Profit factor | 1.67 all-time ($20,188 winners / $12,107 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| VRT | $280.270 | $269.79 | -$848.90 (-3.74%) | GTC 10% trail fired Aug 19 open; 14-day hold (Aug 5→19); 30Y Treasury 5.33% rate shock; AI infra thesis structurally intact at exit |
+| NUE | $259.555 | $251.15 | -$722.89 (-3.24%) | GTC 10% trail fired Aug 19 afternoon; 21-day hold (Jul 31→Aug 19); macro rate shock compressed Materials; next catalyst Oct 15 |
+| LMT | $549.50 | $569.73 | +$809.20 (+3.69%) | GTC 7% trail fired Aug 20 3:40 PM ET; 29-day hold (Jul 23→Aug 20); only profitable exit of the week; stop progression correct |
+| VST | $147.957 | $137.14 | -$1,676.70 (-7.31%) | Hard cut Aug 21 midday; 8-day hold (Aug 14→21); -7% rule enforced on rate-shock (30Y 5.33%); thesis intact at exit |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| GD | $378.5682 | $383.53 | +$247.85 (+1.31%) | $369.40 (7% trail, HWM $397.20, 3.67% buf) |
+
+### What Worked
+- All 4 stop/cut events honored mechanically: VRT GTC, NUE GTC, LMT GTC, VST -7% hard cut — zero manual overrides or hope trades; stop system absorbed a rate shock week cleanly
+- VST -7% cut executed at midday without exception; thesis-intact status noted but rule takes priority — this is the exact discipline the rules require
+- VRT and NUE exits fully anticipated: pre-market research flagged stop-breach risk before the session; exits were not surprises
+- MPC gate correctly rejected twice (Thu: jobless claims 235K > 215K threshold; Fri: price $357 < $360 minimum); no forced deployment into a deteriorating macro environment
+- LMT GTC captured +3.69% realized on a defense name — patient 29-day hold delivered the only winning exit of the week
+
+### What Didn't Work
+- Portfolio -6.44% vs S&P -1.92% = -4.52% underperformance; all five positions correlated to rate sensitivity; 30Y Treasury at 5.33% hit every name simultaneously
+- Four positions stopped out in 3 sessions (Aug 19–21): deployment fell from 98.6% to 17.7%; the portfolio's rate-factor concentration was a construction error
+- Phase alpha collapsed: +6.81% (Week 17) → +1.68% vs S&P; weeks of accumulated unrealized gains wiped in one rate-shock event
+- All-time profit factor compressed: 2.19 → 1.67; three losses and one modest win pulled the ratio down
+- Week ended 17.7% deployed ($89K+ idle); no clean entry gated for Friday; deployment constraint persists into Week 19 open
+- VST at 1 consecutive energy sector failure: constrains Week 19 energy entry (next energy fail = sector exit)
+
+### Key Lessons
+- Rate-correlated concentration: VRT (AI infra), NUE (Materials), LMT (defense), VST (utility/nuclear) all negatively correlated to 30Y Treasury yields; holding four simultaneously is hidden rate risk masked as sector diversification; portfolio construction must include a rate-factor check
+- 30Y Treasury at 5.33% (19-year high) is the primary macro risk variable entering Week 19; track daily; limit ≤2 rate-sensitive names simultaneously going forward
+- LMT was the sole profitable exit — also the name with the most contracted long-duration revenue (F-35, $230B backlog); certainty of revenue stream buffers rate-multiple compression; favor contracted-backlog names over spot-market earnings plays
+- GTC stop system proved its value: without stops, VRT and NUE would have been held through further losses citing intact thesis; stops exited at -3.74% and -3.24%, well above -7%; discipline over thesis-defense
+- Week 19 construction: diversify by rate factor, not sector label only; entries should span contracted-revenue (defense backlog), supply-driven commodity (rate-uncorrelated), and growth only if yield environment stabilizes
+
+### Adjustments for Next Week
+- **Priority: Deploy 2–3 positions** to restore 75–85% band; $89K cash, 5 open slots, fresh 3-trade budget (Week 19)
+- **GD:** Hold; stop $369.40 (7% trail, HWM $397.20, 3.67% buf); thesis intact; no action
+- **30Y Treasury watch:** Yield ~5.33% heading into weekend; threshold: above 5.40% = defer entries; relief below 5.0% = green light for rate-sensitive re-entry; primary Week 19 gating variable
+- **Energy re-entry (MPC/VLO):** 1 consecutive energy failure (VST); MPC gate ≥$360 + macro stability; recheck Monday pre-market; entering converts the failure clock
+- **Rate-factor limit (new):** Max 2 rate-sensitive names simultaneously; classify each new entry as rate-sensitive (Y/N) before placing; if 2 already held, next entry must be rate-uncorrelated
+- **Earnings verification:** Company IR press release only; no third-party estimates accepted for binary event scheduling
+- **LHX blacklisted** — no exceptions
+
+### Overall Grade: D
+*Week 18 — portfolio -6.44% vs S&P -1.92% (-4.52% underperformance). Worst absolute week in the phase since Week 4 (-3.63%). Four positions stopped out in 3 days on 30Y Treasury spike to 5.33% (19-year high): VRT GTC (-3.74%), NUE GTC (-3.24%), LMT GTC (+3.69%), VST hard cut (-7.31%). All exits mechanical and rule-compliant — stop discipline prevented a worse outcome. Phase alpha compressed from +6.81% to +1.68% vs benchmark; profit factor fell from 2.19 to 1.67. Ending Week 18 with 1 position (GD) and 17.7% deployed. D reflects the portfolio getting cleared by a single macro variable (30Y rate shock) because all five names shared rate-factor exposure — a portfolio construction error that the weekly review process must now encode as a formal check.*
+
+---

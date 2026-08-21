@@ -24,6 +24,7 @@ Beat the S&P 500 over the challenge window. Stocks only — no options, ever.
 10. Exit a sector after 2 consecutive failed trades in that sector
 11. Patience > activity — a week with zero trades can be the right answer
 12. Post-earnings entries (entry within 3 days of earnings print): set initial trailing stop at 7% instead of 10%. The -7% manual cut rule still applies normally. Rationale: sell-the-news dynamics produce elevated near-term volatility; 3 instances confirmed (CEG -9.06%, NVDA -7.62%, AVGO -6.06%) across weeks 4–7. (Added 2026-06-05)
+13. Rate-factor limit: Max 2 rate-sensitive positions simultaneously. Before any new entry, classify as rate-sensitive (Y/N) using this heuristic: (a) utility/energy income names, (b) AI infra/data center capex names, (c) Materials names driven by macro demand. If 2 rate-sensitive names already held, the next entry must be rate-uncorrelated (contracted-backlog defense, commodity supply-driven, consumer staples). Rationale: Week 18 (Aug 19–21) — 4 positions (VRT, NUE, LMT, VST) stopped out in 3 days when 30Y Treasury spiked to 5.33%; all four names shared rate-factor exposure masked as sector diversification. (Added 2026-08-21)
 
 ## Entry Checklist
 Before placing any buy, document all four:
