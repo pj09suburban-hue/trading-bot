@@ -4348,3 +4348,38 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 18 trades:** 0/3 | **Open positions:** 2/6 | **Daytrade count:** 0
 **Key watch (Aug 21 session):** VST hard cut $137.60 (1.9% buffer from premarket $140.30; intraday ~$138.94 per market data = 0.97% buffer — VERY TIGHT); GD stable; MPC/energy setup — reassess next week if macro stabilizes; 3 open slots + $67K cash
+
+## 2026-08-21 — Midday Scan (Day 86, Week 18 Day 5 — Friday)
+
+**Portfolio:** $108,314.02 | **Cash:** $89,118.02 (82.3%) | **Long MV:** $19,196 (17.7% deployed ⚠️) | **Phase P&L:** +$8,314.02 (+8.31%)
+
+**CLOSED: VST — Hard Cut at -7% Rule**
+| Ticker | Side | Shares | Fill Price | Entry | Realized P&L | % | Reason |
+|---|---|---|---|---|---|---|---|
+| VST | sell (market) | 155 | $137.14 | $147.957 | -$1,676.70 | -7.31% | -7% hard cut rule: unrealized_plpc -7.37% confirmed via positions API at midday scan |
+
+- GTC trailing stop 69ff0c3a canceled first (shares held_for_orders blocked direct close); market sell order 92fe9044 placed and filled
+- Sector note: Energy — 1 consecutive failed trade (VST). **No sector exit (need 2 consecutive).**
+- VST thesis at close: Structurally intact (Q2 EBITDA +31%, Helix JV KKR/KIA/NVIDIA, FERC Cogentrix). Exit driven by rate-induced price action (30Y Treasury ~5.33% 19-year high), not fundamental breakdown.
+- Do NOT re-enter VST today.
+
+**STEP 3 — Losers cut (-7% from entry):** VST CLOSED ↑
+- GD: +1.39% ✓ (no action)
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| GD | +1.39% | $435.35 (13.4% away) | $454.28 (18.4% away) | None |
+
+**STEP 5 — Thesis check:**
+- **GD:** -0.58% intraday. Current $383.84 (+1.39% unrealized). Q2 EPS $4.24 beat, revenue $14.1B beat, raised guidance, record $136.5B backlog, Jefferies $400 PT, Army cybersecurity contract. Stop $369.40 (7% trail, HWM $397.20, 5.3% buffer). **INTACT — HOLD.**
+- **VST:** CLOSED per -7% hard cut rule (see above).
+
+**STEP 6 — Intraday research:** No unexpected single-name moves requiring Perplexity. VST decline was anticipated in pre-market (rate environment, 30Y Treasury ~5.33% headwind). No new catalyst warranting afternoon research append.
+
+**Deployment: 17.7%** (far below 75–85% target). $89K cash, 5 open slots, 3 buy trades remaining Week 18. No new entry at midday (gate conditions not met; MPC failed at open per market-open log; no fresh clean catalyst mid-session on week's last trading day).
+
+**STEP 7 — Slack notification sent (action taken — VST close).**
+
+**Week 18 trades:** 0 new buys/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (next session Mon Aug 25):** Restore deployment to 75–85% (need ~$42–52K deployed; 2 new positions); energy sector watching MPC/VLO entry gate; GD +1.39% comfortable; Week 18 → Week 19 with 0 new buys used; VST sector (Energy) at 1 failed trade — next energy trade must succeed or sector exit triggers
