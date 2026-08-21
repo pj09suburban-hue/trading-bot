@@ -4316,3 +4316,35 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 18 trades:** 0/3 | **Open positions:** 3/6 | **Daytrade count:** 0
 **Key watch (Fri Aug 21):** VST hard cut $137.60 (0.85% buffer — manual close if breached; else GTC $134.88); LMT stop $569.86 (0.72% buffer — GTC will fire on further defense weakness); GD comfortable; macro reaction to claims data & any Fri fed-speak; 3 open slots + $45K cash if clean setup emerges
+
+## 2026-08-21 — Market Open (Day 86, Week 18 Day 5 — Friday)
+
+**LMT GTC stop filled (Thu Aug 20 3:40 PM ET — logged now):**
+| Ticker | Side | Shares | Fill Price | Entry | Realized P&L | % | Order ID |
+|---|---|---|---|---|---|---|---|
+| LMT | sell (GTC stop) | 40 | $569.73 | $549.50 | +$809.20 | +3.69% | c8572779 |
+
+**Action:** NO TRADE — MPC gate failed.
+
+**Gate check (MPC — PRIMARY):**
+- Total positions after fill ≤ 6: 2+1=3 ✓
+- Trades this week ≤ 3: 0/3 ✓
+- Position cost ≤ 20% equity: $18,300 / $109,007 = 16.8% ✓
+- Position cost ≤ available cash: $18,300 < $67,861 ✓
+- PDT day-trade count < 3: 0 ✓
+- Catalyst documented: energy sector #1 YTD + WTI $86 ✓
+- **MPC quote ≥$360: FAIL — MPC ~$357 at open** ✗
+- VLO backup: same gate → also skipped
+
+**Existing positions:**
+| Ticker | Shares | Entry | Open | Unreal % | Stop (live) | Action |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $387.99 | +2.49% | $369.40 (7% trail, 3c260832) | HOLD — GTC managing |
+| VST | 155 | $147.957 | $140.30 | -5.17% | $134.878 (10% trail, 69ff0c3a) | HOLD — watch closely; hard cut $137.60 (1.9% buffer) |
+
+- No -7% hard cuts triggered (VST -5.17% from entry, hard cut at $137.60 = ~1.9% below current premarket)
+- No +15%/+20% stop tightens triggered
+- All GTC trailing stops confirmed live (GD, VST)
+
+**Week 18 trades:** 0/3 | **Open positions:** 2/6 | **Daytrade count:** 0
+**Key watch (Aug 21 session):** VST hard cut $137.60 (1.9% buffer from premarket $140.30; intraday ~$138.94 per market data = 0.97% buffer — VERY TIGHT); GD stable; MPC/energy setup — reassess next week if macro stabilizes; 3 open slots + $67K cash
