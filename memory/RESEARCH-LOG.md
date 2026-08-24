@@ -5576,3 +5576,74 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Week 18 trades:** 0/3 remaining | **Open positions:** 2/6 | **Daytrade count:** 0
 **Key watch (Aug 21 open):** VST hard cut $137.60 (1.9% buffer — close manually if breached); GD stable; MPC entry gate (SPX green, VIX ≤16, MPC ≥$360); PMI 9:45 AM ET; 3 open slots + $67K cash available; end of Week 18
+
+---
+
+## 2026-08-24 — Pre-Market Research (Day 87, Week 19 Day 1 — Monday)
+
+### Account Snapshot
+- **Portfolio equity:** $108,389.53
+- **Cash:** $89,117.53 (82.3%)
+- **Long MV:** $19,272 (17.7% deployed — far below 75-85% target)
+- **Open positions:** 1/6 (GD only)
+- **Week 19 trades used:** 0/3
+- **Daytrade count:** 0
+
+### Market Context
+- **WTI crude:** ~$85.65/bbl (-1.6% today); Brent ~$93.25 (-1.2%); diesel margins at record highs (CME note Aug 19)
+- **SPX futures premarket:** ~7,683–7,689 (-0.02% to -0.11%) — essentially flat, slight caution
+- **VIX:** 16.01 (vs 15.13 Friday close) — slightly elevated, manageable
+- **CFNAI (Chicago Fed National Activity Index):** 8:30 AM ET today (July read, prior -0.02; no consensus shown)
+- **Jackson Hole:** Fed speakers this week — rate path signals in focus
+- **NVIDIA earnings:** this week (Wed after close) — AI bellwether, biggest market event of week
+- **Energy sector YTD:** #1 at +43.9–44.3% — dominant momentum sector
+- **Rate environment:** 30Y Treasury ~5.33% (19-year high) — week 18's blowout trigger; any further spike = risk for rate-sensitives
+
+### GD Update (held position)
+- Current $385.44 (+1.82% unrealized), GTC trailing stop $369.40 (7% trail, HWM $397.20, 4.2% buffer)
+- Q2 EPS $4.24 beat, record $136.5B backlog, $1.3B GDIT Army cybersecurity contract Aug 7, Jefferies $400 PT, avg analyst target ~$411
+- Thesis fully intact. HOLD, GTC managing.
+
+### Trade Ideas
+
+**1. MPC (Marathon Petroleum) — PRIMARY ENERGY SETUP**
+- Catalyst: Q2 EPS $17.73 vs $14.52 est (massive beat Aug 4), refining margin doubled to $36.33/bbl, $2.5B buyback, WTI $85+ + record diesel crack spreads (geopolitical Strait of Hormuz supply squeeze)
+- Sector: Energy #1 YTD +44% — momentum confirmed
+- Rate-sensitivity: NOT rate-sensitive (commodity/crack-spread driven, not rate-dependent) ✓ Rule 13 safe
+- Last week: gated at open (~$357 < $360 threshold); Friday close $385.88 — price catalyst now confirmed
+- Entry: verify quote at open; size ~56 shares × ~$386 = ~$21,616 (≤20% equity $21,678)
+- Stop: 10% GTC trailing stop immediately after fill (~$347 initial)
+- Target: $463+ (20% from $386, 2:1 R:R on 10% risk)
+- Gate trigger: CFNAI not a disaster AND SPX stable at open AND MPC ≥$360 confirmed at quote
+
+**2. NOC (Northrop Grumman) — DEFENSE SECTOR SECONDARY**
+- Catalyst: +12.3% 30-day momentum, broke $570 on strong volume, TD Cowen raised PT to $590, MarketBeat consensus avg target $661, defense spending tailwind (GD as sector confirmation)
+- Sector: Aerospace/Defense — GD proving sector momentum; NOC momentum choppy short-term (Tickeron Momentum Indicator crossed below 0 Aug 20) — watch for reversal confirmation at open
+- Rate-sensitivity: NOT rate-sensitive (contracted defense backlog) ✓ Rule 13 safe
+- Quote Friday close: $556–$589 range (after-hours spread wide; need open confirmation)
+- Entry: size ~36 shares × ~$589 = ~$21,204 (≤20% equity) — only if MPC entry confirms first and tape constructive
+- Stop: 10% GTC trailing stop after fill (~$530 initial at $589 entry)
+- Target: $707+ (20% from $589, 2:1 on 10% risk)
+- Gate: secondary to MPC; requires constructive open AND no momentum reversal signal at open
+
+**3. HOLD CASH — DEFAULT**
+- SPX futures barely negative and CFNAI uncertain → do not force entries on a soft open
+- Week 19 has 3 full trade slots; no urgency to deploy all at once
+- Two quality entries (MPC + NOC) = 2 trades, leaving 1 for mid-week if a better catalyst emerges
+
+### Risk Factors
+1. **30Y Treasury spike** — Week 18 showed 4 positions stopped out in 3 days on rate spike; MPC/NOC are NOT rate-sensitive but macro pressure could hit all equities
+2. **CFNAI 8:30 AM ET** — prior reading -0.02 (barely contractionary); miss = risk-off signal, delay entries
+3. **NVIDIA earnings overhang** — market may trade sideways/cautious ahead of Wed print; if miss, broad tech/growth selloff possible
+4. **Energy sector rule** — VST = 1 consecutive failed trade; if MPC fails, full energy sector exit triggered (exit GD? No — GD is Aerospace/Defense, not Energy; sector exit applies to Energy names only)
+5. **Wide NOC after-hours spread** ($524 bid / $589 ask) — verify open price before sizing
+
+### Decision
+**TRADE-conditional (MPC primary; NOC secondary)**
+- If CFNAI print OK (≥ -0.20) AND SPX futures hold flat/positive at open AND MPC quote ≥$360: BUY ~56 MPC, place 10% GTC trailing stop immediately
+- If MPC confirmed and tape constructive post-10am: evaluate NOC entry (~36 shares)
+- If CFNAI miss or SPX deteriorates at open: HOLD all cash, reassess intraday
+- **Default: HOLD** — patience; 3 trade slots all week, no need to force on Day 1
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 | **Daytrade count:** 0
+**Key watch (Mon Aug 25 open):** CFNAI 8:30 AM ET; MPC open quote ($360 gate); VIX direction at open; NOC open confirmation; GD GTC stop $369.40 (4.2% buffer); energy sector at 1 failed trade
