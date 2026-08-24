@@ -4397,3 +4397,33 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 18 trades:** 0 new buys/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Mon Aug 25, Week 19 open):** Build toward 75-85% deployment (need ~2 new positions); MPC/VLO energy gate — recheck at pre-market; GD stop $369.40 (7% trail, HWM $397.20, 3.67% buffer); energy sector at 1 failed trade (1 more = full sector exit)
+
+## 2026-08-24 — Midday Scan (Day 87, Week 19 Day 1 — Monday)
+
+**Portfolio:** $108,283.28 | **Cash:** $89,117.53 (82.3%) | **Long MV:** $19,165.75 (17.7% deployed ⚠️) | **Day P&L:** -$11.00 (-0.01%) | **Phase P&L:** +$8,283.28 (+8.28%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $383.37 | +$240.09 | +1.27% | -0.24% | $369.40 (7% trail, 3c260832) | $397.20 | 3.67% |
+
+**Market-open:** No trades placed (heartbeat confirms "mo complete (no trades)"). MPC/NOC gate conditions not met at open.
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- GD: +1.27% ✓ (far from -7% cut)
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| GD | +1.27% | $435.35 (13.5% away) | $454.28 (18.5% away) | None |
+
+**STEP 5 — Thesis check:**
+- **GD:** -0.24% intraday (-$46). Mild softness; no GD-specific news break. Defense sector stable. Q2 EPS $4.24 beat, $136.5B backlog, $1.3B GDIT Army cybersecurity contract, Jefferies $400 PT intact. GTC stop $369.40 (3.67% buffer from current $383.37). **INTACT — HOLD.**
+
+**STEP 6 — Intraday research:** No sharp unexpected moves. GD mildly red is normal daily noise. No Perplexity query required.
+
+**Deployment: 17.7%** (far below 75–85% target). $89K cash, 5 open slots, 3 buy trades remaining Week 19. NVIDIA earnings Wednesday — market cautious ahead of print; no forced entries today.
+
+**STEP 7 — Notification:** None (no action taken).
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (Aug 24 afternoon/EOD):** NVIDIA earnings Wed AMC (broad market driver); MPC/energy setup — reassess if macro tape shows green flags; GD stop $369.40 (3.67% buffer); deployment priority Week 19 — target 2 new positions (need ~$38–55K deployed)
