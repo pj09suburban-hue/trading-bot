@@ -4427,3 +4427,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Aug 24 afternoon/EOD):** NVIDIA earnings Wed AMC (broad market driver); MPC/energy setup — reassess if macro tape shows green flags; GD stop $369.40 (3.67% buffer); deployment priority Week 19 — target 2 new positions (need ~$38–55K deployed)
+
+## 2026-08-24 — EOD Snapshot (Day 87, Week 19 Day 1 — Monday)
+**Portfolio:** $108,198.78 | **Cash:** $89,117.53 (82.3%) | **Day P&L:** -$133.25 (-0.12%) | **Phase P&L:** +$8,198.78 (+8.20%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $381.625 | -0.69% | +$152.84 (+0.81%) | $369.40 (7% trail, HWM $397.20, 3.2% buffer) |
+
+**Trades today:** None
+
+**Notes:** Day 87, Week 19 Day 1 (Monday). Quiet session — only GD held, deployment 17.7% (far below 75-85% target). Day P&L -$133.25 (-0.12%) driven entirely by GD intraday softness (-0.69%). No market-open trades (no clean catalysts met gate). Midday: no -7% cuts, no stop tightens, no thesis breaks — GD INTACT. NVIDIA earnings Wednesday AMC is the dominant macro event this week; broad market treading cautiously ahead of print. Week 19: 0/3 new buy trades used, 5 open slots, 5 buy slots available. Top priority: restore deployment to 75-85% (need ~2 new positions, ~$38-55K deployed). Energy sector at 1 consecutive failed trade (VST) — next energy entry must succeed or full sector exit triggered.
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (Tue Aug 25):** NVIDIA earnings Wed AMC (market-wide volatility driver — wait for clarity before new entries); GD stop $369.40 (7% trail, 3.2% buffer from $381.625); energy sector MPC/VLO gate check at pre-market; deployment restoration priority — 2 quality setups needed
