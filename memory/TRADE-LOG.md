@@ -4453,3 +4453,32 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Tue Aug 25):** NVIDIA earnings Wed AMC (market-wide volatility driver — wait for clarity before new entries); GD stop $369.40 (7% trail, 3.2% buffer from $381.625); energy sector MPC/VLO gate check at pre-market; deployment restoration priority — 2 quality setups needed
+
+## 2026-08-25 — Midday Scan (Day 88, Week 19 Day 2 — Tuesday)
+
+**Portfolio:** ~$108,092 est. | **Cash:** $89,117.53 (82.4%) | **Long MV:** $18,808 (17.4% deployed ⚠️) | **Day P&L:** ~-$381 (-0.35%) | **Phase P&L:** ~+$8,092 (+8.09%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $376.16 | -$120.41 | -0.64% | -1.98% | $369.40 (7% trail, 3c260832) | $397.20 | 1.80% |
+
+**Market-open (earlier today):** MPC SKIP (open below $360 gate ~$357; Consumer Confidence gate unavailable at 9:30; NVDA Wed binary risk). NOC SKIP (pre-market weakness + NVDA overhang).
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- GD hard cut triggers at $352.07 (-7% from $378.5682). Current $376.16 — no action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| GD | -0.64% | $435.35 (15.7% away) | $454.28 (20.7% away) | None |
+
+**STEP 5 — Thesis check:**
+- **GD:** -1.98% intraday, -0.64% from entry. Perplexity research: **no new company-specific negative catalyst today.** Jones Financial sold 58,214 shares (routine institutional rebalancing, not thesis-breaking). Texas factory operational mention is from Aug 18 article — not new news, already embedded in Q2 results (Jul 29 beat). Today's weakness is broad market caution ahead of NVDA earnings Wed AMC. Fundamental thesis intact: Q2 EPS $4.24 beat, $14.1B revenue beat, $136.5B record backlog, raised guidance to $16.80–16.90 EPS, $1.3B GDIT Army ENOCS contract, Jefferies $400 PT, Deutsche Bank $147.5M stake. **INTACT — HOLD.**
+- ⚠️ **Stop buffer WARNING:** Current $376.16 only 1.80% above GTC stop $369.40. GTC trailing stop is live and managing. No manual intervention — stop is not within 3% violation zone for tightening (stop is already set). If market continues lower, GTC stop fires automatically at $369.40.
+
+**STEP 6 — Intraday research:** GD research run via Perplexity — no thesis break confirmed. No afternoon addendum required to RESEARCH-LOG.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (Aug 25 EOD/tomorrow):** GD GTC stop at $369.40 (1.80% buffer — very tight); NVDA earnings Wed AMC (binary market risk); MPC/NOC reassess Thu–Fri post-NVDA; deployment 17.4% — far below 75–85% target; 3 buy trades remaining Week 19
