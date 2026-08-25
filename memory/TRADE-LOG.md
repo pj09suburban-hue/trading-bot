@@ -4482,3 +4482,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Aug 25 EOD/tomorrow):** GD GTC stop at $369.40 (1.80% buffer — very tight); NVDA earnings Wed AMC (binary market risk); MPC/NOC reassess Thu–Fri post-NVDA; deployment 17.4% — far below 75–85% target; 3 buy trades remaining Week 19
+
+## 2026-08-25 — EOD Snapshot (Day 88, Week 19 Day 2 — Tuesday)
+**Portfolio:** $107,913.53 | **Cash:** $89,117.53 (82.6%) | **Day P&L:** -$392.50 (-0.36%) | **Phase P&L:** +$7,913.53 (+7.91%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $375.92 | -2.05% | -$132.41 (-0.70%) | $369.40 (7% trail, HWM $397.20, 1.73% buffer) |
+
+**Trades today:** None
+
+**Notes:** Day 88, Week 19 Day 2 (Tuesday). No trades taken — MPC skipped pre-market (open below $360 gate) and NOC skipped (pre-market weakness + NVDA binary overhang). GD slid -2.05% intraday on broad market caution ahead of NVIDIA earnings Wednesday AMC. GD holds above -7% hard cut ($352.07) and above GTC trailing stop ($369.40) — INTACT. Stop buffer collapsed to 1.73% — extremely tight; GTC manages automatically. Fundamental thesis unchanged: Q2 EPS beat, $136.5B record backlog, Jefferies $400 PT. Deployment remains 17.4% (far below 75–85% target). Priority tomorrow: digest NVDA earnings pre-open, then assess 2-position restoration if market doesn't gap chaotically.
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (Wed Aug 26):** NVDA earnings overnight — binary macro event (market direction TBD); GD stop $369.40 (1.73% buffer — extremely tight); post-NVDA: assess MPC/NOC/other setups for 2-position deployment; 3 buy slots remaining Week 19
