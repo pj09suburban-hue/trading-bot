@@ -4428,6 +4428,18 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Aug 24 afternoon/EOD):** NVIDIA earnings Wed AMC (broad market driver); MPC/energy setup — reassess if macro tape shows green flags; GD stop $369.40 (3.67% buffer); deployment priority Week 19 — target 2 new positions (need ~$38–55K deployed)
 
+## 2026-08-25 — Market-Open Trades (Day 88, Week 19 Day 2 — Tuesday)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-08-25 | MPC | SKIP | — | — | — | Pre-market ~$359 (below $360 gate); Consumer Confidence gate (10 AM) unavailable at 9:30 open; NVDA earnings Wed binary risk — default HOLD | — | — |
+| 2026-08-25 | NOC | SKIP | — | — | — | Deferred per pre-market plan: pre-market weakness + NVDA overhang; reassess Thu–Fri after NVDA clarity | — | — |
+
+**Week trades:** 0/3 | **Open positions:** 1/6 (GD) | **Deployed:** ~$19,189 / $108,306 (17.7%) — far below 75–85% target
+**Gate failure (MPC):** Open quote gate ≥$360 — pre-market $359.00 (Yahoo Finance 7:09 AM ET); Consumer Confidence gate unverifiable before open; SPX futures green +0.38% ✓ (only 1 of 3 gates met)
+
+---
+
 ## 2026-08-24 — EOD Snapshot (Day 87, Week 19 Day 1 — Monday)
 **Portfolio:** $108,198.78 | **Cash:** $89,117.53 (82.3%) | **Day P&L:** -$133.25 (-0.12%) | **Phase P&L:** +$8,198.78 (+8.20%)
 
