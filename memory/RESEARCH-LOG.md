@@ -5647,3 +5647,86 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 | **Daytrade count:** 0
 **Key watch (Mon Aug 25 open):** CFNAI 8:30 AM ET; MPC open quote ($360 gate); VIX direction at open; NOC open confirmation; GD GTC stop $369.40 (4.2% buffer); energy sector at 1 failed trade
+
+## 2026-08-25 — Pre-Market Research (Day 88, Week 19 Day 2 — Tuesday)
+
+### Account Snapshot
+- **Equity:** $108,306.03 | **Cash:** $89,117.53 (82.3%) | **Long MV:** $19,188.50 (17.7% ⚠️)
+- **Open positions:** 1/6 (GD — 50 shares, entry $378.57, current ~$383.56, unrealized +$260.09 +1.37%)
+- **GTC stop:** $369.40 (7% trail, HWM $397.20, ~3.7% buffer)
+- **Week 19 trades:** 0/3 | **Daytrade count:** 0
+
+### Market Context
+- **WTI:** ~$84.60/bbl (-0.48% today); **Brent:** ~$91.74 (-0.46%)
+- **SPX futures:** 7,699.25 (+0.38%) — constructive open; NASDAQ futures +0.76%; shifted positive overnight
+- **VIX:** 15.81 (-0.25% from 16.01 yesterday close) — calming, manageable
+- **10Y yield:** ~4.704% (stable, 30Y not spiking — relief vs Week 18's 5.33% trigger)
+
+### Today's Economic Calendar
+- **8:15 AM:** ADP Weekly Employment Change
+- **9:00 AM:** S&P/Case-Shiller Home Price Index (June)
+- **10:00 AM:** New Home Sales (July); Richmond Fed Manufacturing; **Conference Board Consumer Confidence** Aug (prev. 90.8, consensus 91.2) ← key gate
+- **Noon:** Fed Barkin speech — rate signal risk
+- **2-year / 5-year Treasury auctions** — demand watch intraday
+- **No CPI, PPI, or FOMC today**
+- **Pre-market earnings:** DKS, BNS, BMO, DRI — none relevant to our setups
+- **After close today:** INTU, ZM
+
+### Key Week Events (Remaining)
+- **Wed Aug 26 AMC:** NVIDIA earnings — biggest market event of week; binary risk for broad tape
+- **Wed Aug 26 8:30 AM:** PCE Price Index MoM (prior -0.1%) — Fed's preferred inflation gauge
+- **Fri Aug 28:** Fed Chair Warsh expected to speak — forward rate path signal
+
+### Sector Momentum (YTD)
+| Sector | ETF | YTD |
+|---|---|---|
+| Energy | XLE | +44.3% ← #1 |
+| Technology | XLK | +27.6% |
+| Materials | XLB | +19.0% |
+| Industrials | XLI | +16.8% |
+| Health Care | XLV | +13.8% |
+
+### GD (Held Position)
+- **Pre-market:** ~$385.54 (+0.52% extended) — positive signal, closed Aug 24 at $383.56
+- **Thesis:** Q2 EPS $4.24 beat, $14.1B revenue beat, $136.5B record backlog, raised guidance, $1.3B GDIT Army cybersecurity contract, $229.7M Hammerhead contract mod, Jefferies $400 PT, Deutsche Bank acquired ~$147.5M stake Aug 20
+- **GTC stop:** $369.40 (7% trail, HWM $397.20, 3.7% buffer) — order 3c260832 active
+- **Action: HOLD** — thesis fully intact, stop managing position
+
+### Trade Idea #1 — MPC (Marathon Petroleum)
+- **Pre-market price:** ~$357.00 (-1.47% from $362.34 close) — BELOW $360 gate threshold ⚠️
+- **Q2 catalyst:** EPS $17.73 vs $14.52 est; R&M margin $36.33/bbl (from $17.58 YoY); 94% utilization; 112% margin capture; up 121% YTD
+- **Macro support:** Strait of Hormuz disruptions wiped 20% seaborne diesel trade; crack spreads elevated; Energy XLE #1 YTD
+- **Institutional:** CIBC, Landscape Capital, Commerce Bank all added MPC positions week of Aug 24
+- **Concern:** "Peak margin" risk cited by analysts; relative weakness (-1.47%) vs SPX futures (+0.38%)
+- **Rate sensitivity:** NOT rate-sensitive (commodity/crack-spread driven) ✓ Rule 13
+- **Entry:** 56 shares × ~$362 = ~$20,272 (18.7% equity) — verify quote at open
+- **Stop:** 10% GTC trailing stop immediately after fill (~$326 initial at $362 entry)
+- **Target:** $434+ (20% upside = 2:1 R:R on 10% risk)
+- **Gate (ALL must pass):** MPC open quote ≥$360 AND Consumer Confidence ≥90 AND SPX stable/green at 9:30 AM
+- **Post-earnings timing:** MPC Q2 was Aug 4 — now >21 days post-earnings → standard 10% initial stop applies (not the 7% post-earnings rule)
+
+### Trade Idea #2 — NOC (Northrop Grumman)
+- **Pre-market price:** ~$549-552 (down ~2.1% despite positive news) — relative weakness
+- **Catalysts:** $3B+ PAC-3 MSE/THAAD multi-year framework agreements; E-2D Hawkeye upgrade CDR cleared; $2.47 quarterly dividend (ex-date Aug 31); RBC upgrade to Outperform; TD Cowen PT $590
+- **Concern:** Pre-market weakness despite bullish catalysts; 52-week high $774 (stock well off highs); NVDA earnings overhang Wed
+- **Rate sensitivity:** NOT rate-sensitive (contracted defense backlog) ✓ Rule 13
+- **Entry sizing (if condition met):** 36 shares × ~$549 = ~$19,764 (18.2% equity)
+- **Stop:** 10% GTC trailing stop after fill (~$494 initial)
+- **Target:** $659+ (20% upside = 2:1 R:R)
+- **Gate:** SECONDARY — only enter if MPC confirmed first AND tape constructive AND NOC confirms positive open ≥$550
+
+### Risk Factors
+1. **NVIDIA earnings Wed AMC** — miss = broad tech/growth selloff; could hit even defense and energy names via risk-off
+2. **Consumer Confidence 10 AM** — miss (<90) = risk-off signal; delay all entries
+3. **MPC relative weakness** — down vs SPX pre-market; "peak margin" fears are a legitimate overhang for refiners at elevated valuations (+121% YTD)
+4. **PCE Wed / Warsh Fri** — inflation/rate signals could reset the rate narrative; 30Y at 5.33% was Week 18's killer
+5. **Week 19 patience** — 3 trade slots all week; no urgency to force Day 2; better setups may emerge post-NVDA earnings clarity
+
+### Decision: TRADE-conditional (MPC primary) / DEFAULT HOLD
+- **If** MPC opens ≥$360 **AND** Consumer Confidence ≥90 **AND** SPX holds green at open → **BUY ~56 MPC, immediate 10% GTC trailing stop**
+- **If** MPC below $360 at open OR Consumer Confidence disappoints → **HOLD all cash, no entries**
+- **NOC:** Do NOT enter today given pre-market weakness and NVDA overhang; reassess Thu–Fri after NVDA clarity
+- **Default: HOLD** — 3 trade slots all week; patience > forced entry on binary week
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (Aug 25 open):** MPC open quote (≥$360 gate); Consumer Confidence 10 AM (≥90 gate); SPX direction; VIX at open; GD stop $369.40 (3.7% buffer from ~$383.56)
