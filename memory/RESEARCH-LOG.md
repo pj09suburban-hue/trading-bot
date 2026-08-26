@@ -5730,3 +5730,75 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Aug 25 open):** MPC open quote (≥$360 gate); Consumer Confidence 10 AM (≥90 gate); SPX direction; VIX at open; GD stop $369.40 (3.7% buffer from ~$383.56)
+
+## 2026-08-26 — Pre-Market Research (Day 89, Week 19 Day 3 — Wednesday)
+
+### Account Snapshot
+- **Equity:** $107,945.03 | **Cash:** $89,117.53 (82.6%) | **Long MV:** $18,827.50 (17.5% deployed ⚠️)
+- **Phase P&L:** +$7,945.03 (+7.95%)
+- **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+
+| Ticker | Shares | Avg Entry | Current | Unreal P&L | % | Stop | HWM | Buffer |
+|--------|--------|-----------|---------|------------|---|------|-----|--------|
+| GD | 50 | $378.5682 | $376.55 | -$100.91 | -0.53% | $369.40 (7% trail, 3c260832) | $397.20 | 1.90% ⚠️ |
+
+### Market Context
+- **WTI:** ~$80.12/bbl (-2.72% today); **Brent:** ~$86.32/bbl (-2.55%) — oil pulling back modestly
+- **SPX futures (ESU26):** ~flat to -0.1%; Nasdaq futures -0.2% — cautious pre-NVDA tone
+- **VIX:** 15.45 (Aug 25 close), 15.73 pre-market Aug 26 — tick higher on NVDA binary risk
+- **10Y yield:** ~4.70% stable (no 30Y spike repeat like Week 18)
+- **Sector YTD:** Energy XLE +43.1% | Tech XLK +25.4% | Materials XLB +19.1% | Industrials XLI +16.0% | Healthcare XLV +13.8%
+
+### Today's Economic Calendar (Aug 26)
+| Time | Release | Notes |
+|------|---------|-------|
+| 8:30 AM ET | **PCE Price Index (July)** | Consensus: +0.1% MoM, prev -0.1%; Core +0.2% YoY prev 3.3% — Fed preferred gauge ← KEY |
+| 8:30 AM ET | **Q2 GDP Second Estimate** | First estimate context; revision risk |
+| 8:30 AM ET | **Durable Goods (July)** | Industrial demand read |
+| 11:00 AM ET | Dallas Fed Trimmed Mean PCE | Secondary inflation read |
+| **AMC tonight** | **NVIDIA Q2 FY27 Earnings** | Consensus: Rev $92.18B (+97% YoY), EPS $2.09; co. guided $91B ±2% — **DOMINANT MARKET EVENT** |
+| **Fri Aug 28** | **Fed Chair Warsh speech (Jackson Hole)** | Forward rate path signal |
+
+### GD Position Thesis Check
+- **Pre-market Alpaca quote:** $376.55 (-0.53% from entry)
+- **Stop buffer:** 1.90% (stop $369.40) — **EXTREMELY TIGHT; GTC manages automatically**
+- **News today:** No new negative catalysts. Week-long pullback = broad market caution ahead of NVDA. Fundamental thesis fully intact: Q2 EPS $4.24 beat, $14.1B rev beat, $136.5B record backlog, raised guidance, $1.3B GDIT Army ENOCS contract, $229.7M Hammerhead contract mod, Jefferies $400 PT, Danny Deep elected to board (Aug 6), $76.6B Navy submarine contract package.
+- **Risk:** If NVDA misses badly tonight → broad selloff → GTC stop at $369.40 fires automatically. Acceptable — that's what stops are for.
+- **Action: HOLD — thesis intact, GTC manages**
+
+### Trade Idea #1 — MPC (Marathon Petroleum) — HOLD pending NVDA clarity
+- **After-hours quote (8/25 close):** ask $373.64 — above $360 gate ✓
+- **Catalyst:** EPS $17.73 vs $14.52 est (Q2); R&M margins $36.33/bbl (from $17.58 YoY); 94% utilization; Energy XLE #1 YTD; crack spreads elevated; institutional adds (CIBC, Landscape, Commerce Bank)
+- **Rate sensitivity:** NOT rate-sensitive (crack-spread driven) ✓ Rule 13
+- **Energy sector status:** 1 consecutive failed trade (VST Aug 21) — next energy entry is critical (2 fails = full sector exit)
+- **Sizing:** ~56 shares × ~$370 = ~$20,720 (19.2% equity)
+- **Stop:** 10% GTC trailing stop post-fill (~$333 initial)
+- **Target:** $444+ (20% upside = 2:1 R:R on 10% risk)
+- **Gate (all must pass):** Open quote ≥$360 AND SPX stable/green AND PCE print non-hawkish
+- **TODAY'S DECISION:** **SKIP** — entering a $20K position on NVDA binary event day is imprudent; save 1 trade slot; reassess Thu morning with NVDA reaction clarity
+
+### Trade Idea #2 — NOC (Northrop Grumman) — HOLD pending NVDA clarity
+- **After-hours quote (8/25 close):** ask $575.40 — strong vs yesterday's ~$549
+- **Catalysts:** $3B+ PAC-3 MSE/THAAD multi-year framework; E-2D Hawkeye CDR cleared; $2.47 quarterly dividend (ex-date Aug 31); RBC upgrade Outperform; TD Cowen PT $590; Q2 earnings Oct (not imminent)
+- **Rate sensitivity:** NOT rate-sensitive (contracted defense backlog) ✓ Rule 13
+- **Sizing:** ~34 shares × ~$575 = ~$19,550 (18.1% equity)
+- **Stop:** 10% GTC trailing stop post-fill (~$518 initial)
+- **Target:** $690+ (20% upside = 2:1 R:R)
+- **TODAY'S DECISION:** **SKIP** — same rationale; reassess Thursday with NVDA clarity; ex-div Aug 31 creates some urgency for next week entry
+
+### Risk Factors
+1. **NVIDIA earnings AMC tonight** — options priced ±5.4% move; a miss = broad selloff + potential GD GTC stop fire
+2. **PCE 8:30 AM** — a hot print (core PCE above 3.3% or MoM above +0.2%) could reprice rate path hawkishly, repeat Week 18 rate spike risk
+3. **GD stop buffer 1.90%** — extremely tight; any broad gap-down fires stop automatically (acceptable)
+4. **Jackson Hole / Warsh Fri** — rate signal for the week; 30Y re-test of 5.33% = portfolio threat
+5. **Deployment at 17.5%** — far below 75–85% target; Friday remains the earliest window for 2 new entries post-NVDA
+
+### Decision: HOLD
+- **Today:** No new entries — NVDA binary event negates any buy thesis today regardless of PCE or quote levels
+- **GD:** Hold; GTC stop $369.40 manages automatically; don't interfere
+- **Thursday morning:** If NVDA beat + constructive tape → reassess MPC (primary) + NOC (secondary) entries; 3 buy slots remain Week 19
+- **Friday:** If Thursday entry made, evaluate 2nd position with Warsh speech digested
+- **Default: HOLD** — patience; NVDA clarity worth more than one session of deployment
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (Aug 26):** PCE 8:30 AM (hawkish = all-out HOLD); NVDA AMC (miss = gap-down risk for GD); Warsh Jackson Hole Fri; MPC/NOC reassess Thu open
