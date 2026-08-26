@@ -4496,3 +4496,34 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Wed Aug 26):** NVDA earnings overnight — binary macro event (market direction TBD); GD stop $369.40 (1.73% buffer — extremely tight); post-NVDA: assess MPC/NOC/other setups for 2-position deployment; 3 buy slots remaining Week 19
+
+---
+
+## 2026-08-26 — Midday Scan (Day 89, Week 19 Day 3 — Wednesday)
+
+**Portfolio:** ~$108,076 est. | **Cash:** $89,117.53 (82.6%) | **Long MV:** ~$19,059 (17.7% deployed ⚠️) | **Day P&L:** ~+$146 (+0.14%) | **Phase P&L:** ~+$8,076 (+8.08%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $381.185 | +$130.84 | +0.69% | +1.22% | $369.40 (7% trail, 3c260832) | $397.20 | 3.09% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- GD hard cut triggers at $352.07 (-7% from $378.5682). Current $381.185 — 8.23% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| GD | +0.69% | $435.35 (14.2% away) | $454.28 (19.2% away) | None — already on 7% trail (post-earnings rule from Jul 30 entry, 1 day after Q2 print) |
+
+**STEP 5 — Thesis check:**
+- **GD:** +1.22% intraday recovery from yesterday's -2.05% close. Perplexity research: **no new company-specific negative catalyst today.** Routine institutional sale (Connor Clark & Lunn sold shares — normal rebalancing). Stock opened ~$384, pulled back to ~$381 range — typical intraday chop. Week-long pullback attributed to broad market caution ahead of NVIDIA AMC earnings tonight. Fundamental thesis fully intact: Q2 EPS $4.24 beat, $14.1B revenue beat, $136.5B record backlog, raised FY guidance $16.80–$16.90 EPS, $1.3B GDIT Army ENOCS contract, $229.7M Hammerhead contract mod, Jefferies $400 PT, Deutsche Bank $147.5M stake. Q3 earnings Oct 28 (not imminent). **INTACT — HOLD.**
+- Stop buffer 3.09% (expanded from 1.73% yesterday's close on today's intraday recovery). GTC manages automatically — no manual intervention.
+
+**STEP 6 — Intraday research:** GD Perplexity query run. No thesis break. No afternoon addendum required.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Deployment: 17.7%** (far below 75–85% target). Pre-market research plan for today = HOLD (NVDA binary event day). Plan intact — no entries today.
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (tonight/tomorrow):** NVDA AMC earnings (dominant market event — miss = broad selloff risk, GD GTC stop at $369.40 manages automatically); PCE came in this AM (GD +1.22% intraday suggests benign print); Warsh Jackson Hole Fri; post-NVDA: reassess MPC (primary) + NOC (secondary) for 2-position deployment; 3 buy slots remaining Week 19
