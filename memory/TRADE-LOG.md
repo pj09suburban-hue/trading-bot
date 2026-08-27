@@ -4543,3 +4543,34 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Thu Aug 27):** NVDA earnings result known overnight (dominant direction signal for tomorrow); GD stop $369.40 (3.17% buffer — recovered); MPC primary + NOC secondary for 2-position deployment; Warsh Jackson Hole speech Friday; 3 buy slots remaining Week 19
+
+---
+
+## 2026-08-27 — Midday Scan (Day 90, Week 19 Day 4 — Thursday)
+
+**Portfolio:** ~$108,177 est. | **Cash:** $89,117.53 (82.4%) | **Long MV:** $19,059 (17.6% deployed ⚠️) | **Day P&L:** ~-$42 (-0.04%) | **Phase P&L:** ~+$8,177 (+8.18%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $381.08 | +$125.59 | +0.66% | -0.25% | $369.40 (7% trail, 3c260832) | $397.20 | 3.07% |
+
+**Market-open (earlier today):** NOC SKIP — gate failed at open (price $555.45 < $570 threshold AND VIX 17.05 > 17 limit). No trades placed. NOC has since recovered to ~$579 intraday — market-open window closed.
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- GD hard cut triggers at $352.07 (-7% from $378.5682). Current $381.08 — 8.2% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| GD | +0.66% | $435.35 (14.2% away) | $454.28 (19.3% away) | None — already on 7% trail; stop manages via GTC |
+
+**STEP 5 — Thesis check:**
+- **GD:** -0.25% intraday, +0.66% from entry. Perplexity research: **no new negative catalysts today.** D.A. Davidson raised PT to $416 from $375, maintains Buy/Add (new bullish data point). Institutional buying continues (15,193 shares acquired per MarketBeat). Stock opened at $378.26 then recovered to $381. No contract losses, no downgrades, no earnings risk (Q3 Oct 28 — not imminent). Fundamental thesis unchanged: Q2 EPS $4.24 beat, $14.1B revenue beat, $136.5B record backlog, raised FY guidance $16.80–$16.90 EPS, $1.3B GDIT Army ENOCS contract, $76.6B submarine contract. **INTACT — HOLD.**
+- Stop buffer 3.07% from current price. GTC trailing stop manages automatically.
+
+**STEP 6 — Intraday research:** No sharp unexplained moves. GD -0.25% intraday is mild chop. No addendum to RESEARCH-LOG required.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (Aug 27 EOD/tomorrow):** Warsh Jackson Hole speech Friday (dominant macro event — rate signal); NOC ex-div Aug 31 (last entry window Fri pre-open if gates met); GD stop $369.40 (3.07% buffer); deployment 17.6% — far below 75-85% target; 3 buy slots remaining Week 19
