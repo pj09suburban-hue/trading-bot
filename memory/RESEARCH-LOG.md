@@ -5802,3 +5802,79 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Aug 26):** PCE 8:30 AM (hawkish = all-out HOLD); NVDA AMC (miss = gap-down risk for GD); Warsh Jackson Hole Fri; MPC/NOC reassess Thu open
+
+## 2026-08-27 — Pre-Market Research (Day 90, Week 19 Day 4 — Thursday)
+
+### Account Snapshot
+- **Equity:** $108,218.53 | **Cash:** $89,117.53 (82.4%) | **Long MV:** $19,101 (17.6% deployed ⚠️)
+- **Phase P&L:** +$8,218.53 (+8.22%)
+- **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+
+| Ticker | Shares | Avg Entry | Current | Unreal P&L | % | Stop | HWM | Buffer |
+|--------|--------|-----------|---------|------------|---|------|-----|--------|
+| GD | 50 | $378.5682 | $382.02 | +$172.59 | +0.91% | $369.40 (7% trail, 3c260832) | $397.20 | 3.32% |
+
+### Market Context
+- **WTI:** ~$81.23/bbl (-1.16% today; -5%+ this week from $86 highs) — Iran/Hormuz diplomatic corridor progress eased supply fears
+- **Brent:** ~$87.00/bbl (-0.95%)
+- **SPX futures (ESU26):** ~7,722–7,728 (+0.44%) — NVDA beat driving positive pre-market
+- **VIX:** 14.94 pre-market (dropped from 15.21 close; benign, near 2026 lows)
+- **Sector YTD:** Energy XLE +43.1% | Tech XLK +25.4% | Materials XLB +19.1% | Industrials XLI +16.0% | Healthcare XLV +13.8% | Financials XLF +7.2%
+- **GDP 2Q (yesterday):** 1.5% annualized, UNCHANGED from first estimate — benign non-event
+- **PCE (yesterday):** 3.70% YoY per inline reference — consumer spending revised up to 3.4% — sticky but not shocking
+
+### Today's Economic Calendar (Aug 27)
+| Time | Release | Notes |
+|------|---------|-------|
+| 7:30 AM ET | **Weekly Jobless Claims** | Labor market read |
+| 8:30 AM ET | **Wholesale Inventories (Jul P)** | Inventory build/draw |
+| 8:30 AM ET | **Current Account (2Q)** | Trade flow |
+| **Fri Aug 28** | **Warsh Jackson Hole speech** | Forward rate path signal — KEY |
+
+### NVIDIA Earnings — Dominant Market Catalyst
+- **Q2 FY27:** Revenue $96.22B (vs $92.37B est, +4.5% beat; +106% YoY); EPS adj. $2.22 (vs $2.09 est, +6.2% beat)
+- **Beat margin above company's own guide** ($91B ±2% → actual $96.22B = +5.7%)
+- **Huang guidance:** 70% FY2028 revenue growth — far above consensus
+- **AH reaction:** NVDA +6.66% to $223.62 — strong bull reaction
+- **Broad implication:** AI capex cycle intact; positive for tech/semi complex; sentiment risk removed for this week
+
+### GD Position Thesis Check
+- **Close Aug 26:** $382.02 (+1.30%); AH ~$381.31 (MarketBeat -0.20%)
+- **Stop buffer:** 3.32% (stop $369.40, HWM $397.20) — adequate
+- **News today:** No new negative catalysts. Moderate Buy consensus, avg PT $410.89. Director Peter Wall sold $788K shares Aug 10 (routine). No thesis-breaking news.
+- **NVDA beat + positive tape** → GD should open constructively
+- **Action: HOLD — thesis fully intact, GTC manages. No intervention.**
+
+### Trade Idea #1 — NOC (Northrop Grumman) — TRADE-conditional (PRIMARY)
+- **Catalyst:** $3B+ PAC-3 MSE/THAAD multi-year framework contract; E-2D Hawkeye CDR cleared; RBC Outperform upgrade; TD Cowen PT $590; ex-dividend Aug 31 (creates 48h urgency for dividend capture)
+- **Rate sensitivity:** NOT rate-sensitive (contracted defense backlog) ✓ Rule 13 (GD also not rate-sensitive → 0/2 rate-sensitive held)
+- **Sector:** Defense/Industrials (XLI +16.0% YTD, in momentum)
+- **Sizing:** ~34 shares × ~$575 = ~$19,550 (~18.1% equity)
+- **Stop:** 10% GTC trailing stop post-fill (~$518 initial); NOT post-earnings (Q2 print was >30 days ago)
+- **Target:** $690 (20% from $575 = 2:1 R:R on 10% risk)
+- **Gate (all must pass at open):** NOC opens ≥$570 AND SPX green at open AND VIX stable ≤17
+- **Decision: TRADE-conditional** — NVDA binary cleared; positive tape; ex-div creates urgency; sector in momentum; no rate exposure conflict
+
+### Trade Idea #2 — MPC (Marathon Petroleum) — HOLD (secondary, reassess later)
+- **Thesis concern:** Iran/Hormuz diplomatic progress easing supply disruptions → WTI down $5+ this week ($86→$81). The crack-spread surge that powered Q2 beat ($36.33/bbl margin) may moderate in Q3. Q3 guidance: only 2.8M bpd + $290M turnaround expenses.
+- **Paradox note:** Falling crude can HELP refiners (lower feedstock cost). But narrative shift + seasonal demand slowdown (post-summer) = uncertain near-term momentum.
+- **Energy sector gate:** 1 consecutive failed trade (VST Aug 21). Next energy entry MUST succeed or full sector exit triggered. This gate makes MPC too risky for today given thesis uncertainty.
+- **Stock extended:** +121% YTD, +16.6% in 30 days — elevated pull-back risk
+- **Decision: HOLD** — thesis too uncertain with Hormuz dynamics; energy gate 1-fail risk too high; reassess if oil stabilizes and Warsh speech resolves rate uncertainty (Friday/next week)
+
+### Risk Factors
+1. **Warsh Jackson Hole tomorrow (Fri Aug 28)** — forward rate signal; hawkish surprise = broad market drop, could reset week's gains
+2. **WTI macro shift** — if Hormuz resolution accelerates and WTI falls below $75, energy sector momentum breaks (XLE YTD lead at risk)
+3. **GD stop buffer 3.32%** — reasonable but rate/defense budget news could close buffer fast; GTC manages
+4. **NOC ex-div Aug 31** — if not entered Thu/Fri, dividend capture window closes (minor factor)
+5. **PCE 3.70% YoY** — sticky inflation; Warsh speech could signal tighter-for-longer stance
+
+### Decision: TRADE-conditional
+- **NOC:** BUY ~34 shares at market open if ≥$570 AND SPX green AND VIX ≤17; 10% GTC trailing stop immediately post-fill
+- **MPC:** HOLD — energy gate risk + thesis complexity; do NOT enter today
+- **GD:** HOLD; GTC stop $369.40 manages automatically
+- **If NOC gate fails at open:** HOLD all cash; reassess post-Warsh Friday
+- **Default:** HOLD if any gate fails — patience > forced deployment
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (Aug 27 open):** NOC open quote (≥$570 gate); SPX direction; VIX at open; if NOC fill → deployment to ~35%; then pause and wait for Warsh (Friday) before 2nd entry
