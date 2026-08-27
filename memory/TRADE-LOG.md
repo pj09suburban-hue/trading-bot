@@ -4574,3 +4574,19 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Aug 27 EOD/tomorrow):** Warsh Jackson Hole speech Friday (dominant macro event — rate signal); NOC ex-div Aug 31 (last entry window Fri pre-open if gates met); GD stop $369.40 (3.07% buffer); deployment 17.6% — far below 75-85% target; 3 buy slots remaining Week 19
+
+---
+
+## 2026-08-27 — EOD Snapshot (Day 90, Week 19 Day 4 — Thursday)
+**Portfolio:** $108,139.03 | **Cash:** $89,117.53 (82.4%) | **Day P&L:** -$79.50 (-0.07%) | **Phase P&L:** +$8,139.03 (+8.14%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $380.43 | -0.42% | +$93.09 (+0.49%) | $369.40 (7% trail, HWM $397.20, 2.90% buffer) |
+
+**Trades today:** None
+
+**Notes:** Day 90, Week 19 Day 4 (Thursday). GD -0.42% intraday — mild chop, no negative catalyst. D.A. Davidson raised PT to $416 from $375, maintains Buy. Fundamental thesis intact: $136.5B backlog, raised FY guidance, Q3 earnings Oct 28 not imminent. Stop buffer 2.90% from close; GTC trailing stop manages automatically. Warsh Jackson Hole speech Friday is the dominant macro event — no new entries taken today. NOC ex-div Aug 31; last pre-open entry window Friday if gates pass. Deployment 17.6% — far below 75-85% target. Week 19: 0/3 trades used, 3 buy slots remaining, 5 position slots available.
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (Fri Aug 28):** Warsh Jackson Hole speech (dominant rate signal — watch for hawkish surprise); NOC last pre-open entry window (ex-div Aug 31); GD stop $369.40 (2.90% buffer); MPC primary + NOC secondary for 2-position deployment; 3 buy slots remaining Week 19
