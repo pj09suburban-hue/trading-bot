@@ -5878,3 +5878,80 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Aug 27 open):** NOC open quote (≥$570 gate); SPX direction; VIX at open; if NOC fill → deployment to ~35%; then pause and wait for Warsh (Friday) before 2nd entry
+
+---
+
+## 2026-08-28 — Pre-Market Research (Day 91, Week 19 Day 5 — Friday)
+
+### Account Snapshot
+- **Equity:** $108,120.53 | **Cash:** $89,117.53 (82.4%) | **Long MV:** $19,003 (17.6% deployed ⚠️)
+- **Positions:** 1/6 (GD) | **Week 19 trades:** 0/3 | **Daytrade count:** 0
+- **GD:** 50 shares @ $378.5682 avg; close $380.06 (Aug 27), AH $383.02 (+0.79%); stop $369.40 (7% trail, HWM $397.20, ~3.6% buffer)
+
+### Market Context
+- **WTI:** ~$83.18 (-0.42% premarket) | **Brent:** ~$88.20 (-0.36%)
+- **S&P 500 futures:** ~7,739 (-0.04%) — flat, holding post-NVDA gains
+- **VIX:** 14.49 premarket (closed 14.51 on Aug 27; -4.60% from prior day) — benign
+- **Post-NVDA (Thu close):** Markets closed higher Thursday — NVDA +6.66% (Q2 rev $96.22B +4.5% beat, EPS $2.22 +6.2% beat, 70% FY2028 revenue guide); Nasdaq led
+
+### Today's Economic Calendar (Aug 28)
+| Time | Release | Notes |
+|------|---------|-------|
+| 9:45 AM ET | **Chicago PMI (Aug)** | Manufacturing activity read |
+| ~10:00 AM ET | **Fed Chair Warsh — Jackson Hole speech** | DOMINANT EVENT — forward rate path signal |
+| 10:00 AM ET | **Consumer Sentiment (Aug Final)** | Secondary |
+
+**No major US company earnings BMO today.** (MNSO, CHA, FRO, HAFN minor names only)
+
+### Sector YTD Momentum
+| Sector | ETF | YTD |
+|--------|-----|-----|
+| Energy | XLE | +43.1% |
+| Technology | XLK | +25.4% |
+| Materials | XLB | +19.1% |
+| Industrials | XLI | +20.2% |
+| Healthcare | XLV | +13.8% |
+| Financials | XLF | +7.2% |
+
+### GD Position Thesis Check
+- **AH Aug 27:** $383.02 (+0.79%) — recovering; market constructive post-NVDA
+- **News today:** No new negative catalysts. $44.8M additional defense contract win (Aug 27). Thesis fully intact: $136.5B record backlog, raised FY guidance $16.80–16.90 EPS, Jefferies $400 PT, D.A. Davidson $416 PT. Stock below 200-day MA but fundamental thesis unchanged.
+- **Stop buffer:** ~3.6% (based on AH price $383 vs stop $369.40)
+- **Action: HOLD — GTC manages automatically. No intervention.**
+
+### NOC Thesis Check — GATE FAILS
+- **Close Aug 27:** $544.68 (-0.96%); AH $548.16 (+0.64%)
+- **Entry gate from prior research:** NOC ≥$570 AND SPX green AND VIX ≤17
+- **Price vs gate:** $545-548 — FAILS $570 threshold by ~$22-25 (4-5%)
+- **Context:** Q2 EPS $7.68 beat (vs $6.82 est), revenue $10.87B beat, $105B record backlog, guidance raised — but stock fell on Q2 print (sell-the-news). Dividend $2.47/share payable Sep 16 (record date Aug 31 → today is last buy day for dividend capture, but entering into weakness ~4-5% below gate is not justified for 0.45% yield).
+- **Warsh risk:** Entering before dominant rate-signal event creates unnecessary binary risk.
+- **Action: SKIP — gate fails. Do NOT enter today. Reassess Monday if NOC recovers above $570.**
+
+### Trade Idea #1 — NOC (HOLD/REASSESS Monday)
+- **Catalyst still valid:** PAC-3/THAAD framework, E-2D Hawkeye, RBC Outperform, TD Cowen $590 PT, $215.9M DARC Site 2 contract, Golden Dome missile defense tailwind
+- **Why not today:** Price $545-548 fails $570 gate; Warsh binary risk; dividend-capture urgency insufficient to override weakness
+- **Next week trigger:** NOC recovers above $570 with SPX stable → re-enter setup; note ex-div window closes (dividend capture no longer available after today)
+- **Sizing:** ~34 shares × ~$570-580 = ~$19,400-19,700 (~18% equity)
+- **Stop:** 10% GTC trailing (Q2 print 38 days ago, not post-earnings rule)
+- **Target:** $690 (20% from $575 = 2:1 R:R on 10% risk)
+
+### Trade Idea #2 — MPC (HOLD)
+- **Thesis concern unchanged:** Iran/Hormuz diplomacy progress; Q3 guidance soft; energy gate at 1-fail (VST Aug 21); WTI $83 stable but narrative uncertain
+- **Action: HOLD** — energy gate risk; reassess if WTI >$85 and Warsh speech resolves rate picture favorably
+
+### Risk Factors
+1. **Warsh Jackson Hole (~10 AM ET)** — hawkish surprise = yield spike + broad selloff + rate-sensitive names crushed; even neutral/dovish won't perfectly time any new entry (post-speech market digestion needed)
+2. **NOC pullback** — stock -4.5% from $570 gate; if continues lower, thesis becomes stale; reassess with fresh catalyst
+3. **GD buffer 3.6%** — comfortable but Warsh hawkish + defense budget news = risk; GTC manages automatically
+4. **Deployment 17.6%** — far below 75-85% target; top priority for Week 20 is adding 1-2 positions
+5. **Week 19 ends today with 0 trades** — patience was right (NVDA binary risk, NOC weakness); no forced entries
+
+### Decision: HOLD
+- **GD:** HOLD — thesis intact, GTC $369.40 manages; AH recovery constructive
+- **NOC:** SKIP — gate fails ($545-548 vs $570); do not enter. Reassess Monday.
+- **MPC:** HOLD — energy gate risk; thesis complex
+- **Post-Warsh plan:** If speech neutral/dovish → Monday pre-market research will assess 2-position deployment (NOC + 1 other); if hawkish → stay in cash through market digestion, reassess mid-week
+- **Default: HOLD — patience > forced deployment**
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (today/weekend):** Warsh speech ~10 AM ET (primary); GD response to speech; NOC price action; MPC/oil dynamics; deploy 2 positions Week 20 is top priority
