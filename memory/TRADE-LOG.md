@@ -4590,3 +4590,35 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Fri Aug 28):** Warsh Jackson Hole speech (dominant rate signal — watch for hawkish surprise); NOC last pre-open entry window (ex-div Aug 31); GD stop $369.40 (2.90% buffer); MPC primary + NOC secondary for 2-position deployment; 3 buy slots remaining Week 19
+
+---
+
+## 2026-08-28 — Midday Scan (Day 91, Week 19 Day 5 — Friday)
+
+**Portfolio:** ~$108,137 est. | **Cash:** $89,117.53 (82.4%) | **Long MV:** ~$18,949 (17.5% deployed ⚠️) | **Day P&L:** ~-$41 (-0.04%) | **Phase P&L:** ~+$8,137 (+8.14%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $378.97 | +$20.09 | +0.11% | -0.29% | $369.40 (7% trail, 3c260832) | $397.20 | 2.52% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- GD hard cut triggers at $352.07 (-7% from $378.5682). Current $378.97 — 7.6% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| GD | +0.11% | $435.35 (14.9% away) | $454.28 (19.9% away) | None — already on 7% trail (post-earnings rule, Jul 30 entry) |
+
+**STEP 5 — Thesis check:**
+- **GD:** -0.29% intraday. Perplexity research: **no new negative catalysts today.** Fresh contract wins: $1.3B GDIT Army ENOCS cybersecurity + $44.8M defense awards. Moderate Buy consensus, avg PT $410.89. No contract losses, no downgrades. Intraday weakness consistent with Warsh hawkish language (mild equity pressure). GD not rate-sensitive (contracted defense backlog). Fundamental thesis unchanged: Q2 EPS $4.24 beat, $14.1B revenue beat, $136.5B record backlog, raised FY guidance $16.80–$16.90 EPS. Stop buffer 2.52% from current price — GTC manages automatically. **INTACT — HOLD.**
+
+**STEP 6 — Intraday research — Warsh Jackson Hole addendum:**
+- **Speech delivered ~10 AM ET:** Warsh emphasized "inflation too high," "short-term rates are the predominant tool," no forward guidance given (per stated philosophy of avoiding guidance that limits Fed flexibility). 3 FOMC members voted for immediate hike at Jul 29 meeting.
+- **Market pricing:** ~30-35% September hike probability (futures); ~50%+ on prediction markets. Fed funds at 3.50–3.75% (5th consecutive hold).
+- **For Week 20 planning:** Warsh speech was mildly hawkish but not catastrophic. No specific guidance = market still data-dependent. Core PCE 3.2% YoY. September FOMC Sep 15-16.
+- **Impact on positions:** GD holds up (not rate-sensitive). NOC also not rate-sensitive. If deploying Week 20, avoid energy/utility/rate-sensitive names — Rule 13.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (Week 20):** September FOMC Sep 15-16; Chicago PMI (today); NOC recovery above $570 (primary entry target); GD stop $369.40 (2.52% buffer — moderate); deployment 17.5% — far below 75-85% target; 3 buy slots remaining Week 19 (unused) → fresh 3 slots Week 20

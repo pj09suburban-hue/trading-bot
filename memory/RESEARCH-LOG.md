@@ -5955,3 +5955,27 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (today/weekend):** Warsh speech ~10 AM ET (primary); GD response to speech; NOC price action; MPC/oil dynamics; deploy 2 positions Week 20 is top priority
+
+---
+
+## 2026-08-28 — Afternoon Addendum (Warsh Jackson Hole — Week 20 Strategy Update)
+
+**Time:** ~11:30 AM ET (post-Warsh speech)
+
+### Warsh Jackson Hole Speech Summary
+- **Tone:** Mildly hawkish — "inflation too high," short-term rates are the Fed's "predominant tool"
+- **Forward guidance:** None given (per Warsh's explicit philosophy of not pre-committing)
+- **Internal Fed split:** 3 FOMC members voted for immediate hike at Jul 29 meeting
+- **Rate path market pricing:** ~30-35% Sep hike (futures); ~50% (prediction markets); Sep FOMC Sep 15-16
+- **Current rate:** 3.50–3.75% (5th consecutive hold); Core PCE 3.2% YoY
+- **Bottom line:** Not a hawkish shock. Markets had priced partial risk; Warsh avoided surprise. Neutral-to-mildly-hawkish — no near-term capitulation or pivot signal.
+
+### Impact on Current Portfolio
+- **GD:** Not rate-sensitive. Intraday -0.29% — mild market-wide pressure. Thesis intact. Stop buffer 2.52% — GTC manages.
+- **No position changes required.**
+
+### Week 20 Deployment Priorities
+1. **NOC (primary):** Gate $570. Warsh speech now resolved — no new uncertainty. If NOC recovers Monday, setup viable. Contracted defense — not rate-sensitive. Rate context: no imminent hike certain, but tighter-for-longer tone. NOC unaffected.
+2. **MPC (secondary):** Hold. Energy gate at 1-fail (VST Aug 21). WTI ~$83 stable. Need clean momentum + gate before entry.
+3. **Rate-sensitive names:** Avoid until Sep FOMC clarity (Sep 15-16). Rule 13 protects against repeat of Week 18 mass stop-out.
+4. **Target deployment Week 20:** 35–55% (2 positions). Priority: NOC entry Monday pre-open if gates pass.
