@@ -4622,3 +4622,19 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Week 20):** September FOMC Sep 15-16; Chicago PMI (today); NOC recovery above $570 (primary entry target); GD stop $369.40 (2.52% buffer — moderate); deployment 17.5% — far below 75-85% target; 3 buy slots remaining Week 19 (unused) → fresh 3 slots Week 20
+
+---
+
+## 2026-08-28 — EOD Snapshot (Day 91, Week 19 Day 5 — Friday)
+**Portfolio:** $108,080.04 | **Cash:** $89,117.53 (82.5%) | **Day P&L:** -$40.49 (-0.04%) | **Phase P&L:** +$8,080.04 (+8.08%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GD | 50 | $378.5682 | $379.25 | -0.21% | +$34.09 (+0.18%) | $369.40 (7% trail, HWM $397.20, 2.60% buffer) |
+
+**Trades today:** None
+
+**Notes:** Day 91, Week 19 Day 5 (Friday). Week closes with 0/3 trades used — deliberate: Warsh Jackson Hole speech (mildly hawkish, 30-35% Sep hike probability) suppressed new entries; NOC gated out at market-open (price/VIX). GD -0.21% intraday, mild chop; fundamental thesis intact ($136.5B backlog, D.A. Davidson PT raise to $416). Stop buffer 2.60% — GTC trailing stop manages automatically. Deployment 17.5% — well below 75-85% target. Fresh 3 trade slots open Week 20 (Mon Aug 31). NOC ex-div Aug 31: entry Monday pre-open if gates pass. September FOMC Sep 15-16 is the next major macro event.
+
+**Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (Week 20):** NOC entry Monday pre-open (ex-div Aug 31, last window); MPC primary deployment target; GD stop $369.40 (2.60% buffer); Sep FOMC Sep 15-16; 3 fresh buy slots, 5 position slots available
