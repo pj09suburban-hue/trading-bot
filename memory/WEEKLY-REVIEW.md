@@ -1177,3 +1177,67 @@ Template for each entry:
 *Week 18 — portfolio -6.44% vs S&P -1.92% (-4.52% underperformance). Worst absolute week in the phase since Week 4 (-3.63%). Four positions stopped out in 3 days on 30Y Treasury spike to 5.33% (19-year high): VRT GTC (-3.74%), NUE GTC (-3.24%), LMT GTC (+3.69%), VST hard cut (-7.31%). All exits mechanical and rule-compliant — stop discipline prevented a worse outcome. Phase alpha compressed from +6.81% to +1.68% vs benchmark; profit factor fell from 2.19 to 1.67. Ending Week 18 with 1 position (GD) and 17.7% deployed. D reflects the portfolio getting cleared by a single macro variable (30Y rate shock) because all five names shared rate-factor exposure — a portfolio construction error that the weekly review process must now encode as a formal check.*
 
 ---
+
+## Week ending 2026-08-28
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $108,332.52 |
+| Ending portfolio | $108,083.53 |
+| Week return | -$248.99 (-0.23%) |
+| S&P 500 week | +0.64% (7,674.37 → 7,723.62) |
+| Bot vs S&P | -0.87% |
+| Phase return | +$8,083.53 (+8.08% from $100k baseline) |
+| Phase bot vs S&P | +0.28% (bot +8.08% vs S&P +7.80% from Apr 24 start 7,165.08) |
+| Trades | 0 new / 0 closed (W:0 / L:0 / open:1) |
+| Win rate | N/A — no closed trades this week (29.4% all-time, 5/17 closed) |
+| Best trade | GD +0.18% unrealized (only open position) |
+| Worst trade | GD +0.18% unrealized (only open position) |
+| Profit factor | 1.67 all-time (unchanged; $20,188 winners / $12,107 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| GD | $378.5682 | $379.32 | +$37.59 (+0.20%) | $369.40 (7% trail, HWM $397.20, 2.61% buffer) — Q3 earnings Oct 28 |
+
+### What Worked
+- All trade skips correctly gated: MPC failed price gate ($357–$359 vs ≥$360 threshold) Tue–Wed; NOC failed price gate ($555 vs ≥$570) and VIX gate (17.05 vs ≤17 limit) Thu; no forced entries violated the gate framework
+- NVDA binary event discipline: correctly held zero new entries Mon–Wed through NVIDIA earnings (Wed AMC); market-wide volatility risk managed by inaction
+- Warsh Jackson Hole patience: mildly hawkish speech (30–35% Sep hike probability) appropriately suppressed new entry Friday; rate-factor Rule 13 applied correctly
+- GD thesis remained intact all week: D.A. Davidson PT raise to $416 (from $375) Thu, institutional buying documented, no contract losses or downgrades; stop buffer 2.61% heading into Week 20
+- PCE benign (0.1% MoM / 3.4% YoY in-line) confirmed mid-week; no macro shock after Week 18's rate-shock clearing event
+
+### What Didn't Work
+- Zero trades placed: all 3 weekly buy slots unused — 17.5% deployed all week (far below 75–85% target); 7th+ consecutive week below deployment floor; chronic underdeployment now the phase's defining structural failure
+- Phase alpha nearly eliminated: +1.68% (Week 18) → +0.28% vs S&P (Week 19); 18 weeks of alpha-building compressed to near-parity with the index in one week of underperformance
+- Bot -0.23% vs S&P +0.64% = -0.87% underperformance in a modestly positive market week; even 1 deployed position in a climbing sector would have materially offset
+- NOC gate failures (price/VIX) eliminated the primary deployment candidate twice — no backup candidate identified or deployed; research pipeline produced no gateable setup for 5 trading days
+- GD stop buffer oscillated dangerously: 3.20% Mon → 1.73% Tue → 3.17% Wed → 2.90% Thu → 2.60% Fri; any 3%+ adverse move auto-exits the only open position; portfolio is one gap-down away from 0% deployment
+
+### Key Lessons
+- Gating discipline is necessary but not sufficient: skipping correctly (NOC/MPC gate failures) is the right call, but having zero backup candidates for an entire week reflects a pre-market research failure; the research pipeline must identify 2–3 candidates so that when the primary is gated, a secondary is already researched and ready
+- Phase alpha of +0.28% vs S&P is a near-critical threshold: one more bad week at 17.5% deployment turns the phase alpha negative; the portfolio's entire 19-week accumulation is at risk from prolonged underdeployment
+- Rate-factor Rule 13 (max 2 rate-sensitive names) is correctly installed but has the unintended effect of making the bot overly cautious about re-entry in a market where rate-sensitive names (energy, utilities, materials) recovered post-shock; non-rate-sensitive contracted-backlog names (NOC, GD, RTX-type) must be the primary deployment vehicle in this rate environment
+- NOC is the clearest qualified non-rate-sensitive redeployment candidate: defense procurement backlog ($95.6B), non-rate-sensitive revenue, 30Y yield insulation; the ex-div Aug 31 creates Monday urgency; if gates pass at Mon pre-market, enter without waiting for a "better" setup
+
+### Adjustments for Next Week
+- **NOC (primary):** Ex-div Aug 31 (Monday); pre-open entry plan — price ≥$570 + VIX ≤17 + FOMC signal neutral; if gates pass, enter 35–40 shares (~18–19% equity at ~$570); brings deployment to ~37–38%; document catalyst (strategic defense procurement, non-rate-sensitive backlog, B-21/GBSD programs)
+- **MPC or 2nd name (secondary):** Once NOC deployed, identify second candidate; MPC still valid if price recovers above $360 gate; alternatively VST replacement in energy/utilities sector (1 consecutive failure, 1 more allowed before ban); or AI infrastructure name (VRT/AMAT recovery if rate environment stabilizes)
+- **GD:** Hold; stop $369.40 (7% trail, 2.61% buffer from $379.32); Q3 earnings Oct 28; D.A. Davidson $416 PT; no action unless thesis breaks or stop fires
+- **30Y Treasury watch:** ~5.33% entering weekend; relief below 5.0% = green light for rate-sensitive entry; above 5.40% = defer any rate-sensitive additions; primary gating variable
+- **September FOMC Sep 15–16:** First major binary macro event of Week 20+; plan entries Mon–Fri before the announcement; do not enter rate-sensitive names in the 48 hours before FOMC
+- **Deployment imperative:** Phase alpha +0.28% vs S&P is effectively neutral; must restore deployment to ≥75% by end of Week 20 or phase underperformance becomes structural — no more "waiting for perfect setups"
+
+### Overall Grade: C-
+*Week 19 — portfolio -0.23% vs S&P +0.64% (-0.87% underperformance). Zero trades placed from a 3-slot budget; 17.5% deployed all week. Every skip was correctly gated (MPC below price gate twice, NOC below price/VIX gate, NVDA binary event, Warsh hawkish Friday) — the discipline was technically correct. But the cumulative cost of correct-but-passive execution is now critical: phase alpha compressed from +1.68% to +0.28% vs S&P benchmark in a single week. GD thesis intact, stop 2.61% buffer, D.A. Davidson PT raised to $416. No rule violations. C- reflects rule-correct execution offset by the near-elimination of 19 weeks of accumulated phase alpha from chronic underdeployment — the portfolio cannot absorb another zero-trade week without falling behind the benchmark.*
+
+---
