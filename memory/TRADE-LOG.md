@@ -4650,3 +4650,41 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 **Gate checks passed:** positions 2/6 ✓ | trades 1/3 ✓ | cost $20,237 ≤ 20% equity ($21,591) ✓ | cash $89,117 ✓ | PDT 0/3 ✓ | catalyst documented ✓ | stock (not option) ✓ | rate-sensitive: NO (0/2) ✓
 
 **Week 20 trades:** 1/3 | **Open positions:** 2/6 (GD, MPC) | **Daytrade count:** 0
+
+---
+
+## 2026-08-31 — Midday Scan (Day 92, Week 20 Day 1 — Monday)
+
+**Portfolio:** $107,164.49 | **Cash:** $87,332.99 (81.5%) | **Long MV:** $19,831.50 (18.5% deployed ⚠️) | **Day P&L:** -$919.04 (-0.85%) | **Phase P&L:** +$7,164.49 (+7.16%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $367.33 | -$401.22 | -1.98% | -1.98% (entered today) | $338.58 (10% trail, 34d50500) | $376.20 | 7.82% |
+
+**GD STOPPED OUT — GTC TRAILING STOP TRIGGERED**
+| Symbol | Side | Shares | Entry | Exit | Realized P&L | % | Reason |
+|---|---|---|---|---|---|---|---|
+| GD | SELL | 50 | $378.5682 | $369.05 | -$475.91 | -2.51% | GTC trailing stop triggered (7% trail, HWM $397.20, stop $369.40, filled $369.05 at 13:59 UTC) |
+
+- GD held 32 days (Jul 30 → Aug 31). Peak unrealized gain +$930 (+4.91% at HWM $397.20). Stop correctly locked in downside protection; trail did its job.
+- Energy sector fail count: VST (Aug 21) = 1st fail. GD was defense/industrials — NOT energy. Sector fail count remains at 1 for energy.
+
+**STEP 3 — Losers cut (-7% from entry):**
+- MPC: -1.98% — well above -7% threshold ($348.53). No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | -1.98% | $430.97 | $449.71 | None — entered today, normal intraday volatility |
+
+**STEP 5 — Thesis check:**
+- **MPC:** -1.98% from entry. Perplexity research: no new negative catalysts today. No Hormuz resolution, no demand destruction news, no MPC-specific downgrades. Intraday pullback consistent with post-gap consolidation after WTI morning surge. Energy YTD #1 sector unchanged. GTC stop at $338.58 (7.82% buffer from current $367.33) — manages automatically. **INTACT — HOLD.**
+- **GD:** Position closed via GTC stop. Thesis was intact at exit (no negative catalyst — stop was mechanical trail from HWM).
+
+**STEP 6 — Intraday research:** No sharp unexplained moves beyond MPC/WTI morning consolidation. No addendum required.
+
+**STEP 7 — Notification:** GD stopped out — Slack sent.
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Closed trades (phase total):** GD closed -2.51% (mechanical stop, not -7% cut); running total closed trades = tracking ongoing
+**Key watch (this afternoon/tomorrow):** Dallas Fed Manufacturing (2:30 PM ET today); WTI holding above $84 (MPC thesis gate); MPC stop $338.58 (7.82% buffer); deployment 18.5% — far below 75-85% target; 2 buy slots remaining Week 20; NOC recovery above $570 for 2nd position; energy sector at 1 consecutive fail (VST) — 2nd energy fail = sector exit rule
