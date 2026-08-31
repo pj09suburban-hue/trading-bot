@@ -4638,3 +4638,15 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 19 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (Week 20):** NOC entry Monday pre-open (ex-div Aug 31, last window); MPC primary deployment target; GD stop $369.40 (2.60% buffer); Sep FOMC Sep 15-16; 3 fresh buy slots, 5 position slots available
+
+---
+
+## 2026-08-31 — Market-Open Trades (Day 92, Week 20 Day 1 — Monday)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-08-31 | MPC | BUY | 54 | $374.76 | 10% trail GTC (34d50500), HWM $374.11, stop $336.70; -7% hard cut $348.53 | WTI +2.59% to $85.71 today; Energy YTD +43.1% #1 sector; MPC largest US independent refiner — elevated crude = wider refining margins; Hormuz supply risk intact; all entry gates passed | $449.71 (+20%) | 2.86:1 (vs -7% floor) |
+
+**Gate checks passed:** positions 2/6 ✓ | trades 1/3 ✓ | cost $20,237 ≤ 20% equity ($21,591) ✓ | cash $89,117 ✓ | PDT 0/3 ✓ | catalyst documented ✓ | stock (not option) ✓ | rate-sensitive: NO (0/2) ✓
+
+**Week 20 trades:** 1/3 | **Open positions:** 2/6 (GD, MPC) | **Daytrade count:** 0
