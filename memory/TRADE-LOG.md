@@ -4688,3 +4688,19 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Closed trades (phase total):** GD closed -2.51% (mechanical stop, not -7% cut); running total closed trades = tracking ongoing
 **Key watch (this afternoon/tomorrow):** Dallas Fed Manufacturing (2:30 PM ET today); WTI holding above $84 (MPC thesis gate); MPC stop $338.58 (7.82% buffer); deployment 18.5% — far below 75-85% target; 2 buy slots remaining Week 20; NOC recovery above $570 for 2nd position; energy sector at 1 consecutive fail (VST) — 2nd energy fail = sector exit rule
+
+---
+
+## 2026-08-31 — EOD Snapshot (Day 92, Week 20 Day 1 — Monday)
+**Portfolio:** $107,366.99 | **Cash:** $87,332.99 (81.4%) | **Day P&L:** -$716.54 (-0.66%) | **Phase P&L:** +$7,366.99 (+7.37%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $371.24 | +0.65% | -$190.08 (-0.94%) | $338.58 (10% trail, HWM $376.20, 8.80% buffer) |
+
+**Trades today:** MPC BUY 54 @ $374.76 (market-open) · GD SELL 50 @ $369.05 (GTC stop triggered, -$475.91 realized, -2.51%)
+
+**Notes:** Day 92, Week 20 Day 1 (Monday). GD stopped out by mechanical GTC trailing stop (HWM $397.20 → stop $369.40 → filled $369.05); thesis was intact but the trail did its job after peaking +4.91%. MPC entered at market-open on WTI +2.59% surge ($85.71), pulled back intraday to -1.98%, recovered to -0.94% by close (+0.65% on the day from yesterday's $368.83). Fundamental thesis intact: WTI elevated, energy #1 sector YTD, no negative catalysts. GTC trailing stop $338.58 (10%, HWM $376.20, 8.80% buffer). Deployment 18.7% — well below 75-85% target; 2 buy slots remaining Week 20, 5 position slots open. Energy sector: 1 consecutive fail (VST Aug 21); MPC must hold or energy sector exit rule triggers on next fail.
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (Week 20):** MPC stop $338.58 (8.80% buffer), WTI holding above $84 (thesis gate); NOC recovery above $570 (secondary entry target); 2 buy slots + 5 position slots open; Sep FOMC Sep 15-16; energy sector at 1 consecutive fail
