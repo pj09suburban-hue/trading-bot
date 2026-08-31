@@ -5979,3 +5979,109 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 2. **MPC (secondary):** Hold. Energy gate at 1-fail (VST Aug 21). WTI ~$83 stable. Need clean momentum + gate before entry.
 3. **Rate-sensitive names:** Avoid until Sep FOMC clarity (Sep 15-16). Rule 13 protects against repeat of Week 18 mass stop-out.
 4. **Target deployment Week 20:** 35–55% (2 positions). Priority: NOC entry Monday pre-open if gates pass.
+
+---
+
+## 2026-08-31 — Pre-Market Research (Day 92, Week 20 Day 1 — Monday)
+
+### Account Snapshot
+| Field | Value |
+|---|---|
+| Equity | $108,055.03 |
+| Cash | $89,117.53 (82.5%) |
+| Long MV | $18,937.50 (17.5% deployed ⚠️) |
+| Positions | 1/6 (GD) |
+| Week 20 trades | 0/3 |
+| Daytrade count | 0 |
+| Phase P&L | +$8,055.03 (+8.06%) |
+
+**GD position:** 50 shares @ $378.5682, current $378.75 (+$9.09 / +0.05%), stop $369.40 (7% trail GTC 3c260832, HWM $397.20, ~2.46% buffer premarket).
+
+### Market Context
+| Indicator | Level | Notes |
+|---|---|---|
+| WTI crude | ~$85.56/bbl | +2.59% today — significant surge |
+| Brent crude | ~$90.70/bbl | +2.95% today |
+| SPX futures | ~7,709.50 | -0.16% premarket (mildly soft) |
+| Nasdaq futures | — | -0.69% premarket |
+| Russell futures | — | -1.37% (small caps weakest) |
+| VIX | 15.21 | +5.4% from 14.43 close — calm, well below 17 gate |
+
+**Today's releases:**
+- Dallas Fed Manufacturing Index — 2:30 PM ET (minor; can move cyclicals if surprise)
+- No jobs data, no ISM (ISM Manufacturing = Sep 2 for August reading)
+- PCE already released Aug 26: headline 3.7% YoY, **core PCE 3.3% YoY** — sticky, above Fed target
+
+**Key macro backdrop:**
+- Sep FOMC Sep 15-16 — dominant upcoming event (~30-35% Sep hike priced, futures)
+- Warsh tone: mildly hawkish post-Jackson Hole; "inflation too high," 3 FOMC dissenters for immediate hike at Jul 29 meeting
+- Core PCE 3.3% — well above 2% target; tighter-for-longer remains base case
+
+### Earnings Today (BMO)
+- **SAIC** — EPS est $2.31 (defense IT); minor catalyst for GD/NOC sector sentiment
+- 2-3 other minor names (not in portfolio or watchlist)
+
+### Sector YTD Momentum
+| Sector | ETF | YTD |
+|---|---|---|
+| Energy | XLE | +43.1% 🏆 |
+| Technology | XLK | +25.4% |
+| Materials | XLB | +19.1% |
+| Industrials | XLI | +16-20.2% |
+| Healthcare | XLV | +13.8% |
+| Financials | XLF | +7.2% |
+
+### GD Position Thesis Check
+- **Premarket price:** $378.75 (+$0.18 / +0.05% from $378.57 close); stop $369.40 (2.46% buffer)
+- **Today's news:** No new negative catalysts. D.A. Davidson PT $416, Jefferies PT $400. $136.5B backlog, $16.80-$16.90 EPS guidance intact. $1.3B GDIT ENOCS contract + Navy submarine awards recent wins.
+- **Rate sensitivity:** Not rate-sensitive (contracted defense backlog — Rule 13 unaffected)
+- **Action: HOLD — GTC 3c260832 manages automatically.**
+
+### NOC Thesis Check — STILL BELOW GATE
+- **Today is ex-dividend date for NOC** — stock will open ~$2.47 lower (ex-div adjustment). Expected open ~$542-543.
+- **Gate: NOC ≥ $570** — current ~$545, after ex-div adjustment ~$542 → gate fails by ~$28 (5.2%)
+- **Dividend capture window:** CLOSED. We passed on Friday (gate failed at open). Today the ex-div period starts — no longer relevant.
+- **Thesis still valid:** $105B backlog, $3B missile-interceptor production deal, $215.93M DARC Site 2 contract, Buy consensus avg PT $647. Golden Dome missile defense program = structural tailwind.
+- **Action: HOLD — monitor for recovery above $570; no new entry today.**
+
+---
+
+### Trade Idea #1 — MPC (TRADE-CONDITIONAL — Primary)
+**Catalyst:** WTI +2.59% to $85.56 today (Brent +2.95% to $90.70) — most significant single-day oil move in weeks. Energy sector YTD +43.1%, the market's strongest sector by wide margin. Marathon Petroleum (MPC) as the largest independent refiner in the U.S. benefits directly from elevated crude (refining margins widen with higher throughput prices and downstream demand). No geopolitical resolution on Hormuz risk — supply tightness supportive of continued elevated crude.
+- **Entry condition:** Market open — verify WTI still >$84/bbl AND MPC price >$175 AND VIX ≤ 17 AND SPX not down >1% at open
+- **Live quote check required at open:** `bash scripts/alpaca.sh quote MPC`
+- **Sizing:** ~20% of equity = ~$21,600; adjust shares to live price
+- **Stop:** 10% trailing GTC (not a post-earnings entry — standard 10% applies)
+- **Target:** +20% from entry = 2:1 R:R minimum
+- **Rate sensitivity:** Not rate-sensitive (commodity-driven refiner) → eligible under Rule 13 (currently 0/2 rate-sensitive positions)
+- **Gate check:**
+  - [ ] Positions after fill: 2/6 ✅
+  - [ ] Trades this week: 1/3 ✅
+  - [ ] Cost ≤ 20% equity (~$21,600) — verify at open ✅
+  - [ ] Cost ≤ available cash ($89,117) ✅
+  - [ ] PDT: 0 day trades ✅
+  - [ ] Catalyst documented: YES — WTI +2.59% today ✅
+  - [ ] Stock (not option): YES ✅
+- **Energy gate note:** Energy at 1-fail (VST stopped out Aug 21). Entering MPC is accepted given dominant oil momentum; acknowledge that a 2nd energy fail = sector exit rule triggers.
+
+### Trade Idea #2 — NOC (HOLD / REASSESS MID-WEEK)
+- Ex-div adjustment today makes entry even harder (~$542 expected open vs. $570 gate)
+- Thesis valid but price not cooperating. Wait for organic recovery above $570.
+- If NOC recovers above $570 with SPX stable mid-week, reassess as 2nd position entry (Week 20 still has 3 trade slots).
+
+### Risk Factors
+1. **VIX rising (+5.4% premarket)** — not alarming at 15.21, but directional shift worth noting
+2. **Small-cap weakness** (Russell -1.37%) — risk-off rotation; confirms avoid high-beta small caps
+3. **Oil volatility** — WTI Oil VIX at 43.49 (elevated); today's surge could reverse on any Hormuz diplomacy headline
+4. **GD stop buffer** — 2.46% is moderate; SPX soft open + sector pressure could approach GTC trigger; no intervention unless -7% from entry ($352.07)
+5. **Sep FOMC Sep 15-16** — next binary macro event; 2-week countdown; MPC as commodity name should not be rate-sensitive but broader risk-off could weigh
+
+### Decision: TRADE-conditional
+- **GD:** HOLD — stop $369.40 manages
+- **MPC:** TRADE at market-open IF gates pass (WTI >$84, VIX ≤17, SPX not down >1%)
+- **NOC:** HOLD — gate fails; monitor for $570 recovery mid-week
+- **Default fallback: HOLD if any gate fails at open**
+
+**Week 20 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
+**Key watch (today):** MPC entry gate check at open; GD stop $369.40; Dallas Fed 2:30 PM ET; WTI holding $84+
+
