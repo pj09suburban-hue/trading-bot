@@ -6158,3 +6158,10 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch:** ISM PMI 10 AM ET (gate ≥55 for confidence); NOC recovery ≥$570; MPC WTI thesis gate ($84+); Sep FOMC Sep 15-16
 
+
+### Afternoon Addendum (Midday Scan — 2026-09-01)
+- **MPC midday:** -0.42% from entry ($373.17); touched intraday HWM $381.15 before pullback. GTC stop auto-advanced to $343.035 (HWM $381.15, 8.08% buffer).
+- **Wells Fargo PT raise:** MPC target raised to $400 from $359 — 7.2% upside from current $373. Additional bullish signal.
+- **Hormuz/WTI thesis:** Reuters confirms Hormuz supply disruptions doubled refining margins; Iranian strikes on regional refining infrastructure tightened fuel markets. No Hormuz resolution news today. Thesis strengthening.
+- **No negative catalysts found.** Insider plan to sell 1,000 shares — routine, not a fundamental concern.
+- **Action:** HOLD — GTC stop manages. No new buys at midday (NOC price/gates not verified intraday; deployment gap continues).

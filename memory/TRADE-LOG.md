@@ -4704,3 +4704,34 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (Week 20):** MPC stop $338.58 (8.80% buffer), WTI holding above $84 (thesis gate); NOC recovery above $570 (secondary entry target); 2 buy slots + 5 position slots open; Sep FOMC Sep 15-16; energy sector at 1 consecutive fail
+
+---
+
+## 2026-09-01 — Midday Scan (Day 93, Week 20 Day 2 — Tuesday)
+
+**Portfolio:** ~$107,483 est. | **Cash:** $87,332.58 (81.2%) | **Long MV:** $20,151.18 (18.8% deployed ⚠️) | **Day P&L:** ~-$94 (-0.09%) | **Phase P&L:** ~+$7,483 (+7.48%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $373.17 | -$85.86 | -0.42% | -0.04% | $343.035 (10% trail, 34d50500) | $381.15 | 8.08% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $373.17 — 7.1% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | -0.42% | $430.97 (15.5% away) | $449.71 (20.6% away) | None |
+
+- **Note:** GTC trailing stop HWM auto-advanced to $381.15 (from $376.20 EOD Aug 31, $376.56 pre-mkt today) — MPC reached $381.15 intraday. Stop auto-advanced to $343.035 (up from $338.58). Buffer expanded from 8.80% (EOD) to 8.08% (current price vs new stop). No manual intervention required.
+
+**STEP 5 — Thesis check:**
+- **MPC:** -0.42% from entry after touching HWM $381.15 intraday. Perplexity research: **no new negative catalysts.** Bullish developments: Wells Fargo raised PT to $400 (from $359); Hormuz supply disruptions intact per Reuters; Brent $92.14/bbl, WTI elevated. Insider plan to sell 1,000 shares — not a fundamental red flag. Dividend $1.00 payable Sep 10 on record. GTC trailing stop HWM advancing automatically. **INTACT — HOLD.**
+- Stop buffer 8.08% from current price. GTC manages automatically.
+
+**STEP 6 — Intraday research:** Perplexity query run — Wells Fargo PT raise to $400, Hormuz thesis intact, no thesis-breaking news. Afternoon addendum appended to RESEARCH-LOG.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (this afternoon/tomorrow):** ISM PMI result (10 AM ET today — outcome unknown at scan time); WTI holding above $84 (MPC thesis gate); MPC stop $343.035 (8.08% buffer from $373.17); NOC recovery ≥$570 for 2nd position; Wells Fargo PT $400 (MPC has 7.2% upside to that target from $373); deployment 18.8% — far below 75-85% target; 2 buy slots remaining Week 20
