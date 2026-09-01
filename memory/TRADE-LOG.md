@@ -4735,3 +4735,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (this afternoon/tomorrow):** ISM PMI result (10 AM ET today — outcome unknown at scan time); WTI holding above $84 (MPC thesis gate); MPC stop $343.035 (8.08% buffer from $373.17); NOC recovery ≥$570 for 2nd position; Wells Fargo PT $400 (MPC has 7.2% upside to that target from $373); deployment 18.8% — far below 75-85% target; 2 buy slots remaining Week 20
+
+---
+
+## 2026-09-01 — EOD Snapshot (Day 93, Week 20 Day 2 — Tuesday)
+**Portfolio:** $107,773.47 | **Cash:** $87,332.58 (81.0%) | **Day P&L:** +$281.61 (+0.26%) | **Phase P&L:** +$7,773.47 (+7.77%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $378.54 | +1.40% | +$203.85 (+1.01%) | $343.04 (10% trail, HWM $381.15, 9.38% buf) |
+
+**Notes:** Day 93, Week 20 Day 2 (Tuesday). No trades today. MPC recovered from midday softness (-0.42% at scan) to close +1.40% on the day, lifting portfolio +$281.61. Unrealized P&L flipped positive at +$203.85 (+1.01%). GTC trailing stop at $343.035 (HWM $381.15, 9.38% buffer from close $378.535 — stop auto-advanced during session). Wells Fargo PT $400 — MPC now 5.7% away. Thesis intact: WTI elevated, Hormuz risk ongoing, energy YTD #1 sector, no negative catalysts. Deployment 19.0% — well below 75–85% target; 2 buy slots + 5 position slots open for Week 20. Energy sector at 1 consecutive fail (VST Aug 21); next energy fail = sector exit rule triggers.
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (tomorrow):** WTI holding above $84 (MPC thesis gate); MPC stop $343.04 (9.38% buffer); NOC recovery ≥$570 for 2nd position; deployment 19% — 2nd position opportunity watch; Sep FOMC Sep 15-16
