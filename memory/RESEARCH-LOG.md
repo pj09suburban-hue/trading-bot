@@ -6085,3 +6085,76 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 20 trades:** 0/3 | **Open positions:** 1/6 (GD) | **Daytrade count:** 0
 **Key watch (today):** MPC entry gate check at open; GD stop $369.40; Dallas Fed 2:30 PM ET; WTI holding $84+
 
+
+## 2026-09-01 — Pre-Market Research (Day 93, Week 20 Day 2 — Tuesday)
+
+### Account Snapshot
+- **Equity:** $107,755.38 | **Cash:** $87,332.58 (81.0%) | **Deployed:** $20,422.80 (19.0% ⚠️ below 75–85% target)
+- **Buying power:** $195,087.96 | **Daytrade count:** 0
+- **Open positions:** 1/6 (MPC) | **Week 20 trades:** 1/3 | **Phase P&L:** +$7,755.38 (+7.76%)
+
+### MPC Position Check
+- **54 shares @ $374.76 entry** | Premarket: $378.20 (+$4.88/+1.31% from yesterday $373.32)
+- **Unrealized:** +$185.76 (+0.92% from entry); stop 10% trail, HWM $376.56, stop $338.90 (10.4% buffer)
+- **Thesis:** WTI now $87.00/bbl (+$1.44/+1.7% today) — fresh US-Iran tit-for-tat Gulf strikes (first in several weeks); Hormuz supply risk unresolved; MPC refining margins at record (Q2 EBITDA $8.5B, EPS $17.73 vs $12.94 est.); $1.00/share dividend payable Sep 10
+- **Action: HOLD — GTC stop 34d50500 manages automatically; thesis strengthening**
+
+### Market Context
+| Factor | Reading | Signal |
+|---|---|---|
+| WTI crude | $87.00/bbl (+1.7%) | Bullish energy; Gulf strikes resumed |
+| Brent crude | $92.14/bbl (+1.8%) | Confirming WTI direction |
+| S&P 500 futures | ~7,660 (-0.50%) | Risk-off; Gulf strikes + hawkish Warsh |
+| VIX | ~15.08–15.88 (+5–6%) | Elevated but ≤17; directional shift to watch |
+| ISM Mfg PMI (Aug) | 10:00 AM ET; consensus 55.2, prior 55.6 | Key macro gate today |
+| JOLTs Job Openings (Jul) | 10:00 AM ET; consensus 7.4M, prior 7.3M | Labor demand read |
+| Sep FOMC | Sep 15–16 | Warsh Jackson Hole mildly hawkish; 30–35% hike probability |
+
+### Sector YTD Momentum
+| Rank | Sector | YTD |
+|---|---|---|
+| 1 | Energy (XLE) | +42–45% |
+| 2 | Technology (XLK) | +29–30% |
+| 3 | Materials (XLB) | +17–19% |
+| 4 | Industrials (XLI) | +16–20% |
+| 10 | Consumer Discretionary (XLY) | -2.0% |
+| 11 | Communication Services (XLC) | -4.8% |
+
+**Energy sector: 1 consecutive fail (VST, Aug 21). Next energy fail = sector exit rule.**
+
+### Earnings Today (no direct impact on holdings)
+- **Before open:** MDT (Medtronic, healthcare), NIO (EV/China)
+- **After close:** PANW, DELL, MDB, CRDO, GTLB — no positions
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): Existing position, thesis intact and strengthening**
+- WTI at $87 (entry-day was $85.71); fresh Gulf strikes reinforce supply-disruption thesis
+- GTC trailing stop manages automatically; unrealized +$185.76 (+0.92%)
+- No action needed
+
+**#2 — NOC (HOLD / REASSESS): Defense — Gulf strikes as catalyst, gate still failing**
+- Gulf skirmishes are a structural defense-spending tailwind (missile defense, interceptors)
+- Gate: NOC ≥ $570. Was ~$542 after Aug 31 ex-div adjustment. Unclear if recovered.
+- Sector fail: GD stopped out Aug 31 = 1st fail in defense/industrials. NOC would be a new position (not 2nd consecutive fail unless NOC also fails).
+- **Action: HOLD — verify NOC price at market open; enter only if ≥$570 and SPX stable; 2 buy slots remain Week 20**
+
+**#3 — NO NEW ENERGY NAMES**
+- Energy at 1 consecutive fail; MPC is already the energy bet; adding another energy name increases sector exit risk
+
+### Risk Factors
+1. **SPX weak at open (-0.5%)** — Gulf strikes + Warsh hawkishness = broad risk-off; unfavorable for new longs at the bell
+2. **ISM PMI miss (<55)** — would signal manufacturing slowdown; drag on broader market
+3. **WTI reversal risk** — any Hormuz diplomacy headline could reverse the oil surge
+4. **VIX directional shift** — rising +5-6% premarket; if breaks above 17, re-evaluate all entries
+5. **September seasonality** — historically weakest month; elevated caution (CNBC Santoli)
+
+### Decision: HOLD (all gates pass but SPX weakness warrants patience)
+- **MPC:** HOLD — GTC manages; WTI surge strengthens thesis
+- **New entries:** HOLD — await ISM (10 AM ET); if ISM ≥55 and SPX stabilizes, reassess NOC at ≥$570 intraday or tomorrow
+- **Rate-sensitive count:** 0/2 — not a constraint
+- **Deployment:** 19.0% — far below 75-85% target; deployment is the primary Week 20 challenge; patience > forced entries
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch:** ISM PMI 10 AM ET (gate ≥55 for confidence); NOC recovery ≥$570; MPC WTI thesis gate ($84+); Sep FOMC Sep 15-16
+
