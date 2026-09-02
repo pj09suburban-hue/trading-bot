@@ -4749,3 +4749,33 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (tomorrow):** WTI holding above $84 (MPC thesis gate); MPC stop $343.04 (9.38% buffer); NOC recovery ≥$570 for 2nd position; deployment 19% — 2nd position opportunity watch; Sep FOMC Sep 15-16
+
+---
+
+## 2026-09-02 — Midday Scan (Day 94, Week 20 Day 3 — Wednesday)
+
+**Portfolio:** $108,179.28 | **Cash:** $87,332.58 (80.7%) | **Long MV:** $20,846.70 (19.3% deployed ⚠️) | **Day P&L:** +$164.70 (+0.15%) | **Phase P&L:** +$8,179.28 (+8.18%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $385.67 | +$588.87 | +2.91% | +0.70% | $349.73 (10% trail, 34d50500) | $388.59 | 9.32% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $385.67 — 10.7% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +2.91% | $430.97 (11.7% away) | $449.71 (16.6% away) | None |
+
+- **Note:** GTC trailing stop HWM auto-advanced to $388.59 (from $383.01 at pre-market research). Stop auto-moved to $349.73 (up from $344.71 pre-market). Buffer 9.32% from current price. No manual intervention required.
+
+**STEP 5 — Thesis check:**
+- **MPC:** +2.91% from entry, +0.70% intraday. Perplexity research: **no new negative catalysts today.** Positives: Q2 net income $5.14B beat structural; Hormuz supply disruptions intact per Reuters; WTI ~$90+ (well above $84 thesis gate). Minor: insider plan sale of 425 shares (Shawn Lyon) — not a fundamental red flag (normal executive plan sale). One article flags "3% overvalued on energy crunch profits" — low-authority source, not acted on. GTC trailing stop HWM $388.59 manages automatically. **INTACT — HOLD.**
+
+**STEP 6 — Intraday research:** Perplexity query run on MPC. No sharp unexplained moves. WTI elevated, Hormuz thesis intact, Q2 earnings beat provides structural floor. No addendum required.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (this afternoon/tomorrow):** WTI holding above $84 (MPC thesis gate); MPC stop $349.73 (9.32% buffer from $385.67); +15% trigger at $430.97 (11.7% away); NOC recovery ≥$570 for 2nd position; PPI Aug → Fri Sep 4 8:30 AM ET (inflation read — avoid rate-sensitive entries beforehand); Sep FOMC Sep 15-16; deployment 19.3% — far below 75-85% target
