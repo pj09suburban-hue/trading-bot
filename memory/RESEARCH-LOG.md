@@ -6165,3 +6165,99 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **Hormuz/WTI thesis:** Reuters confirms Hormuz supply disruptions doubled refining margins; Iranian strikes on regional refining infrastructure tightened fuel markets. No Hormuz resolution news today. Thesis strengthening.
 - **No negative catalysts found.** Insider plan to sell 1,000 shares — routine, not a fundamental concern.
 - **Action:** HOLD — GTC stop manages. No new buys at midday (NOC price/gates not verified intraday; deployment gap continues).
+
+---
+
+## 2026-09-02 — Pre-Market Research (Day 94, Week 20 Day 3 — Wednesday)
+
+### Account Snapshot
+- **Equity:** $107,852.58 | **Cash:** $87,332.58 | **Deployed:** $20,520 (19.0% ⚠️ below 75-85% target)
+- **Day P&L (intraday):** -$162 (-0.78%) | **Phase P&L:** +$7,852.58 (+7.85%)
+- **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0 | **Buy slots remaining:** 2
+
+| Ticker | Shares | Avg Entry | Last Close | Intraday | Unrealized P&L | Stop (GTC) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $383.01 | -0.78% (~$380) | +$282.96 (+1.40%) | $344.71 (10% trail) | $383.01 | 9.28% |
+
+### Market Context
+| Indicator | Value | Note |
+|---|---|---|
+| WTI Crude | ~$90.3/bbl | +5.6% above entry-day $85.71; US-Iran strikes → Hormuz fears intensify |
+| Brent Crude | ~$95.4/bbl | +0.8% premarket; five-week high |
+| SPX Futures | ~7,650 (-0.64%) | Risk-off; Middle East escalation + higher yields |
+| VIX | 16.43 | Up from ~14.92 prior close; elevated, approaching 17 caution level |
+| Energy YTD | +46.9% (#1) | Still dominant sector; thesis reinforced |
+| Technology YTD | +27.9% (#2) | AI/semiconductor leading premarket despite macro risk-off |
+| Communication Services YTD | -5.3% (worst) | Continue to avoid |
+
+### Economic Calendar Today (Sep 2)
+- **10:00 AM ET:** Metropolitan Area Employment & Unemployment (minor, not market-moving)
+- **No CPI / PPI / FOMC today**
+- **Upcoming:** PPI Aug → Fri Sep 4 (8:30 AM ET); CPI Aug → Fri Sep 11; FOMC → Sep 15-16
+
+### Earnings Today (no positions impacted)
+- **Before open:** FCEL, CXM, GIII, OLLI, BF.B, DRI, SNX, AYI, CMC, WGO
+- **After close:** GTLB, DELL (already reported per prior log — may move semis/AI sentiment)
+- No direct holdings impacted.
+
+### MPC Thesis Update
+- **Q2 2026 earnings beat:** Net income $5.1B ($17.73/share) vs $3.96/share YoY; revenue $52.3B
+- **Refining margin:** $36.33/bbl (from $17.58 YoY) — doubled by Hormuz supply disruptions (Reuters)
+- **Crude utilization:** 94%; throughput ~2.9M bbl/day
+- **Dividend:** $1.00/share payable Sep 10 (record Aug 19 — ex-div passed; cash payout incoming Sep 10)
+- **Wells Fargo PT:** $400 (5.3% upside from ~$380 current)
+- **WTI thesis gate ($84+): INTACT** — WTI at $90.3 exceeds gate by 7.5%
+- **GTC trailing stop:** HWM $383.01, stop $344.71, 9.28% buffer from ~$380 → manages automatically
+- **Conclusion: INTACT — HOLD**
+
+### Sector YTD Momentum
+| Rank | Sector | YTD |
+|---|---|---|
+| 1 | Energy (XLE) | +46.9% |
+| 2 | Technology (XLK) | +27.9% |
+| 3 | Materials (XLB) | +15.8% |
+| 4 | Industrials (XLI) | ~+18% (est.) |
+| 10 | Consumer Discretionary (XLY) | -3.7% |
+| 11 | Communication Services (XLC) | -5.3% |
+
+**Energy sector: 1 consecutive fail (VST, Aug 21). One more energy fail = sector exit rule.**
+
+### Earnings Today (no direct impact on holdings)
+- Multiple small-cap reporters before open; none in current portfolio
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): Existing position, thesis intact and strengthening**
+- WTI $90.3 (+7.5% above $84 gate); Hormuz escalation doubled margins
+- Q2 beat confirmed structural earnings power; Wells Fargo PT $400
+- GTC trailing stop HWM $383.01 manages automatically; no manual action required
+- **Decision: HOLD**
+
+**#2 — NOC (WATCH / CONDITIONAL): Defense — gate still failing**
+- NOC ask ~$559 premarket (below $570 gate from prior log)
+- US-Iran strikes = structural defense tailwind (missile defense, interceptors)
+- Sector caution: GD stopped out Aug 31 = 1st consecutive fail in defense/industrials; NOC entry ≠ 2nd fail (new position, not a follow-on in same failed thesis)
+- **Gate: price ≥$570 AND SPX stabilizes (not -0.64% or worse)**
+- **Decision: WATCH — re-check at market open (8:30 AM ET); do NOT enter if SPX risk-off persists**
+- Rate-sensitive: NOC = NO (contracted-backlog defense) → would not hit 2/2 rate-sensitive limit
+
+**#3 — NO NEW ENERGY NAMES**
+- Energy at 1 consecutive fail (VST); MPC already the energy bet
+- Adding a 2nd energy name raises sector-exit risk; not warranted with WTI >$90 already captured via MPC
+
+### Risk Factors
+1. **SPX risk-off (-0.64% futures)** — US-Iran escalation + higher yields = broad pressure on new longs
+2. **VIX 16.43 (approaching 17 caution level)** — elevated volatility; wait for VIX to settle ≤16 before new entries
+3. **PPI Friday Sep 4** — inflation read; any upside surprise → hawkish repricing; rate-sensitive names at risk
+4. **September seasonality** — historically weakest month; elevated patience
+5. **Hormuz resolution risk** — any diplomatic headline could reverse WTI; MPC stop manages this
+
+### Decision: HOLD
+- **MPC:** HOLD — GTC stop manages; WTI thesis significantly exceeded; no action needed
+- **New entries:** HOLD — SPX risk-off, VIX elevated (16.43); NOC remains on watch but gate ($570) not met
+- **Deployment (19%):** Well below 75-85% target — patience > forced entries; will re-evaluate at market open if SPX stabilizes and VIX retreats below 16
+- **Rate-sensitive count:** 1/2 (MPC) — not a constraint on next entry
+- **Target for deployment:** Consider NOC conditional entry at market open if NOC ≥$570 and SPX stable
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch:** VIX ≤16 (new entry gate); NOC ≥$570 at open; MPC WTI thesis gate ($84+); PPI Sep 4; Sep FOMC Sep 15-16
