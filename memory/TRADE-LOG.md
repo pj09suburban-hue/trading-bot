@@ -4793,3 +4793,33 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (tomorrow):** WTI holding above $84 (MPC thesis gate); MPC stop $351.92 (9.81% buffer); +15% trigger at $430.97 (10.4% away); NOC recovery ≥$570 for 2nd entry; PPI Fri Sep 4 → hold off new rate-sensitive buys; FOMC Sep 15-16
+
+---
+
+## 2026-09-03 — Midday Scan (Day 95, Week 20 Day 4 — Thursday)
+
+**Portfolio:** ~$108,627 est. | **Cash:** $87,332.58 (80.4%) | **Long MV:** $21,197.70 (19.5% deployed ⚠️) | **Day P&L:** ~+$215 (+0.20%) | **Phase P&L:** ~+$8,627 (+8.63%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $392.55 | +$960.66 | +4.75% | +1.43% | $358.672 (10% trail, 34d50500) | $398.52 | 8.63% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $392.55 — 12.6% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +4.75% | $430.97 (9.8% away) | $449.71 (14.6% away) | None |
+
+- GTC trailing stop HWM auto-advanced to $398.52 (from $391.02 EOD Sep 2). Stop auto-moved to $358.672 (up from $351.918). Buffer 8.63% from current price. No manual intervention required.
+
+**STEP 5 — Thesis check:**
+- **MPC:** +4.75% from entry, +1.43% intraday at $392.55. Perplexity research: **no new negative catalysts today.** Key development: **Piper Sandler raised PT to $462 (from $344)** — new significant bullish analyst action. Wells Fargo PT already at $400. Combined: two major analyst upgrades/PT raises provide structural support. Q3 margin compression risk (JPMorgan: $14.07/bbl vs Q2 $17.37) unchanged, remains a known risk. Hormuz disruption intact. WTI elevated (thesis gate >$84 intact). **INTACT — HOLD.**
+
+**STEP 6 — Intraday research:** Perplexity query run. Key new item: Piper Sandler PT $462 (material). Addendum appended to RESEARCH-LOG.
+
+**STEP 7 — Notification:** No action taken — no Slack per rules.
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (this afternoon/tomorrow):** PPI Aug → TOMORROW Fri Sep 4 8:30 AM ET (key inflation read — avoid new rate-sensitive entries today); MPC stop $358.672 (8.63% buffer from $392.55); +15% trigger $430.97 (9.8% away); Piper Sandler PT $462 (17.7% upside from current); Wells Fargo PT $400 (1.9% away); deployment 19.5% — far below 75-85% target; FOMC Sep 15-16

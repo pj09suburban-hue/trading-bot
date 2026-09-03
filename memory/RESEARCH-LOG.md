@@ -6367,3 +6367,9 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch:** PPI Sep 4 (tomorrow); MPC stop $352.782 (HWM $391.98); AVGO post-earnings recovery Mon; NOC price recovery toward $570; FOMC Sep 15-16
 
+
+---
+
+### 2026-09-03 — Afternoon Addendum (Midday Scan)
+
+**Piper Sandler raised MPC PT to $462 (from $344)** — analyst: John Ro. This adds 17.7% upside from current $392.55 and stacks on Wells Fargo's $400 PT. Two major PT raises (WF $400, Piper $462) converging around post-Hormuz structural value. No new negative catalysts. Q3 margin compression risk (JPMorgan) known and unchanged. GTC trailing stop HWM $398.52, stop $358.672 — managing automatically. MPC thesis confirmed INTACT at midday.
