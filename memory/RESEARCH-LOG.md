@@ -6261,3 +6261,109 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch:** VIX ≤16 (new entry gate); NOC ≥$570 at open; MPC WTI thesis gate ($84+); PPI Sep 4; Sep FOMC Sep 15-16
+
+---
+
+## 2026-09-03 — Pre-Market Research (Day 95, Week 20 Day 4 — Thursday)
+
+### Account Snapshot
+| Metric | Value |
+|---|---|
+| Equity | $108,360.72 |
+| Cash | $87,332.58 (80.6%) |
+| Long MV | $21,028.14 (19.4% deployed ⚠️) |
+| Open positions | 1/6 (MPC) |
+| Week 20 trades | 1/3 |
+| Daytrade count | 0 |
+
+### MPC Position (live)
+| Metric | Value |
+|---|---|
+| Shares | 54 @ $374.76 entry |
+| Current (premarket) | ~$389.41 (+3.91% unrealized, +$791.10) |
+| GTC stop | 10% trail, HWM $391.98, stop $352.782 (9.65% buffer) |
+
+### Market Context (premarket Sep 3)
+| Indicator | Level | Notes |
+|---|---|---|
+| WTI Crude | ~$90.5/bbl | Slight pullback from $91 close; +7.5% above $84 MPC thesis gate |
+| Brent Crude | ~$95.0/bbl | Slight pullback from $95.54 close |
+| SPX Futures | ~7,685 (+0.55%) | Reversal from yesterday's -0.64% — risk-on shift |
+| VIX | 15.23 | Down from 16.43 yesterday — improved sentiment |
+| Energy YTD | +47.6% (#1) | Sector leadership intact |
+| Technology YTD | +27.9% (#2) | AVGO beat lifting AI/semi sentiment |
+
+### Economic Calendar Today (Sep 3)
+- **ISM Non-Manufacturing Index** (10:00 AM ET) — services PMI; not normally trade-blocking
+- **Trade Balance & Productivity** — minor releases today
+- **NO CPI / NO PPI / NO FOMC today**
+- ⚠️ **PPI Aug → TOMORROW Fri Sep 4 8:30 AM ET** — key inflation read; avoid new rate-sensitive entries before this
+- CPI Aug → Sep 11 | FOMC → Sep 15-16
+
+### Earnings Today
+- Before open: CIEN (Ciena), CPB (Campbell's), TTC (Toro), others — no holdings impacted
+- After close: **AVGO reported Sep 2** (yesterday AH); premarket reaction being watched
+
+### MPC Thesis Update
+- WTI $90.5 >> $84 thesis gate (+7.7% above gate) — intact
+- Hormuz disruption risk ongoing — supply disruption structurally embedded
+- Q2 structural beat ($5.14B net income, $36.33/bbl refining margin)
+- Wells Fargo PT $400 — MPC $389 current, 2.8% away
+- ⚠️ JPMorgan note: Q3 margin estimate $14.07/bbl vs Q2 $17.37 — compression expected; monitor if WTI reverses
+- GTC trailing stop HWM $391.98, stop $352.782 → managing automatically; no manual action
+- **Conclusion: INTACT — HOLD**
+
+### Sector YTD Momentum
+| Rank | Sector | YTD |
+|---|---|---|
+| 1 | Energy (XLE) | +47.6% |
+| 2 | Technology (XLK) | +27.9% |
+| 3 | Materials (XLB) | +17.7% |
+| 4 | Health Care | +11.7% |
+| 5 | Industrials | +11.4% |
+| 10 | Consumer Discretionary | -3.4% |
+| 11 | Communication Services | -3.9% |
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): Existing position, thesis intact**
+- WTI $90.5 >> $84 gate; Hormuz disruptions intact; Wells Fargo PT $400 (2.8% away)
+- GTC stop HWM $391.98 managing automatically; Q3 margin compression risk emerging but not trade-breaking
+- **Decision: HOLD**
+
+**#2 — AVGO (WATCH — do NOT enter today): AI semiconductor catalyst**
+- Q3 FY2026 beat: EPS $3.32 vs $3.22 est; revenue $29.59B vs $29.24B est
+- AI semiconductor revenue $16.7B (+127% YoY), 56% of total revenue
+- Q4 guide: $34.8B total, $21.7B AI semiconductor; strong forward momentum
+- Stock premarket ~$367-370 (close Sep 2: $367.24; slight AH weakness, recovering premarket)
+- **Entry blocked:** Rate-sensitive (AI infra/data center capex) + PPI tomorrow → per rule, no new rate-sensitive entries pre-PPI
+- **Re-evaluate: Monday Sep 8 after PPI data absorbed**
+- Rate-sensitive: YES → if entered, would use 1/2 rate-sensitive slots
+
+**#3 — NOC (WATCH — gate failing): Defense tailwind remains**
+- RBC Capital upgraded to Outperform; US-Iran conflict = structural defense tailwind
+- Current price: ~$524 — below $570 gate set in prior research (gate failing by ~$46)
+- NOC closed $523.82 (-1.71%) Sep 2; no fundamental deterioration, but price weakness
+- **Gate: price ≥$570 AND SPX stable** — SPX now positive (+0.55%) ✓ but price gate failing ✗
+- Rate-sensitive: NO (contracted-backlog defense) — not a constraint
+- Defense sector: 1 consecutive fail (GD stopped Aug 31) — 2nd defense/industrials fail = sector exit rule
+- **Decision: WATCH — price gate not met; do NOT enter**
+
+### Risk Factors Today
+1. **PPI tomorrow Sep 4 (8:30 AM ET)** — any upside surprise → hawkish repricing; rate-sensitive names at risk; AVGO blocked
+2. **JPMorgan Q3 MPC margin compression forecast** ($14.07/bbl vs Q2 $17.37) — if Q3 guidance disappoints, WTI must stay elevated to maintain thesis
+3. **September seasonality** — historically weakest month; elevated patience warranted
+4. **Hormuz resolution risk** — any diplomatic headline could reverse WTI spike; MPC stop manages this
+5. **Defense sector at 1 consecutive fail** — NOC entry must not become the 2nd fail; wait for confirmed price recovery
+
+### Decision: HOLD
+- **MPC:** HOLD — GTC stop manages; WTI $90.5 >> $84 gate; no action required
+- **AVGO:** HOLD — rate-sensitive + PPI tomorrow; revisit Monday Sep 8
+- **NOC:** HOLD — price gate not met ($524 vs $570)
+- **Deployment (19.4%):** Below 75-85% target — open to 2nd position, but no qualifying setup today
+- **Rate-sensitive count:** 0/2 (MPC classified as non-rate-sensitive)
+- **Today's catalysts to watch:** ISM Non-Manufacturing 10 AM ET; WTI holding above $84; MPC move toward Wells Fargo PT $400
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch:** PPI Sep 4 (tomorrow); MPC stop $352.782 (HWM $391.98); AVGO post-earnings recovery Mon; NOC price recovery toward $570; FOMC Sep 15-16
+
