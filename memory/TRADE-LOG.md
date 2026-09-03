@@ -4823,3 +4823,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (this afternoon/tomorrow):** PPI Aug → TOMORROW Fri Sep 4 8:30 AM ET (key inflation read — avoid new rate-sensitive entries today); MPC stop $358.672 (8.63% buffer from $392.55); +15% trigger $430.97 (9.8% away); Piper Sandler PT $462 (17.7% upside from current); Wells Fargo PT $400 (1.9% away); deployment 19.5% — far below 75-85% target; FOMC Sep 15-16
+
+---
+
+## 2026-09-03 — EOD Snapshot (Day 95, Week 20 Day 4 — Thursday)
+**Portfolio:** $108,367.75 | **Cash:** $87,332.58 (80.6%) | **Day P&L:** +$137.17 (+0.13%) | **Phase P&L:** +$8,367.75 (+8.37%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $389.54 | +0.66% | +$798.13 (+3.94%) | $358.67 (10% trail, HWM $398.52, 7.93% buf) |
+
+**Notes:** Day 95, Week 20 Day 4 (Thursday). No trades. MPC closed at $389.54, pulling back from midday high of $392.55 but still up +0.66% from yesterday's official close of $387.00. Unrealized P&L +$798.13 (+3.94%). GTC trailing stop HWM $398.52; stop $358.67 (7.93% buffer from close). Dual analyst tailwinds: Piper Sandler PT $462 (18.6% upside) + Wells Fargo PT $400 (2.7% away). Thesis intact: WTI elevated, Hormuz disruption risk, energy YTD #1 sector. PPI Aug tomorrow Fri Sep 4 8:30 AM ET — key inflation read before market open; caution on new rate-sensitive entries pre-data. Deployment 19.4% — well below 75–85% target; 2 buy slots remain Week 20. FOMC Sep 15-16.
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (tomorrow):** PPI Aug → Fri Sep 4 8:30 AM ET (inflation gate); MPC stop $358.67 (7.93% buffer); +15% trigger $430.97 (10.6% away); Piper Sandler PT $462 (18.6% upside); Wells Fargo PT $400 (2.7% away)
