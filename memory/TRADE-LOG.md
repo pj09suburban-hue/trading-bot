@@ -4867,3 +4867,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (close/next week):** WTI holding above $84 (MPC thesis gate); MPC stop $358.67 (7.90% buffer from $389.45); +15% trigger $430.97 (10.4% away); Piper Sandler PT $462 (18.6% upside); Wells Fargo PT $400 (2.7% away); FOMC Sep 15-16; weekly review today at 4 PM ET
+
+---
+
+## 2026-09-04 — EOD Snapshot (Day 96, Week 20 Day 5 — Friday)
+**Portfolio:** $108,315.90 | **Cash:** $87,332.58 (80.7%) | **Day P&L:** +$46.98 (+0.04%) | **Phase P&L:** +$8,315.90 (+8.32%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $388.58 | +0.22% | +$746.28 (+3.69%) | $358.67 (10% trail, HWM $398.52, 7.71% buf) |
+
+**Notes:** Day 96, Week 20 Day 5 (Friday). No trades. MPC closed at $388.58, up +0.22% from yesterday's close of $387.71. Unrealized P&L +$746.28 (+3.69%). Trailing stop HWM remains $398.52 (current $388.58 below HWM — stop unchanged at $358.67, 7.71% buffer). PPI Aug released this morning — no shock to energy; thesis intact. Dual analyst tailwinds: Piper Sandler PT $462 (18.9% upside) + Wells Fargo PT $400 (2.9% away). Deployment 19.4% — far below 75–85% target; 2 buy slots remain. Week 20 ends: 1 trade executed (MPC buy). Weekly review to follow at 4 PM ET.
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (next week):** WTI holding above $84 (MPC thesis gate); MPC stop $358.67 (7.71% buffer); +15% trigger $430.97 (10.9% away); deploy additional capital — 2 buy slots available; FOMC Sep 15-16 (key macro event next week)
