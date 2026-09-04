@@ -1241,3 +1241,68 @@ Template for each entry:
 *Week 19 — portfolio -0.23% vs S&P +0.64% (-0.87% underperformance). Zero trades placed from a 3-slot budget; 17.5% deployed all week. Every skip was correctly gated (MPC below price gate twice, NOC below price/VIX gate, NVDA binary event, Warsh hawkish Friday) — the discipline was technically correct. But the cumulative cost of correct-but-passive execution is now critical: phase alpha compressed from +1.68% to +0.28% vs S&P benchmark in a single week. GD thesis intact, stop 2.61% buffer, D.A. Davidson PT raised to $416. No rule violations. C- reflects rule-correct execution offset by the near-elimination of 19 weeks of accumulated phase alpha from chronic underdeployment — the portfolio cannot absorb another zero-trade week without falling behind the benchmark.*
 
 ---
+
+## Week ending 2026-09-04
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $108,083.53 |
+| Ending portfolio | $108,333.18 |
+| Week return | +$249.65 (+0.23%) |
+| S&P 500 week | +0.19% (7,711.76 → 7,726.14) |
+| Bot vs S&P | +0.04% |
+| Phase return | +$8,333.18 (+8.33% from $100k baseline) |
+| Phase bot vs S&P | +0.50% (bot +8.33% vs S&P +7.83% from Apr 24 start 7,165.08) |
+| Trades | 1 new (MPC) + 1 closed (GD stop-out) — W:0 / L:1 / open:1 |
+| Win rate | 0% this week (0/1 closed); 27.8% all-time (5/18 closed) |
+| Best trade | MPC +3.77% unrealized |
+| Worst trade | GD -2.51% realized |
+| Profit factor | 1.60 all-time ($20,188 winners / $12,583 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| GD | $378.5682 | $369.05 | -$475.91 (-2.51%) | GTC 7% trailing stop fired Aug 31 open; HWM $397.20 → stop $369.40 → filled $369.05; 32-day hold (Jul 30→Aug 31); thesis intact at exit; stop did its job after peak +4.91% |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| MPC | $374.76 | $388.90 | +$763.56 (+3.77%) | $358.67 (10% trail, HWM $398.52, 7.71% buf) — Piper Sandler PT $462; Wells Fargo PT $400 |
+
+### What Worked
+- MPC WTI/Hormuz thesis on track: entered Aug 31 at $374.76, closed week at +3.77%; 6-day winning streak through midweek; dual analyst tailwinds intact (Piper Sandler PT $462, Wells Fargo PT $400)
+- GD GTC stop honored mechanically without override: -2.51% contained vs -7% hard cut; stop at 2.61% buffer entering Week 20 was correctly monitored as a risk; mechanical exit preserved remaining capital
+- MPC trailing stop auto-advancing correctly: HWM reached $398.52 intraday Thu (Sep 3); stop advanced from $338.58 (entry day) → $358.67 by week end; no manual intervention required
+- PPI and FOMC-week discipline: no new rate-sensitive entries ahead of Sep 4 PPI data or Sep 15-16 FOMC; correctly preserved 2 remaining trade slots
+- Phase alpha recovered slightly: +0.50% vs S&P (up from +0.28% Week 19); avoided another week of alpha compression
+
+### What Didn't Work
+- Deployment 19.4% at week end — effectively unchanged from Week 19 (17.5%); 10th+ consecutive week well below 75-85% target; only 1 of 6 position slots used despite 5 open and 2 trade slots available
+- No second position entered: NOC failed price gate (≥$570 not met) all week; no backup candidate identified and deployed; same pre-market research failure as Week 19
+- GD loss (-$475.91) is the 13th losing closed trade (all-time 5 wins / 13 losses); at this rate every few weeks another ~$400-500 in realized losses chips away at the phase P&L while sitting 80% in cash
+- Week outperformance vs S&P was only +0.04% — barely above rounding error; even a well-performing MPC position (+3.77%) at 19% deployment contributes negligible alpha to the total portfolio
+- Phase alpha (+0.50%) is near-critical: 20 weeks of active management to generate 50bp of alpha above the index is unsustainable if deployment does not improve materially
+
+### Key Lessons
+- GD stop at 2.61% buffer entering the week was the right signal: when buffer is below 3% for multiple consecutive sessions, prepare for exit — not to widen the stop, but to have the next entry researched and ready immediately; GD fired Monday open, MPC was entered same session — this is the correct protocol
+- MPC as energy re-entry is the correct risk/reward: 1 consecutive energy fail (VST), 1 more allowed; MPC's WTI/Hormuz thesis with dual PT targets ($400/$462) and strong structural fundamentals (Q2 EPS $17.73 +37% beat) gives the sector a clean second chance
+- Pre-market research must produce 2-3 actionable candidates per session: Week 20 had NOC failing all week (price/VIX gate) but no backup candidate was identified and deployed; without a secondary and tertiary candidate, one gate failure = zero deployment for the session
+- FOMC-window (Sep 15-16) creates a natural hard deadline: entries must be placed Mon Sep 7 through Thu Sep 11 to avoid a binary macro event at the worst possible deployment level; the window is 4 trading days — not optional
+- Phase profit factor compression (2.20 → 1.60 over three months) reflects accumulation of small losses while large winners (MRVL, GE, RTX) are not being replaced; next outsized winner is overdue
+
+### Adjustments for Next Week
+- **MPC:** Hold; stop $358.67 (7.71% buf from $388.90); +15% trigger $430.97 (10.9% away); WTI >$84 thesis gate; energy sector 1 consecutive fail — if MPC stops out, 2-consecutive energy ban triggers → must exit any remaining energy names; dual PT ($400/$462) structural support
+- **2nd position (NOC primary):** Mon Sep 7 — if NOC price ≥$570 + VIX ≤17 + macro neutral → enter 35-38 shares (~18-19% equity) immediately; do not defer again; if NOC gates fail, enter the top alternative (GD replacement in defense, or AI infrastructure name) — do NOT accept a second week of no deployment
+- **3rd position:** Identify by pre-market Monday; candidates: defense (GD alt), AI infrastructure (VRT recovery), Materials (NUE if steel demand confirms); rate-factor check required per Rule 13 before placing
+- **FOMC Sep 15-16:** Entry window is Mon Sep 7 – Thu Sep 11; no new rate-sensitive entries within 48 hours of FOMC; do not waste the pre-FOMC window on passivity
+- **Rate-factor Rule 13:** Each new entry must be classified rate-sensitive Y/N before placing; max 2 rate-sensitive names simultaneously; MPC (energy) = rate-sensitive (Y); next entry should be rate-uncorrelated (contracted-backlog defense or commodity supply-driven) to balance
+- **Earnings verification:** Company IR press release only for binary event scheduling; no third-party estimates accepted
+
+### Overall Grade: C
+*Week 20 — portfolio +0.23% vs S&P +0.19% (+0.04% outperformance). GD GTC stop fired Aug 31 and was honored mechanically; MPC entered same session on WTI/Hormuz thesis at +3.77% by week end. Phase alpha improved marginally from +0.28% to +0.50% vs benchmark. Grade C reflects technically correct execution (GTC honored, MPC enters on strong thesis, no rule violations, PPI/FOMC discipline) offset by the continuing structural failure: 19.4% deployment at week end, no 2nd position entered despite 2 buy slots and 5 open position slots, and all-time profit factor compressed to 1.60 from chronic small losses. The FOMC-window (Sep 7–11) is a hard deployment deadline — another passive week at 19% deployed is not acceptable at any execution quality.*
+
+---
