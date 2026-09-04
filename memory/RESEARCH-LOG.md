@@ -6373,3 +6373,79 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 ### 2026-09-03 — Afternoon Addendum (Midday Scan)
 
 **Piper Sandler raised MPC PT to $462 (from $344)** — analyst: John Ro. This adds 17.7% upside from current $392.55 and stacks on Wells Fargo's $400 PT. Two major PT raises (WF $400, Piper $462) converging around post-Hormuz structural value. No new negative catalysts. Q3 margin compression risk (JPMorgan) known and unchanged. GTC trailing stop HWM $398.52, stop $358.672 — managing automatically. MPC thesis confirmed INTACT at midday.
+
+---
+
+## 2026-09-04 — Pre-Market Research (Day 96, Week 20 Day 5 — Friday)
+
+### Account Snapshot
+- **Equity:** $108,122.58 | **Cash:** $87,332.58 | **Deployed:** $20,790.00 (19.2% ⚠️ — far below 75–85%)
+- **Open positions:** 1/6 (MPC) | **Week 20 trades:** 1/3 | **Daytrade count:** 0
+- **MPC:** 54 shares @ $374.76 avg, premarket $385.00 (-0.45% extended), unrealized +$552.96 (+2.73%)
+- **GTC stop:** $358.67 (10% trail, HWM $398.52, 7.93% buffer from $389.54 Thursday close)
+
+### Market Context
+- **WTI:** ~$90.79/bbl (-0.55% premarket) | **Brent:** ~$95.11/bbl
+  - WTI still >> $84 thesis gate (+8.1% above gate) — MPC thesis INTACT
+- **SPX futures:** ~7,758 (+0.04%) — flat, market waiting on NFP
+- **Nasdaq futures:** +0.48% — tech leading pre-data
+- **VIX:** ~14.17–14.32 — complacent; orderly tape
+- **Fed:** Gov. Waller (Thu) signaled holding rates at Sep FOMC if inflation improves → rate-hike odds fell to ~50% from 63%; dovish tailwind for equities
+- **Key release today:** August NFP (nonfarm payrolls) 8:30 AM ET
+  - Consensus: +53k–65k; after July -23k shock; ADP (Wed) came in at 38k vs 47k est → downside risk to headline
+  - A weak print (~+20k or below) → rate-hold confirmed but labor softness fear; market reaction uncertain
+  - A strong print (+80k+) → possible hawkish reprice; yields spike; rate-sensitive names at risk
+
+### Sector YTD Momentum
+| Rank | Sector | YTD |
+|---|---|---|
+| 1 | Energy (XLE) | +46.6% |
+| 2 | Technology (XLK) | +29.5% |
+| 3 | Materials (XLB) | +17.0% |
+
+### MPC Thesis Check
+- WTI $90.79 >> $84 gate — intact ✅
+- Premarket -0.45% (extended trading, $385.44 → $385.00) — minor softness, no new fundamental catalyst
+- Piper Sandler PT $462 (19.7% upside from $385) + Wells Fargo PT $400 (3.9% away) — dual analyst tailwind intact
+- No new negative MPC-specific news today
+- GTC stop $358.67 (HWM $398.52) auto-managing — 7.93% buffer; stop would advance if MPC makes new HWM
+- **INTACT — HOLD**
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): Existing position, thesis intact**
+- Catalyst: WTI elevated, Hormuz disruption ongoing, dual analyst tailwinds ($400/$462 PTs)
+- Stop: $358.67 (7.93% buffer, GTC trailing auto-managing)
+- Target: $430.97 (+15% trigger), $449.71 (+20% trigger), Piper PT $462
+- **Decision: HOLD — GTC stop manages; no action required**
+
+**#2 — AVGO (HOLD — no entry): Rate-sensitive, major data day**
+- Post-earnings setup remains compelling (Q3 EPS $3.32 beat; AI revenue +127% YoY; Q4 guide $34.8B)
+- Blocked: Rate-sensitive (AI infra) + NFP today creates too much rate-path uncertainty
+- Pre-market ~$385 (extended); still 1 slot available on rate-sensitive limit (0/2 held currently)
+- **Re-evaluate: Monday Sep 8 after NFP absorbed and clear Fed path established**
+
+**#3 — NOC (HOLD — gate failing): Defense, price recovery required**
+- Price gate $570 not met; NOC ~$524 area; no new catalyst to bridge $46 gap
+- Defense sector: 1 consecutive fail (GD stopped Aug 31) — next fail = sector exit
+- Rate-uncorrelated — not a constraint issue
+- **Decision: HOLD — wait for price recovery and confirmed momentum above $570**
+
+### Risk Factors Today
+1. **NFP 8:30 AM ET** — ADP miss (38k vs 47k) signals downside risk; a weak print may paradoxically boost equities (rate-hold confirmed) but labor softness fear creates uncertainty; a hot print (>80k) could reprice yields upward, pressuring rate-sensitive names and broad indices
+2. **September seasonality** — historically weakest month; elevated patience warranted; SPX ~+0.04% premarket (flat, not a green-light environment)
+3. **MPC stop buffer narrowed to 7.93%** — WTI softness this morning (-0.55%) not alarming but Hormuz headline risk or demand-weakness data could accelerate; GTC stop is live defense
+4. **Rate-sensitive limit** — any NFP-driven yield spike could kill AVGO Monday re-entry window; monitor 10Y yield post-data
+5. **Deployment gap** (19.2% vs 75–85% target) — structural weakness; no qualifying setup today to narrow gap; patience required
+
+### Decision: HOLD
+- **MPC:** HOLD — thesis intact; GTC stop manages; no action
+- **AVGO:** HOLD — NFP day + rate-sensitive; revisit Monday Sep 8
+- **NOC:** HOLD — price gate not met
+- **New entries today:** NONE — NFP uncertainty precludes new positions
+- **Rate-sensitive count:** 0/2
+- **Patience > activity — no catalysts justify action today**
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 | **Daytrade count:** 0
+**Key watch post-NFP:** 10Y yield reaction; WTI holding $84+; MPC response to macro print; AVGO setup viability for Monday; FOMC Sep 15-16
+
