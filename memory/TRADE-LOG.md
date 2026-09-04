@@ -4837,3 +4837,33 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (tomorrow):** PPI Aug → Fri Sep 4 8:30 AM ET (inflation gate); MPC stop $358.67 (7.93% buffer); +15% trigger $430.97 (10.6% away); Piper Sandler PT $462 (18.6% upside); Wells Fargo PT $400 (2.7% away)
+
+---
+
+## 2026-09-04 — Midday Scan (Day 96, Week 20 Day 5 — Friday)
+
+**Portfolio:** $108,362.61 | **Cash:** $87,332.58 (80.6%) | **Long MV:** $21,030.03 (19.4% deployed ⚠️) | **Day P&L:** +$93.69 (+0.09%) | **Phase P&L:** +$8,362.61 (+8.36%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $389.45 | +$792.99 | +3.92% | +$93.69 (+0.45%) | $358.67 (10% trail, 34d50500) | $398.52 | 7.90% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $389.45 — 11.7% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +3.92% | $430.97 (10.4% away) | $449.71 (15.5% away) | None |
+
+- GTC trailing stop HWM remains $398.52. Current $389.45 is below HWM — stop stays at $358.67 (7.90% buffer). Auto-manages if new HWM set. No manual intervention required.
+
+**STEP 5 — Thesis check:**
+- **MPC:** +3.92% from entry, +0.45% intraday at $389.45. Perplexity research: **no new negative catalysts today.** Positives: 6-day winning streak (+9.1% cumulative), Q2 EPS $17.73 beat structural (+37%), NFP data absorbed with no apparent shock to energy sector. No MPC-specific negative news. Dual analyst tailwinds intact (Piper Sandler PT $462, Wells Fargo PT $400). **INTACT — HOLD.**
+
+**STEP 6 — Intraday research:** Perplexity query run. MPC continuation of strength — 6-day streak, no new negative catalyst. No sharp unexplained moves. No addendum required.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (close/next week):** WTI holding above $84 (MPC thesis gate); MPC stop $358.67 (7.90% buffer from $389.45); +15% trigger $430.97 (10.4% away); Piper Sandler PT $462 (18.6% upside); Wells Fargo PT $400 (2.7% away); FOMC Sep 15-16; weekly review today at 4 PM ET
