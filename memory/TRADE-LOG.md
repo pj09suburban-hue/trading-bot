@@ -4911,3 +4911,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (tomorrow, Tue Sep 8):** NFIB 10:00 AM ET; Oracle earnings AMC (AI read-through); MPC stop $358.67 (7.64% buffer); +15% trigger $430.97; AVGO conditional entry after CPI Sep 11; FOMC Sep 15-16
+
+---
+
+## 2026-09-07 — EOD Snapshot (Day 97, Week 21 Day 1 — Monday, Labor Day)
+**Portfolio:** $108,333.18 | **Cash:** $87,332.58 (80.7%) | **Day P&L:** $0.00 (market closed) | **Phase P&L:** +$8,333.18 (+8.33%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $388.90 | +0.00% | +$763.56 (+3.77%) | $358.67 (10% trail, HWM $398.52, 7.77% buf) |
+
+**Notes:** Day 97, Week 21 Day 1 (Monday — Labor Day). Market closed — no trading. MPC last quoted $388.90 (AH reference; minor +$0.32 drift from Fri close $388.58). Unrealized P&L +$763.56 (+3.77%). GTC trailing stop HWM $398.52; stop $358.67 (7.77% buffer from $388.90). Thesis intact: WTI elevated >> $84 gate, Hormuz disruption risk ongoing, dual analyst PTs intact (Piper Sandler $462 +18.9% upside, Wells Fargo $400 +2.9%). Deployment 19.4% — well below 75–85% target; 2 buy slots remain for Week 21. Markets resume Tue Sep 8.
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (Tue Sep 8):** NFIB 10:00 AM ET; Oracle earnings AMC (AI read-through); MPC stop $358.67 (7.77% buffer); AVGO conditional entry if CPI Sep 11 benign; FOMC Sep 15-16
