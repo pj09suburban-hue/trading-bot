@@ -4881,3 +4881,33 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (next week):** WTI holding above $84 (MPC thesis gate); MPC stop $358.67 (7.71% buffer); +15% trigger $430.97 (10.9% away); deploy additional capital — 2 buy slots available; FOMC Sep 15-16 (key macro event next week)
+
+---
+
+## 2026-09-07 — Midday Scan (Day 97, Week 21 Day 1 — LABOR DAY, market closed)
+
+**Portfolio:** $108,333.18 | **Cash:** $87,332.58 (80.6%) | **Long MV:** $21,000.60 (19.4% deployed ⚠️) | **Day P&L:** $0 (market closed) | **Phase P&L:** +$8,333.18 (+8.33%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $388.90 | +$763.56 | +3.77% | $0 (closed) | $358.67 (10% trail, 34d50500) | $398.52 | 7.64% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $388.90 — 11.6% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +3.77% | $430.97 (10.8% away) | $449.71 (15.6% away) | None |
+
+- GTC trailing stop HWM $398.52; stop $358.67 (7.64% buffer from $388.90). Market closed — no price movement; stop unchanged. No manual intervention required.
+
+**STEP 5 — Thesis check:**
+- **MPC:** Market closed (Labor Day). Last close $388.90. No intraday thesis evaluation possible. Pre-market research confirms: WTI $91.48 >> $84 gate, Hormuz disruption ongoing, dual analyst PTs intact. **INTACT — HOLD.**
+
+**STEP 6 — Intraday research:** Market closed — no sharp moves to investigate. No Perplexity query needed. No addendum.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (tomorrow, Tue Sep 8):** NFIB 10:00 AM ET; Oracle earnings AMC (AI read-through); MPC stop $358.67 (7.64% buffer); +15% trigger $430.97; AVGO conditional entry after CPI Sep 11; FOMC Sep 15-16
