@@ -6449,3 +6449,101 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 20 trades:** 1/3 | **Open positions:** 1/6 | **Daytrade count:** 0
 **Key watch post-NFP:** 10Y yield reaction; WTI holding $84+; MPC response to macro print; AVGO setup viability for Monday; FOMC Sep 15-16
 
+
+## 2026-09-07 — Pre-Market Research (Day 97, Week 21 Day 1 — LABOR DAY, market closed)
+
+**NOTE: US market closed today (Labor Day). This entry covers context for Tuesday Sep 8 open. Week 21 begins tomorrow.**
+
+### Account Snapshot
+- **Equity:** $108,333.18 | **Cash:** $87,332.58 | **Deployed:** $21,000.60 (19.4% ⚠️ — far below 75–85%)
+- **Open positions:** 1/6 (MPC) | **Week 21 trades:** 0/3 | **Daytrade count:** 0
+- **MPC:** 54 shares @ $374.76 avg, last close $388.90, unrealized +$763.56 (+3.77%)
+- **GTC stop:** $358.67 (10% trail, HWM $398.52, 7.64% buffer from $388.90)
+
+### Market Context
+- **WTI:** ~$91.48–$92.07/bbl (Sep 4 last settle) — well above $84 thesis gate (+8.9%); Hormuz disruption catalyst intact
+- **Brent:** ~$96.28–$96.83/bbl
+- **SPX futures (for Sep 8):** 7,705.25 (-16.75, -0.22%) — slight negative lean; market cautious into heavy data week
+- **VIX:** 14.53 (Sep 4 close) — low/complacent; orderly tape
+- **10Y yield:** above 4.7% — elevated; Fed Chair Warsh hawkish at Jackson Hole; rate-sensitive sectors at risk
+- **Today:** Labor Day — US markets closed; no action possible
+
+### Economic Calendar This Week (HIGH IMPACT)
+| Date | Release | Time ET |
+|---|---|---|
+| Tue Sep 8 | NFIB Business Optimism | 10:00 AM |
+| Tue Sep 8 | Consumer Credit | 3:00 PM |
+| Thu Sep 10 | PPI August | 8:30 AM ← key |
+| Fri Sep 11 | CPI August | 8:30 AM ← key |
+| Sep 15-16 | FOMC Meeting | statement Sep 16 |
+
+**No jobs report this week. Next NFP: Oct 2.**
+
+### Key Catalysts This Week
+- **Apple product event Sep 9** — iPhone/AI features; single-stock AAPL catalyst + broader tech sentiment
+- **Oracle earnings Sep 8 AMC** — AI spending read-through; enterprise software checkpoint
+- **GameStop earnings Sep 8 AMC** — speculative interest
+- **ABM Industries / UNFI Sep 8 BMO** — small/mid-cap; not relevant to our strategy
+- **Broadcom (AVGO) AI theme** — ongoing; pre-FOMC rate risk keeps entry gated
+
+### Sector YTD Momentum (as of Sep 4)
+| Rank | Sector | YTD |
+|---|---|---|
+| 1 | Energy (XLE) | +42–45% |
+| 2 | Technology (XLK) | +29–30% |
+| 3 | Materials (XLB) | +15–17% |
+
+### MPC Thesis Check
+- WTI $91.48 >> $84 gate — intact ✅
+- 7-day winning streak through Sep 4 (+9.3% cumulative); new 1-year high reached
+- Q2 2026: EPS $17.73 (beat $14.52 est by 22.1%); profit $5.14B (4x YoY); EBITDA $8.5B; Q3 throughput guided 2.82M bpd, utilization 94%
+- **$1.00 quarterly dividend payable Sep 10** — record date Aug 19; we entered Aug 31 → NOT on record, no dividend received
+- Dual analyst PTs: Piper Sandler $462 (18.8% upside from $388.90), Wells Fargo $400 (2.9% away)
+- Q3 risk: $290M turnaround costs (flagged by management), margin compression risk (JPMorgan $14.07/bbl vs Q2 $17.37)
+- **INTACT — HOLD**
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): Existing position, thesis intact**
+- Catalyst: WTI elevated ($91.48), Hormuz disruption ongoing, dual analyst PT tailwinds
+- Stop: $358.67 (7.64% buffer, GTC trailing auto-managing)
+- Target: $430.97 (+15% trigger), $449.71 (+20% trigger), Piper PT $462
+- **Decision: HOLD — GTC manages; no action required**
+
+**#2 — AVGO (TRADE-conditional, post-CPI): AI infra, rate-sensitive**
+- Setup: AI revenue +127% YoY (Q3 2026); Broadcom dominant AI networking/chip position; Apple event Sep 9 AI focus adds catalyst
+- Blocker: 10Y yield above 4.7% + PPI Sep 10 + CPI Sep 11 + FOMC Sep 15-16 = four rate-risk events in 8 days
+- Rate-sensitive count: 0/2 currently — could add if data clears
+- **Decision: TRADE-conditional — entry only after CPI Sep 11 confirms benign inflation; skip if CPI surprises hot**
+- Entry: ~$385–390; Stop: 7% below (post-earnings rule applies if within 3 days of print? — AVGO Q3 earnings not yet; not post-earnings); Stop: 10% GTC
+- Target: 2:1 R:R minimum
+
+**#3 — Energy second position (WATCH): Sector #1 YTD, macro tailwinds intact**
+- WTI $91+, Hormuz disruption, no US-Iran resolution visible
+- MPC sector stand: 1 trade (entry), 0 consecutive fails — sector status OK
+- Potential names: VLO (Valero — refiner peer), PSX (Phillips 66 — diversified refiner)
+- Blocker: PPI Sep 10 / CPI Sep 11 / FOMC Sep 15-16 — macro event cluster; prefer to wait for data before adding energy #2
+- Rate-sensitive classification: energy income/refining = rate-sensitive per Rule 13; would be 1/2 if added (alongside MPC? Wait — MPC already held; is MPC rate-sensitive? Yes, energy income/capex = rate-sensitive). Currently MPC = 1/2 rate-sensitive. Adding energy #2 = 2/2 rate-sensitive → **at limit; next entry must be rate-uncorrelated**
+- **Decision: HOLD — rate-sensitive limit would be full after energy #2; must wait for data + find rate-uncorrelated candidate**
+
+**#4 — Rate-uncorrelated candidates (RESEARCH next week):**
+- Defense (contracted backlog): LMT (prior fail — sector status OK, 1 fail), NOC (price gate $570 not met, currently ~$524)
+- Consumer Staples: contrarian vs momentum, sector #5 YTD
+- **Decision: Hold — no compelling catalyst today**
+
+### Risk Factors This Week
+1. **PPI Sep 10 + CPI Sep 11** — double inflation print in 3 days; hot readings → yields spike, rate-sensitive names crushed; cold readings → rally, opens AVGO/energy #2 window
+2. **FOMC Sep 15-16** — Warsh hawkish bias; rate hike odds non-zero; 10Y at 4.7%+ already reflects pressure
+3. **September seasonality** — historically weakest month; SPX futures slightly negative for Sep 8 open
+4. **MPC stop buffer narrowed to 7.64%** — WTI volatility + upcoming dividend (Sep 10) could trigger institutional selling; GTC stop provides mechanical protection
+5. **Deployment gap** (19.4% vs 75–85% target) — structural; no safe entry today with event cluster ahead
+
+### Decision: HOLD (TRADE-conditional post-CPI Sep 11)
+- **MPC:** HOLD — thesis intact; GTC stop $358.67 manages; target +15% at $430.97
+- **AVGO:** TRADE-conditional — wait for CPI Sep 11; if benign, enter week of Sep 14 (pre-FOMC only if conviction high)
+- **Energy #2:** On hold — rate-sensitive limit reached with MPC + any energy; must first find rate-uncorrelated slot
+- **New entries today:** NONE — market closed (Labor Day)
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 | **Daytrade count:** 0
+**Rate-sensitive count:** 1/2 (MPC)
+**Key watch:** PPI Sep 10 8:30 AM, CPI Sep 11 8:30 AM, FOMC Sep 15-16; MPC stop $358.67; AVGO entry gate
