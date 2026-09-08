@@ -4956,3 +4956,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (close/tomorrow):** WTI close (MPC HWM update); Oracle (ORCL) earnings Sep 10 AMC (AVGO gate check); PPI Aug Sep 10 8:30 AM ET; CPI Aug Sep 11 8:30 AM ET; MPC stop $358.89 (9.69% buffer from $397.40); +15% trigger $430.97 (8.4% away); FOMC Sep 15–16
+
+---
+
+## 2026-09-08 — EOD Snapshot (Day 98, Week 21 Day 2 — Tuesday)
+**Portfolio:** $108,765.72 | **Cash:** $87,332.58 (80.3%) | **Day P&L:** +$432.54 (+0.40%) | **Phase P&L:** +$8,765.72 (+8.77%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $396.91 | +2.06% | +$1,196.10 (+5.91%) | $358.95 (10% trail, HWM $398.83, 9.57% buf) |
+
+**Notes:** Day 98, Week 21 Day 2 (Tuesday — first trading day of week, Labor Day shifted). MPC closed +2.06% at $396.91. "Bull of the Day" from Zacks; WTI elevated (~$93.99 intraday). Trailing stop ratcheted: HWM $398.83, stop $358.95 (9.57% buffer). No new trades placed — 0/3 used this week, 2 buy slots remain. Deployment 19.7% — well below 75–85% target. NFIB released today (no adverse MPC impact). Oracle earnings AMC tonight — watching for AI read-through that may affect AVGO conditional entry. Key upcoming: PPI Sep 10, CPI Sep 11, FOMC Sep 15–16.
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (Wed Sep 9):** Oracle ORCL earnings reaction (AI semis read-through for AVGO/NVDA); MPC stop $358.95 (9.57% buffer); +15% trigger $430.97 (8.6% away); PPI Aug Sep 10 8:30 AM ET
