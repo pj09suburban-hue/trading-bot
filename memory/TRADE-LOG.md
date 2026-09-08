@@ -4925,3 +4925,34 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (Tue Sep 8):** NFIB 10:00 AM ET; Oracle earnings AMC (AI read-through); MPC stop $358.67 (7.77% buffer); AVGO conditional entry if CPI Sep 11 benign; FOMC Sep 15-16
+
+---
+
+## 2026-09-08 — Midday Scan (Day 98, Week 21 Day 2 — Tuesday)
+
+**Portfolio:** $108,767.34 | **Cash:** $87,332.58 (80.3%) | **Long MV:** $21,434.76 (19.7% deployed ⚠️) | **Day P&L:** +$434.16 (+0.40%) | **Phase P&L:** +$8,767.34 (+8.77%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $397.40 | +$1,222.56 | +6.04% | +$459.00 (+2.19%) | $358.89 (10% trail, 34d50500) | $398.77 | 9.69% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $397.40 — 14.0% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +6.04% | $430.97 (8.4% away) | $449.71 (13.2% away) | None |
+
+- GTC trailing stop HWM auto-ratcheted from $398.52 → $398.77 today (gap-up). Stop updated $358.67 → $358.89 (10% below new HWM). Current $397.40 is below HWM; buffer 9.69%. No manual intervention required.
+
+**STEP 5 — Thesis check:**
+- **MPC:** +6.04% unrealized, +2.19% intraday. Perplexity research: Zacks named MPC "Bull of the Day" today. Piper Sandler PT $462 intact. WTI elevated ($93.99+ today, Hormuz disruption ongoing). Strong refining margins (Q2 EPS $17.73 beat, 94% system utilization, lowest unplanned downtime this decade). No new negative catalysts — no refining outages, no management changes, no SEC filings. Correction risk noted in coverage but no specific near-term threat. Q3 turnaround expense ($290M) is scheduled and known. **INTACT — HOLD.**
+
+**STEP 6 — Intraday research:**
+- Perplexity query run. MPC +2.19% entirely consistent with WTI strength and refining sentiment. No sharp unexplained moves. Zacks Bull of Day adds momentum. No addendum required.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (close/tomorrow):** WTI close (MPC HWM update); Oracle (ORCL) earnings Sep 10 AMC (AVGO gate check); PPI Aug Sep 10 8:30 AM ET; CPI Aug Sep 11 8:30 AM ET; MPC stop $358.89 (9.69% buffer from $397.40); +15% trigger $430.97 (8.4% away); FOMC Sep 15–16
