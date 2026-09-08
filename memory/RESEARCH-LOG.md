@@ -6547,3 +6547,86 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 21 trades:** 0/3 | **Open positions:** 1/6 | **Daytrade count:** 0
 **Rate-sensitive count:** 1/2 (MPC)
 **Key watch:** PPI Sep 10 8:30 AM, CPI Sep 11 8:30 AM, FOMC Sep 15-16; MPC stop $358.67; AVGO entry gate
+
+---
+
+## 2026-09-08 — Pre-Market Research (Day 98, Week 21 Day 2 — Tuesday)
+
+### Account Snapshot
+- **Equity:** $108,726.84 | **Cash:** $87,332.58 (80.4%) | **Deployed:** $21,394.26 (19.7% ⚠️ — far below 75–85% target)
+- **Open positions:** 1/6 (MPC) | **Trades this week:** 0/3 | **Daytrade count:** 0
+- **Rate-sensitive count:** 1/2 (MPC)
+- **MPC:** 54 shares @ entry $374.76 | Close $388.90 | Premarket ~$394–$397 (+1.4–1.9%) | Unrealized P&L (live) +$1,157.22 (+5.72%) | GTC stop: HWM $398.52, stop $358.67 (10% trail, ~8.7% buffer from premarket price)
+
+### Market Context
+- **WTI:** ~$93.99 (+2.74% today; well above $84 thesis gate — Hormuz disruption intensifying)
+- **Brent:** ~$97.31
+- **SPX futures:** ~7,698–7,714 (down ~0.15–0.30% premarket; slight risk-off post-holiday)
+- **VIX:** ~15.3–15.83 (up from 14.53 yesterday; mild uptick, still benign; 52-wk range 13.38–35.30)
+- **Economic releases today:**
+  - NFIB Small Business Optimism (Aug) — 6:00 AM ET (out; market reaction minimal)
+  - Consumer Credit (Jul) — 3:00 PM ET; forecast $13.2B vs prev $14.17B (low-impact afternoon release)
+- **Earnings before market open today:** CASY (Casey's General Stores), GME (GameStop), TTAN (ServiceTitan) — none energy/tech relevant
+- **Earnings after close today:** No major catalysts for our names
+- **Key upcoming events (48–96h):** Oracle (ORCL) earnings Sep 10 AMC (AI read-through for AVGO thesis); PPI Aug Sep 10 8:30 AM ET; CPI Aug Sep 11 8:30 AM ET; FOMC Sep 15–16
+
+### Market Sentiment
+- SPX premarket slightly negative (-0.15-0.30%); risk-off tone as post-holiday positioning resumes
+- VIX ticking up modestly — not alarming, suggests caution rather than fear
+- Energy sector extremely strong: WTI +2.74% to $93.99; Hormuz disruption headlines driving oil premium
+- TSLA down 5.9% (NHTSA investigation Cybercab) and ADBE down 6.7% (leadership change) — idiosyncratic drags on tech/QQQ
+- SPX YTD: Energy +42–45% (#1), Tech +30% (#2), Materials +16% (#3) — sector leadership intact, no rotation signal
+
+### MPC Analysis
+- **Premarket price:** ~$394–$397.59 (Perplexity; Alpaca quote stale from 9/4 close)
+- **WTI catalyst:** +2.74% to $93.99 today — Hormuz disruption persisting, no Iran deal visible
+- **GTC trailing stop:** HWM $398.52; gap-up open above HWM will auto-ratchet trail to new HWM
+- **Tightening gate:** +15% at $430.97 (8.9% from $396 premarket); +20% at $449.71 (13.6% away) — no tightening action today
+- **-7% cut level:** $348.53 — $396 premarket is 13.2% above cut; mechanical stop protects well
+- **Analyst targets:** Piper Sandler PT $462 (16.7% upside from $396); Wells Fargo PT $400 (1% away)
+- **No new negative catalysts identified** — no SEC filings, no management changes, no refining capacity issues
+- **INTACT — HOLD; GTC auto-manages on gap-up**
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): Existing position, thesis roaring**
+- Catalyst: WTI $93.99 (+2.74%) — Hormuz disruption the dominant driver; dual analyst PTs intact
+- Stop: $358.67 GTC (10% trail, auto-updating on new HWM today)
+- Target: $430.97 (+15% trigger), $449.71 (+20% trigger), Piper PT $462
+- **Decision: HOLD — GTC manages; no action required; gap-up will ratchet stop automatically**
+
+**#2 — AVGO (TRADE-conditional, post-CPI Sep 11): AI infra**
+- Catalyst: AI semiconductor revenue +221% YoY ($16.7B Q3); FY2027 AI forecast $115B
+- Q4 guide slightly below consensus — near-term sensitivity remains; wait for CPI confirmation
+- Oracle earnings Sep 10 AMC is a pre-entry AI sentiment check — if ORCL cloud growth strong, adds conviction
+- Rate-sensitive: counts as 1/2; currently 1/2 (MPC); AVGO would bring to 2/2 → cap reached; no other rate-sensitive allowed after entry
+- Entry gate: CPI Sep 11 benign (no hot surprise); then ~$385–$395; 10% GTC stop; target 2:1 R:R
+- **Decision: TRADE-conditional — entry only after CPI Sep 11; confirm Oracle read-through Sep 10; skip if CPI hot**
+
+**#3 — Energy #2 (HOLD): Sector tailwind intact but rate-sensitive limit**
+- MPC = 1/2 rate-sensitive; adding any energy = 2/2 → limit; then AVGO impossible
+- Must choose: AVGO (AI thesis) OR energy #2 (momentum continuation) — both cannot coexist
+- Current bias: AVGO thesis stronger (AI secular + CPI gate) > energy #2 (momentum, less differentiated from MPC)
+- **Decision: HOLD — defer energy #2 until AVGO resolved; can reconsider week of Sep 22**
+
+**#4 — Rate-uncorrelated candidates (RESEARCH pending):**
+- LMT (Defense): 1 prior fail — sector gate OK, but not a compelling catalyst today
+- NOC: price gate still not met (~$524 vs $570 gate from prior research)
+- **Decision: HOLD — no catalyst today**
+
+### Risk Factors
+1. **CPI Sep 11 + PPI Sep 10** — double inflation data in 3 days; hot reading → rate spike, energy/MPC/AVGO all pressured
+2. **FOMC Sep 15–16** — Warsh hawkish tone; 10Y yield elevated; rate hike odds still non-zero
+3. **MPC stop buffer** — gap-up today will ratchet HWM, improving buffer; risk is WTI reversal if Hormuz tensions suddenly ease (no sign of this)
+4. **SPX September seasonality** — historically weakest month; slight premarket softness reflects caution
+5. **Deployment gap** — 19.7% deployed vs 75–85% target; structural underdeploy; patience warranted into event cluster
+
+### Decision: HOLD (TRADE-conditional post-CPI Sep 11)
+- **MPC:** HOLD — WTI surging is bullish; GTC stop auto-manages gap-up; no action required
+- **AVGO:** TRADE-conditional — entry gate: CPI Sep 11 benign + Oracle Sep 10 AI read-through positive
+- **New entries today:** NONE — no fresh catalyst, macro event cluster 2–3 days away, patience > activity
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Rate-sensitive count:** 1/2 (MPC)
+**Key watch:** WTI close today (MPC HWM update); Oracle earnings Sep 10 AMC (AVGO gate); PPI Sep 10 8:30 AM; CPI Sep 11 8:30 AM; FOMC Sep 15–16
+
