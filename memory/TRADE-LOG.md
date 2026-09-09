@@ -4970,3 +4970,34 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (Wed Sep 9):** Oracle ORCL earnings reaction (AI semis read-through for AVGO/NVDA); MPC stop $358.95 (9.57% buffer); +15% trigger $430.97 (8.6% away); PPI Aug Sep 10 8:30 AM ET
+
+---
+
+## 2026-09-09 — Midday Scan (Day 99, Week 21 Day 3 — Wednesday)
+
+**Portfolio:** $108,865.08 | **Cash:** $87,332.58 (80.2%) | **Long MV:** $21,532.50 (19.8% deployed ⚠️) | **Day P&L:** +$52.92 (+0.05%) | **Phase P&L:** +$8,865.08 (+8.87%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $398.75 | +$1,295.46 | +6.40% | +$52.92 (+0.25%) | $361.66 (10% trail, 34d50500) | $401.85 | 9.30% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $398.75 — 14.4% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +6.40% | $430.97 (8.1% away) | $449.71 (12.8% away) | None |
+
+- GTC trailing stop HWM $401.85; stop $361.66 (10% trail, 9.30% buffer from $398.75). No manual intervention required.
+
+**STEP 5 — Thesis check:**
+- **MPC:** +6.40% unrealized, +0.25% intraday. Perplexity research: MPC near 52-week high, above 200-day MA. WTI elevated ($93–95), refining margins intact. Minor insider sale (1,000 shares Shawn Lyon) — immaterial. No refining outages, no margin compression signal. 10-Year Treasury Auction 1:00 PM ET — watching for yield spike (rate-sensitive rule cap). **INTACT — HOLD.**
+
+**STEP 6 — Intraday research:**
+- Perplexity query run. MPC +0.25% — no sharp unexplained move. WTI supportive. No afternoon addendum warranted.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (close/tomorrow):** Oracle ORCL earnings AMC tonight (AVGO gate check); PPI Aug Sep 10 8:30 AM ET; 10Y auction 1:00 PM ET today; MPC stop $361.66 (9.30% buffer); +15% trigger $430.97 (8.1% away); FOMC Sep 15–16
