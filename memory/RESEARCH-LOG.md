@@ -6630,3 +6630,82 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Rate-sensitive count:** 1/2 (MPC)
 **Key watch:** WTI close today (MPC HWM update); Oracle earnings Sep 10 AMC (AVGO gate); PPI Sep 10 8:30 AM; CPI Sep 11 8:30 AM; FOMC Sep 15–16
 
+
+---
+
+## 2026-09-09 — Pre-Market Research (Day 99, Week 21 Day 3 — Wednesday)
+
+### Account Snapshot
+- **Equity:** $109,062.34 | **Cash:** $87,332.58 (80.1%) | **Deployed:** $21,729.76 (19.9% ⚠️ — far below 75–85% target)
+- **Open positions:** 1/6 (MPC) | **Trades this week:** 0/3 | **Daytrade count:** 0
+- **Rate-sensitive count:** 1/2 (MPC)
+- **MPC:** 54 shares @ entry $374.76 | Premarket ~$400–$402.40 | Unrealized P&L +$1,492.72 (+7.38%) | GTC stop: HWM $399.62, stop $359.658 (10.4% buffer from $402.40)
+
+### Market Context
+- **WTI:** ~$94.33–$95.06 (+2.0–2.1% today; well above $84 thesis gate — Hormuz disruption intensifying; Brent ~$99.49–$100.38)
+- **SPX futures:** ~7,650–7,690 (down -0.2 to -0.4% premarket; mild risk-off — inflation/oil overhang + September seasonality)
+- **VIX:** ~15.5–15.7 (mild uptick from ~15.3 yesterday; still benign; watching 18+ level)
+- **Economic releases today:**
+  - Apple iPhone event (10:00 AM PT) — hardware/AI narrative for AAPL; not directly relevant
+  - 10-Year Treasury Note Auction (1:00 PM ET) — yield spike risk; watches rate-sensitive names
+  - Light US data — no macro prints today
+- **Key upcoming:**
+  - Oracle (ORCL) earnings Sep 10 AMC (Q1 FY2027; EPS est $1.74, rev est $19.13B) — AVGO gate check
+  - PPI Aug — Sep 10 8:30 AM ET (inflation gate #1)
+  - CPI Aug — Sep 11 8:30 AM ET (inflation gate #2, final gate for AVGO entry)
+  - FOMC Sep 16 — ~50/50 rate hike odds (Morgan Stanley; Warsh hawkish at Jackson Hole)
+
+### Sector Momentum
+- **Energy:** +46.9% YTD (XLE), #1 sector all of 2026. Held #1 for 121+ of 136 trading days. No rotation signal.
+- **Technology/AI:** +30–33% YTD (#2) — cautiously constructive, rate caps upside
+- **Communication Services:** -4.7% YTD (#worst) — lagging
+
+### MPC Analysis
+- **Premarket price:** ~$400.04–$402.40 (+1.1–1.2% from $397.77 close)
+- **WTI:** $94–95 range — Hormuz disruption ongoing; crack spreads at record highs; refining margins remain elevated
+- **New catalysts:**
+  - Wells Fargo raised PT (Sep 7 article; "implies 4%+ upside from current levels" ~$400 → ~$416)
+  - EPA granted 1.76B renewable fuel-credit exemptions for small refineries (2025 compliance); Mandan refinery won partial exemption → reduced RIN compliance costs
+  - California State Teachers Retirement System bought MPC shares Sep 8 → institutional accumulation signal
+  - Zacks Rank #1 (Strong Buy); Bull of the Day Sep 8; 341% EPS growth YoY expected
+- **GTC stop update:** HWM $399.62, stop $359.658 (10% trail; 10.4% buffer from $402.40 premarket)
+- **Tightening gates:** +15% trigger $430.97 (7.1% away from $402.40); +20% trigger $449.71 (11.8% away)
+- **-7% manual cut level:** $348.53 — current $402.40 is 15.7% above cut; protected
+- **No new negative catalysts identified**
+- **INTACT — HOLD; GTC auto-manages; watch HWM ratchet if new intraday high set**
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): Existing position, thesis accelerating**
+- Catalyst: WTI $94–95 (+2%); Hormuz ongoing; Wells Fargo PT raise; EPA exemption; institutional buying; Zacks #1
+- Stop: $359.658 GTC (10% trail, HWM $399.62; auto-updates on new HWM)
+- Target: $430.97 (+15% trigger), $449.71 (+20% trigger), Wells Fargo PT ~$416, Piper Sandler PT $462
+- **Decision: HOLD — let GTC run; no action required**
+
+**#2 — AVGO (TRADE-conditional, post-CPI Sep 11): AI infra**
+- Catalyst: AI semiconductor revenue +221% YoY; FY2027 AI forecast $115B
+- Gate sequence: Oracle ORCL earnings Sep 10 AMC (AI read-through) → PPI Sep 10 (inflation check) → CPI Sep 11 (final gate)
+- Rate-sensitive: would bring rate-sensitive to 2/2 — caps further rate-sensitive entries
+- Entry zone if all gates pass: ~$385–$395; 7% GTC stop (post-earnings proximity rule); target 2:1 R:R
+- **Decision: TRADE-conditional — no entry today; waiting on Oracle + CPI**
+
+**#3 — New energy name (HOLD): Rate-sensitive limit**
+- Adding any energy name = rate-sensitive 2/2 → blocks AVGO entry
+- Bias: AVGO AI thesis > incremental energy exposure
+- **Decision: HOLD — defer until AVGO resolved**
+
+### Risk Factors
+1. **FOMC Sep 16** — ~50/50 rate hike odds; Warsh hawkish; 10Y Treasury auction today adds intraday yield risk
+2. **CPI Sep 11 hot surprise** — would invalidate AVGO gate and pressure rate-sensitive names including MPC
+3. **WTI reversal risk** — Hormuz resolution or surprise supply release could sharply reverse oil/MPC
+4. **September seasonality** — historically weakest month; mild risk-off premarket reflects this
+5. **Deployment gap** — 19.9% deployed vs 75–85% target; structural underdeploy; patience warranted into event cluster
+
+### Decision: HOLD (TRADE-conditional post-CPI Sep 11)
+- **MPC:** HOLD — thesis accelerating; GTC stop auto-manages; no action required
+- **AVGO:** TRADE-conditional — next gate: Oracle Sep 10 AMC, then CPI Sep 11
+- **New entries today:** NONE — macro event cluster (Oracle/PPI/CPI/FOMC) warrants patience
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Rate-sensitive count:** 1/2 (MPC)
+**Key watch:** WTI close (HWM ratchet); 10Y auction yield (1 PM ET); Oracle earnings Sep 10 AMC; PPI Sep 10; CPI Sep 11; FOMC Sep 16
