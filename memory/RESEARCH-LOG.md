@@ -6709,3 +6709,74 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Rate-sensitive count:** 1/2 (MPC)
 **Key watch:** WTI close (HWM ratchet); 10Y auction yield (1 PM ET); Oracle earnings Sep 10 AMC; PPI Sep 10; CPI Sep 11; FOMC Sep 16
+
+---
+
+## 2026-09-10 — Pre-Market Research (Day 100, Week 21 Day 4 — Thursday)
+
+### Account Snapshot
+- **Equity:** $109,191.78 | **Cash:** $87,332.58 (79.97%) | **Deployed:** $21,859.20 (20.0% ⚠️ — far below 75–85% target)
+- **Open positions:** 1/6 (MPC) | **Trades this week:** 0/3 | **Daytrade count:** 0
+- **Rate-sensitive count:** 1/2 (MPC)
+- **MPC:** 54 shares @ entry $374.76 | Premarket $404.80 (+1.34% intraday) | Unrealized P&L +$1,622.16 (+8.02%) | GTC stop: 10% trail, HWM $401.845 → auto-ratcheting above HWM today, stop ~$364.32 (10% below new HWM)
+
+### Market Context
+- **WTI:** $95.74–$97.84/bbl (range; Middle East escalation ongoing — Brent ~$100.88–$102.30; well above $84 thesis gate; oil driving pre-market caution)
+- **SPX futures:** ~7,646–7,651, -0.40 to -0.45% premarket (mild risk-off; oil/inflation fears + September seasonality)
+- **VIX:** ~16.5 (up from ~15.5 yesterday; still benign; watching 18+ level)
+- **Economic releases today:**
+  - **PPI Aug 2026 — 8:30 AM ET** (key: consensus 5.1–5.3% YoY, prior 4.7%; actual not available at research time — HOT print could invalidate AVGO gate and pressure rate-sensitive names)
+  - **Oracle (ORCL) earnings AMC** — Q1 FY2027 (AI/cloud read-through for AVBO gate; implied ~11.2% move; consensus rev ~$19.13B, EPS ~$1.74)
+- **Key tomorrow:** CPI Aug — Sep 11 8:30 AM ET (final gate for AVBO entry)
+- **Key next week:** FOMC Sep 15-16 (~50/50 rate hike odds; Warsh hawkish)
+
+### MPC Analysis (existing position)
+- **Current price:** $404.80 (+1.34% intraday from $399.44 yesterday's close)
+- **New catalysts today:**
+  - **UBS raised PT to $450 (from $321)** — significant upgrade; joins Piper Sandler $462 + Wells Fargo ~$400–416 for a strong analyst consensus above current price
+  - **$1.00/share dividend payable today** (record date Aug 19; 54 shares = $54 dividend income)
+  - WTI $95.74–$97.84 — Hormuz disruption/Middle East escalation at multi-week high oil levels; refining margins elevated; MPC structural beneficiary
+- **Stop update (auto-ratcheting):** HWM was $401.845; current $404.80 is above HWM → stop auto-advances to ~$364.32 (10% trail below new HWM); no manual intervention required
+- **Tightening gates:** +15% trigger $430.97 (6.5% away from $404.80); +20% trigger $449.71 (11.1% away)
+- **No new negative catalysts** — no refining outages, no WTI reversal signal, no management change
+- **INTACT — HOLD; GTC auto-manages; UBS PT $450 adds to bullish consensus**
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): Position accelerating, new bullish catalysts**
+- Catalyst: WTI $95.74–$97.84 (Hormuz, Middle East); UBS PT $450; $1.00 dividend today; stock above prior HWM $401.85
+- Stop: 10% trail GTC, auto-ratcheting (10% below intraday HWM)
+- Target: $430.97 (+15% trigger), $449.71 (+20% trigger), Piper PT $462, UBS PT $450
+- **Decision: HOLD — GTC auto-manages; no action required**
+
+**#2 — AVGO (TRADE-conditional, post-CPI Sep 11): AI infra**
+- Catalyst: AI semiconductor revenue +221% YoY; FY2027 AI forecast $115B
+- Gate sequence remaining: PPI today actual (must not be hot) → Oracle AMC tonight (AI cloud read-through positive) → CPI Sep 11 8:30 AM (final gate)
+- PPI actual: Unknown at research time — hot print (>5.5% YoY) would cancel gate; wait for actual data
+- Oracle AMC: If strong cloud beat (rev >$19.5B), adds conviction; if miss, reconsider
+- Rate-sensitive: AVGO brings rate-sensitive count to 2/2 → caps further rate-sensitive entries after
+- Entry zone (if all gates pass): ~$385–$400; 7% GTC stop (post-earnings proximity rule applies if within 3 days of AVBO earnings); target 2:1 R:R
+- **Decision: TRADE-conditional — no entry today; need PPI clear + Oracle beat tonight + CPI clear tomorrow**
+
+**#3 — Defense uncorrelated (HOLD): LMT/NOC still below gates**
+- LMT: 1 prior fail in sector, no urgent catalyst today; no price gate issue
+- NOC: Price gate still ~$524 vs $570 threshold; no compelling catalyst
+- **Decision: HOLD — defer until AVBO resolved and deployment gap addressed**
+
+### Risk Factors
+1. **PPI Aug hot surprise** — consensus 5.1–5.3% YoY; a reading >5.5% would invalidate AVBO gate, pressure rate-sensitive names including MPC
+2. **FOMC Sep 15-16** — ~50/50 rate hike odds; Warsh hawkish; 10Y Treasury yield elevated
+3. **WTI reversal** — Hormuz/Middle East resolution could sharply reverse oil and MPC thesis; no sign today
+4. **Oracle AMC miss** — if Oracle cloud disappoints, reduces conviction for AVBO AI entry
+5. **September seasonality** — historically weakest month; SPX futures modestly red; patience warranted
+6. **Deployment gap** — 20.0% deployed vs 75–85% target; structural underdeploy; event cluster prevents new entries this week
+
+### Decision: HOLD (TRADE-conditional post-CPI Sep 11)
+- **MPC:** HOLD — thesis accelerating with oil surge + UBS PT $450 + dividend; GTC auto-manages stop; Day 100 milestone
+- **AVBO:** TRADE-conditional — watching PPI print (released 8:30 AM today), Oracle AMC tonight, CPI tomorrow
+- **New entries today:** NONE — macro event cluster (PPI today, Oracle AMC tonight, CPI tomorrow, FOMC next week)
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Rate-sensitive count:** 1/2 (MPC)
+**Key watch:** PPI actual (8:30 AM today — hot = AVBO gate invalid); Oracle AMC (tonight — AI beat = conviction); CPI Sep 11; FOMC Sep 15-16; MPC stop auto-ratcheting above HWM $401.85
+
