@@ -5051,3 +5051,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (close/tomorrow):** Oracle ORCL earnings AMC tonight (AVGO gate — need cloud beat); CPI Aug Sep 11 8:30 AM ET (final AVGO gate); MPC stop $364.617 (9.12% buffer); +15% trigger $430.97 (7.6% away); FOMC Sep 15–16
+
+---
+
+## 2026-09-10 — EOD Snapshot (Day 100, Week 21 Day 4 — Thursday)
+**Portfolio:** $108,881.82 | **Cash:** $87,332.58 (80.2%) | **Day P&L:** -$20.52 (-0.02%) | **Phase P&L:** +$8,881.82 (+8.88%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $399.06 | -0.10% | +$1,312.20 (+6.48%) | $364.617 (10% trail, HWM $405.13, 8.63% buf) |
+
+**Notes:** Day 100 milestone. MPC gave back -0.10% on the day, closing at $399.06. PPI Aug came in benign (core +0.2% MoM, cooler than expected) — no macro headwinds. Trailing stop auto-ratcheted to HWM $405.13, stop $364.617 (8.63% buffer from close). Oracle earnings AMC tonight — AVGO gate check pending. No trades placed this week (0/3). Deployment 19.8% — well below 75–85% target. CPI Aug due Friday 8:30 AM ET (critical FOMC input, AVGO gate). +15% trigger at $430.97 (7.97% away). No stop-tightening levels hit.
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (Fri Sep 11):** CPI Aug 8:30 AM ET (must cool for risk-on); ORCL earnings reaction (AVGO cloud beat gate); MPC stop $364.617 (8.63% buffer); +15% trigger $430.97 (7.97% away); FOMC Sep 15–16
