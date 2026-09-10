@@ -5015,3 +5015,39 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (Thu Sep 10):** PPI Aug 8:30 AM ET (beat = risk-on tailwind); ORCL reaction (AVGO gate check); MPC stop $361.66 (9.78% buffer); +15% trigger $430.97 (7.5% away); FOMC Sep 15–16
+
+---
+
+## 2026-09-10 — Midday Scan (Day 100, Week 21 Day 4 — Thursday)
+
+**Portfolio:** $108,893.70 | **Cash:** $87,332.58 (80.2%) | **Long MV:** $21,561.12 (19.8% deployed ⚠️) | **Day P&L:** +$65.34 (+0.06%) | **Phase P&L:** +$8,893.70 (+8.89%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $400.65 | +$1,398.06 | +6.91% | +$65.34 (+0.30%) | $364.617 (10% trail, 34d50500) | $405.13 | 9.12% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $400.65 — 14.9% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +6.91% | $430.97 (7.6% away) | $449.71 (12.2% away) | None |
+
+- GTC trailing stop HWM $405.13 (auto-ratcheted from premarket run to $406.00 intraday); stop $364.617 (10% trail, 9.12% buffer from $400.65). No manual intervention required.
+
+**STEP 5 — Thesis check:**
+- **MPC:** +6.91% unrealized, +0.30% intraday at $400.65. Day 100 milestone.
+- **PPI Aug 2026 (8:30 AM ET):** MoM +0.4% (in-line with consensus) ✅ | Core MoM +0.2% (cooler than +0.3% est.) ✅ | YoY +5.4% (slightly above 5.1–5.3% consensus — driven by energy; actually BULLISH for MPC refining margins). No PPI shock — AVGO gate not invalidated.
+- **PSX-MPC merger talk (Semafor):** Stale news from Aug 14 — fizzled, antitrust killed it, unlikely revived. Not a new catalyst today. Minimal impact on MPC thesis (MPC -0.27% day it was published).
+- **$1.00 dividend payable today:** Shareholders of record Aug 19 — 54 shares = $54 dividend income (paper account may not credit; cash unchanged at $87,332.58).
+- **UBS PT $450 intact.** No refining outages. No WTI reversal. No analyst downgrades.
+- **AVGO gate:** Oracle earnings AMC tonight (Sep 10) — final check before CPI tomorrow (Sep 11). ORCL down -1.56% premarket today — cautious tone; no result yet.
+- **INTACT — HOLD. GTC auto-manages.**
+
+**STEP 6 — Intraday research:** Perplexity queries run on PPI actuals, MPC news, ORCL gate, and PSX merger report. PPI benign/in-line. MPC no new negative catalysts. Merger talk stale (Aug 14). ORCL reports AMC today — watching for AVGO gate trigger. No sharp unexplained moves in MPC. No addendum required.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (close/tomorrow):** Oracle ORCL earnings AMC tonight (AVGO gate — need cloud beat); CPI Aug Sep 11 8:30 AM ET (final AVGO gate); MPC stop $364.617 (9.12% buffer); +15% trigger $430.97 (7.6% away); FOMC Sep 15–16
