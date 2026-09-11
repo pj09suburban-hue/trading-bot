@@ -6780,3 +6780,75 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Rate-sensitive count:** 1/2 (MPC)
 **Key watch:** PPI actual (8:30 AM today — hot = AVBO gate invalid); Oracle AMC (tonight — AI beat = conviction); CPI Sep 11; FOMC Sep 15-16; MPC stop auto-ratcheting above HWM $401.85
 
+
+---
+
+## 2026-09-11 — Pre-Market Research (Day 101, Week 21 Day 5 — Friday — CPI Day)
+
+### Account Snapshot
+- **Equity:** $108,337.50 | **Cash:** $87,332.58 (80.7%) | **Deployed:** $21,004.92 (19.4% ⚠️)
+- **Open positions:** 1/6 (MPC) | **Trades this week:** 0/3 | **Daytrade count:** 0
+- **Rate-sensitive count:** 1/2 (MPC)
+- **MPC:** 54 shares @ entry $374.76 | Premarket $388.98 | Unrealized +$767.88 (+3.79%) | GTC stop: HWM $405.13, stop $364.617 (6.26% buffer from $388.98)
+
+### Market Context
+- **WTI:** ~$99–$103/bbl (settled $102.48 Sep 10 on US-Iran war escalation, +6.7% single session; Brent ~$107; well above $84 thesis gate — strongly bullish for MPC refining margins)
+- **SPX futures:** ~7,595–7,642 (mixed signals; SPX down 4 consecutive sessions on oil/inflation/rate-hike fears; CPI 8:30 AM ET is the decisive catalyst today)
+- **VIX:** 17.84 at Sep 10 close (up 8.38% on the day; elevated from 15.72 prior; tracking toward 18+ watch level)
+- **Economic releases today:**
+  - **CPI Aug 2026 — 8:30 AM ET** ← CRITICAL. FactSet consensus: 3.3% YoY (prior July: 3.4%; a benign print unlocks AVGO entry). Hot print >3.5% = AVGO gate invalid + broad risk-off.
+  - UK GDP July 2:00 AM ET (minor)
+- **Key next week:** FOMC Sep 15–16 (~50/50 rate hike odds; Warsh hawkish)
+- **Sector momentum YTD:** Energy #1 +47.3% (XLE) | Technology #2 +29% | Both strong — supports MPC (Energy) and AVGO (Semis/Technology)
+
+### MPC Analysis (existing position)
+- **Current premarket:** $388.98 (down from $392.42 close yesterday, -0.88% premarket)
+- **Pullback from HWM:** $388.98 vs HWM $405.13 = 3.97% below HWM; stop $364.617 remains 6.26% below current
+- **Hard cut level:** $348.53 (-7% from $374.76 entry); current 12.0% above — no risk
+- **Catalysts — bullish intact:** WTI $100-103 (Hormuz/Iran war ongoing); UBS PT $450; Piper PT $462; strong Q2 ($17.73 EPS, 94% system utilization)
+- **New — mild negative:** Bank of America Securities issued HOLD on MPC (9/11/26) — first BofA coverage flag this cycle. Not a downgrade with a prior Buy; signals caution at current levels near 52-week high. Does not break thesis but adds a contrarian view near HWM.
+- **Wells Fargo target $400 — current price $389 is approaching their target.** Near-term upside limited per WF. UBS and Piper carry the bullish case.
+- **GTC trailing stop auto-manages.** No manual action required.
+- **INTACT — HOLD**
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): Thesis intact, pulling back from HWM**
+- Catalyst: WTI $100-103; UBS $450, Piper $462; Q2 beat
+- Stop: HWM $405.13, trail $364.617 (6.26% buffer) — GTC auto-manages
+- Target: $430.97 (+15%), $449.71 (+20%), $450 UBS PT, $462 Piper PT
+- Risk: BofA Hold; WF near target; 4-day SPX selloff; CPI hot could pressure
+- **Decision: HOLD — GTC runs; no action**
+
+**#2 — AVGO (TRADE-conditional, final gate: CPI 8:30 AM): AI infra**
+- Catalyst: Oracle Q1 FY27 MASSIVE beat (EPS $1.92 vs $1.74, Rev $19.35B vs $19.14B, cloud infra +121% to $7.4B; $90B FY guidance; ORCL +6-7% premarket) → AI infra read-through strongly positive; AVGO AI revenue +221% YoY, FY2027 AI forecast $115B
+- Oracle gate: ✅ CLEARED (definitive beat-and-raise; $664B backlog)
+- CPI gate: ⏳ PENDING (8:30 AM ET today; need ≤3.3% YoY for green light)
+- Rate-sensitive: AVGO (AI infra/data center capex) → brings rate-sensitive count to 2/2, capping further rate-sensitive entries
+- Position sizing: ~55–60 shares at ~$361–363 ≈ $19,900–21,800 (≤20% equity at $108,337 = $21,667 max)
+- Stop: 10% trailing GTC (AVGO last earnings ~June 2026; >3 months ago — regular 10% stop, NOT 7% post-earnings proximity rule)
+- Target: 2:1 R:R minimum; entry ~$362 → 10% stop ~$326, target ~$434+ (20% upside)
+- **Decision: TRADE-conditional — CPI ≤3.3% YoY → market-open routine executes; CPI hot (>3.5%) → skip, log reason**
+
+**#3 — New energy/defense (HOLD): Rate cap + FOMC risk**
+- Adding any energy name = rate-sensitive 2/2 → blocks after AVGO
+- Defense (LMT, NOC) below prior entry gates; no new catalysts
+- **Decision: HOLD — defer**
+
+### Risk Factors
+1. **CPI hot surprise (>3.5%)** — invalidates AVGO gate; broad risk-off; MPC under pressure (rate hike = crude demand concerns)
+2. **FOMC Sep 15–16** — ~50/50 rate hike odds; if AVGO entered today, holding 2 rate-sensitive names into FOMC
+3. **MPC pullback risk** — 4 straight red SPX days; BofA Hold; WF near target; HWM $405.13 not retested; if oil pulls back on Hormuz diplomacy, MPC stop buffer narrows
+4. **WTI reversal** — any US-Iran ceasefire or Hormuz opening could sharply reverse WTI; no signal yet
+5. **September seasonality** — historically weakest month; VIX elevated; rate hike bets rising
+6. **Deployment gap** — 19.4% deployed vs 75–85% target; AVGO would bring to ~39%; still underyielded; FOMC next week prevents further adds
+
+### Decision: TRADE-conditional (AVGO post-CPI 8:30 AM)
+- **MPC:** HOLD — WTI $100+ confirms thesis; GTC auto-manages; BofA Hold note noted but not thesis-breaking; no action
+- **AVGO:** TRADE-conditional — Oracle gate CLEARED (massive beat, cloud infra +121%); final gate = CPI 8:30 AM ET today. Market-open routine executes if CPI ≤3.3% YoY.
+- **New entries today:** None beyond AVGO conditional — FOMC next week, rate-sensitive at cap after AVGO
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Rate-sensitive count:** 1/2 (MPC) → 2/2 if AVGO entered
+**Key watch:** CPI Aug 8:30 AM ET (THE gate); FOMC Sep 15–16; MPC stop $364.617 (6.26% buffer); AVGO entry ~$361–363; BofA MPC Hold note
+
