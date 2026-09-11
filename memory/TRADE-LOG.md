@@ -5122,3 +5122,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (next week):** FOMC Sep 15–16 (rate decision; ~50/50 hike odds); MPC stop $364.617 (9.12% buffer); +15% trigger $430.97; AVGO re-evaluate post-FOMC if rate risk clears; CPI cooling trend (3.4% vs 3.3% gate — narrow miss)
+
+---
+
+## 2026-09-11 — EOD Snapshot (Day 101, Week 21 Day 5 — Friday)
+**Portfolio:** $108,641.52 | **Cash:** $87,332.58 (80.4%) | **Day P&L:** +$118.26 (+0.11%) | **Phase P&L:** +$8,641.52 (+8.64%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $394.61 | +0.56% | +$1,071.90 (+5.30%) | $368.199 (10% trail, HWM $409.11, 9.12% buf) |
+
+**Notes:** CPI day — Aug 2026 YoY came in at 3.4% (above 3.3% gate), blocking AVGO entry as planned. MPC gained +0.56% on the day despite the CPI miss, closing at $394.61. Sector momentum (WTI $100+, refiner tailwinds) continues to support the position. MPC pulled back from intraday high of ~$409 to $394.61; trailing stop HWM locked at $409.11, stop at $368.199 (9.12% buffer). No trades placed this week (0/3). Portfolio 19.6% deployed — below 75–85% target; AVGO entry deferred to post-FOMC (Sep 15–16). Week 21 ends with +8.64% phase cumulative.
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (next week):** FOMC Sep 15–16 (rate decision; ~50/50 hike odds); MPC stop $368.199; +15% trigger $430.97 (9.2% away); AVGO re-evaluate post-FOMC if rate environment clears; CPI trend (3.4% — still running hot, watch for FOMC reaction)
