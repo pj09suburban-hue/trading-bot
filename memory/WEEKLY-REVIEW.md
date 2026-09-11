@@ -1306,3 +1306,68 @@ Template for each entry:
 *Week 20 — portfolio +0.23% vs S&P +0.19% (+0.04% outperformance). GD GTC stop fired Aug 31 and was honored mechanically; MPC entered same session on WTI/Hormuz thesis at +3.77% by week end. Phase alpha improved marginally from +0.28% to +0.50% vs benchmark. Grade C reflects technically correct execution (GTC honored, MPC enters on strong thesis, no rule violations, PPI/FOMC discipline) offset by the continuing structural failure: 19.4% deployment at week end, no 2nd position entered despite 2 buy slots and 5 open position slots, and all-time profit factor compressed to 1.60 from chronic small losses. The FOMC-window (Sep 7–11) is a hard deployment deadline — another passive week at 19% deployed is not acceptable at any execution quality.*
 
 ---
+
+## Week ending 2026-09-11
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $108,333.18 |
+| Ending portfolio | $108,712.80 |
+| Week return | +$379.62 (+0.35%) |
+| S&P 500 week | -0.81% (7,726.14 → 7,663.50) |
+| Bot vs S&P | +1.16% |
+| Phase return | +$8,712.80 (+8.71% from $100k baseline) |
+| Phase bot vs S&P | +1.75% (bot +8.71% vs S&P +6.96% from Apr 24 start 7,165.08) |
+| Trades | 0 new / 0 closed (W:0 / L:0 / open:1) |
+| Win rate | N/A — no closed trades this week (27.8% all-time, 5/18 closed) |
+| Best trade | MPC +5.65% unrealized (only position) |
+| Worst trade | MPC +5.65% unrealized (only position) |
+| Profit factor | 1.60 all-time (unchanged; $20,188 winners / $12,583 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| MPC | $374.76 | $395.93 | +$1,143.18 (+5.65%) | $368.199 (10% trail, HWM $409.11, 8.63% buf) — Piper PT $462, BofA PT $438 |
+
+### What Worked
+- MPC WTI/Hormuz thesis intact all week: refiner sector rally sustained on WTI $100+ (Diplomacy stalled); cumulative +5.65% from Aug 31 entry; HWM locked at $409.11
+- CPI gate enforced cleanly: Aug 2026 CPI 3.4% YoY exceeded 3.3% gate → AVGO entry skipped without discretion; binary rule worked as designed
+- PPI Aug benign (core +0.2% MoM, below +0.3% est) — no macro shock; MPC thesis reinforced
+- GTC trailing stop self-managed correctly all week; HWM auto-ratcheted to $409.11 intraday Sep 11 (refiner sector rally); 8.63% buffer entering FOMC week
+- Outperformed S&P by +1.16% in a down week (+0.35% vs -0.81%) without any active trading decisions
+
+### What Didn't Work
+- 0/3 trade slots used — deployment stuck at ~19.6% for 11th+ consecutive week below 75–85% target; the stated "FOMC-window hard deadline" from Week 20 was not achieved
+- AVGO blocked by 1bp CPI miss (3.4% vs 3.3% gate); no backup entry candidate identified or deployed; pre-market research failure pattern continues
+- Phase alpha near-critical: +1.75% vs S&P after 21 weeks of active management; only 175bp of alpha after 5 months
+- FOMC Sep 15–16 now the immediate binary event; ~50/50 hike odds means even 2 weeks of post-FOMC deployment window cannot be guaranteed
+- Profit factor 1.60 unchanged for 3 consecutive weeks; no new realized wins replacing the phase losses
+
+### Key Lessons
+- CPI gate works correctly even at margin: 3.4% vs 3.3% is a 1bp miss but the rule is binary — enforcing it prevents entering a position into a hotter-than-expected inflation print the day before FOMC (Sep 15–16); the gate is correctly calibrated
+- MPC energy thesis is proving durable in a rate-volatile macro (CPI hot, PPI benign) because WTI/Hormuz is a supply-side driver, not rate-sensitive; energy with a specific supply catalyst can resist rate-compression that hit VRT/NUE/VST in Week 18
+- Deployment at 19% entering a FOMC week is not by choice but by gate-compliance: AVGO was a 3.3% gate entry waiting on macro clearance; the correct response post-FOMC is immediate deployment on Sep 17 if rate decision is neutral or dovish — no additional "waiting for perfect setups"
+- Week 21 outperformance (+1.16% vs S&P) is structurally hollow: a single position in a 4-day holiday-shortened week in a down market generates easy relative performance but no alpha compounding; true alpha requires deployment at 75–85% in strong market weeks
+- Phase alpha +1.75% after 21 weeks means the strategy is barely above the index on a risk-adjusted basis; the three outsized winners (MRVL $9,484, GE $5,333, RTX $4,088) mask 13 losing trades; without another outsized win, phase alpha turns negative on the next bad week
+
+### Adjustments for Next Week
+- **FOMC Sep 15–16:** Rate decision is the primary gate; pre-plan two scenarios: (a) Hold/dovish → green light Sep 17 AM for AVGO + 1 contracted-backlog defense name; (b) Hike/hawkish → defer all rate-sensitive entries, enter contracted-backlog name only; do NOT wait past Sep 18 EOD in either scenario
+- **AVGO (primary):** Post-FOMC entry plan — price confirmed vs CPI/FOMC outcome; verify ORCL cloud beat read-through (Sep 10 AMC); 7% initial stop per post-earnings Rule 12; buy-side gates including rate-factor Rule 13 (AVGO = rate-sensitive AI infra; max 2 rate-sensitive simultaneously)
+- **2nd name (contracted-backlog defense):** NOC, GD replacement, or RTX-type — non-rate-sensitive; brings deployment to ~57–60%; still below 75–85% but reduces the gap; do NOT accept 2 more weeks at sub-20%
+- **3rd name:** Target by Sep 18 EOD; requires documented catalyst, 2:1+ R:R, rate-factor check
+- **MPC:** Hold; stop $368.199 (8.63% buf from $395.93); +15% trigger $430.97 (9.2% away); energy sector 1 consecutive failure (VST) — if MPC stops out, 2-consecutive energy ban fires; monitor WTI daily; thesis: WTI $100+, refining margins intact, Piper $462 / BofA $438 PTs
+- **Rate-factor Rule 13:** MPC = rate-sensitive (energy); next entry must classify; if AVGO added (rate-sensitive AI infra), cap is reached at 2 — 3rd position must be rate-uncorrelated
+
+### Overall Grade: C+
+*Week 21 — 4-day holiday-shortened week. Portfolio +0.35% vs S&P -0.81% (+1.16% outperformance). MPC WTI/Hormuz thesis intact at +5.65% cumulative. CPI gate enforced mechanically (Aug 3.4% > 3.3% gate → AVGO skipped). PPI benign. No rule violations. Grade C+ reflects benchmark outperformance and disciplined gate enforcement, offset by a 4th consecutive week at ~19–20% deployment — the "hard deadline" from Week 20 was not met and phase alpha sits at +1.75% vs S&P after 21 weeks. FOMC Sep 15–16 is the immediate binary event; post-FOMC deployment of 2–3 names by Sep 18 is no longer optional.*
+
+---
