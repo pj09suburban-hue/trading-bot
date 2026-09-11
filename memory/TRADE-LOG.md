@@ -5068,6 +5068,40 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 ---
 
+## 2026-09-11 — Midday Scan (Day 101, Week 21 Day 5 — Friday)
+
+**Portfolio:** $109,197.72 | **Cash:** $87,332.58 (80.0%) | **Long MV:** $21,865.14 (20.0% deployed) | **Day P&L:** +$674.46 (+0.62%) | **Phase P&L:** +$9,197.72 (+9.20%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $404.91 | +$1,628.10 | +8.05% | +$674.46 (+3.18%) | $368.199 (10% trail, 34d50500) | $409.11 | 9.07% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $404.91 — 14.9% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +8.05% | $430.97 (6.4% away) | $449.71 (11.1% away) | None |
+
+- GTC trailing stop HWM auto-ratcheted to $409.11 (MPC touched $409.11 intraday); stop $368.199 (9.07% buffer from $404.91). No manual intervention required.
+
+**STEP 5 — Thesis check:**
+- **MPC:** +8.05% unrealized, +3.18% intraday. Strong session.
+- **Driver:** Broad refiner sector rally on WTI $100+ sustained (US-Iran/Hormuz); sector momentum intact. 10-day winning streak confirmed (Trefis, +13% cumulative to Sep 10 close).
+- **BofA target clarification:** Pre-market flagged BofA Hold as bearish. Midday research confirms BofA *raised* price target to $438 (above current $404.91) while reaffirming Hold — more bullish than initially read. $438 target adds upside validation. WF lowered to $390 (near-term caution; current price already above WF target).
+- **No refining outages. No WTI reversal. No margin compression.** UBS $450 and Piper $462 intact. BofA $438 (Hold) added.
+- **INTACT — HOLD. GTC auto-manages.**
+
+**STEP 6 — Intraday research:** Perplexity run. MPC +3.18% driven by refiner sector rally + WTI sustained strength + BofA target raise to $438 (Hold). No company-specific negative catalysts. No sharp unexplained divergence. BofA target upgrade note added as afternoon addendum in RESEARCH-LOG.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (close/next week):** FOMC Sep 15–16 (~50/50 hike odds; Warsh hawkish); MPC stop $368.199 (9.07% buffer); +15% trigger $430.97 (6.4% away); BofA target now $438; AVGO re-evaluate post-FOMC
+
+---
+
 ## 2026-09-11 — Market-Open (Day 101, Week 21 Day 5 — CPI Day)
 **Portfolio:** $108,392.58 | **Cash:** $87,332.58 (80.7%) | **Long MV:** $21,060.00 (19.4% deployed)
 

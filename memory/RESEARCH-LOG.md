@@ -6852,3 +6852,10 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Rate-sensitive count:** 1/2 (MPC) → 2/2 if AVGO entered
 **Key watch:** CPI Aug 8:30 AM ET (THE gate); FOMC Sep 15–16; MPC stop $364.617 (6.26% buffer); AVGO entry ~$361–363; BofA MPC Hold note
 
+
+### Afternoon Addendum — 2026-09-11 Midday Scan
+- **BofA target clarification:** Pre-market flagged BofA as issuing Hold on MPC as a bearish signal. Midday Perplexity confirms BofA *raised* price target to **$438** (from prior target) while reaffirming Hold. $438 > current $404.91 — upside of +8.2% to BofA target. More constructive than initially read; adds a third bullish PT alongside UBS $450 and Piper $462.
+- **WF clarification:** Wells Fargo *lowered* target to $390 (below current price). Current price $404.91 already above WF target — WF near-term caution confirmed; now a noted contrarian.
+- **MPC intraday driver:** Broad refiner sector rally (WTI $100+, Hormuz tension sustained); 10-day winning streak now extends to 11 days. HWM auto-ratcheted to $409.11 (intraday high). No company-specific negative catalysts.
+- **CPI outcome (confirmed):** Aug 2026 CPI 3.4% YoY — above 3.3% gate; AVGO entry skipped. MPC unaffected (energy-driven CPI = refiner tailwind; WTI $100+ intact).
+- **FOMC Sep 15–16 risk unchanged:** ~50/50 hike odds; rate-sensitive count 1/2; no new entries this week.
