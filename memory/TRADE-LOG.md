@@ -5065,3 +5065,26 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (Fri Sep 11):** CPI Aug 8:30 AM ET (must cool for risk-on); ORCL earnings reaction (AVGO cloud beat gate); MPC stop $364.617 (8.63% buffer); +15% trigger $430.97 (7.97% away); FOMC Sep 15–16
+
+---
+
+## 2026-09-11 — Market-Open (Day 101, Week 21 Day 5 — CPI Day)
+**Portfolio:** $108,392.58 | **Cash:** $87,332.58 (80.7%) | **Long MV:** $21,060.00 (19.4% deployed)
+
+**NO TRADES EXECUTED**
+
+| Gate | Result |
+|---|---|
+| CPI Aug 2026 YoY gate (≤3.3%) | ❌ FAILED — Actual 3.4% (above gate) |
+| AVGO entry | SKIPPED — CPI gate not cleared |
+| MPC | HOLD — GTC trailing stop auto-manages; thesis intact; WTI $100+ |
+
+**AVGO skip reason:** Pre-market plan required CPI ≤3.3% YoY for green light. Aug 2026 CPI came in at 3.4% YoY (above gate). Entry not executed per conditional rule.
+
+**Positions:**
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $390.00 | +$822.96 (+4.07%) | 10% trail, HWM $405.13, stop $364.617 | $405.13 | 9.12% |
+
+**Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (next week):** FOMC Sep 15–16 (rate decision; ~50/50 hike odds); MPC stop $364.617 (9.12% buffer); +15% trigger $430.97; AVGO re-evaluate post-FOMC if rate risk clears; CPI cooling trend (3.4% vs 3.3% gate — narrow miss)
