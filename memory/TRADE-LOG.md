@@ -5156,3 +5156,31 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (this week):** FOMC Sep 15–16 decision (no hike + dovish = green light for AVBO + deployment push); MPC stop $368.199; +15% trigger $430.97 (7.4% away); WTI sustainability above $100
+
+---
+
+## 2026-09-14 — Midday Scan (Day 102, Week 22 Day 1 — FOMC Week)
+**Portfolio:** $108,682.29 | **Cash:** $87,332.58 (80.3%) | **Long MV:** $21,349.71 (19.7% deployed)
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $395.37 — 13.5% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +5.50% | $430.97 (9.0% away) | $449.71 (13.7% away) | None |
+
+- GTC trailing stop HWM: $409.50 (auto-ratcheted by Alpaca), stop $368.55 (10% trail, 6.78% buffer from current $395.37). No manual tightening triggered.
+
+**STEP 5 — Thesis check:**
+- **MPC:** +5.50% unrealized, -0.14% intraday (trivial drift). Thesis INTACT.
+- **Driver:** WTI $100+ (Hormuz/Iran geopolitical premium sustained); energy sector #1 YTD (+47.7%). FOMC Day 1 starts tomorrow Sep 15 — no new rate surprise today. No intraday news reversing thesis.
+- **No refining outages. No WTI reversal. No margin compression signals.**
+- **INTACT — HOLD. GTC auto-manages.**
+
+**STEP 6 — Intraday research:** No sharp unexplained moves. MPC -0.14% intraday is within normal noise. No Perplexity query needed.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (rest of week):** FOMC Sep 15–16 decision (no hike + dovish = green light for AVGO + deployment push); MPC stop $368.55 (HWM $409.50, 6.78% buffer from current); +15% trigger $430.97 (9.0% away); WTI sustainability above $100
