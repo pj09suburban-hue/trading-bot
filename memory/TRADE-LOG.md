@@ -5136,3 +5136,23 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 21 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (next week):** FOMC Sep 15–16 (rate decision; ~50/50 hike odds); MPC stop $368.199; +15% trigger $430.97 (9.2% away); AVGO re-evaluate post-FOMC if rate environment clears; CPI trend (3.4% — still running hot, watch for FOMC reaction)
+
+---
+
+## 2026-09-14 — Market-Open (Day 102, Week 22 Day 1 — FOMC Week)
+**Portfolio:** $109,003.32 | **Cash:** $87,332.58 (80.1%) | **Long MV:** $21,670.74 (19.9% deployed)
+
+**NO TRADES EXECUTED**
+
+| Gate | Result |
+|---|---|
+| AVBO entry | SKIPPED — FOMC Sep 15–16 (50/50 hike odds); rate-sensitive count would hit 2/2 into binary event; defer to post-FOMC (Sep 17) |
+| MPC | HOLD — GTC trailing stop auto-manages; WTI ~$102–103 intact; no tightening triggers hit |
+
+**Positions:**
+| Ticker | Shares | Entry | Current | Unrealized | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $401.31 | +$1,433.70 (+7.09%) | 10% trail, stop $368.199 | $409.11 | 8.2% |
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (this week):** FOMC Sep 15–16 decision (no hike + dovish = green light for AVBO + deployment push); MPC stop $368.199; +15% trigger $430.97 (7.4% away); WTI sustainability above $100
