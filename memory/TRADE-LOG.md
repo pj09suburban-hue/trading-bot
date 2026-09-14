@@ -5184,3 +5184,19 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (rest of week):** FOMC Sep 15–16 decision (no hike + dovish = green light for AVGO + deployment push); MPC stop $368.55 (HWM $409.50, 6.78% buffer from current); +15% trigger $430.97 (9.0% away); WTI sustainability above $100
+
+---
+
+## 2026-09-14 — EOD Snapshot (Day 102, Week 22 Day 1 — Monday)
+**Portfolio:** $108,479.52 | **Cash:** $87,332.58 (80.5%) | **Day P&L:** -$233.28 (-0.21%) | **Phase P&L:** +$8,479.52 (+8.48%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $391.61 | -1.09% | +$909.90 (+4.50%) | $368.55 (10% trail, HWM $409.50, 5.9% buf) |
+
+**Notes:** FOMC Week Day 1. MPC gave back -1.09% on the day, closing $391.61 vs midday $395.37 — mild drift, no catalyst. Thesis INTACT: WTI holding $100+, energy sector momentum continues. GTC trailing stop HWM $409.50, stop $368.55 (5.9% buffer). +15% trigger ($430.97) remains 10.0% away. No trades executed today (AVGO deferred to post-FOMC). Portfolio 19.5% deployed — well below 75–85% target; awaiting FOMC Sep 15–16 outcome before committing capital.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (tomorrow):** FOMC Sep 15 (Day 1 of 2); if no hike + dovish tone → AVGO/deployment push green-light; MPC stop $368.55; WTI $100+ sustainability; +15% trigger $430.97 (10.0% away)
+
+---
