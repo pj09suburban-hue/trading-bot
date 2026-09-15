@@ -5200,3 +5200,30 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 **Key watch (tomorrow):** FOMC Sep 15 (Day 1 of 2); if no hike + dovish tone → AVGO/deployment push green-light; MPC stop $368.55; WTI $100+ sustainability; +15% trigger $430.97 (10.0% away)
 
 ---
+
+## 2026-09-15 — Midday Scan (Day 103, Week 22 Day 2 — FOMC Day 1)
+**Portfolio:** $109,367.28 | **Cash:** $87,332.58 (79.9%) | **Long MV:** $22,034.70 (20.1% deployed)
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $407.70 — 17.0% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +8.79% | $430.97 (5.7% away) | $449.71 (10.3% away) | None |
+
+- GTC trailing stop: HWM $409.50 (today's intraday high touched ATH $409.50), stop $368.55 (10% trail, 9.75% buffer from current $407.70). Alpaca auto-managing. No manual tightening triggered.
+
+**STEP 5 — Thesis check:**
+- **MPC:** +8.79% unrealized, +2.84% intraday (day range $388.77–$409.50 all-time high). Thesis INTACT.
+- **Driver:** WTI $102.29 (Hormuz/Iran premium intact); refining crack spreads elevated; tight global supply; 10+ day winning streak; sector #1 YTD (+46-47%). FOMC Day 1 — no decision until Sep 16 2PM ET; no macro surprise today.
+- **Perplexity check:** Move has clear cause (sector momentum, crack spreads, peer Valero tailwinds). No unexpected catalyst. No thesis break.
+- **Note:** MPC touched all-time high $409.50 today — same as HWM; slight intraday pullback to $407.70 is noise within normal range.
+- **INTACT — HOLD. GTC auto-manages.**
+
+**STEP 6 — Intraday research:** Perplexity queried on +2.84% move. Clear cause: sector momentum continuation, WTI $102+, elevated crack spreads. No unexpected catalyst. No new risk signals.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (tomorrow):** FOMC Sep 16 decision 2:00 PM ET (no hike + dovish = green light for AVGO + deployment push); MPC ATH $409.50 — watch for breakout confirmation vs. reversal; stop $368.55 (HWM $409.50, 9.75% buffer); +15% trigger $430.97 (5.7% away); WTI $102+ sustainability

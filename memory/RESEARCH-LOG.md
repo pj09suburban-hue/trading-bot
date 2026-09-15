@@ -7003,3 +7003,10 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrades:** 0
 **Key watch (tomorrow):** FOMC Sep 16 decision 2PM ET (no hike + dovish = green light for AVGO + deployment push); MPC stop $368.55 (HWM $409.50, 7.77% buffer); +15% trigger $430.97 (8.5% away); Morgan Stanley upgrade $453 adds conviction; bearish put flow — monitor gap behavior at open
 
+
+### Midday Addendum — 2026-09-15 (FOMC Day 1)
+- **MPC intraday +2.84%** — Perplexity confirmed: sector momentum, WTI $102.29, elevated crack spreads (peer Valero also strong). 10+ day winning streak. Touched ATH $409.50 intraday, slight pullback to $407.70.
+- **WTI $102.29** — Hormuz/Iran premium intact. Sector tailwinds continuing.
+- **FOMC Day 1:** No surprises. Market calm into binary event. No new macro risk identified.
+- **MPC all-time high:** $409.50 touched today (= trailing stop HWM). Alpaca auto-managing; HWM will ratchet if price breaks above $409.50.
+- **No position changes needed.** Thesis intact on all fronts.
