@@ -5227,3 +5227,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (tomorrow):** FOMC Sep 16 decision 2:00 PM ET (no hike + dovish = green light for AVGO + deployment push); MPC ATH $409.50 — watch for breakout confirmation vs. reversal; stop $368.55 (HWM $409.50, 9.75% buffer); +15% trigger $430.97 (5.7% away); WTI $102+ sustainability
+
+---
+
+## 2026-09-15 — EOD Snapshot (Day 103, Week 22 Day 2 — Tuesday, FOMC Day 1)
+**Portfolio:** $109,533.61 | **Cash:** $87,332.58 (79.7%) | **Day P&L:** +$792.73 (+0.73%) | **Phase P&L:** +$9,533.61 (+9.53%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $411.30 | +3.75% | +$1,973.16 (+9.75%) | $371.952 (10% trail, HWM $413.28, 9.6% buf) |
+
+**Notes:** FOMC Day 1 (decision tomorrow Sep 16 at 2 PM ET). MPC surged +3.75% today, setting a new all-time high of $413.28 — Alpaca GTC trailing stop auto-ratcheted HWM from $409.50 to $413.28, stop now $371.952 (9.6% buffer from $411.30). Thesis intact: WTI $102+, energy sector momentum sustained. +15% trigger at $430.97 is now 4.8% away (approaching). Phase equity +9.53% vs. starting $100k. Portfolio 20.3% deployed — holding cash while awaiting FOMC Sep 16 outcome before committing new capital. Zero trades this week; AVGO entry deferred to post-FOMC. No sell signals triggered.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (tomorrow):** FOMC Sep 16 decision 2:00 PM ET — no hike + dovish tone → green light for AVGO + deployment push; MPC stop $371.952 (HWM $413.28, 9.6% buffer); +15% trigger $430.97 (4.8% away); WTI $102+ sustainability
