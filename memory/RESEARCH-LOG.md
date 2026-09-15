@@ -6932,3 +6932,74 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrades:** 0
 **Key watch (this week):** FOMC Sep 15–16 decision (rate stay = green light for AVGO + deployment push); MPC stop $368.199 (8.6% buffer); +15% trigger $430.97; WTI sustainability above $100; VIX term structure
 
+
+## 2026-09-15 — Pre-Market Research (Day 103, Week 22 Day 2 — FOMC Day 1)
+
+### Account Snapshot
+- **Equity:** $108,786.24 | **Cash:** $87,332.58 (80.3%) | **Deployed:** $21,453.66 (19.7%)
+- **Phase P&L:** +$8,786.24 (+8.79%)
+- **Positions:** 1/6 (MPC) | **Trades this week:** 0/3 | **Daytrades:** 0
+- **Rate-sensitive:** 1/2 (MPC)
+
+### MPC Position Status
+| Ticker | Shares | Entry | Premarket | Unrealized | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | ~$397.29 | +$1,216.62 (+6.01%) | GTC 10% trail, stop $368.55 | $409.50 | 7.77% |
+- Hard cut at $348.53 (-7% from entry) — 12.4% below current. No risk.
+- **No stop-tightening triggers yet:** +15% = $430.97 (+8.5% away); +20% = $449.71 (+13.2% away)
+- **New analyst targets:** Raymond James $445 (raised from $350); Morgan Stanley $453 (raised from $265); UBS Buy ~$450
+- **Bear flag:** Heavy bearish put flow noted intraday Sep 15 — watch for hedging around FOMC volatility spike
+
+### Market Context
+- **WTI:** ~$103.0–103.6/bbl (+1.5–1.7% today); **Brent:** ~$106.6–107.2/bbl — Hormuz/Iran geopolitical premium intact; refiner tailwind continues
+- **S&P 500 futures:** Down ~0.3–0.5% (7,639–7,704 range); cautious tone ahead of FOMC
+- **VIX:** ~17.40 (elevated vs. ~15.84 Friday close); Oct VIX futures above 19 — market pricing uncertainty into Fed binary event
+- **Sector momentum YTD:** Energy #1 +46.4-47.4% (XLE), Tech #2 +27-28% (XLK), Financials #3 +4.7% (XLF)
+
+### Today's Macro/Events Calendar
+- **Sep 15 (today):** FOMC meeting begins (Day 1 of 2); Empire State Manufacturing Survey; No major earnings pre-market (FPS/BIOX/VRA/COE — small-cap only)
+- **Sep 16 (tomorrow):** FOMC decision 2:00 PM ET + dot plot + Powell presser; Advance Retail Sales
+- **Rate outlook:** Aug 2026 CPI 3.4% YoY (above 3.3% gate; still running hot); ~50/50 hike odds; Fed funds currently 3.50–3.75%
+
+### MPC Analysis (existing position)
+- **Thesis:** INTACT. WTI $103+ today (Hormuz/Iran sustained); energy sector #1 YTD (+46-47%).
+- **Analysts:** Morgan Stanley $453 (raised from $265 — significant upgrade), Raymond James $445 (raised from $350), UBS $450 (Buy), BofA $438 (Hold), WF ~$390 (lone bear)
+- **Risk today:** Heavy put flow noted — possibly institutional hedging around FOMC volatility spike, not fundamental deterioration
+- **Action:** HOLD — GTC stop auto-manages. No tightening triggers hit. Let thesis run into FOMC.
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): Thesis intact, strongest analyst upgrade cluster yet**
+- Catalyst: WTI $103+ sustained; Morgan Stanley raised to $453 (massive upgrade); Raymond James $445; energy sector #1 YTD
+- Stop: GTC $368.55 (HWM $409.50, 7.77% buffer) — auto-manages
+- Target: $430.97 (+15%), $449.71 (+20%), analyst cluster $445–$453
+- Risk: FOMC rate hike surprise → broad selloff; bearish put flow suggests hedge funds bracing; WTI reversal if Iran ceasefire
+- **Decision: HOLD — no action today**
+
+**#2 — AVGO (DEFER to post-FOMC): ~$344-346 premarket**
+- Catalyst: Post-earnings AI momentum (Q3 beat, +221% AI rev YoY); pullback from highs; entry window
+- Gate blocker: FOMC Day 1 today, decision tomorrow Sep 16 2PM ET — adding AVGO = 2/2 rate-sensitive into 50/50 hike; Rule 13 violated
+- Post-FOMC plan: If no hike + dovish tone on Sep 16 → AVGO entry at market-open Sep 17
+- **Decision: DEFER — Sep 17 market-open if FOMC benign**
+
+**#3 — Additional position (CONSIDER post-FOMC, week 22):**
+- Deployment at 19.7% vs 75-85% target — significant underdeploy; post-FOMC correction window critical
+- If FOMC holds rates: risk-on → AVGO + 1 non-rate-sensitive (consider defense, healthcare, consumer sector)
+- Rate-uncorrelated candidates to research post-FOMC: LMT (defense contracted backlog), COST (consumer staples)
+- **Decision: HOLD — no action until FOMC outcome clear**
+
+### Risk Factors
+1. **FOMC hike (Sep 16):** ~50/50 odds — rate hike = rate-sensitive pressure on MPC + AVGO; energy could also face demand fears; potential broad market selloff
+2. **Bearish put flow in MPC:** Heavy institutional puts flagged Sep 15; possible pre-FOMC hedging; thesis unchanged but monitor for gap-down if FOMC hawkish
+3. **VIX elevated ~17.4:** Rising into FOMC binary event; elevated term structure (Oct futures >19)
+4. **Deployment gap critical:** 19.7% deployed vs 75-85% target; post-FOMC window is the key deployment moment for weeks
+5. **September seasonality:** Historically weakest month; FOMC binary adds volatility risk
+
+### Decision: HOLD
+- **MPC:** HOLD — WTI $103+ intact; energy #1 YTD; major analyst upgrades (MS $453, RJ $445) add conviction; GTC auto-manages; bearish put flow is hedging noise, not thesis break
+- **AVGO:** DEFER — rate-sensitive, FOMC Day 1 today; decision Sep 16 2PM ET; enter Sep 17 if no hike + dovish
+- **New entries:** NONE today — FOMC binary risk active
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrades:** 0
+**Key watch (tomorrow):** FOMC Sep 16 decision 2PM ET (no hike + dovish = green light for AVGO + deployment push); MPC stop $368.55 (HWM $409.50, 7.77% buffer); +15% trigger $430.97 (8.5% away); Morgan Stanley upgrade $453 adds conviction; bearish put flow — monitor gap behavior at open
+
