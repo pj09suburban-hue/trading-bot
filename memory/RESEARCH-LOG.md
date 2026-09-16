@@ -7010,3 +7010,72 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **FOMC Day 1:** No surprises. Market calm into binary event. No new macro risk identified.
 - **MPC all-time high:** $409.50 touched today (= trailing stop HWM). Alpaca auto-managing; HWM will ratchet if price breaks above $409.50.
 - **No position changes needed.** Thesis intact on all fronts.
+
+---
+
+## 2026-09-16 — Pre-Market Research (Day 104, Week 22 Day 3 — FOMC Decision Day)
+
+### Account Snapshot
+- **Equity:** $109,352.16 | **Cash:** $87,332.58 (79.9%) | **Deployed:** $22,019.58 (20.1%)
+- **Buying Power:** $196,684.74 (reg-T)
+- **Open positions:** 1/6 (MPC) | **Week 22 trades:** 0/3 | **Daytrades:** 0
+
+### Market Context
+- **WTI:** ~$104–105/bbl (4-month high; ET NOW: "above $105"); **Brent:** ~$107.57/bbl — Hormuz/Iran premium escalating; energy tailwinds intensifying
+- **S&P 500 futures:** ~7,657 (-0.46%) — cautious pre-FOMC tone; sold off intraday from ~7,681
+- **VIX:** ~16.90–17.05 — slightly elevated but below yesterday's 17.4; market not panicking, just nervous
+- **Sector momentum YTD:** Energy #1 +47.5% (XLE), Tech #2 +27.6% (XLK), Materials #3 +11.9% (XLB)
+- **10Y yield:** Near/above 5% — adding rate-sensitive pressure to equity valuations
+
+### Today's Macro/Events Calendar
+- **Sep 16 (today):** FOMC rate decision 2:00 PM ET + dot plot + Chair Warsh presser; Advance Retail Sales; Lennar (LEN) earnings
+- **FOMC odds:** Conflicting signals — CME/FedWatch ~88-93% odds of 25bp hike; Reuters economist poll majority lean HOLD; market pricing: cautious/mixed. Last known rate: 3.50–3.75%
+- **Aug 2026 CPI:** 3.4% YoY (above 3.3% gate), core +0.3% MoM — still running hot; supports hawkish case
+
+### MPC Analysis (existing position)
+- **Current:** $407.77 (pre-market); unrealized +8.81% (+$1,782.54). ATH yesterday $413.28.
+- **GTC stop:** HWM $413.28, stop $371.952 (10% trail, ~8.8% buffer). Alpaca auto-managing.
+- **Thesis INTACT:** WTI $104-105+ (Hormuz escalating); Q2 EPS $17.73 (well above estimates); quarterly dividend declared ($1.00/share Sep 10); analyst upgrades (MS $453, RJ $445, UBS $450). Energy #1 sector YTD.
+- **FOMC risk:** Hike scenario = rate-sensitive pressure on energy names (demand fears + broader selloff); GTC stop at $371.952 provides 8.8% buffer. Stop holds through FOMC volatility if move is orderly.
+- **Action:** HOLD. GTC auto-manages. +15% trigger ($430.97) is 5.7% away — watch post-FOMC breakout.
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): Thesis intact, ATH momentum, FOMC uncertainty**
+- Catalyst: WTI $104-105+ (4-month high); energy #1 sector; Q2 beat + analyst upgrades; ATH $413.28
+- Stop: GTC $371.952 (HWM $413.28, 8.8% buffer) — auto-manages
+- Target: $430.97 (+15%), $449.71 (+20%), analyst cluster $445-$453
+- Risk: FOMC hike surprise → broad selloff; 10Y yield above 5% headwind; WTI reversal if Iran ceasefire
+- **Decision: HOLD**
+
+**#2 — AVGO (CONDITIONAL — post-FOMC entry Sep 17): ~$341.69 premarket**
+- Catalyst: AI semiconductor momentum; Q3 2026 beat (+221% AI rev YoY); CEO dismissed AI slowdown fears; pullback from highs to ~$340 = attractive entry window
+- Rate-sensitive classification: YES (AI infra/data center capex) — adds to 1/2 rate-sensitive count (MPC = rate-sensitive due to macro demand for energy)
+- Gate: FOMC hold + dovish tone = clear → enter Sep 17 market open (~$340-345 range); if hike → defer further
+- Entry: ~$340-345 (market order Sep 17 if FOMC clear); Shares: ~59 (≈$20,000, <20% of equity)
+- Stop: 7% below entry (post-earnings rule still applies within 3-day window? No — earnings were several weeks ago; use standard 10% trail)
+- Target: $382 (+12%), $400+ (+18%) — AI cycle re-acceleration thesis
+- Risk: FOMC hike → rate-sensitive pressure; AI slowdown narrative resurgence
+- **Decision: DEFER to Sep 17 post-FOMC (conditional)**
+
+**#3 — Deployment gap (CONSIDER post-FOMC):**
+- 20.1% deployed vs 75-85% target — critical gap; post-FOMC window is the deployment moment
+- If FOMC holds: add AVGO + 1 non-rate-sensitive name to reach ~60-70% deployed
+- Non-rate-sensitive candidates: LMT (defense contracted backlog), COST (consumer staples), PGR (insurance)
+- **Decision: Research post-FOMC if FOMC holds**
+
+### Risk Factors
+1. **FOMC hike (today 2PM ET):** Conflicting signals — hike = rate-sensitive pressure on MPC + AVGO + broad market; thesis break possible if hawkish
+2. **10Y yield above 5%:** Structural headwind for rate-sensitive names; MPC and AVGO both rate-sensitive
+3. **Deployment gap:** 20.1% vs 75-85% target — significant underdeployment; FOMC outcome is gating factor for capital deployment
+4. **WTI above $105:** Bullish for MPC thesis but also signals geopolitical premium (Iran/Hormuz) — reversal risk if ceasefire news
+5. **VIX slightly elevated:** ~17 pre-FOMC; binary event could spike VIX either direction
+
+### Decision: HOLD (FOMC binary risk)
+- **MPC:** HOLD — GTC auto-manages through FOMC. Thesis intact. WTI $104-105+, ATH momentum.
+- **AVGO:** DEFER to Sep 17 market-open — post-FOMC entry if no hike + dovish tone confirmed
+- **New entries (non-rate-sensitive):** Research post-FOMC if hold confirmed
+- **Today's action:** ZERO trades. Watch FOMC 2PM ET. Update memory files post-decision.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrades:** 0
+**Key watch (today):** FOMC Sep 16 decision 2PM ET (no hike + dovish = green light); MPC stop $371.952 (HWM $413.28, 8.8% buffer); +15% trigger $430.97 (5.7% away); WTI $104-105+ Hormuz premium; AVGO ~$340 entry window post-FOMC
