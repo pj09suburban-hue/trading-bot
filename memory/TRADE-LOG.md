@@ -5241,3 +5241,36 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (tomorrow):** FOMC Sep 16 decision 2:00 PM ET — no hike + dovish tone → green light for AVGO + deployment push; MPC stop $371.952 (HWM $413.28, 9.6% buffer); +15% trigger $430.97 (4.8% away); WTI $102+ sustainability
+
+---
+
+## 2026-09-16 — Midday Scan (Day 104, Week 22 Day 3 — FOMC Decision Day)
+**Portfolio:** $109,807.65 | **Cash:** $87,332.58 (79.5%) | **Long MV:** $22,475.07 (20.5% deployed) | **Day P&L:** +$274.04 (+0.25%) | **Phase P&L:** +$9,807.65 (+9.81%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $416.37 | +$2,246.94 | +11.10% | +$298.62 (+1.35%) | $375.417 (10% trail, 34d50500) | $417.13 | 9.8% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $416.37 — 19.5% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +11.10% | $430.97 (3.5% away) | $449.71 (8.0% away) | None |
+
+- GTC trailing stop HWM auto-ratcheted to $417.13 (new ATH intraday today); stop $375.417 (9.8% buffer from current $416.37). No manual tightening triggered.
+
+**STEP 5 — Thesis check:**
+- **MPC:** +11.10% unrealized, +1.35% intraday. Strong session.
+- **Driver:** WTI $104-105+ sustained (Hormuz/Iran premium); energy sector #1 YTD. FOMC decision 2:00 PM ET today — binary event pending; no decision yet at midday scan time.
+- **FOMC context:** CME ~88-93% odds of 25bp hike; market cautious. MPC GTC stop $375.417 (9.8% buffer) provides cushion through orderly FOMC volatility. If hike + hawkish → stop manages; thesis break only on WTI reversal or major demand destruction signal.
+- **No refining outages. No WTI reversal. No margin compression signals.** Analyst cluster $445-$453 (MS, RJ, UBS) intact.
+- **INTACT — HOLD. GTC auto-manages through FOMC.**
+
+**STEP 6 — Intraday research:** No sharp unexplained moves. MPC +1.35% intraday is consistent with WTI $104-105+ sector momentum. Pre-market research (FOMC context) fully covers the thesis. No Perplexity query needed.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (this afternoon):** FOMC Sep 16 decision 2:00 PM ET (no hike + dovish = green light for AVGO + deployment push); MPC stop $375.417 (HWM $417.13, 9.8% buffer from $416.37); +15% trigger $430.97 (3.5% away — approaching); WTI $104-105+ Hormuz premium sustainability; AVGO ~$340 conditional entry post-FOMC if clear
