@@ -5274,3 +5274,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (this afternoon):** FOMC Sep 16 decision 2:00 PM ET (no hike + dovish = green light for AVGO + deployment push); MPC stop $375.417 (HWM $417.13, 9.8% buffer from $416.37); +15% trigger $430.97 (3.5% away — approaching); WTI $104-105+ Hormuz premium sustainability; AVGO ~$340 conditional entry post-FOMC if clear
+
+---
+
+## 2026-09-16 — EOD Snapshot (Day 104, Week 22 Day 3 — Wednesday, FOMC Decision Day)
+**Portfolio:** $109,729.62 | **Cash:** $87,332.58 (79.6%) | **Day P&L:** +$211.68 (+0.19%) | **Phase P&L:** +$9,729.62 (+9.73%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $414.76 | +0.95% | +$2,160.00 (+10.67%) | $377.451 (10% trail, HWM $419.39, 9.0% buf) |
+
+**Notes:** FOMC Decision Day. MPC posted a modest +0.95% gain, closing $414.76 after touching a new all-time high of $419.39 intraday — GTC trailing stop auto-ratcheted HWM to $419.39, stop now $377.451 (9.0% buffer). The constructive FOMC reaction (WTI sustained at $104-105+, no violent selloff) validates holding through the binary event. Unrealized +10.67%; +15% trigger ($430.97) is 3.9% away. Zero trades this week; AVGO conditional entry was deferred to post-FOMC — now evaluable Thursday. Portfolio 20.4% deployed vs. 75–85% target; significant cash available for deployment if FOMC outcome is confirmed risk-on.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (tomorrow):** Post-FOMC follow-through; evaluate AVGO entry (~$340) if risk-on tone confirmed; MPC stop $377.451 (HWM $419.39, 9.0% buffer from $414.76); +15% trigger $430.97 (3.9% away); WTI $104-105+ sustainability; remaining 3/3 trades available this week
