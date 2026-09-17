@@ -5322,3 +5322,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (today/tomorrow):** WTI sustainability above $100 (thesis gating; today's close decisive); MPC +15% trigger $430.97 now 2.67% away — one more strong session triggers; stop $378.307 (HWM $420.34, 9.9% buffer); AVGO deferred to Nov FOMC window; deployment at 20.6% vs 75–85% target — no catalyst for new entries today; patience per strategy
+
+---
+
+## 2026-09-17 — EOD Snapshot (Day 105, Week 22 Day 4 — Thursday, Post-FOMC Day 1)
+**Portfolio:** $110,149.75 | **Cash:** $87,332.58 (79.3%) | **Day P&L:** +$465.49 (+0.42%) | **Phase P&L:** +$10,149.75 (+10.15%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $422.54 | +2.08% | +$2,580.13 (+12.75%) | $381.276 (10% trail, HWM $423.64, 9.77% buf) |
+
+**Notes:** Strong post-FOMC continuation. MPC +2.08% on the session, closing $422.54 — new ATH today $423.64. GTC trailing stop HWM auto-ratcheted to $423.64, stop $381.276 (9.77% buffer). Phase P&L crosses +10%. Unrealized +12.75%; +15% stop-tighten trigger ($430.97) is just 2.0% away — one solid session triggers it. WTI stayed near $100 all day (borderline but refining crack spread thesis intact; MPC ATH behavior confirms market is not selling refiners). No trades this week; 3/3 slots remain open but no qualifying catalyst. Portfolio 20.7% deployed vs 75–85% target; large cash position ($87k) ready.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (tomorrow):** MPC +15% trigger $430.97 (2.0% away — imminent); weekly review fires Friday 4 PM ET; WTI $100 threshold sustainability; AVGO deferred to Nov FOMC window; 3 trades still available this week
