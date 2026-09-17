@@ -5288,3 +5288,37 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (tomorrow):** Post-FOMC follow-through; evaluate AVGO entry (~$340) if risk-on tone confirmed; MPC stop $377.451 (HWM $419.39, 9.0% buffer from $414.76); +15% trigger $430.97 (3.9% away); WTI $104-105+ sustainability; remaining 3/3 trades available this week
+
+---
+
+## 2026-09-17 — Midday Scan (Day 105, Week 22 Day 4 — Thursday, Post-FOMC Day 1)
+**Portfolio:** $109,999.62 | **Cash:** $87,332.58 (79.4%) | **Long MV:** $22,667.04 (20.6% deployed) | **Day P&L:** +$315.36 (+0.29%) | **Phase P&L:** +$9,999.62 (+10.00%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $419.76 | +$2,430.00 | +12.01% | +$5.84 (+1.41%) | $378.307 (10% trail, 34d50500) | $420.34 | 9.9% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $419.76 — 20.5% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +12.01% | $430.97 (2.67% away) | $449.71 (7.1% away) | None |
+
+- Alpaca GTC trailing stop HWM auto-ratcheted to $420.34 (new ATH intraday today); stop $378.307 (9.9% buffer). No manual tightening triggered. +15% at $430.97 is 2.67% away — approaching, will trigger next significant up move.
+
+**STEP 5 — Thesis check:**
+- **MPC:** +12.01% unrealized, +1.41% intraday. New ATH $420.34. Thesis INTACT.
+- **WTI status (Perplexity confirmed):** $99.95–$100.67/bbl today — borderline at $100 threshold, down 1.7–3.9% on post-FOMC rate-demand fears. Day range $99.11–$102.45. NOT firmly below $100; short dips to $99.11 intraday recovered. Thesis: WTI needs to break firmly and sustainably below $100 to invalidate — not yet.
+- **Market signal:** MPC +1.41% intraday despite WTI pullback = market NOT selling refiners; crack spreads elevated, refining margin thesis intact; sector #1 YTD. This is the stronger thesis signal.
+- **FOMC hike context:** 25bp hike Sep 16 (Warsh hawkish, one more hike likely). Rate headwind acknowledged but MPC ATH behavior shows market pricing in continued energy margin strength above the rate headwind.
+- **No refining outages. No WTI reversal. No margin compression signals.** Analyst cluster $445–$453 intact.
+- **INTACT — HOLD. GTC auto-manages.**
+
+**STEP 6 — Intraday research:** Perplexity queried on WTI level and MPC thesis. WTI at $99.95–$100.67 range (borderline but above $100 on most feeds, day low $99.11 recovered). MPC making new ATH ($420.34) despite WTI softness — refining crack spreads sustaining margin thesis. No thesis break. No further action needed.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (today/tomorrow):** WTI sustainability above $100 (thesis gating; today's close decisive); MPC +15% trigger $430.97 now 2.67% away — one more strong session triggers; stop $378.307 (HWM $420.34, 9.9% buffer); AVGO deferred to Nov FOMC window; deployment at 20.6% vs 75–85% target — no catalyst for new entries today; patience per strategy
