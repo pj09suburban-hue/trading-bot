@@ -7079,3 +7079,73 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrades:** 0
 **Key watch (today):** FOMC Sep 16 decision 2PM ET (no hike + dovish = green light); MPC stop $371.952 (HWM $413.28, 8.8% buffer); +15% trigger $430.97 (5.7% away); WTI $104-105+ Hormuz premium; AVGO ~$340 entry window post-FOMC
+
+---
+
+## 2026-09-17 — Pre-Market Research (Day 105, Week 22 Day 4 — Thursday, Post-FOMC Day 1)
+
+### Account Snapshot
+- **Equity:** $109,499.70 | **Cash:** $87,332.58 (79.8%) | **Deployed:** 20.2%
+- **Phase P&L:** +$9,499.70 (+9.50%)
+- **Open positions:** 1/6 (MPC) | **Trades this week:** 0/3 | **Daytrade count:** 0
+- **MPC:** 54 shares @ $374.76 entry | Current (live) $410.50 | Pre-market ~$405.30 (-1.3%) | Unrealized +9.54% (+$1,930) | GTC stop $377.451 (HWM $419.39, ~7.0% buffer from pre-market)
+
+### Market Context
+- **FOMC (Sep 16):** 25bp HIKE to 3.75–4.00% — first hike since 2023, unanimous 12-0. Warsh hawkish: "inflation still too high," signaled one more hike likely this year. This is the dominant macro driver.
+- **WTI:** ~$97–102/bbl (down ~3–4% from yesterday's $103–105 highs; Hormuz premium partially unwind + rate demand fears). Borderline at the $100 thesis-support level.
+- **Brent:** ~$103–105/bbl
+- **S&P 500 futures:** +0.80% (~7,684) — post-FOMC relief rally; hike was 93%+ priced, removal of uncertainty bid
+- **VIX:** 15.96 (down -9.88% from Sep 16 close of 17.71) — fear dropping sharply
+- **10Y yield:** Pulled back slightly from 5%+ area, still elevated; rate headwind persists
+- **Sectors YTD:** Energy #1 +43.2% (XLE), Tech #2 +28% (XLK), Financials #7 +2.1% (XLF)
+
+### Today's Calendar (8:30 AM ET)
+- **Initial Jobless Claims (week ending Sep 12):** 208K consensus vs 206K prior — labor mkt still tight
+- **Philadelphia Fed Manufacturing (Sep):** 28.6 expected vs 47.4 prior — significant slowdown signal
+- **Housing Starts (Aug):** 1.315M SAAR consensus vs 1.239M prior
+- **Earnings (BMO):** IPHA, VFS — no market impact. After close: FDS, LEN, DRI.
+
+### MPC Analysis (existing position)
+- Pre-market ~$405.30 (down -2.1% from $413.92 close) — WTI pullback + rate-sensitive pressure post-hike
+- **GTC trailing stop:** HWM $419.39, stop $377.451 — 7.0% buffer from $405.30 pre-market. Auto-managing.
+- **Thesis check:** INTACT but on watch. WTI at $97–102 is borderline the $100 support level. No outage, no WTI reversal catalyst beyond rate pressure. Energy sector #1 YTD. Analyst cluster $445–$453 intact.
+- **Hard cut trigger:** $348.53 (-7% from $374.76) — still 14.2% away from pre-market price. Not in danger.
+- **+15% trigger:** $430.97 — now 6.3% away from $405 pre-market (further than yesterday).
+- **Action:** HOLD. GTC auto-manages. Monitor WTI; thesis break only if WTI falls firmly and sustainably below $100.
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): WTI on watch, stop intact, thesis borderline**
+- Catalyst: Energy sector #1 YTD; refining crack spreads elevated; Q2 EPS $17.73 beat; analyst upgrades
+- Stop: GTC $377.451 (HWM $419.39) — auto-managing
+- Target: $430.97 (+15%), $449.71 (+20%), analyst cluster $445–$453
+- Risk: WTI sustained below $100 = thesis break; FOMC hike = rate-sensitive headwind; Philly Fed drop
+- **Decision: HOLD**
+
+**#2 — AVGO (DEFERRED — trigger not met)**
+- Conditional entry Sep 17 required "FOMC hold + dovish tone." FOMC HIKED with hawkish guidance (one more hike to come). Trigger condition explicitly not met.
+- AI infra rate-sensitive name — additional headwind from hawkish path.
+- Re-evaluate timing after post-hike rate path clarifies. Next FOMC: November 2026.
+- **Decision: DEFER**
+
+**#3 — New deployment (HOLD — post-hike clarity needed)**
+- 20.2% deployed vs 75–85% target. Critical gap, but deploying into hawkish Fed pivot without clarity is premature.
+- Non-rate-sensitive candidates remain (LMT, COST, PGR) but no fresh catalyst today with FOMC uncertainty dominant.
+- **Decision: HOLD cash. Reassess post-data (8:30 AM ET) for rest of week.**
+
+### Risk Factors
+1. **WTI breaks below $100 sustainably** → MPC thesis break; would close immediately per sell-side rules
+2. **Warsh "one more hike" in 2026** → rate-sensitive headwind persists; AVGO + energy under pressure
+3. **Philly Fed 28.6 vs 47.4 prior** → sharp manufacturing slowdown; growth scare risk
+4. **10Y yield near 5%** → valuation headwind; equity market broad pressure
+5. **Post-FOMC relief rally may fade** — if 8:30 data misses (especially weak Philly Fed), intraday reversal possible
+
+### Decision: HOLD
+- **MPC:** HOLD — GTC auto-manages; thesis intact but on watch at WTI $100 threshold
+- **AVGO:** DEFER — FOMC hiked; trigger explicitly not met; re-evaluate November FOMC window
+- **New entries:** HOLD — patience; no catalyst + hawkish backdrop warrants waiting
+- **Zero trades today.** Watch WTI through session.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrades:** 0
+**Key watch (today):** WTI sustainability at $100+ (thesis gating); 8:30 AM ET data batch (Philly Fed); MPC stop $377.451 (HWM $419.39); +15% trigger $430.97 (6.3% away from pre-market); AVGO deferred to post-November-FOMC reassessment
+
