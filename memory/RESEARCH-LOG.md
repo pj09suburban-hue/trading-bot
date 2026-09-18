@@ -4,6 +4,75 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-09-18 — Pre-Market Research (Day 106, Week 22 Day 5 — Friday, Triple Witching / BOJ Hike Day)
+
+### Account Snapshot
+- **Equity:** $109,999.08 | **Cash:** $87,332.58 (79.4%) | **Deployed:** 20.6%
+- **Phase P&L:** +$9,999.08 (+10.0%)
+- **Open positions:** 1/6 (MPC) | **Trades this week:** 0/3 | **Daytrades:** 0
+- **MPC:** 54 shares @ $374.76 entry | Prev close $421.96 | Pre-market $419.75 (-0.52%) | Unrealized +12.00% (+$2,429) | GTC stop $381.447 (HWM $423.83, 9.77% buffer)
+
+### Market Context
+- **WTI:** ~$97–99/bbl pre-market (Barchart CLV26 -3.85%; Forbes 8:26 AM ET: $99.42 -2.54%) — testing thesis threshold; $95-97 seen on some feeds (early AM); down from $100.48 Sep 17 close. **CRITICAL WATCH: approaching sustained-below-$100 thesis-break trigger.**
+- **Brent:** ~$101–103/bbl
+- **S&P 500 futures:** ~7,720 (+0.18% to +1.1%) — risk-on; post-FOMC digestion + BOJ hike absorbed
+- **VIX:** 15.05 (−12.82% from 17.71 Sep 17 close) — fear compressing sharply
+- **Oil VIX:** 52.11 (elevated energy volatility — expiration + geopolitical noise)
+- **BOJ:** +25bp overnight to 31-year high — global tightening signal, JPY strengthening; markets absorbed this
+- **10Y yield:** slightly off 5% area but still elevated; rate headwind persists (Warsh hawkish, one more hike likely)
+- **Sectors YTD:** Energy #1 +44.2% (XLE), Tech #2 +30.6% (XLK), Materials #3 +11.8% (XLB); Energy approaching overbought per State Street sector pack; Consumer Discretionary worst at -6.7%
+
+### Today's Calendar (U.S.)
+- **9:15 AM ET:** Industrial Production & Capacity Utilization (Aug) — consensus +0.3% M/M vs +0.2% prior
+- **10:00 AM ET:** UMich Consumer Sentiment (prelim, Sep) — no consensus in research but key for inflation expectations
+- **10:00 AM ET:** State Employment & Unemployment (BLS, Aug) — state-level, minor market impact
+- **Triple witching:** stock options + stock index futures + stock index options all expire simultaneously → elevated volume/volatility; potential stop hunting
+- **Earnings BMO:** TRT (Trio-Tech International) only — no market impact
+- **No U.S. CPI, PPI, or FOMC today.**
+
+### MPC Analysis (existing position)
+- **Pre-market:** $419.75 (−0.52% from $421.96 close) — notably resilient vs WTI −2.5 to −4%
+- **GTC trailing stop:** HWM $423.83, stop $381.447 — 9.77% buffer from $419.75 pre-market. Auto-managing.
+- **Thesis check:** BORDERLINE. WTI at $97–99 is below the $100 thesis-support threshold but MPC's pre-market resilience is the key contrary signal — market NOT selling refiners. Crack spread thesis can persist or improve if crude falls while refined product prices stay elevated (lower feedstock = margin expansion for refiners).
+- **Analyst cluster:** Piper Sandler $462, MS $453, UBS $450, RJ $445, TD Cowen $375 — all above current price. Bank of America disclosed $621.8M new stake. Moderate Buy consensus.
+- **Hard cut trigger:** $348.53 (−7% from $374.76) — still 17.0% away. Not in danger.
+- **+15% trigger:** $430.97 — 2.66% away; one solid session triggers. Tighten stop to 7% if hit.
+- **Thesis break condition:** WTI sustained firmly below $95-98 AND MPC follows down (not just WTI alone). MPC pre-market resilience = bullish divergence, thesis likely intact.
+- **Action:** HOLD. GTC auto-manages. Watch WTI open and intraday. If WTI holds $97+ and MPC holds above $400 at open → thesis intact. If WTI opens below $95 AND MPC drops >3% → reassess for close.
+
+### Trade Ideas
+
+**#1 — MPC (HOLD): Resilient vs WTI weakness, GTC managing, +15% trigger imminent**
+- Catalyst: Energy #1 YTD (+44.2%); crack spread thesis; Piper Sandler/MS/UBS $450-462 targets; BofA new $621.8M stake
+- Stop: GTC $381.447 (HWM $423.83) — auto-managing
+- Target: $430.97 (+15%, stop tighten trigger), $449.71 (+20%), analyst cluster $445–$462
+- Risk: WTI sustained below $95 + MPC capitulation = thesis break → close per sell-side rules; triple witching stop hunt intraday
+- **Decision: HOLD**
+
+**#2 — New entries (HOLD — no qualifying catalyst)**
+- Energy sector approaching overbought; WTI uncertainty this session
+- Hawkish Fed + BOJ tightening = rate headwind for rate-sensitive names; AVGO deferred to Nov FOMC window
+- Triple witching = noise today; no forced deployment
+- Non-rate-sensitive candidates (LMT, COST, PGR) still lack fresh catalysts
+- **Decision: HOLD cash. Patience.**
+
+### Risk Factors
+1. **WTI breaks firmly and holds below $95** → MPC thesis break; close immediately per sell-side rules
+2. **Triple witching stop hunt** → GTC stop $381.447 has 9.77% buffer; unlikely triggered unless MPC falls to $381 (−9.9% from pre-market)
+3. **BOJ + Warsh double tightening path** → sustained rate headwind; risk-off possible if yield curve reprices
+4. **Industrial Production miss (9:15 AM)** → broad risk-off; energy + macro correlation
+5. **Weekly review today at 4 PM ET** — separate routine will assess Week 22 performance
+
+### Decision: HOLD
+- **MPC:** HOLD — pre-market resilience vs WTI decline = bullish divergence; crack spread thesis may be intact; GTC auto-manages; +15% trigger 2.66% away
+- **New entries:** HOLD — no qualifying catalyst; triple witching + energy uncertainty + hawkish backdrop = patience
+- **Zero trades today.** Watch WTI level at open and through session.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrades:** 0
+**Key watch (today):** WTI $95-99 range at open (MPC divergence = thesis intact; both falling = thesis break → close); +15% trigger $430.97 (2.66% away); triple witching noise; Industrial Production 9:15 AM ET; weekly review 4 PM ET
+
+---
+
 ## 2026-08-17 — Pre-Market Research (Day 82, Week 18 Day 1 — Monday)
 
 ### Account Snapshot
