@@ -1371,3 +1371,66 @@ Template for each entry:
 *Week 21 — 4-day holiday-shortened week. Portfolio +0.35% vs S&P -0.81% (+1.16% outperformance). MPC WTI/Hormuz thesis intact at +5.65% cumulative. CPI gate enforced mechanically (Aug 3.4% > 3.3% gate → AVGO skipped). PPI benign. No rule violations. Grade C+ reflects benchmark outperformance and disciplined gate enforcement, offset by a 4th consecutive week at ~19–20% deployment — the "hard deadline" from Week 20 was not met and phase alpha sits at +1.75% vs S&P after 21 weeks. FOMC Sep 15–16 is the immediate binary event; post-FOMC deployment of 2–3 names by Sep 18 is no longer optional.*
 
 ---
+
+## Week ending 2026-09-18
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $108,712.80 |
+| Ending portfolio | $110,368.19 |
+| Week return | +$1,655.39 (+1.52%) |
+| S&P 500 week | -0.38% (7,656.98 → ~7,628) |
+| Bot vs S&P | +1.90% |
+| Phase return | +$10,368.19 (+10.37% from $100k baseline) ⭐ phase +10% milestone |
+| Phase bot vs S&P | +3.91% (bot +10.37% vs S&P +6.46% from Apr 24 start 7,165.08) |
+| Trades | 0 (W:0 / L:0 / open:1) |
+| Win rate | N/A — no closed trades this week (27.8% all-time, 5/18 closed) |
+| Best trade | MPC +13.83% unrealized (only position) |
+| Worst trade | MPC +13.83% unrealized (only position) |
+| Profit factor | 1.60 all-time (unchanged; $20,188 winners / $12,583 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| MPC | $374.76 | $426.59 | +$2,798.57 (+13.83%) | $385.20 (10% trail, HWM $428.00, 9.7% buf) — +15% trigger $430.97 (1.06% away); +20% trigger $449.71 |
+
+### What Worked
+- MPC crack spread thesis proved more durable than thesis framing suggested: WTI declined from $104–105 to $97–100 range yet MPC advanced +1.52% for the week and closed ATH $428.00 — lower feedstock cost expanding refining margins is a positive thesis signal, not a break
+- FOMC hike (25bp Sep 16 to 3.75–4.00%) absorbed cleanly: MPC rallied through the binary event; refiner supply-side thesis insulated from demand-destruction fears; the GTC stop (HWM auto-ratcheted to $428.00 by week end) handled all volatility without manual intervention
+- Beat S&P by +1.90% in a down FOMC-hike week (-0.38% S&P vs +1.52% bot); phase alpha recovered from +1.75% (Week 21) to +3.91% (Week 22) — the most alpha improvement in a single week since the Aug 18 rate-shock cleared
+- AVGO correctly deferred: pre-market research gate required "FOMC hold + dovish tone"; FOMC hiked with hawkish Warsh guidance ("one more hike likely") — trigger explicitly not met; skipping correctly preserved capital from entering a rate-sensitive AI infra name into a hawkish backdrop
+- Phase crossed +10% return milestone ($110,368 vs $100k baseline); phase alpha restored to +3.91% vs benchmark after being nearly eliminated (Week 19: +0.28%)
+
+### What Didn't Work
+- Zero trades placed: 0/3 weekly slots used; deployment at 20.8% heading into Week 23 — 12th+ consecutive week below 75–85% target; the FOMC-window "hard deadline" from Week 20 was again not met (AVGO correctly deferred, but no backup candidate identified and deployed)
+- Pre-market research failure pattern continues: every week ends with MPC as the only position because no secondary candidate clears all gates simultaneously; one gate failure = zero deployment for the entire session
+- Phase outperformance vs S&P (+3.91%) is structurally hollow: this week's +1.90% improvement came entirely from S&P declining (-0.38%), not from bot generating positive alpha compounding; a rising S&P week at 20% deployment reverts the gap immediately
+- Warsh hawkish path ("one more hike in 2026") eliminates the near-term dovish pivot catalyst for AVGO and other rate-sensitive AI infra names; deployment optionality for rate-sensitive names further compressed until November FOMC at the earliest
+- MPC +15% trigger at $430.97 is 1.06% away at week close — if MPC gaps up Monday, stop-tighten action required immediately at market open; cannot miss this trigger
+
+### Key Lessons
+- Crack spread thesis for refiners is counter-cyclical to WTI in the short term: lower crude feedstock cost expands refining margins when refined product prices are sticky; this is why MPC made new ATHs ($428) even as WTI pulled back from $104 to $97 — the thesis framing "WTI $100+ = MPC bull" is too narrow; the correct framing is "crack spreads elevated + refining margin strength = MPC bull" regardless of crude direction
+- FOMC 25bp hike absorbed by supply-side energy thesis: refining margin names (MPC/VLO) proved less rate-sensitive than AI infra names (VRT, AVGO) and utility names (VST) because their earnings are driven by commodity spreads, not capex multipliers or rate-dependent valuations; this is the correct name to hold through FOMC weeks
+- When the deployment gate fails on the primary candidate (AVGO), a week of zero trades results because no secondary was pre-researched; this pattern has repeated for 12+ weeks; the fix is explicit research of 2–3 actionable candidates pre-FOMC, not 1
+- Phase alpha recovering from near-elimination (+0.28% Week 19 → +3.91% Week 22) in 3 weeks of MPC performance is a data point that a single high-conviction hold continues to drive phase outcomes; the pattern (MRVL, GE, RTX, now MPC) is consistent — selectivity > activity
+
+### Adjustments for Next Week
+- **MPC:** +15% stop-tighten trigger $430.97 (1.06% from $426.59) — if Monday gap-up triggers it, cancel order immediately at open and place new 7% GTC trail; 7% of $430.97 floor = $400.80 new stop (check 3% rule: 7% trail on $430+ = $28+ buffer, well above 3% exclusion); do not delay this action
+- **Deployment (Week 23 primary objective):** 3 fresh trade slots; identify 2–3 qualified candidates by Sun pre-market research; at minimum enter 1 non-rate-sensitive contracted-backlog name (NOC, GD replacement, or defense equivalent) on Monday open if catalyst valid; do NOT accept 6th consecutive zero-trade week; rate-factor Rule 13 applies: MPC = rate-sensitive (1/2); next entry rate classification required
+- **AVGO:** Re-evaluate for November FOMC window (Nov 4–5 rate decision); Warsh hawkish path = 2 more rate-sensitive headwind weeks minimum; do not force AVGO entry before Nov FOMC unless rate path clearly reverses
+- **MPC stop-tighten scenario (if triggered Mon):** New 7% trail at +15%; +20% trigger at $449.71 ($23.12 / +5.4% from $426.59); 7%→5% tighten at $449.71; maintain the same 10%→7%→5% mechanical progression that produced MRVL, GE, RTX wins
+- **WTI thesis gate:** Hard floor $95 (below which crack spread compression becomes thesis break risk); current WTI ~$97–99 borderline — monitor daily; if WTI breaks firmly below $95 AND MPC follows down, exit per thesis-broken rule before -7% stop
+
+### Overall Grade: B-
+*Week 22 — FOMC week. Portfolio +1.52% vs S&P -0.38% (+1.90% outperformance). Phase +10% milestone crossed; phase alpha recovered from +1.75% (Week 21) to +3.91% vs benchmark — most improvement since the post-Aug-18 rate-shock recovery. MPC crack spread thesis proved more durable than expected through the FOMC 25bp hike; new ATH $428.00 with GTC stop auto-ratcheting correctly all week. AVGO correctly deferred on explicit trigger miss (FOMC hiked, not held). B- reflects solid FOMC-week outperformance and disciplined gate enforcement, offset by the 5th consecutive zero-trade week (12th+ week below 75–85% deployment target) — phase alpha recovery is driven entirely by S&P declining, not by bot alpha compounding, making it fragile to any strong S&P up-week at 20% deployment.*
+
+---
