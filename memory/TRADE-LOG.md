@@ -5336,3 +5336,40 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (tomorrow):** MPC +15% trigger $430.97 (2.0% away — imminent); weekly review fires Friday 4 PM ET; WTI $100 threshold sustainability; AVGO deferred to Nov FOMC window; 3 trades still available this week
+
+---
+
+## 2026-09-18 — Midday Scan (Day 106, Week 22 Day 5 — Friday, Triple Witching / BOJ Hike Day)
+**Portfolio:** ~$110,446 | **Cash:** $87,332.58 (79.1%) | **Long MV:** $23,082.57 (20.9%) | **Day P&L:** +$296.73 (+0.27%) | **Phase P&L:** ~+$10,446 (+10.45%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $427.455 | +$2,845.53 | +14.06% | +1.30% (+$296.73) | $385.20 (10% trail, 34d50500) | $428.00 | 9.88% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MPC hard cut triggers at $348.53 (-7% from $374.76). Current $427.455 — 22.6% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MPC | +14.06% | $430.97 (0.82% away — IMMINENT) | $449.71 (5.2% away) | None |
+
+- GTC trailing stop HWM auto-ratcheted to $428.00 (new ATH touched intraday today — up from yesterday's ATH $423.64); stop $385.20 (9.88% buffer). +15% trigger $430.97 is only 0.82% away — will trigger on next significant up move. No manual tightening yet.
+- Check: never tighten within 3% of current price. If tightened to 7%, new stop would be $428 × 0.93 = $398.04 — 6.9% below current $427.455. Rule satisfied. But threshold not yet reached.
+
+**STEP 5 — Thesis check:**
+- **MPC:** +14.06% unrealized, +1.30% intraday. New position ATH $428.00 touched today. Thesis INTACT.
+- **WTI status:** $97–99/bbl today (pre-market context: approaching $100 threshold, Barchart CLV26 -3.85%, Forbes 8:26 AM $99.42). CRITICAL: MPC is UP +1.30% intraday DESPITE WTI declining ~2–4%. This is the key bullish divergence — crack spread expansion thesis: lower crude feedstock cost while refined product prices stay elevated = margin expansion for refiners. Thesis stronger today, not weaker.
+- **Thesis break condition per pre-market research:** "WTI sustained firmly below $95-98 AND MPC follows down." WTI above $97; MPC is rallying. Neither condition met.
+- **Triple witching context:** Elevated volume/volatility today. GTC stop $385.20 has 9.88% buffer — well outside stop-hunting range. No GTC-triggered risk.
+- **BOJ +25bp context:** Global tightening absorbed by market (S&P futures +0.2–1.1%); MPC not affected.
+- **INTACT — HOLD. GTC auto-manages.**
+
+**STEP 6 — Intraday research:** No sharp unexplained moves. MPC +1.30% intraday is fully explained by crack spread thesis resilience (lower WTI feedstock = refiner margin expansion). Pre-market research covers this scenario explicitly. No Perplexity query needed.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Notes:** Day 106 (Friday, Week 22). MPC approaching +15% stop-tighten trigger ($430.97 = 0.82% away). If triggered today, cancel 34d50500 and place new GTC trailing stop with trail_percent "7". Weekly review fires at 4 PM ET today (separate routine). Week 22 ends 0/3 trades — patience per strategy (no qualifying catalyst). Deployment at 20.9% vs 75–85% target; AVGO deferred to Nov FOMC window per pre-market research.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (rest of day):** MPC +15% trigger $430.97 (0.82% away — may trigger before close); triple witching stop hunt potential (GTC buffer 9.88% protects); WTI $95 hard floor; weekly review 4 PM ET
