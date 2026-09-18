@@ -5373,3 +5373,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (rest of day):** MPC +15% trigger $430.97 (0.82% away — may trigger before close); triple witching stop hunt potential (GTC buffer 9.88% protects); WTI $95 hard floor; weekly review 4 PM ET
+
+---
+
+## 2026-09-18 — EOD Snapshot (Day 106, Week 22 Day 5 — Friday, Triple Witching)
+**Portfolio:** $110,236.95 | **Cash:** $87,332.58 (79.2%) | **Day P&L:** +$118.53 (+0.11%) | **Phase P&L:** +$10,236.95 (+10.24%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $424.155 | +0.52% | +$2,667.33 (+13.18%) | $385.20 (10% trail, HWM $428.00) |
+
+**Notes:** Triple witching Friday — MPC pulled back from midday ATH ($428.00) to close $424.155, still +0.52% on the day and +13.18% unrealized. The +15% stop-tighten trigger ($430.97) was 0.82% away at midday but ended 1.61% away as profit-taking into triple witching expiry trimmed gains. Day P&L +$118.53 (+0.11%) nearly all from MPC intraday. Phase P&L crosses +10.24%. GTC trailing stop HWM locked at $428.00 (stop $385.20, 9.88% buffer) — well protected against volatility. Zero trades this week; patience validated; 3 trade slots open heading into week 23. Deployment at 20.8% vs 75–85% target; large cash position ready for next qualifying catalyst. Weekly review fires separately at 4 PM ET.
+
+**Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
+**Key watch (Monday):** MPC +15% trigger $430.97 (1.61% away — any gap-up Monday triggers it); WTI $95 hard floor for thesis; AVGO Nov FOMC window; 3 new trade slots open for week 23
