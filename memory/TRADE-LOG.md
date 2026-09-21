@@ -5421,3 +5421,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 23 trades:** 0/3 | **Open positions:** 0/6 | **Daytrade count:** 0
 **Key watch (rest of week):** Full cash ($109,699); seek new catalyst with WTI context reset; QCOM pullback watch; BE post-inclusion consolidation watch; Micron MU earnings AMC tonight (AI demand signal); week 23 trade slots 3/3 open
+
+---
+
+## 2026-09-21 — EOD Snapshot (Day 107, Week 23 Day 1 — Monday)
+**Portfolio:** $109,699.38 | **Cash:** $109,699.38 (100%) | **Day P&L:** -$577.26 (-0.52%) | **Phase P&L:** +$9,699.38 (+9.70%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| — | — | — | — | — | — | — |
+
+**Notes:** MPC position closed at midday (12:12 PM ET) after thesis break: WTI dropped hard to $91–93/bbl (-4.3%) and MPC followed down (-2.3%), reversing the bullish crack spread divergence that was the core thesis. Realized +$2,129.76 (+10.52%) on 54 shares. GTC trailing stop cancelled prior to market sell. Account now 100% cash ($109,699.38). Day P&L -$577.26 reflects MPC's intraday decline from Friday's close ($424.155) to exit price ($414.20). Phase P&L +9.70%. Three fresh trade slots open for week 23. Next watch: MU earnings results (AI demand signal), QCOM pullback thesis, BE post-inclusion consolidation; WTI equilibrium reset establishes new sector context.
+
+**Week 23 trades:** 0/3 new entries | **Open positions:** 0/6 | **Daytrade count:** 0
+**Key watch (Tuesday):** MU earnings read-through (AI semis catalyst); QCOM/BE entry criteria; WTI new equilibrium (~$92–95 range); 3 trade slots open
