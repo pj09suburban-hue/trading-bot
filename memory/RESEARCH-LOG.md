@@ -7218,3 +7218,87 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrades:** 0
 **Key watch (today):** WTI sustainability at $100+ (thesis gating); 8:30 AM ET data batch (Philly Fed); MPC stop $377.451 (HWM $419.39); +15% trigger $430.97 (6.3% away from pre-market); AVGO deferred to post-November-FOMC reassessment
 
+
+## 2026-09-21 — Pre-Market Research (Day 107, Week 23 Day 1 — Monday)
+
+### Account Snapshot
+- **Equity:** $109,877.58 | **Cash:** $87,332.58 (79.5%) | **Deployed:** 20.5%
+- **Phase P&L:** +$9,877.58 (+9.88%)
+- **Open positions:** 1/6 (MPC) | **Trades this week:** 0/3 | **Daytrade count:** 0
+- **MPC:** 54 shares @ $374.76 entry | Pre-market ~$417.50 (−1.74% vs $424.89 Friday close) | Unrealized +$2,307.96 (+11.41%) | GTC stop 34d50500, 10% trail, stop $385.20, HWM $428.00 | Expires Nov 27, 2026
+
+### Market Context
+- **WTI:** Declining from $103–107 last week; today ~$96–$101 range (conflicting sources — Polymarket $93–94, Goodreturns $101.38, Yahoo "$retreated below $100"). Dominant driver: US–Iran diplomatic talk hopes reducing Hormuz premium. Houthi attack on Saudi Yanbu facility partially offsetting. CRITICAL: approaching or below thesis-break threshold ($95–98). Monitoring closely.
+- **Brent:** ~$100–106 (down from $105–109 range last week)
+- **S&P 500 futures:** +0.16% (~7,725) — mild risk-on; helped by Trump–Xi summit optimism and oil fall
+- **VIX:** 14.97 (up +1.08% from 14.81 Friday close) — benign, low volatility environment
+- **Sector YTD:** Energy #1 +43.84% (approaching overbought) | Tech #2 +31.69% | Materials #3 +10.23% | Industrials #4 +9.43% (losing momentum) | Health Care #5 +8.78% | Consumer Disc #10 −7.02%
+
+### Today's Calendar
+- **Fed Goolsbee speech** (6:30–10:30 AM ET, various sources) — first post-hike assessment; hawkish tilt expected
+- **Chicago Fed National Activity Index** (8:30 AM ET) — prior −0.08; watch for further weakness
+- **China LPR cut to 3.0%** (confirmed) — global growth supportive; commodities slightly bid
+- **3-Month / 6-Month Bill Auctions** (3:30 PM ET)
+- **Japan holiday** — thin Asia volume
+- **Index changes effective today:** Bloom Energy (BE) → S&P 500; Sandisk (SNDK) + Dell/PANW/Arista → S&P 100; HubSpot (HUBS) → S&P MidCap 400 — passive fund flow buying at close
+- **Earnings BMO today:** LGCY, VFS (small caps); no market-moving names. Micron (MU) AMC tonight — AI/chip demand read-through
+- **Geopolitics:** Trump–Xi summit this week in Washington (UN General Assembly backdrop); risk-on tone broadly supportive
+
+### MPC Analysis (existing position)
+- Pre-market: ~$417.50 (intraday range seen so far: $418.13–$428.00 per Robinhood)
+- Unrealized: +11.41% (+$2,307.96). +15% trigger $430.97 still ~3.2% away at current price.
+- GTC stop HWM $428.00 (set Friday), stop $385.20 = 7.76% buffer from $417.50. Auto-managing.
+- **Hard cut:** $348.53 (−7% from $374.76) — 16.5% below current. Not in danger.
+- **Thesis STATUS — WATCH (not broken):**
+  - WTI declining toward/below $100; potentially $93–96 per latest Polymarket data
+  - Thesis-break threshold: WTI SUSTAINED FIRMLY below $95–98 AND MPC follows down
+  - WTI approaching threshold but not yet sustained. MPC at $417–425 (not following down sharply despite oil weakness) — crack spread expansion thesis still providing divergence support
+  - ALERT: Robinhood shows "put volume heavy and directionally bearish" in MPC options — smart money hedging or positioning for downside
+  - BofA building $621M position (bullish institutional), Raymond James PT $445, Morgan Stanley PT $453
+  - Q3 earnings Nov 3, 2026 — next fundamental catalyst
+  - **Decision: HOLD. GTC auto-manages. Reassess at midday if WTI confirms break below $95 AND MPC follows.**
+
+### Trade Ideas
+
+**#1 — MPC (existing): HOLD with active thesis watch**
+- Catalyst: Energy #1 YTD; Q2 EPS $17.73 beat; crack spreads widening; institutional accumulation
+- Risk: WTI declining toward $93–96 (approaching thesis-break zone); bearish options flow; Warsh "one more hike" headwind
+- Stop: GTC $385.20 (HWM $428.00, 8.7% buffer from ~$417.50) — auto-managing
+- Target: $430.97 (+15% trigger — 3.2% away) → tighten to 7% trail; $449.71 (+20%)
+- **Decision: HOLD**
+
+**#2 — BE (Bloom Energy): WATCH ONLY — no entry**
+- Catalyst: S&P 500 inclusion effective today = passive fund buying at today's close
+- BUT: Stock already surged +16.3% last week in anticipation. Classic "buy the rumor, sell the news" setup.
+- Risk/reward unclear for index-inclusion day entry; post-inclusion selloff risk
+- Rate sensitivity: clean energy / hydrogen fuel cells — borderline (not traditional fossil fuel or AI infra)
+- **Decision: HOLD. No entry. Monitor for post-inclusion consolidation over 2–3 sessions.**
+
+**#3 — QCOM (Qualcomm): DEFERRED**
+- Catalyst: Amazon $60B AI chip deal (Sep 8) — legitimate multi-year revenue catalyst
+- Rate-sensitive classification: AI infra / data-center capex = YES (Rule 13b)
+- MPC currently counts as rate-sensitive (energy income name, Rule 13a). Adding QCOM = 2 rate-sensitive positions = at the limit. Permissible but uses full quota.
+- Entry: No clean technical setup today; stock was up ~9% on the announcement (Sep 8–15). Wait for pullback or consolidation.
+- **Decision: DEFERRED — watch for pullback entry with better R:R (10% off recent highs ~$170–175 range)**
+
+**#4 — LMT (Lockheed Martin): WATCHLIST**
+- Catalyst: Trump–Xi summit week = geopolitical tension backdrop; defense is rate-uncorrelated per Rule 13
+- No fresh specific catalyst today. Sector not in top-5 momentum.
+- **Decision: WATCHLIST — revisit if geopolitical news escalates from summit**
+
+### Risk Factors
+1. **WTI breaks firmly below $95–98 sustainably** → MPC thesis break; would close immediately per sell-side rules
+2. **Goolsbee hawkish tone** → "one more hike" narrative reinforced → rate-sensitive headwind; energy and AI infra names both pressured
+3. **Trump–Xi summit breakdown / no communiqué** → risk-off reversal; oil and equities could sell off together
+4. **MPC bearish options flow** → puts potentially pricing in downside risk; hedging signal from smart money
+5. **Energy sector approaching overbought** (SSGA Sept scorecard) → mean-reversion risk within strongest sector
+
+### Decision: HOLD
+- **MPC:** HOLD — GTC auto-manages. WTI on watch. Thesis intact but at the boundary.
+- **New entries:** HOLD — no qualifying specific catalyst + new position + verified entry today. Trump–Xi is macro backdrop, not a stock catalyst. BE entry risky post-surge. QCOM needs pullback.
+- **Zero trades today.** Monitor WTI intraday. If WTI closes firmly below $95 AND MPC follows down sharply, midday routine will evaluate close.
+
+**Week 23 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrades:** 0
+**Key watch (today):** WTI intraday direction (thesis gating for MPC — $95 hard floor); Goolsbee tone; MPC +15% trigger $430.97 (3.2% away); BE post-inclusion close price; Micron (MU) earnings AMC (AI demand signal); GTC stop $385.20 intact
+
+---
