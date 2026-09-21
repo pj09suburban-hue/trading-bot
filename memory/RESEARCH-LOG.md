@@ -7302,3 +7302,20 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Key watch (today):** WTI intraday direction (thesis gating for MPC — $95 hard floor); Goolsbee tone; MPC +15% trigger $430.97 (3.2% away); BE post-inclusion close price; Micron (MU) earnings AMC (AI demand signal); GTC stop $385.20 intact
 
 ---
+
+### Midday Addendum — 2026-09-21 (~12:12 PM ET)
+
+**WTI confirmed thesis break at midday:**
+- Multiple credible sources: $91.79–$93.34 (Investing.com $91.79, EnergyRiskIQ $93.34, TwelveData close ~$92.90, OilPrice.com $95.70)
+- Session decline: -4.3 to -4.5% | Day range: $91.70–$96.98
+- Cause: rapid unwinding of geopolitical risk premium (Saudi Yanbu attack / Hormuz closure fears eased; Trump-Xi summit risk-on tone)
+- MPC at ~$414-415 midday, -2.3% intraday: NOT showing crack spread bullish divergence (unlike Sep 18 when MPC was UP +1.3% while WTI fell)
+
+**Action taken:** Closed MPC 54 shares @ $414.20 — realized +$2,129.76 (+10.52%). GTC stop cancelled prior to close. Pre-market trigger conditions met: WTI firmly below $95 AND MPC following down.
+
+**Context for next entry research:**
+- Energy thesis window closed; need non-energy or sector-momentum reset
+- Watch QCOM for pullback entry (AI/Qualcomm-Amazon thesis intact but needs 10% correction from $170-175 range = $153-157 zone)
+- Watch BE (Bloom Energy) S&P 500 inclusion effect — need 2-3 sessions of post-inclusion data
+- Micron (MU) earnings AMC tonight — key AI demand signal for chip/tech entries
+- Full cash $109,699 (3/3 week trades still available)

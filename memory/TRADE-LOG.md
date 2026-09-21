@@ -5387,3 +5387,37 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 22 trades:** 0/3 | **Open positions:** 1/6 (MPC) | **Daytrade count:** 0
 **Key watch (Monday):** MPC +15% trigger $430.97 (1.61% away — any gap-up Monday triggers it); WTI $95 hard floor for thesis; AVGO Nov FOMC window; 3 new trade slots open for week 23
+
+---
+
+## 2026-09-21 — Midday Scan (Day 107, Week 23 Day 1 — Monday)
+**Portfolio:** $109,699.38 | **Cash:** $109,699.38 (100%) | **Long MV:** $0 (0% deployed) | **Day P&L:** -$537.57 | **Phase P&L:** +$9,699.38 (+9.70%)
+
+| Ticker | Shares | Entry | Price at Close | Realized P&L | % | Action |
+|---|---|---|---|---|---|---|
+| MPC | 54 | $374.76 | $414.20 | +$2,129.76 | +10.52% | CLOSED — thesis broken |
+
+**STEP 3 — Losers cut (-7%):** None. MPC at +10.52% at exit, far above -7% cut level.
+
+**STEP 4 — Stop tightening:** +15% trigger WAS hit intraday (MPC HWM $431.08 > $430.97 trigger). Tightening action deferred — see note — then moot (position closed).
+
+**Note on +15% tighten:** MPC touched $431.08 intraday (new ATH, above +15% trigger $430.97). At midday price $415, a new 7% trailing stop would set stop at $415 × 0.93 = $385.95 — BELOW current stop $387.97, violating "never move stop down." Tightening action was skipped. Position was subsequently closed per thesis-break rule before this could be resolved.
+
+**STEP 5 — Thesis check → CLOSED:**
+- **WTI midday:** $91.79–$93.34 per multiple credible sources (Investing.com $91.79, EnergyRiskIQ $93.34, TwelveData close $92.90, OilPrice.com $95.70). Down -4.3 to -4.5% on the session. Cause: rapid unwinding of geopolitical risk premium (Saudi pipeline outage / Hormuz closure fears eased).
+- **MPC midday:** $414–415, down -2.3% intraday, -2.1% from Friday close.
+- **Thesis-break conditions (from pre-market, set as midday trigger):**
+  - WTI sustained firmly below $95–98 → CONFIRMED ($91.79–$93.34)
+  - MPC follows down → CONFIRMED (-2.3% intraday; no crack spread bullish divergence)
+- **Key signal change:** On Sep 18, WTI fell 2–4% and MPC was UP +1.30% (crack spread divergence). Today WTI fell 4.3% and MPC is DOWN 2.3%. The bullish divergence is gone. Market is NOT pricing in crack spread expansion from lower WTI.
+- **Decision: CLOSE. Thesis broken per pre-market trigger conditions.**
+
+**Execution:**
+1. Cancelled GTC trailing stop 34d50500 (was HWM $431.08, stop $387.972)
+2. Market sell 54 MPC @ $414.20 (order b3315ff2), filled 12:12 PM ET
+3. Realized P&L: +$2,129.76 (+10.52%)
+
+**STEP 7 — Notification:** Action taken → Slack sent.
+
+**Week 23 trades:** 0/3 | **Open positions:** 0/6 | **Daytrade count:** 0
+**Key watch (rest of week):** Full cash ($109,699); seek new catalyst with WTI context reset; QCOM pullback watch; BE post-inclusion consolidation watch; Micron MU earnings AMC tonight (AI demand signal); week 23 trade slots 3/3 open
