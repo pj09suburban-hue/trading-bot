@@ -7319,3 +7319,72 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - Watch BE (Bloom Energy) S&P 500 inclusion effect — need 2-3 sessions of post-inclusion data
 - Micron (MU) earnings AMC tonight — key AI demand signal for chip/tech entries
 - Full cash $109,699 (3/3 week trades still available)
+
+---
+
+## 2026-09-22 — Pre-Market Research (Day 108, Week 23 Day 2 — Tuesday)
+
+### Account Snapshot
+- **Equity:** $109,699.38 | **Cash:** $109,699.38 (100%) | **Deployed:** 0%
+- **Phase P&L:** +$9,699.38 (+9.70%)
+- **Open positions:** 0/6 | **Trades this week:** 0/3 | **Daytrades:** 0
+- **No open orders.** Full cash after MPC closed yesterday at +10.52%.
+
+### Market Context
+- **WTI:** ~$89.84/bbl (OilPrice.com premarket, -2.74%); Brent ~$98.20 (-2.13%). Continuing slide from yesterday's ~$92.90 close. Geopolitical risk premium fully unwound. Energy thesis closed — not relevant to new entry.
+- **S&P 500 futures:** ~7,768–7,841 (flat to +0.73% premarket); Nasdaq leading; AI/semiconductor stocks surging
+- **VIX:** 14.81–14.87 (Sep 21 close, -4.08% from prior day) — low, complacent, full risk-on
+- **10Y yield:** Fell back below 5% — supporting high-valuation growth stocks
+- **Sectors YTD:** Energy #1 +40–47% (XLE, thesis closed); Technology #2 +35–37% (XLK); Materials #3 +10–17%; Consumer Discretionary worst -6% YTD
+- **Session sentiment:** AI enthusiasm surge. Meta Muse AI agent topped App Store; AMD crossed $1T market cap; Nasdaq closed at all-time high Sep 21; continuing today.
+
+### Today's Calendar (U.S.)
+- **No CPI, PPI, FOMC, or jobs data today.**
+- **2:00 PM ET:** Richmond Fed Manufacturing & Services indices — minor impact
+- **Fed speeches:** Williams + Jefferson today — RISK of hawkish commentary (last hike was Sep 16/17; CPI Aug was +0.4% MoM, +3.4% YoY — elevated)
+- **Earnings BMO:** AZO (AutoZone, EPS est $54.80, ±9.7% implied), THO (Thor Industries), MLKN (MillerKnoll), HERE (Here Group)
+- **Earnings AMC:** KBH (KB Home, EPS est $0.89)
+- **Next major data:** Flash PMI Wednesday; Jobless claims + New Home Sales Thursday; Next CPI October 14
+
+### Trade Ideas
+
+**#1 — MU (Micron Technology): PRE-EARNINGS SETUP — CONDITIONAL BUY at market-open**
+- **Catalyst:** MU Q4 FY2026 earnings due September 30 (8 days). Q3 FY2026 beat was massive: $25.11 EPS vs $20.86 est (+20% surprise) on $41.46B revenue vs $35.91B est (+15%). Stock surged +14.6% AH on Q3 report (June 24). Q4 estimate: $31.33 EPS, $50.45B revenue — even higher bar, but AI memory demand signal from sector confirms thesis. Sep 21 Investopedia: "Micron leads on near-term catalyst" in AI stocks. Premarket ~$1,039 (Sep 21 close $1,043 — flat, not chasing a gap).
+- **Sector:** Technology — #2 YTD (+35–37%), in strong uptrend
+- **Rate-sensitive classification:** YES — AI infra/data-center capex (Rule 13b). Currently 0/2 rate-sensitive positions. Adding MU = 1/2 ✓
+- **Entry condition:** Verify quote at open; enter if price $990–$1,080 range (not more than +3.5% from premarket $1,039 or below -5%). Do not chase if gap-up >5%.
+- **Stop:** 10% trailing GTC order placed immediately after fill (not within 3 days of earnings — standard 10% applies per Rule 4)
+- **Hard cut:** -7% from entry (Rule 5, applies regardless of stop)
+- **Size:** ~21 shares at ~$1,043 = ~$21,903 (~20% of equity) — verify with live quote before submit
+- **Target:** $1,250 (+20% from $1,043, near/above 52-week high $1,213) — 2:1+ R:R at 10% risk
+- **Buy-side gate:** ✓ Positions after fill ≤ 6 (1/6) | ✓ Trades ≤ 3 (1/3) | ✓ Cost ≤ 20% equity | ✓ Cost ≤ cash | ✓ PDT < 3 | ✓ Catalyst documented | ✓ Stock
+- **Skip condition:** If Williams or Jefferson sounds more hawkish than expected and 10Y yield spikes sharply above 5% pre-open → defer, rate headwind too sharp for AI infra name.
+
+**#2 — QCOM (Qualcomm): WATCHLIST — BLOCKED by rate quota if MU entered**
+- Catalyst: Amazon $60B AI chip deal (Sep 8) — still valid multi-year revenue story
+- Rate-sensitive: YES (Rule 13b). If MU entered = 1/2 rate-sensitive. Adding QCOM = 2/2 (at limit but permissible).
+- Entry: Original target $153–157 (10% pullback from $170–175 highs). Need quote check — stock may have moved with AI rally today.
+- Decision: DEFER until MU position direction clearer. If MU entry missed (skip conditions trigger), QCOM becomes primary candidate — check quote at market-open.
+
+**#3 — AMD (Advanced Micro Devices): MONITOR ONLY — no entry today**
+- Catalyst: $1T market cap milestone crossed today; AI chip ecosystem co-leader with NVDA
+- But: Stock gapping up on news today → chase risk. Need 5–7% pullback before entry.
+- Rate-sensitive: YES (Rule 13b). Would use second rate-sensitive slot.
+- Decision: WATCH ONLY — revisit if AMD consolidates for 2–3 sessions.
+
+### Risk Factors
+1. **Fed Williams/Jefferson hawkish tone today** → 10Y yield spikes back above 5% → AI infra/rate-sensitive names pressured → would kill MU entry thesis
+2. **AI enthusiasm fades intraday** → gap-fill sellback (Nasdaq ATH often triggers profit-taking) → MU could whipsaw
+3. **AZO earnings miss** → consumer cyclical weakness signal; broader market negative read-through
+4. **Oil continuing decline (WTI <$88)** → deflation signal? Or demand weakness? Watch — not directly relevant to tech thesis but macro read
+5. **MU Sep 30 earnings binary risk** → entering 8 days before means riding a binary event. If Q4 miss (unlikely given Q3 trajectory but possible) → sharp downside. Stop at 10% limits loss.
+
+### Decision: TRADE-conditional (MU)
+- **Primary:** MU — conditional buy at market-open, pending quote and rate conditions. Passes all buy-side gates.
+- **Secondary:** QCOM — watchlist, deferred unless MU entry missed.
+- **Zero entries if:** Fed speakers spike yields or Nasdaq opens sharply lower (broad risk-off).
+- **Market-open routine makes final call** with live quote + morning tape read.
+
+**Week 23 trades:** 0/3 | **Open positions:** 0/6 | **Daytrades:** 0
+**Key watch (today):** MU quote at open ($990–$1,080 entry window); Fed Williams + Jefferson speech timing/tone; Nasdaq tape direction; AZO pre-market earnings read-through
+
