@@ -5435,3 +5435,43 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 23 trades:** 0/3 new entries | **Open positions:** 0/6 | **Daytrade count:** 0
 **Key watch (Tuesday):** MU earnings read-through (AI semis catalyst); QCOM/BE entry criteria; WTI new equilibrium (~$92–95 range); 3 trade slots open
+
+---
+
+## 2026-09-22 — Market Open (Day 108, Week 23 Day 2 — Tuesday)
+**Portfolio:** $109,699.38 → ~$109,762 | **Cash:** $87,761 (after MU buy) | **Deployed:** ~20% | **Daytrades:** 0
+
+### TRADE EXECUTED
+
+| Date | Ticker | Side | Shares | Entry Avg | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-09-22 | MU | BUY | 21 | $1,044.67 | $942.62 (10% trail GTC, HWM $1,047.36) | Q4 FY2026 earnings Sep 30; Q3 +20% EPS beat; AI memory demand; Tech #2 YTD | $1,250 (+19.7%) | ~2.8:1 |
+
+**Order details:**
+- Buy order: 8504c19b, filled 13:32:10 UTC @ avg $1,044.670476
+- Trailing stop: 27f76f5f, 10% GTC, stop $942.624, HWM $1,047.36
+- Cost basis: $21,938.08 (20.0% of equity) ✓
+- Hard cut: $971.54 (-7% from entry)
+- +15% tighten trigger: $1,201.37
+- +20% tighten trigger: $1,253.60
+
+**Buy-side gate (all passed):**
+- ✓ Positions after fill: 1/6
+- ✓ Trades this week: 1/3
+- ✓ Cost ≤ 20% equity ($21,938 = 20.0%)
+- ✓ Cost ≤ cash ($109,699)
+- ✓ PDT day-trade count: 0 < 3
+- ✓ Catalyst: Q4 FY2026 earnings Sep 30 (8d); Q3 +20% EPS beat; AI memory thesis
+- ✓ Stock (not option)
+
+**Market conditions at open:**
+- Nasdaq futures: flat (-0.02%) — not sharply lower ✓
+- 10Y yield: 4.925% — below 5% threshold ✓
+- No hawkish Fed surprise flagged ✓
+- Chipmakers +1%+ pre-market ✓
+- MU open price within $990–$1,080 entry window ✓
+
+**QCOM: SKIPPED** — ask $204.44 (far above $153–$157 entry target); AMD: MONITOR ONLY per plan.
+
+**Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch:** MU at $1,044.67 entry; stop $942.62 trailing GTC; earnings binary Sep 30 (8d); hard cut $971.54; +15% trigger $1,201.37
