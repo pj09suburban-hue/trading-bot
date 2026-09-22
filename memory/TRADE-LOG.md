@@ -5511,3 +5511,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (rest of day):** MU approaching earnings (Sep 30, 8d); GTC stop $974.70 auto-managing; +15% tighten trigger $1,201.37 (11.2% away); Fed Williams/Jefferson speech risk (yields above 5% = AI infra headwind); QCOM pullback watch ($153–157 target)
+
+---
+
+## 2026-09-22 — EOD Snapshot (Day 108, Week 23 Day 2 — Tuesday)
+**Portfolio:** $110,726.06 | **Cash:** $87,761.30 (79.3%) | **Day P&L:** +$1,026.68 (+0.94%) | **Phase P&L:** +$10,726.06 (+10.73%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,093.74 | +$49.78 (+4.77%) | +$1,030.36 (+4.70%) | $985.39 (10% trail, HWM $1,094.88) |
+
+**Notes:** MU entry day — bought 21 shares at $1,044.67 (20% of equity) at market open on Q4 FY2026 earnings catalyst (Sep 30, 8d) and +20% Q3 EPS beat. Position moved cleanly to $1,093.74 close (+4.70% unrealized). GTC trailing stop auto-ratcheted throughout the day; HWM $1,094.88, stop $985.39 (10% trail, 9.98% buffer from close). +15% tighten trigger ($1,201.37) is 9.8% away — not yet reached. Phase P&L +10.73% vs $100k start. Account 20.7% deployed; 2/3 week trade slots remain open. Earnings binary Sep 30 remains the primary risk event.
+
+**Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (Wednesday):** MU holding thesis; GTC stop $985.39 auto-managing; +15% tighten trigger $1,201.37; earnings Sep 30 (8d) binary; QCOM pullback watch ($153–157); second entry opportunity if qualifying catalyst emerges
