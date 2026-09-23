@@ -5566,3 +5566,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (rest of day/tomorrow):** MU stop $994.95 auto-managing; earnings Sep 30 (7d) binary; Meta Connect keynote 7 PM ET tonight (potential catalyst for Thursday if new announcements materially positive); WTI equilibrium ~$89-90; Fed Barr speech timing
+
+---
+
+## 2026-09-23 — EOD Snapshot (Day 109, Week 23 Day 3 — Wednesday)
+**Portfolio:** $110,244.52 | **Cash:** $87,761.30 (79.6%) | **Day P&L:** -$481.54 (-0.43%) | **Phase P&L:** +$10,244.52 (+10.24%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,070.80 | -$25.36 (-2.31%) | +$548.72 (+2.50%) | $994.95 (10% trail, HWM $1,105.50) |
+
+**Notes:** Day 109 (Wednesday, Week 23). MU pulled back -2.31% to $1,070.80, normal consolidation after +4.77% yesterday. Unrealized P&L +2.50% from $1,044.67 entry; thesis intact. GTC trailing stop at $994.95 (10% trail from HWM $1,105.50), 7.1% buffer from close. Meta Connect keynote tonight 7 PM ET — META setup was not actionable pre-keynote at midday (still running up). Phase P&L +10.24% vs $100k start. 20.4% deployed; 2/3 week trade slots remain open. MU earnings Sep 30 (7d) binary remains primary catalyst and risk event.
+
+**Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (Thursday):** MU stop $994.95 auto-managing; Meta Connect post-keynote reaction (potential Thursday catalyst if new AI/AR announcements beat expectations); MU earnings Sep 30 (7d) binary; QCOM pullback watch ($153–157 entry zone)
