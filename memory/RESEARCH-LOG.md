@@ -7459,3 +7459,11 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
 **Key watch (today):** MU at $1,082.50 — intraday consolidation, stop $987.525 auto-managing; META quote at open (gap-up vs. consolidation); Fed Barr speech timing; Taiwan plant strike news (new risk); earnings Sep 30 binary (7d)
 
+
+### Afternoon Addendum (Midday Scan — ~12:10 PM ET)
+
+**MU Taiwan Strike Update:** Perplexity confirmed no production disruption. Taoyuan union = strike vote in progress; Taichung union = Oct 22 mediation scheduled. Labor dispute only. Bearish overhang, not a thesis-break catalyst.
+
+**META Connect status:** Keynote 4:00 PM PT / 7:00 PM ET tonight. META ~$755 midday — still grinding higher pre-keynote (+2%+ today), not consolidated. Entry condition from pre-market (consolidation required) NOT met. META SKIPPED for today. Monitor post-keynote for Thursday setup if announcements are material (Orion AR, Phoenix headset, Muse AI agent expansion).
+
+**MU midday:** $1,075.64 (-1.87% today). GTC stop auto-ratcheted to $994.95 (HWM $1,105.50 — MU touched that level intraday). Thesis intact. No action.
