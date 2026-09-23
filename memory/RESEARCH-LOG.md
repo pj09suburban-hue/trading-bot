@@ -7388,3 +7388,74 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 23 trades:** 0/3 | **Open positions:** 0/6 | **Daytrades:** 0
 **Key watch (today):** MU quote at open ($990–$1,080 entry window); Fed Williams + Jefferson speech timing/tone; Nasdaq tape direction; AZO pre-market earnings read-through
 
+
+---
+
+## 2026-09-23 — Pre-Market Research (Day 109, Week 23 Day 3 — Wednesday)
+
+### Account Snapshot
+- **Equity:** $110,493.80 | **Cash:** $87,761.30 (79.3%) | **Long MV:** $22,732.50 (20.7%)
+- **Phase P&L:** +$10,493.80 (+10.49%)
+- **Open positions:** 1/6 (MU) | **Trades this week:** 1/3 | **Daytrades:** 0
+- **MU:** 21 shares @ $1,044.67 entry | Current $1,082.50 (-1.25% today, giving back some of +4.77% yesterday) | Unrealized +$794.42 (+3.62%)
+- **MU GTC stop:** HWM $1,097.25, stop $987.525 (9.7% buffer from $1,082.50) | Hard cut: $971.54 (-7% from entry)
+
+### Market Context
+- **WTI:** ~$89.94/bbl (six-session decline from ~$100+; geopolitical risk premium fully unwound, Saudi supply recovered). Brent ~$98.72.
+- **S&P 500 futures:** ~7,835–7,840 (+0.05%) — essentially flat after yesterday's strong close. Nasdaq -0.02%.
+- **VIX:** 14.17 (-0.28%) — low/complacent, risk-on environment intact.
+- **Flash PMI (9:45 AM ET):** US Manufacturing 53.4 (actual) vs 53.9 est — slightly below but expansionary. US Composite 56.0 — strong. Germany Composite 53.8. Soft landing read. Not a headwind.
+- **Fed speaker:** Gov Michael Barr speaking today — watch for rate hike language (last hike Sep 16/17; still relevant).
+- **Sectors YTD:** Energy XLE +38-43% (#1, thesis closed); Technology XLK +32-36% (#2, MU plays here); Materials XLB +11-14% (#3); Industrials XLI +9.7%; Health XLV +10.1%; Financials XLF +3-5%.
+- **Session tone:** Chipmakers taking a breather after three consecutive up days (MU +14.6% AH Jun 24 → +4.77% Sep 22). Modest pullback, NOT reversal signal.
+
+### Today's Calendar (Sep 23)
+- **BMO earnings:** CTAS (Cintas, EPS est $1.35–1.38, Q1 FY2027); PAYX (Paychex); GIS (General Mills) — labor/consumer health signal
+- **AMC earnings:** H.B. Fuller (FUL)
+- **Event:** Meta Connect conference Day 2 of 2 (Sep 23–24) — AI agents, Orion AR glasses
+- **9:45 AM ET:** Flash US PMI (released — see above)
+- **Fed Gov Barr:** Speech timing TBD — hawkish risk for AI/rate-sensitive names
+- **No CPI, PPI, FOMC, or jobs data today**
+
+### MU Position Update (existing hold)
+- **Thesis INTACT.** Q4 FY2026 earnings Sep 30 (7 days). AI/memory demand confirmed by sector momentum.
+- **Analyst sentiment:** Consensus Strong Buy (49 analysts). Citi target $1,300; Stifel $1,500 Buy. Average target $1,295–$1,513.
+- **Today's move:** -1.25% intraday pullback after +4.77% yesterday — healthy consolidation, not thesis break.
+- **NEW RISK:** MarketBeat flags potential Taiwan fabrication plant strike + higher labor costs as near-term overhang. Monitor — would affect production outlook.
+- **GTC auto-managing.** No manual stop action needed (HWM $1,097.25, stop $987.525, buffer 9.7%). Neither +15% ($1,201.37) nor +20% ($1,253.60) tighten triggers reached.
+- **Action: HOLD.** Let GTC work. Hard cut $971.54 (-7% from entry) intact.
+
+### Trade Ideas
+
+**#1 — META (Meta Platforms): CONDITIONAL WATCH for market-open**
+- **Catalyst:** Connect conference Day 2 (today). Muse AI agent topped App Store. Reports of META up +10%+ yesterday on price target raise + AI enthusiasm surge.
+- **Rate-sensitive:** NO — consumer advertising platform, revenue is ad spend (not AI infra capex per Rule 13b). Would use second position slot.
+- **Entry condition:** ONLY if META has meaningfully consolidated from yesterday's 10%+ move (i.e., flat-to-down pre-market or early session). DO NOT chase if further gapping up. Need live quote at open.
+- **Stop:** 10% trailing GTC immediately after fill.
+- **Size:** ≤20% of equity (~$22,000) — verify with live quote.
+- **Buy-side gate:** ✓ Positions ≤ 6 (2/6) | ✓ Trades ≤ 3 (2/3) | ✓ Cost ≤ 20% equity | ✓ PDT < 3 | ✓ Stock
+- **Skip:** If still gapping up >3% from yesterday close, or if Fed Barr hawkish (rate spike), or if CTAS/GIS earnings signal labor deterioration.
+- **Not a conviction entry today.** Yesterday's 10%+ move means the Connect catalyst is largely priced in. Day 2 would need a new surprise announcement to add meaningfully. HOLD bias unless tape confirms continuation.
+
+**#2 — QCOM (Qualcomm): BLOCKED — price too high**
+- Amazon AI deal thesis intact, but price ~$204 (last check) vs $153–157 target. Still >25% above entry window. Not actionable.
+
+**#3 — Cash patience**
+- Account is 20.7% deployed vs 75-85% target. However, with MU earnings binary Sep 30 (7d), adding a second large position right before that event concentrates risk in the pre-earnings window.
+- Viable to add 1 position but only with strong standalone catalyst AND rate-uncorrelated profile.
+
+### Risk Factors
+1. **Fed Barr hawkish tone** → 10Y yield spikes above 5% → rate-sensitive AI infra names (MU) sell off
+2. **MU Taiwan plant strike** → production disruption narrative ahead of Sep 30 earnings — could pressure stock further today
+3. **Chipmaker breather extends** → Nasdaq -0.02% at open suggests pause; if sellers accelerate, MU could test stop territory faster than expected
+4. **WTI continuing slide** → now at $89-90 after falling from $100+; macro deflation signal watch — not directly impacting tech but rate/yield implications
+5. **Flash PMI manufacturing slightly below est (53.4 vs 53.9)** → minor miss, but services/composite strong; net neutral
+
+### Decision: HOLD (with conditional META watch)
+- **Primary:** HOLD cash and MU position. No new entries until market-open tape confirms a qualifying setup.
+- **Conditional:** META entry at open only if consolidated from yesterday's 10%+ surge — need live quote check at market-open.
+- **Default:** Patience > activity. MU thesis intact. Cash preserved for post-Sep-30 earnings clarity if MU continues higher.
+
+**Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
+**Key watch (today):** MU at $1,082.50 — intraday consolidation, stop $987.525 auto-managing; META quote at open (gap-up vs. consolidation); Fed Barr speech timing; Taiwan plant strike news (new risk); earnings Sep 30 binary (7d)
+
