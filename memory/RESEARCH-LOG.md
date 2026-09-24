@@ -7536,3 +7536,16 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
 **Key watch (today):** MU pre-market $1,055.44 — stop buffer 5.7% ($994.95); Trump-Xi summit headlines; jobless claims 8:30 AM ET; Fed Barkin/Williams/Hammack speeches (hawkish = yield spike risk); MU earnings Sep 30 (6d) binary
+
+### Afternoon Addendum (Midday Scan)
+
+**Trump-Xi outcome:** Trade truce extended through Nov 10, 2026. No new tariff escalation on semis. Neutral-to-positive for MU. Pre-market risk #1 resolved favorably.
+
+**MU intraday drivers (-1.57%):**
+1. Pre-earnings profit-taking — stock ran +4.77% Sep 22 entry day; normal consolidation
+2. Michael Burry added short positions in MU, SOXX, Nebius, Palantir — "rising chip supply" thesis. Sentiment negative. Analyst consensus (94.7% Buy, 0 Sell) and fundamental thesis unchanged.
+3. Wells Fargo price target trim (yesterday, known): $1,525 → $1,400, Overweight maintained
+
+**MU verdict:** HOLD. Stop $994.95 (5.70% buffer). Sep 30 earnings remain the binary.
+
+**COST earnings AMC:** Costco reports after close — macro consumer sentiment signal for Friday.

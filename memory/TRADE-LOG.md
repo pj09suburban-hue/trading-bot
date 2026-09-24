@@ -5580,3 +5580,45 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (Thursday):** MU stop $994.95 auto-managing; Meta Connect post-keynote reaction (potential Thursday catalyst if new AI/AR announcements beat expectations); MU earnings Sep 30 (7d) binary; QCOM pullback watch ($153–157 entry zone)
+
+---
+
+## 2026-09-24 — Midday Scan (Day 110, Week 23 Day 4 — Thursday)
+**Portfolio:** $109,917.77 | **Cash:** $87,761.30 (79.8%) | **Long MV:** $22,156.47 (20.2%) | **Day P&L:** -$326.75 (-0.30%) | **Phase P&L:** +$9,917.77 (+9.92%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,055.07 | +$218.39 | +1.00% | -1.57% | $994.95 (10% trail, 27f76f5f) | $1,105.50 | 5.70% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MU hard cut triggers at $971.54 (-7% from $1,044.67). Current $1,055.07 — 8.0% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MU | +1.00% | $1,201.37 (13.8% away) | $1,253.60 (18.8% away) | None |
+
+- GTC trailing stop HWM unchanged at $1,105.50, stop $994.95 (5.70% buffer from current $1,055.07). GTC auto-managing.
+- Neither +15% nor +20% tighten triggers reached. No manual action needed.
+
+**STEP 5 — Thesis check:**
+- **MU:** +1.00% unrealized, -1.57% intraday. Pre-earnings profit-taking + Burry short disclosure.
+- **Trump-Xi summit:** Trade truce extended, no new tariff escalation. Neutral-to-positive for semis. Key pre-market risk resolved favorably.
+- **Burry short disclosure (MU, SOXX, Nebius, Palantir):** Burry added fresh shorts citing rising chip supply. Bearish sentiment signal. However: (a) 94.7% analyst Buy consensus intact, (b) fundamental AI/HBM demand unchanged, (c) Q4 guidance $50B rev / 86% GM / $31 EPS intact, (d) Burry's track record on cyclical tech shorts is mixed. NOT a thesis break.
+- **Wells Fargo target cut (yesterday):** Already known from pre-market. Still Overweight; trimmed to $1,400 from $1,525. Not new.
+- **Citi note:** Memory prices set to peak early but still bullish. Not a thesis break.
+- **MU earnings Sep 30 (6d):** Unchanged. Expected move ~7.8%. 44 analysts Buy, 0 Sell. Avg target $1,515.
+- **Today's pullback driver:** Pre-earnings profit-taking after +4.77% / +2.97% / -2.31% run. Normal consolidation. Burry headline added selling pressure.
+- **INTACT — HOLD. GTC auto-manages.**
+
+**STEP 6 — Intraday research:**
+- MU pullback fully explained: profit-taking + Burry headline + mild risk-off (pre-earnings window). No unexplained sharp move warranting further query.
+- Trump-Xi resolved favorably (truce extended) — main pre-market risk is off the table.
+- No Perplexity query needed beyond verification already performed.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Notes:** Day 110 (Thursday, Week 23). MU down -1.57% intraday on pre-earnings profit-taking + Michael Burry short disclosure. Thesis INTACT. GTC stop $994.95 (5.70% buffer from current), HWM $1,105.50. Stop buffer compressed vs earlier in week (was 9.82% on Sep 21) but still within acceptable range — GTC auto-managing. Trump-Xi summit resolved favorably: truce extended, no new tariffs. Key binary remains Sep 30 earnings. Phase P&L +9.92% vs $100k start.
+
+**Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (rest of day/tomorrow):** MU stop $994.95 (5.70% buffer) — watch for further selling to ~$994–1,000 zone; Sep 30 earnings binary (6d); Burry short position as ongoing sentiment headwind; META post-keynote reaction if any delayed market response; COST earnings AMC today (macro consumer sentiment signal)
