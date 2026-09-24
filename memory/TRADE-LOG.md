@@ -5622,3 +5622,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (rest of day/tomorrow):** MU stop $994.95 (5.70% buffer) — watch for further selling to ~$994–1,000 zone; Sep 30 earnings binary (6d); Burry short position as ongoing sentiment headwind; META post-keynote reaction if any delayed market response; COST earnings AMC today (macro consumer sentiment signal)
+
+---
+
+## 2026-09-24 — EOD Snapshot (Day 110, Week 23 Day 4 — Thursday)
+**Portfolio:** $110,279.29 | **Cash:** $87,761.30 (79.6%) | **Day P&L:** +$34.77 (+0.03%) | **Phase P&L:** +$10,279.29 (+10.28%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,072.25 | +$0.37 (+0.04%) | +$579.17 (+2.64%) | $994.95 (10% trail, HWM $1,105.50) |
+
+**Notes:** Day 110 (Thursday, Week 23). MU settled +0.04% to $1,072.25; recovered from intraday lows. Thesis intact — no thesis break from Burry short disclosure (analyst Buy consensus 94.7% unchanged, AI/HBM demand structural). Trump-Xi summit resolved favorably (trade truce extended). GTC trailing stop $994.95 unchanged (HWM $1,105.50; $1,072.25 close is below HWM so stop did not ratchet today). Neither +15% (+$1,201.37) nor +20% (+$1,253.60) tighten triggers reached. No trades today; 2/3 week slots remain open. Phase P&L +10.28% vs $100k start; 20.4% deployed vs 75–85% target. COST earnings AMC today (macro consumer signal). Key binary: MU earnings Sep 30 (6d).
+
+**Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (Friday):** MU stop $994.95 (7.2% buffer from close); Sep 30 earnings binary (6d); COST post-earnings reaction (macro consumer sentiment); Burry short as ongoing sentiment headwind; potential QCOM pullback setup ($153–157 watch zone if conditions align)
