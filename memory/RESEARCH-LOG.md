@@ -7467,3 +7467,72 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **META Connect status:** Keynote 4:00 PM PT / 7:00 PM ET tonight. META ~$755 midday — still grinding higher pre-keynote (+2%+ today), not consolidated. Entry condition from pre-market (consolidation required) NOT met. META SKIPPED for today. Monitor post-keynote for Thursday setup if announcements are material (Orion AR, Phoenix headset, Muse AI agent expansion).
 
 **MU midday:** $1,075.64 (-1.87% today). GTC stop auto-ratcheted to $994.95 (HWM $1,105.50 — MU touched that level intraday). Thesis intact. No action.
+
+---
+
+## 2026-09-24 — Pre-Market Research (Day 110, Week 23 Day 4 — Thursday)
+
+### Account Snapshot
+- **Equity:** $109,925.54 | **Cash:** $87,761.30 (79.8%) | **Long MV:** $22,164.24 (20.2%)
+- **Phase P&L:** +$9,925.54 (+9.93%)
+- **Open positions:** 1/6 (MU) | **Trades this week:** 1/3 | **Daytrades:** 0
+- **MU:** 21 shares @ $1,044.67 entry | Pre-market $1,055.44 (-1.53% from yesterday's $1,070.80 close) | Unrealized +$226.16 (+1.03%)
+- **MU GTC stop:** HWM $1,105.50, stop $994.95 (5.7% buffer from current $1,055.44) | Hard cut: $971.54 (-7% from entry)
+
+### Market Context
+- **WTI:** ~$92.75/bbl (+2.46% today, recovering from $89-90 yesterday). Brent ~$100.17. Oil rebounding from 6-session slide.
+- **S&P 500 futures:** ~7,724-7,741 (–0.4 to –0.6%) — moderately red pre-market open expected.
+- **VIX:** ~15–16 (up from 14.17 yesterday) — slightly elevated; risk-on regime intact but caution warranted.
+- **Yields:** 10Y yield rising — cited as main equity risk today. DXY also firming.
+- **Sectors YTD:** Energy XLE +39.5% (#1); Technology XLK +35.7% (#2); Materials XLB +10.9% (#3).
+- **Session tone:** Mildly risk-off pre-market. Multiple crosscurrents: jobs data, Fed speakers, Trump-Xi summit binary.
+
+### Today's Calendar (Sep 24)
+- **8:30 AM ET:** Initial Jobless Claims + ADP Employment Change — key macro; rate/easing expectations driver
+- **8:30 AM ET:** Current Account (Q2)
+- **10:00 AM ET:** New Home Sales (Aug) — rate-sensitive sector signal
+- **Fed speakers:** Barkin, Hammack, Paulson, Williams — heavy schedule; hawkish tone = yield spike = AI infra headwind
+- **BMO earnings:** DRI (Darden Restaurants), SNX (TD SYNNEX)
+- **AMC earnings:** COST (Costco) — after the bell
+- **Trump-Xi summit:** Major risk-on/off binary for equities; semis, megacaps, growth most exposed
+
+### MU Position Update (existing hold)
+- **Thesis INTACT.** Q4 FY2026 earnings Sep 30 (6 days). AI/memory demand + strong Buy consensus.
+- **Analyst snapshot:** UBS Buy $1,625 target; Citi Buy $1,300 (raised from $1,150); Wells Fargo Overweight $1,400 (trimmed from $1,525). Avg $1,296–$1,515. Consensus 4 strong buys / 31 buys / 3 holds.
+- **Expected earnings move:** ~7.8% (per Investing.com options pricing). Elevated binary risk.
+- **Pre-market pullback:** $1,055.44 vs $1,070.80 close — -1.53%, normal continuation of Wednesday's -2.31% consolidation. Not a thesis break.
+- **Stop buffer tightening:** Buffer narrowed from 9.8% (EOD Sep 22) to 5.7% (current). GTC still valid and auto-managing. Stop cannot be moved down per rules.
+- **Key risk today:** Trump-Xi summit — adverse outcome (tariff escalation) → semis sell off → potential stop test on MU.
+- **Action: HOLD.** GTC auto-manages. Hard cut $971.54 intact. Earnings binary Sep 30 is the key event.
+
+### Trade Ideas
+
+**#1 — META (Meta Platforms): CONDITIONAL DOWNGRADE → SKIP TODAY**
+- Catalyst: Meta Connect Sep 23–24. Stock ran +11% on Sep 21 on Wells Fargo upgrade ($796 target). Trading ~$737–741 into keynote.
+- Post-keynote reaction unclear; sources don't confirm a post-Sep-24 announcement move.
+- Market open looks -0.4 to -0.6% red. Entry condition (consolidation from 11% surge) harder to assess with market heading lower.
+- Adding second position in red-tape environment (jobs data + multiple Fed speakers + Trump-Xi binary + MU earnings in 6d) = stacking risk.
+- Rate-sensitive check: META = NOT rate-sensitive (consumer ad platform) → compatible with MU under Rule 13. Gate technically passes.
+- **Decision: SKIP. Patience > activity.** Wait for post-MU-earnings clarity before adding second position.
+
+**#2 — QCOM (Qualcomm): BLOCKED**
+- ~$204 pre-market vs $153–157 entry target. Still 25%+ above entry window.
+
+**#3 — Cash patience**
+- 79.8% cash. Significantly underdeployed vs 75-85% target. BUT MU earnings binary in 6d concentrates near-term risk; adding second large position now compounds earnings-event exposure.
+- Right posture: preserve dry powder for post-Sep-30 opportunity (potential add if MU beats + guides up) or new unrelated sector catalyst.
+
+### Risk Factors
+1. **Trump-Xi summit adverse outcome** → semis tariff risk → MU sells off → stop buffer at 5.7% becomes relevant
+2. **Multiple Fed speakers (hawkish bias)** → 10Y above 5% → AI infra/rate-sensitive headwind → MU pressure
+3. **Jobs data surprise** → strong claims = no-cut signal → yields spike → growth stocks drop
+4. **MU stop buffer compressed** → currently 5.7% cushion; a –5.7% intraday MU move would trigger GTC stop
+5. **Market red open (–0.4 to –0.6%)** → broad de-risking environment; not a day to add new positions
+
+### Decision: HOLD
+- MU thesis intact. GTC auto-managing. No new entries today.
+- Primary risk: Trump-Xi summit outcome; watching for post-10 AM ET developments that could shift MU.
+- Default bias stays HOLD through MU earnings Sep 30. Post-earnings is the next decision gate.
+
+**Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
+**Key watch (today):** MU pre-market $1,055.44 — stop buffer 5.7% ($994.95); Trump-Xi summit headlines; jobless claims 8:30 AM ET; Fed Barkin/Williams/Hammack speeches (hawkish = yield spike risk); MU earnings Sep 30 (6d) binary
