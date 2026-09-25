@@ -7625,3 +7625,9 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
 **Key watch (today):** MU GTC stop $994.95 (8.9% buf); durable goods 8:30 AM ET; UMich 10 AM ET; COST post-earnings pre-market reaction; Sep 30 earnings binary (5 days)
+
+### Afternoon Addendum (Midday Scan — Sep 25)
+- **USITC patent investigation (Netlist vs. MU):** Netlist confirmed USITC formally instituted investigation. Legal risk — typical 15-18 month process, no near-term operational disruption. Thesis intact.
+- **10Y yield near 5.1%:** Elevated above pre-market monitoring threshold (<5%). Rate-factor headwind for MU (AI infra/data center capex = rate-sensitive per Rule 13). Market still buying MU pre-earnings (+0.84% intraday from Seeking Alpha data); binary dominates sentiment.
+- **MU mid-session:** GTC stop auto-ratcheted to $997.848 on new HWM $1,108.72 (was $1,105.50 EOD yesterday). No cut/tighten triggers. HOLD confirmed.
+- **Decision:** No action. Pre-market HOLD thesis confirmed midday.

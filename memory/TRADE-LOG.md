@@ -5636,3 +5636,48 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (Friday):** MU stop $994.95 (7.2% buffer from close); Sep 30 earnings binary (6d); COST post-earnings reaction (macro consumer sentiment); Burry short as ongoing sentiment headwind; potential QCOM pullback setup ($153–157 watch zone if conditions align)
+
+---
+
+## 2026-09-25 — Midday Scan (Day 111, Week 23 Day 5 — Friday)
+**Portfolio:** $110,468.81 | **Cash:** $87,761.30 (79.5%) | **Long MV:** $22,707.51 (20.5%) | **Phase P&L:** +$10,468.81 (+10.47%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,081.31 | +$769.43 | +3.51% | +0.07% | $997.85 (10% trail, 27f76f5f) | $1,108.72 | 7.7% |
+
+**STEP 3 — Losers cut (-7% from entry):** None.
+- MU hard cut triggers at $971.54 (-7% from $1,044.67). Current $1,081.31 — 11.3% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MU | +3.51% | $1,201.37 (11.1% away) | $1,253.60 (15.9% away) | None |
+
+- GTC HWM auto-ratcheted: $1,105.50 (yesterday EOD) → $1,108.72 (new intraday HWM today). Stop auto-moved to $997.848. 7.7% buffer from current.
+- Neither +15% nor +20% tighten triggers reached. No manual action needed.
+
+**STEP 5 — Thesis check:**
+- **MU:** +3.51% unrealized, +0.07% intraday. Pre-earnings positioning intact.
+- **USITC patent investigation (Netlist vs. MU):** Netlist confirmed USITC formally instituted investigation. Legal risk, but USITC proceedings typically take 15-18 months; no immediate operational disruption. AI/HBM demand thesis unchanged. NOT a thesis break — ongoing risk factor to monitor.
+- **10Y yield near 5.1%:** Elevated above pre-market threshold (<5%). Rate-factor headwind for MU (AI infra/data center capex = rate-sensitive per Rule 13). However, MU trading up pre-earnings — market focused on Sep 30 catalyst. Monitor into close.
+- **AI/HBM demand thesis:** Intact. Analyst consensus 94.7%+ Buy. Sep 30 Q4 earnings binary (5 days) unchanged.
+- **INTACT — HOLD. GTC auto-manages.**
+
+**STEP 5 — Thesis check:**
+- **MU:** +3.51% unrealized, +0.07% intraday. Pre-earnings positioning intact.
+- **USITC patent investigation (Netlist vs. MU):** Formally instituted. 15-18 month process; no near-term operational impact. NOT a thesis break.
+- **10Y yield ~5.1%:** Above pre-market <5% threshold. Rate headwind for MU (AI infra = rate-sensitive, Rule 13). Market still buying MU — pre-earnings optimism dominating. Monitor.
+- **AI/HBM demand, analyst consensus, Q4 guidance:** All unchanged. INTACT — HOLD.
+
+**STEP 6 — Intraday research:**
+- New risk factors surfaced: USITC investigation (Netlist) and 10Y near 5.1%. Documented.
+- Durable Goods (8:30 AM ET, consensus –0.3%) and UMich (10 AM ET, consensus 47.8): market constructive → likely in-line. No sharp macro move triggered.
+- No unexplained position moves. MU's muted intraday (+0.07%) consistent with pre-earnings consolidation on a Friday.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Notes:** Day 111 (Friday, Week 23). MU holding pre-earnings. GTC stop auto-ratcheted to $997.848 on new HWM $1,108.72. 7.7% buffer. Neither tighten trigger reached (+15% at $1,201.37, +20% at $1,253.60). Weekend gap risk + Sep 30 earnings binary (5 days) = primary risk events. No new entries per pre-market plan. Pre-market HOLD decision confirmed midday.
+
+**Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (weekend/Monday):** MU GTC stop $997.848 (7.7% buf, HWM $1,108.72); Sep 30 earnings binary (5 days); 10Y yield into weekend close; USITC investigation ongoing tail risk; COST post-earnings consolidation for Monday entry; NOC/GD defense catalyst search
