@@ -1434,3 +1434,67 @@ Template for each entry:
 *Week 22 — FOMC week. Portfolio +1.52% vs S&P -0.38% (+1.90% outperformance). Phase +10% milestone crossed; phase alpha recovered from +1.75% (Week 21) to +3.91% vs benchmark — most improvement since the post-Aug-18 rate-shock recovery. MPC crack spread thesis proved more durable than expected through the FOMC 25bp hike; new ATH $428.00 with GTC stop auto-ratcheting correctly all week. AVGO correctly deferred on explicit trigger miss (FOMC hiked, not held). B- reflects solid FOMC-week outperformance and disciplined gate enforcement, offset by the 5th consecutive zero-trade week (12th+ week below 75–85% deployment target) — phase alpha recovery is driven entirely by S&P declining, not by bot alpha compounding, making it fragile to any strong S&P up-week at 20% deployment.*
 
 ---
+
+## Week ending 2026-09-25
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $110,368.19 |
+| Ending portfolio | $110,557.12 |
+| Week return | +$188.93 (+0.17%) |
+| S&P 500 week | +1.20% (~7,628 Sep 18 → 7,719.87 Sep 25) |
+| Bot vs S&P | -1.03% |
+| Phase return | +$10,557.12 (+10.56% from $100k baseline) |
+| Phase bot vs S&P | +2.82% (bot +10.56% vs S&P +7.74% from Apr 24 start 7,165.08) |
+| Trades | 1 closed (MPC thesis-break) + 1 new (MU) — W:1 / L:0 / open:1 |
+| Win rate | 100% this week (1/1); 31.6% all-time (6/19 closed) |
+| Best trade | MPC +10.52% realized (+$2,129.76) — thesis-break exit |
+| Worst trade | MU +3.91% unrealized (new entry, day 4 at week end) |
+| Profit factor | 1.77 all-time ($22,318 winners / $12,583 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| MPC | $374.76 | $414.20 | +$2,129.76 (+10.52%) | Thesis-break exit Sep 22 midday; WTI dropped to $91–93 (-4.3%) AND MPC followed down (-2.3%) — bullish crack-spread divergence gone; pre-set trigger conditions confirmed; GTC cancelled, market sell executed; 22-day hold (Aug 31→Sep 22) |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| MU | $1,044.67 | $1,085.56 | +$858.68 (+3.91%) | $997.85 (10% trail, HWM $1,108.72, 8.1% buf) — Q4 earnings Sep 30 (2 trading days) |
+
+### What Worked
+- MPC thesis-break exit executed precisely per pre-set trigger rules: WTI thesis gate (WTI firm below $95–98 AND MPC follows down) fired cleanly; GTC cancelled, market sell at $414.20; no hesitation, no hope trade; +10.52% locked in
+- MPC proves the thesis-break discipline complements the stop system: the crack-spread divergence test (does MPC decouple from WTI on downside?) was the correct thesis monitor; it failed Sep 22 confirming the exit
+- MU entry disciplined: Q3 +20% EPS beat, AI/HBM demand, Sep 30 Q4 earnings binary (8 days at entry); all buy-side gates passed; 10% GTC placed immediately; +3.91% by week end with stop auto-ratcheting to $997.85
+- GTC trailing stop on MU self-managed correctly across 4 sessions: HWM ratcheted from $1,047 → $1,108.72 on early-week strength; stop auto-advanced from $942 → $997.85; no manual intervention
+- Taiwan plant strike (Taoyuan union vote) correctly classified as non-thesis-break: no production disruption confirmed; Burry short disclosure also correctly evaluated as bearish sentiment, not fundamental change — thesis discipline maintained
+
+### What Didn't Work
+- Bot underperformed S&P by -1.03% in a week where S&P gained +1.20% (7,628→7,719.87); single 20% position generates insufficient portfolio alpha in a rising week
+- Deployment: 20.4% at week end — 14th+ consecutive week below 75–85% target; MPC exit freed $23.8k Monday and MU only redeployed ~20%; 5 position slots idle entering next week
+- MU earnings binary Sep 30 (now 2 trading days away) creates forced caution on new entries; correctly not adding to a pre-earnings position, but this means deployment target cannot be met until after the print
+- Phase alpha compressed from +3.91% (Week 22) to +2.82% (Week 23) as S&P outperformed +1.03% in a week where we had limited deployment
+- No second position entered: QCOM pullback setup ($153–157 target) never reached the zone; COST earnings AMC Thu were positive but no entry executed; research pipeline thin again
+
+### Key Lessons
+- MPC crack-spread thesis taught the most important divergence lesson of the phase: when WTI falls and MPC ALSO falls (no crack-spread expansion), the supply-side thesis is broken — the bullish case was crude-falling-while-refined-margins-expand (Sep 18: WTI -2.5%, MPC +1.3% = divergence intact); Sep 22 reversal (WTI -4.3%, MPC -2.3% = correlation restored) was the objective signal to exit; pre-set thesis triggers beat discretionary monitoring
+- 22-day hold (+10.52%) validates that energy names with specific supply catalysts can absorb rate shocks (FOMC 25bp hike) better than AI infra and utility names — MPC's earnings driver is commodity spreads, not capex multipliers; this insight supports re-entry in energy when WTI thesis resets
+- MU entry proves the semiconductor earnings-catalyst playbook: Q3 beat → AI/HBM structural demand → Q4 guide confirms → pre-earnings entry captures the run-up; matches the MRVL COMPUTEX setup pattern (catalyst event driving a tech leader); let the GTC manage through Sep 30
+- Pre-market thesis-trigger documentation (set MPC exit conditions Sep 18 pre-market before the session) prevented ad-hoc decision-making on Sep 22; writing exit conditions in advance is the single best protection against thesis-defense bias on the day of the move
+- Phase win rate improved to 31.6% (6/19): all 6 wins are MPC (+10.52%), MRVL (+50.77%), GE (+28.42%), RTX (+20.36%), LMT (+3.69%), NOC (+2.31%); 13 losses average roughly -5.5%; profit factor 1.77 means $1.77 won per $1 lost — the phase is structurally profitable but needs deployment scale to translate per-win alpha into portfolio alpha
+
+### Adjustments for Next Week
+- **MU:** Sep 30 earnings binary (2 trading days); 10% GTC stop $997.85 (8.1% buf from $1,085.56); expected move ~7.8%; pre-plan two scenarios: (a) Q4 beat + raised AI/HBM guide → hold, let GTC run, target +15% tighten at $1,201.37; (b) miss or weak forward guide → sell-the-news risk elevated, consider post-print close if thesis weakens; do NOT add to MU pre-earnings; do NOT move stop down under any circumstances
+- **Post-MU-earnings redeployment:** If MU resolves (either stop-out or post-earnings exit), immediately deploy 2–3 positions on Oct 1–2 pre-market; do NOT let freed cash sit idle a second week; primary candidates: NOC/GD (contracted-backlog defense, non-rate-sensitive), VRT (AI infra recovery if 10Y yield eases below 5%), COST (if post-earnings thesis intact and price in entry zone); rate-factor Rule 13: MU = rate-sensitive (AI infra); next entries rate-classification required
+- **10Y yield watch:** 5.1% at week end — above the ≤5% pre-market entry gate for rate-sensitive names; if yield holds above 5%, next entry must be rate-uncorrelated (contracted-backlog defense); monitor daily; relief below 4.9% = green light for rate-sensitive re-entry
+- **WTI equilibrium reset:** WTI ~$89–92 after the Sep 22 sell-off; energy sector re-entry requires WTI stabilization at a new floor AND a fresh supply catalyst; no energy until thesis resets with documented catalyst; MPC 2-consecutive-sector count: 1 (VST prior); second energy fail = sector ban; be cautious
+- **Deployment imperative:** Phase alpha at +2.82% after 23 weeks; must restore to ≥75% deployment by Oct 3 or alpha compresses further on any S&P up-week; FOMC next meeting Nov 4–5 (5+ weeks away); no binary macro events block entry Oct 1–10; use the window
+
+### Overall Grade: C+
+*Week 23 — portfolio +0.17% vs S&P +1.20% (-1.03% underperformance). MPC thesis-break exit executed precisely per pre-set trigger conditions (+10.52% locked; no discretion, no hesitation). MU entered on AI/HBM Q4-earnings catalyst at correct sizing, performing +3.91% in 4 sessions. All GTC orders self-managed correctly. C+ reflects disciplined execution of two distinct rule types (thesis-break exit + catalyst entry) offset by the 14th consecutive week below 75–85% deployment target — a single position at 20% deployment cannot generate alpha in a +1.20% S&P week regardless of per-position performance. MU earnings Sep 30 is the immediate binary; post-print deployment of 2–3 positions is the Week 24 primary objective.*
+
+---
