@@ -5681,3 +5681,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (weekend/Monday):** MU GTC stop $997.848 (7.7% buf, HWM $1,108.72); Sep 30 earnings binary (5 days); 10Y yield into weekend close; USITC investigation ongoing tail risk; COST post-earnings consolidation for Monday entry; NOC/GD defense catalyst search
+
+---
+
+## 2026-09-25 — EOD Snapshot (Day 111, Week 23 Day 5 — Friday)
+**Portfolio:** $110,557.12 | **Cash:** $87,761.30 (79.4%) | **Day P&L:** +$104.69 (+0.09%) | **Phase P&L:** +$10,557.12 (+10.56%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,085.56 | +$105.63 (+0.47%) | +$858.68 (+3.91%) | $997.848 (10% trail, HWM $1,108.72) |
+
+**Notes:** Day 111 (Friday, Week 23 Day 5). MU gained +0.47% to $1,085.56 close. Close is below the HWM of $1,108.72 set midday — stop does NOT ratchet further; remains at $997.848 (8.1% buffer from close). Neither tighten trigger reached (+15% at $1,201.37 = 10.7% away; +20% at $1,253.60 = 15.5% away). No trades today; week closes 1/3. New risks documented midday: USITC Netlist patent investigation (15–18 month process, not thesis-breaking), 10Y yield ~5.1% (rate headwind, but MU pre-earnings optimism dominant). Thesis intact — holding into Sep 30 earnings. Weekend gap risk present. Phase P&L +10.56% vs S&P baseline. 79.4% cash, 20.4% deployed (below 75–85% target — earnings binary explains caution on new entries).
+
+**Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (Monday Sep 28):** MU GTC stop $997.848 (8.1% buf, HWM $1,108.72); Sep 30 earnings binary (2 trading days); USITC ongoing tail risk; COST post-earnings for potential Monday entry; 10Y yield direction; macro open for new catalyst scan
