@@ -7549,3 +7549,79 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **MU verdict:** HOLD. Stop $994.95 (5.70% buffer). Sep 30 earnings remain the binary.
 
 **COST earnings AMC:** Costco reports after close — macro consumer sentiment signal for Friday.
+
+---
+
+## 2026-09-25 — Pre-Market Research (Day 111, Week 23 Day 5 — Friday)
+
+### Account Snapshot
+- **Equity:** $110,720.51 | **Cash:** $87,761.30 (79.2%) | **Long MV:** $22,959.21 (20.7%)
+- **Phase P&L:** +$10,720.51 (+10.72%) | **Phase bot vs S&P:** +3.91%+ (tracking)
+- **Open positions:** 1/6 (MU) | **Trades this week (W23):** 1/3 | **Daytrades:** 0
+- **MU:** 21 sh @ $1,044.67 entry | Pre-market ~$1,093.30 (+4.66% unrealized) | Stop $994.95 (10% trail, HWM $1,105.50)
+- **MU stop buffer:** 8.9% from current; hard cut $971.54 (-7% from entry)
+
+### Market Context
+- **WTI:** ~$93–96/bbl intraday (oilprice.com $92.97 −1.73%; FX Empire $95.85 −1.67%); Brent ~$105/bbl; oil pulling back from week highs
+- **S&P 500 futures:** +0.3% pre-market (~7,790 E-mini Dec contract); constructive tone to close the week
+- **VIX:** 15.03 (down from 15.67 yesterday); calm risk-off signal absent; risk-on regime intact
+- **Yields:** No fresh hawkish spike flagged; 10Y monitoring below 5% threshold
+- **Sectors YTD (Sep 24):** Energy XLE +39.61% (#1) | Health Care XLV +9.77% (#2) | Communication XLC +6.02% (#3) | Financials XLF –0.38% (laggard)
+- **September MTD:** Technology led (+2.1% median); Utilities lagged (–6.5%); AI/Tech momentum intact
+
+### Today's Calendar (Sep 25)
+- **8:30 AM ET:** Durable Goods Orders (Aug) — consensus –0.3% MoM (prior +1.1%); ex-Transport +0.6% MoM (prior +0.4%)
+- **10:00 AM ET:** UMich Consumer Sentiment final (Sep) — consensus 47.8 vs prior 51.7; meaningful deterioration expected
+- **BMO:** No major earnings before the open (Tamboran Resources TBN only)
+- **AMC:** UEC (Uranium Energy) after close
+- **COST (post-AMC):** Costco Q4 FY2026 beat — EPS $6.75 vs $6.53 est (+3.4%), Rev $95.72B vs $94.97B est (+0.8%), Net income +14.9% YoY; post-earnings reaction expected pre-market
+
+### MU Position Update
+- **Thesis INTACT.** Pre-market higher; Sep 30 Q4 FY2026 earnings binary (5 days).
+- **Analyst consensus:** 94.7%+ Buy; avg targets $1,400–$1,625; Q4 guidance ~$50.45B rev / ~$31 EPS / ~86% GM.
+- **HBM demand + AI memory thesis:** Intact. Tech sector September momentum leader (+2.1%).
+- **Burry short overhang:** Ongoing sentiment headwind; fundamental thesis unchanged.
+- **Stop status:** GTC $994.95 (10% trail, HWM $1,105.50); buffer 8.9% from current $1,093.30. Hard cut $971.54.
+- **+15% tighten trigger:** $1,201.37 (9.8% away from current). Not yet reached.
+- **Action: HOLD.** GTC auto-managing. Sep 30 binary is the next decision gate.
+
+### Trade Ideas
+
+**#1 — COST (Costco): POST-EARNINGS WATCHLIST → WAIT**
+- Catalyst: Q4 FY2026 beat AMC Sep 24 — EPS $6.75 (+3.4% beat), Rev $95.72B (+0.8% beat), Net income +14.9% YoY.
+- Rate classification: NOT rate-sensitive (consumer staples); compatible with MU under Rule 13.
+- Post-earnings Rule 12: Initial stop 7% (entry within 3 days of earnings print).
+- Problem: COST likely gaps up at open today (AMC beat reaction); entry today = chasing an AMC gap; uncertain consolidation timing on day 1.
+- Entry target: Wait for COST to establish post-earnings support; entry on any Monday (Sep 28) consolidation in a defined range.
+- Catalyst for Monday: Post-earnings price stability + consumer strength thesis (COST membership growth driving recurring revenue).
+- Target: 15–20% above entry (2:1+ R:R with 7% initial stop).
+- **Decision: WATCHLIST. Do not chase gap today. Reassess Mon pre-market.**
+
+**#2 — NOC/GD (Defense/Aerospace Contracted Backlog): WATCHLIST → RESEARCH MONDAY**
+- Rate classification: NOT rate-sensitive (contracted backlog); OK under Rule 13.
+- Thesis: Defense spending elevated; NATO capex mandates; DRS/LHHN awards calendar.
+- No specific catalyst today.
+- Pre-market conditions today (Friday end-of-week before MU binary) not ideal for new position initiation.
+- **Decision: WATCHLIST. Identify specific catalyst by Monday open.**
+
+**#3 — MU (hold)**
+- Sep 30 earnings binary (5 days) = primary event; GTC stop covers downside.
+- Adding second position today means two positions going into the MU binary week.
+- Risk: Concentration — if MU misses, market sells off and a second position would also be under pressure simultaneously.
+- **Decision: Let MU binary resolve first; post-Sep-30 is the next deployment gate for Week 24.**
+
+### Risk Factors
+1. **UMich sentiment (10 AM ET, 47.8 consensus)** → if prints below 47, risk-off signal; consumer confidence deteriorating
+2. **Durable goods miss (–0.3% expected)** → if beats, yields spike → AI infra headwind for MU
+3. **MU stop buffer compressed from 9.8% (Sep 22) to 8.9% (current)** — 5-day pre-earnings vol window; GTC covers but monitor
+4. **Weekend gap risk** → entering a new position today leaves exposure over 2-day weekend before Sep 30 binary week
+5. **Oil pullback (WTI –1.7%)** → watch for refiner/energy sector reaction; MPC (no longer held) would've been pressure
+
+### Decision: HOLD
+- MU thesis intact + stop auto-managing. No new entries today.
+- Rationale: Friday entry before a 2-day weekend preceding MU's earnings binary (Sep 30) stacks compounding risk; patience > activity.
+- **Primary deployment gate:** Post-MU-earnings (Oct 1+) — 2 trade slots remain for Week 23 if needed; more likely Week 24 is the redeployment week.
+- **Monday watchlist:** COST post-earnings consolidation entry; NOC/GD defense catalyst; any sector that surfaces on Mon pre-market with a specific catalyst.
+
+**Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
+**Key watch (today):** MU GTC stop $994.95 (8.9% buf); durable goods 8:30 AM ET; UMich 10 AM ET; COST post-earnings pre-market reaction; Sep 30 earnings binary (5 days)
