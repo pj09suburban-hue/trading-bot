@@ -7631,3 +7631,79 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **10Y yield near 5.1%:** Elevated above pre-market monitoring threshold (<5%). Rate-factor headwind for MU (AI infra/data center capex = rate-sensitive per Rule 13). Market still buying MU pre-earnings (+0.84% intraday from Seeking Alpha data); binary dominates sentiment.
 - **MU mid-session:** GTC stop auto-ratcheted to $997.848 on new HWM $1,108.72 (was $1,105.50 EOD yesterday). No cut/tighten triggers. HOLD confirmed.
 - **Decision:** No action. Pre-market HOLD thesis confirmed midday.
+
+## 2026-09-28 — Pre-Market Research (Day 112, Week 24 Day 1 — Monday)
+
+### Account Snapshot
+- **Equity:** $110,147.09 | **Cash:** $87,761.30 (79.7%) | **Long MV:** $22,385.79 (20.3%)
+- **Phase P&L:** +$10,147.09 (+10.15%) | **Open positions:** 1/6 (MU) | **Trades this week (W24):** 0/3 | **Daytrades:** 0
+- **MU:** 21 sh @ $1,044.67 entry | Current $1,065.99 (-1.51% intraday from $1,082.28 Friday close) | Unrealized +$447.71 (+2.04%)
+- **MU GTC stop:** $997.848 (10% trail, HWM $1,108.72) | Stop buffer: 6.4% from current | Hard cut: $971.54 (-7% entry)
+
+### Market Context
+- **WTI:** ~$94/bbl (rebounded from $92 Fri; Trump rejected Iran's Hormuz 7-day proposal over weekend → risk premium back)
+- **Brent:** ~$100/bbl
+- **S&P 500 futures:** ~7,805.75 (flat to slightly higher; mixed signals — Hormuz rejection re-elevated oil risk, but Goolsbee dovish speech 1pm ET supportive)
+- **VIX:** 14.87 (Sep 25 close, -5.1% from prior day) — low-vol bull regime; contango term structure
+- **10Y yield:** ~5.1% (above pre-market 5.0% monitoring threshold; rate headwind for MU as AI infra = rate-sensitive per Rule 13)
+- **Sector YTD leaders:** Energy XLE +38.8% | Technology XLK +36.3% | Health Care XLV +10.3%
+- **Sector YTD laggards:** Utilities XLU -7.4% | Consumer Discretionary XLY -7.4%
+- **September MTD:** Technology median +1.7% leading; Energy median -6.7% lagging (Hormuz spike reverting)
+
+### Today's Calendar (Sep 28)
+- **9:00 AM ET:** S&P Case-Shiller Home Price Index (July)
+- **10:00 AM ET:** JOLTS Job Openings (Aug) + Conference Board Consumer Confidence (Sep)
+- **1:00 PM ET:** Chicago Fed President Goolsbee speech (dovish, likely market-supportive)
+- **No BMO earnings** of note (CCL Carnival BMO, EPS est $1.37 — macro consumer signal only)
+- **AMC:** JEF (Jefferies, EPS est $1.00 — financials read-through)
+
+### This Week's Key Events
+- **Wednesday Sep 30:** MU earnings AMC (consensus EPS $31.52, Rev $51.07B) + Core PCE (Aug, est +0.3% MoM)
+- **Friday Oct 2:** September NFP (~100K consensus, prev 162K) + ISM Manufacturing PMI
+
+### MU Position Update
+- **Thesis INTACT.** MU -1.51% intraday on pre-earnings profit-taking + oil/rate risk-off. Not a thesis break.
+- **Earnings Sep 30 AMC:** "The number the AI trade is waiting on." Analyst consensus 44 Buy, 0 Sell. Avg target $1,515.
+  - Last quarter beat: EPS $25.11 vs $21.39 est (+$3.72); Rev +345.8% YoY.
+  - Q4 FY26 estimates: EPS $31.52, Rev $51.07B. "Beat-and-raise" scenario primary bull case.
+  - MarketWatch Sep 27: "Micron could dethrone Nvidia as biggest driver of S&P 500 profit growth."
+- **Stop buffer compressed:** 6.4% from current $1,065.99 → HWM $1,108.72 (stop $997.848). Monitor closely.
+- **Rate risk:** 10Y near 5.1%, MU = rate-sensitive (Rule 13). Not new — MU held up through this.
+- **USITC/Netlist investigation:** Ongoing 15-18 month process. Tail risk only.
+- **Action: HOLD.** GTC auto-managing. Sep 30 is the gate.
+
+### Trade Ideas
+
+**#1 — COST (Costco): POST-EARNINGS WATCHLIST → HOLD**
+- Catalyst: Q4 FY2026 beat (EPS $6.75 vs $6.54 est, +3.5% beat; Rev $95.72B vs $94.97B; net income +15% YoY)
+- Rate classification: NOT rate-sensitive (consumer staples) — OK alongside MU under Rule 13
+- Post-earnings: Closed $922.77 (+2.93% from pre-earnings). Consolidating flat since.
+- **Problem: COST below 200-day MA and near bottom of 52-week range** — weak technicals despite earnings beat. Entering against 200dma with 7% trailing stop (Rule 12, day 2 post-earnings) carries elevated stop-hit risk.
+- **Gate:** Let Consumer Confidence data (10am ET today) play out. If COST holds after today's macro data + through MU binary (Sep 30), a cleaner entry opens Thursday Oct 1 post-MU-binary with improved technical context.
+- **Decision: WATCHLIST. No entry today.**
+
+**#2 — Semi rebound plays (QCOM/NVDA): POST-MU-BINARY**
+- Primary gate: MU must beat on Sep 30; if beat-and-raise, semis broadly rerate higher.
+- QCOM previously in watch zone $153-157; check on Sep 30 post-MU-print.
+- **Decision: WATCHLIST. Post-MU-binary entry window is Oct 1+.**
+
+**#3 — Defense/Industrials (NOC/GD): RESEARCH LATER**
+- Not rate-sensitive (contracted backlog). No specific catalyst today.
+- Earnings catalyst search needed before any entry. Week 24 priority if MU binary clears positively.
+- **Decision: WATCHLIST. No catalyst yet.**
+
+### Risk Factors
+1. **MU earnings binary (Sep 30 AMC):** Expected move ~7.8%; a miss vs $31.52 EPS consensus = potential -15% overnight gap, stop at $997.848 would not protect from gap-down below stop
+2. **Trump rejected Iran Hormuz proposal (overnight):** Oil risk premium re-elevated (WTI ~$94); 10Y may spike further on inflationary signal; rate headwind for MU and broad AI infra
+3. **Core PCE Wednesday (same day as MU earnings):** If +0.4% MoM (+0.3% consensus), hawkish surprise; both rate risk AND MU binary on same day
+4. **MU stop buffer compressed (6.4%):** Lower than last week's 7.7-8.1%; pre-earnings vol in 2-day window could trigger GTC stop before earnings print
+5. **Consumer confidence today:** If Conference Board Sep print misses (<100), risk-off sentiment; COST and consumer names under pressure
+
+### Decision: HOLD
+- MU thesis intact; GTC stop auto-managing. No new entries today.
+- Rationale: (a) COST below 200dma = unfavorable technical setup with 7% stop; (b) convergence of Core PCE + MU earnings both Wednesday = compounding binary risk on adding new positions; (c) Consumer confidence data today may clarify COST thesis before committing.
+- Primary deployment gate: Post-MU earnings (Oct 1+) — if MU beats and semis rally, Week 24 trade slots available for COST or QCOM.
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
+**Key watch (today):** MU stop $997.848 (6.4% buf); JOLTS + Consumer Confidence 10am ET; Goolsbee 1pm ET; COST consolidation above $900; Trump/Iran headlines on Hormuz
+
