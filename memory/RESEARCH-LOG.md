@@ -7707,3 +7707,9 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
 **Key watch (today):** MU stop $997.848 (6.4% buf); JOLTS + Consumer Confidence 10am ET; Goolsbee 1pm ET; COST consolidation above $900; Trump/Iran headlines on Hormuz
 
+
+### Afternoon Addendum (Midday Scan)
+- **MU intraday −3.37%** to $1,045.85. Perplexity research: pre-earnings profit-taking + macro risk-off (yields ~5.1%, WTI ~$94 post-Hormuz). No new MU-specific fundamental news.
+- **GTC stop buffer compressed to 4.59%** (stop $997.848, HWM $1,108.72). GTC auto-managing; if MU falls another ~4.6%, position exits before Sep 30 earnings.
+- **Thesis INTACT.** 44 Buy/0 Sell analyst consensus unchanged. Sep 30 binary unaffected.
+- **No action taken.** No Slack notification.

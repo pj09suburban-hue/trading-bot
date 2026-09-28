@@ -5695,3 +5695,44 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 23 trades:** 1/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (Monday Sep 28):** MU GTC stop $997.848 (8.1% buf, HWM $1,108.72); Sep 30 earnings binary (2 trading days); USITC ongoing tail risk; COST post-earnings for potential Monday entry; 10Y yield direction; macro open for new catalyst scan
+
+---
+
+## 2026-09-28 — Midday Scan (Day 112, Week 24 Day 1 — Monday)
+**Portfolio:** $109,709.45 | **Cash:** $87,761.30 (79.9%) | **Long MV:** $21,948.15 (20.0%) | **Day P&L:** −$765.14 (−3.37% on MU) | **Phase P&L:** +$9,709.45 (+9.71%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,045.85 | +$24.67 | +0.112% | −3.37% | $997.848 (10% trail, 27f76f5f) | $1,108.72 | 4.59% |
+
+**STEP 3 — Losers cut (−7% from entry):** None.
+- MU hard cut triggers at $971.54 (−7% from $1,044.67). Current $1,045.85 — 7.1% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MU | +0.112% | $1,201.37 (15.0% away) | $1,253.60 (19.8% away) | None |
+
+- GTC HWM unchanged at $1,108.72; stop $997.848 unchanged (HWM not breached today — price below HWM so stop does not ratchet). Stop buffer compressed to 4.59% from current.
+- Neither +15% nor +20% tighten triggers reached. No manual action needed.
+
+**STEP 5 — Thesis check:**
+- **MU:** +0.112% unrealized, −3.37% intraday. Nearly given back all gains from the week.
+- **Driver of today's drop:** Perplexity research confirmed pre-earnings profit-taking + macro risk-off (10Y yields elevated ~5.1%, WTI ~$94/bbl post-Hormuz re-escalation). No new adverse MU-specific fundamental news.
+- **SK Hynix / DeepSeek / USITC:** Previously known risks; no new escalation today.
+- **Analyst consensus:** 44 Buy, 0 Sell; avg target $1,515. Unchanged.
+- **Earnings Sep 30 AMC (2 days):** Consensus EPS $31.52, Rev $51.07B. The primary binary.
+- **Key risk flag:** Stop buffer compressed to 4.59% — below prior levels (was 6.4% at pre-market open, 8.1% Friday EOD). If MU drops another ~4.6%, GTC executes before earnings print. GTC is the risk manager; no manual override appropriate.
+- **INTACT — HOLD. GTC auto-manages.**
+
+**STEP 6 — Intraday research:**
+- Perplexity query: "Micron Technology MU stock today September 28 2026 why is it down intraday news catalyst"
+- Result: Confirms pre-earnings profit-taking + macro/rate headwind + "AI Safety Fears, Higher Yields" headline (yields-driven, not MU operational). No new fundamental catalyst.
+- No new entries warranted; COST and QCOM remain post-MU-binary watchlist.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Notes:** Day 112 (Monday, Week 24 Day 1). MU down sharply today (−3.37%) on pre-earnings profit-taking + macro risk-off. Position nearly at breakeven (+0.112% unrealized). Stop buffer compressed to 4.59% (4.59% from current to GTC stop $997.848). GTC at $997.848 is the protection — if MU sells off further, GTC exits the position before earnings print. This is by design; the GTC trail is the risk manager. No manual action appropriate. Earnings Sep 30 AMC remains the binary. Phase P&L +9.71% vs $100k start.
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (rest of day):** MU stop $997.848 (4.59% buffer) — GTC auto-managing; Sep 30 earnings binary (2 days); JOLTS + Consumer Confidence 10am ET results; Goolsbee 1pm ET; if MU drops to ~$1,000–1,005 range the GTC may execute; any new MU-specific fundamental news before close
