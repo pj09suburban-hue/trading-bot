@@ -5736,3 +5736,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (rest of day):** MU stop $997.848 (4.59% buffer) — GTC auto-managing; Sep 30 earnings binary (2 days); JOLTS + Consumer Confidence 10am ET results; Goolsbee 1pm ET; if MU drops to ~$1,000–1,005 range the GTC may execute; any new MU-specific fundamental news before close
+
+---
+
+## 2026-09-28 — EOD Snapshot (Day 112, Week 24 Day 1 — Monday)
+**Portfolio:** $109,890.26 | **Cash:** $87,761.30 (79.9%) | **Day P&L:** −$598.92 (−0.54%) | **Phase P&L:** +$9,890.26 (+9.89%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,053.77 | −$28.52 (−2.63%) | +$190.99 (+0.87%) | $997.848 (10% trail, HWM $1,108.72, 5.3% buf) |
+
+**Notes:** Day 112 (Monday, Week 24 Day 1). MU gave back −2.63% today, continuing Friday's pre-earnings profit-taking trend. Stop buffer compressed to 5.3% (from 8.1% Friday EOD → 4.59% midday → 5.3% EOD after partial afternoon recovery). MU unrealized +0.87% from entry — nearly breakeven phase. GTC trailing stop at $997.848 (HWM $1,108.72) is the sole risk manager into Sep 30 earnings binary (T-2). No trades today. Phase P&L +9.89% vs $100k start. Macro headwinds persist (10Y ~5.1%, WTI ~$94 post-Hormuz). Thesis intact — AI/HBM demand unchanged, 44 analyst Buys. Tomorrow (T-1) is the last session before Sep 30 AMC; no new entries until post-earnings clarity.
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (Tue Sep 29):** MU GTC stop $997.848 (5.3% buf); Sep 30 AMC earnings T-1 (EPS cons $31.52, Rev cons $51.07B); any MU pre-earnings analyst upgrade/downgrade; JOLTS/macro follow-through; COST/QCOM post-earnings scan after binary resolves
