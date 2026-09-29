@@ -5793,3 +5793,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (rest of day/tomorrow):** MU GTC stop $997.848 (6.89% buf); ADP employment 8:15am ET Sep 30 (beats = risk-on, misses = risk-off amplifier); MU earnings Sep 30 AMC 4:30pm ET (EPS cons $31.43–$31.52, Rev $50.82–$51.07B); post-earnings gap reaction; COST/QCOM entry window opens post-binary
+
+---
+
+## 2026-09-29 — EOD Snapshot (Day 113, Week 24 Day 2 — Tuesday)
+**Portfolio:** $110,269.52 | **Cash:** $87,761.30 (79.6%) | **Day P&L:** +$374.64 (+0.34%) | **Phase P&L:** +$10,269.52 (+10.27%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,072.09 | +$18.11 (+1.72%) | +$575.81 (+2.63%) | $997.848 (10% trail, HWM $1,108.72, 6.9% buf) |
+
+**Notes:** Day 113 (Tuesday, Week 24 Day 2 — T-1 before Sep 30 AMC earnings). MU bounced +1.72% today, recovering from Monday's −2.63% selloff on pre-earnings positioning and AI/HBM optimism (JPMorgan/Wedbush/Baird all reiterated bullish). Stop buffer improved to 6.9% (from 5.3% yesterday EOD). No trades today. GTC trailing stop at $997.848 (HWM $1,108.72) is the sole risk manager heading into tomorrow's binary (EPS cons $31.52, Rev cons $51.07B — high bar on guidance/FY2027 outlook). Phase P&L +10.27% vs $100k start. Tomorrow: ADP at 8:15am ET, MU earnings 4:30pm ET AMC.
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (Wed Sep 30):** MU GTC stop $997.848 (6.9% buf); ADP employment 8:15am ET (risk-on/off read); MU earnings AMC 4:30pm ET (EPS cons $31.52, Rev $51.07B; market cares more about FY2027 guidance); post-earnings gap → assess COST/QCOM entry window; GTC manages binary risk
