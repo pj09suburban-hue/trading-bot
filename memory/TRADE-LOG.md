@@ -5750,3 +5750,46 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (Tue Sep 29):** MU GTC stop $997.848 (5.3% buf); Sep 30 AMC earnings T-1 (EPS cons $31.52, Rev cons $51.07B); any MU pre-earnings analyst upgrade/downgrade; JOLTS/macro follow-through; COST/QCOM post-earnings scan after binary resolves
+
+---
+
+## 2026-09-29 — Midday Scan (Day 113, Week 24 Day 2 — Tuesday)
+**Portfolio:** $110,265.41 | **Cash:** $87,761.30 (79.6%) | **Long MV:** $22,504.23 (20.4%) | **Day P&L:** +$370.65 (+1.68% on MU) | **Phase P&L:** +$10,265.41 (+10.27%)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,071.63 | +$566.15 | +2.58% | +1.68% | $997.848 (10% trail, 27f76f5f) | $1,108.72 | 6.89% |
+
+**STEP 3 — Losers cut (−7% from entry):** None.
+- MU hard cut triggers at $971.54 (−7% from $1,044.67). Current $1,071.63 — 9.3% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MU | +2.58% | $1,201.37 (12.1% away) | $1,253.60 (17.0% away) | None |
+
+- GTC HWM at $1,108.72 unchanged — current price $1,071.63 < HWM, so stop does NOT auto-ratchet. Stop $997.848 unchanged. Buffer improved to 6.89% from yesterday's 5.3% (price recovered intraday).
+- Neither +15% nor +20% tighten triggers reached. No manual action needed.
+
+**STEP 5 — Thesis check (T-1 before Sep 30 AMC earnings):**
+- **MU:** +2.58% unrealized, +1.68% intraday. Pre-earnings bounce from Monday's -2.63% selloff — expected pattern.
+- **Today's intraday range:** $1,032.00–$1,084.81. Current $1,071.63 in upper half of range.
+- **Pre-earnings flow:** JPMorgan reiterates (Harlan Sur expects strong memory pricing confirmation). Wedbush + Baird reiterate bullish ahead of print. Analyst consensus unchanged: 44 Buy/0 Sell, avg target $1,515.
+- **Bearish sentiment note:** "There Might Be No Way Back for Micron Stock" headline (TipRanks) — sentiment piece, not fundamental change. NOT thesis-breaking.
+- **USITC/Netlist:** No escalation. Still 15-18 month process.
+- **10Y yield:** ~5.1% (persistent; rate headwind for MU per Rule 13). Market focused on Sep 30 binary, not rate dynamics today.
+- **WTI:** ~$92/bbl (eased from $94 Monday). Mild macro relief.
+- **Sep 30 dual binary still ahead:** ADP employment (8:15am ET) + MU earnings AMC (4:30pm ET). These are tomorrow's events.
+- **INTACT — HOLD. GTC is sole risk manager into binary.**
+
+**STEP 6 — Intraday research:**
+- Perplexity confirmed: today's bounce is pre-earnings positioning on AI/HBM optimism; no new adverse fundamental developments.
+- High bar for guidance still the key risk: consensus EPS $31.43–$31.52, Rev $50.82B–$51.07B. Market will react more to FY2027 outlook than Q4 headline.
+- No unexplained sharp moves requiring further research.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Notes:** Day 113 (Tuesday, Week 24 Day 2). MU bounced +1.68% intraday recovering from Monday's -2.63%. T-1 before Sep 30 AMC earnings binary. Stop buffer improved to 6.89% (from 5.3% yesterday EOD) as price recovered. GTC stop $997.848 (HWM $1,108.72) is the sole risk manager — no manual override appropriate. Thesis intact. Phase P&L +10.27%.
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (rest of day/tomorrow):** MU GTC stop $997.848 (6.89% buf); ADP employment 8:15am ET Sep 30 (beats = risk-on, misses = risk-off amplifier); MU earnings Sep 30 AMC 4:30pm ET (EPS cons $31.43–$31.52, Rev $50.82–$51.07B); post-earnings gap reaction; COST/QCOM entry window opens post-binary
