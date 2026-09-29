@@ -7713,3 +7713,76 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **GTC stop buffer compressed to 4.59%** (stop $997.848, HWM $1,108.72). GTC auto-managing; if MU falls another ~4.6%, position exits before Sep 30 earnings.
 - **Thesis INTACT.** 44 Buy/0 Sell analyst consensus unchanged. Sep 30 binary unaffected.
 - **No action taken.** No Slack notification.
+
+---
+
+## 2026-09-29 — Pre-Market Research (Day 113, Week 24 Day 2 — Tuesday)
+
+### Account Snapshot
+- **Equity:** $110,227.10 | **Cash:** $87,761.30 (79.6%) | **Phase P&L:** +$10,227.10 (+10.23%)
+- **Positions:** 1/6 (MU) | **Trades this week:** 0/3 | **Daytrades:** 0
+- **MU:** 21 shares @ $1,044.67 entry | Current $1,069.80 (+1.50% yesterday EOD, pre-market data below)
+- **MU GTC stop:** $997.848 (10% trail, HWM $1,108.72, 5.3% buffer from yesterday close)
+- **Long MV:** $22,465.80 (20.4%) | Buying power: $413,949.44 (paper 4x margin)
+
+### Market Context
+- **WTI:** ~$92.22–$92.83/bbl (easing from $94–95 yesterday; mild relief)
+- **Brent:** ~$97.27/bbl
+- **S&P 500 futures:** 7,742–7,748 (-0.03% to -0.06%) — essentially flat pre-market
+- **VIX:** 16.07 (healthy, not elevated; market not pricing fear)
+- **10Y Treasury:** ~5.1% (still elevated, persistent rate headwind for AI infra names)
+- **Sector momentum:** Tech leading YTD (+27.2%), Energy strong (+41.7% trailing 12M), Healthcare positive (+21.3%), Consumer Discretionary lagging (-1.7%)
+
+### Today's Calendar (Sep 29)
+- **BMO:** CCL (Carnival, EPS est $1.35–1.42) — consumer/travel read; KMX (CarMax, EPS est $0.68–0.72) — auto/consumer
+- **No major macro data today** (JOLTS/Consumer Confidence from yesterday already priced)
+- **Key watch tomorrow (Sep 30):** ADP employment @ 8:15am ET + **MU earnings AMC @ 4:30pm ET** — dual binary day
+
+### MU Position Update (T-1 before earnings)
+- **Pre-market:** MU down ~2.1–2.6% pre-market (cautious trimming before earnings binary; not thesis-breaking)
+- **Earnings Sep 30 AMC:** Q4 FY2026 consensus EPS $31.52, Rev $51.07B; 44 Buy/0 Sell analysts; avg target $1,515
+- **High bar:** Media noting expectations that post-earnings revisions may be more muted than prior quarters; sell-the-news risk elevated for a stock up +2.4% since entry
+- **GTC stop status:** $997.848 (HWM $1,108.72, 5.3% buffer from $1,053.77 yesterday close). If MU falls ~2.6% from yesterday close it approaches the high-risk zone where pre-earnings vol could trigger the stop
+- **Rate factor:** MU = rate-sensitive (Rule 13). 10Y ~5.1%. Risk unchanged.
+- **USITC/Netlist:** Ongoing tail, no escalation
+- **Action: HOLD.** GTC is the sole risk manager into the binary. No manual override warranted.
+
+### Trade Ideas
+
+**#1 — MU (Hold existing): HOLD**
+- Current unrealized +$527.72 (+2.41%). GTC auto-managing at $997.848.
+- T-1 rule: No adjustments. Let GTC execute or earnings catalyst play out.
+- Stop buffer ~5.3% from yesterday close — elevated gap-down risk through Sep 30 earnings.
+
+**#2 — COST (Costco): WATCHLIST (post-MU-binary)**
+- Catalyst: Prior Q4 beat (EPS $6.75 vs $6.54); consumer resilience thesis
+- Still below 200dma — unfavorable technical setup for new entry with 7% trail (Rule 12)
+- Gate: Post-MU-binary (Oct 1+), and COST must be trading above 200dma or demonstrating clear technical recovery
+- **Decision: WATCHLIST — no entry today**
+
+**#3 — QCOM (Qualcomm): WATCHLIST (post-MU-binary)**
+- Gate: MU must beat Sep 30; if beat-and-raise, semis broadly rerate → QCOM entry zone $153-157
+- Rate classification: AI/mobile semis — borderline rate-sensitive. If MU still open post-binary, adding QCOM = 2 rate-sensitive names (Rule 13 limit). Allowable.
+- **Decision: WATCHLIST — Oct 1+ entry window only**
+
+**#4 — AMD (Advanced Micro Devices): EMERGING WATCHLIST**
+- Catalyst: AMD acquired World Labs (AI firm) — AI inference/LLM deployment accelerant
+- Rate classification: AI infra = rate-sensitive (Rule 13). With MU, would hit 2-position rate-sensitive limit.
+- No specific price catalyst today; needs post-MU-binary clarity first
+- **Decision: WATCHLIST — research deepens post-MU-binary**
+
+### Risk Factors
+1. **MU earnings binary (Sep 30 AMC):** Pre-market weakness today (-2.1–2.6%) signals elevated sell-the-news risk; gap-down could breach GTC stop at $997.848 if MU opens below ~$997 on Sep 30 morning
+2. **Stop buffer compressed:** 5.3% from yesterday close ($1,053.77) — 2 days of continued pre-earnings selling could trigger GTC before earnings print
+3. **Dual binary Sep 30:** ADP + MU earnings on same day; if ADP misses badly, rates/risk-off + MU weakness = compounded downside risk
+4. **Rate environment:** 10Y ~5.1% — persistent headwind for AI infra/semis; any further yield spike on ADP data amplifies MU downside
+5. **Post-earnings volatility:** Even on a beat, sell-the-news dynamics (Rule 12 history: CEG -9.06%, NVDA -7.62%, AVGO -6.06%) are the expected pattern for stocks in this environment
+
+### Decision: HOLD
+- No new entries today. T-1 before MU binary = wrong time to add risk.
+- Rationale: (a) MU position approaching binary — GTC is the sole risk manager; (b) all other setups (COST, QCOM, AMD) require post-MU-binary clarity; (c) 79.6% cash = underdeployed, but patience rule wins here over forcing pre-binary entries
+- Post-binary deployment plan: If MU beats and stock gaps up (new HWM → stop ratchets → locked-in gain), then Week 24 trade slots open for COST (if 200dma reclaimed) or QCOM/AMD in semis
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
+**Key watch (today):** MU pre-market weakness — watch $1,035-1,040 zone as early read on stop proximity; Sep 30 dual binary (ADP 8:15am + MU earnings AMC); any new MU analyst note or HBM supply update; CCL/KMX earnings for consumer signal on risk appetite
+
