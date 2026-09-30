@@ -7786,3 +7786,82 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
 **Key watch (today):** MU pre-market weakness — watch $1,035-1,040 zone as early read on stop proximity; Sep 30 dual binary (ADP 8:15am + MU earnings AMC); any new MU analyst note or HBM supply update; CCL/KMX earnings for consumer signal on risk appetite
 
+
+## 2026-09-30 — Pre-Market Research (Day 114, Week 24 Day 3 — Wednesday — MU EARNINGS DAY)
+
+### Account Snapshot
+- **Equity:** $110,168.30 | **Cash:** $87,761.30 (79.7%) | **Long MV:** $22,407.00 (20.3%)
+- **Buying power:** $413,784.80 (paper)
+- **Open positions:** 1/6 — MU (21 shares @ $1,044.67 avg, current $1,067.00, +$468.92 +2.14%)
+- **GTC trailing stop:** $997.848 (10% trail, HWM $1,108.72, 6.5% buffer from $1,067)
+- **Week 24 trades:** 0/3 | **Daytrade count:** 0
+- **Phase P&L:** +$10,168.30 (+10.17%) vs $100k start
+
+### Market Context
+- **WTI:** ~$90.63/bbl (easing from $94 levels; Brent/WTI spread compression as Middle East tensions partially ease)
+- **Brent:** ~$103.60/bbl (+~$13 spread; elevated Brent-WTI differential on geopolitical premium)
+- **S&P 500 futures:** 7,735–7,746 (+0.1–0.2%) — slightly higher, yields easing pre-data
+- **VIX:** 16.00 (healthy; prev close 16.07; intraday range 15.73–16.44; not elevated)
+- **10Y Treasury:** ~5.1% (persistent elevated; primary rate headwind for AI infra/semis)
+- **Macro backdrop:** Futures inching higher as yields ease slightly ahead of PCE; market focus on triple data + MU binary
+- **Sector momentum YTD:** Technology +42.85%, Energy +41.3%, Financials +14.1%, Health Care +9.77%, Comm Services +6.02%; Utilities/Consumer Discretionary lagging
+
+### Today's Calendar (Sep 30) — TRIPLE BINARY DAY
+- **8:15 AM ET:** ADP Employment Change (Sep) — forecast 70-73K vs prior 38K (Aug). Beats = risk-on but yield spike; misses = risk-off, MU headwind
+- **8:30 AM ET:** Core PCE inflation (YoY) — forecast 3.4% vs 3.3% expected. Hot read = yields spike = amplified headwind for rate-sensitive names
+- **~8:30 AM ET:** Q2 GDP 3rd estimate
+- **BMO earnings:** JBL (EPS est $4.10, Rev $9.69B), FDS (EPS est $4.38), CALM, CAG (EPS est $0.28)
+- **AMC:** MU Q4 FY2026 at 4:30 PM ET — THE event of the day
+
+### MU Position Update (EARNINGS DAY — AMC 4:30 PM ET)
+- **Pre-market tone:** MU +0.18% intraday at $1,067 (from yesterday close $1,065.08) — modestly positive pre-open
+- **Q4 consensus:** EPS $31.16–$31.52, Revenue $50.45B–$51.07B; MU's own guidance $50B ±$1B, ~86% gross margin, EPS $31 ±$1
+- **Market focus:** FY2027 guidance is the real binary — consensus expects continuation of AI/HBM demand narrative; any softness in forward outlook = violent downside
+- **Analyst positioning:** Baird raised PT to $1,520; multiple $2,000 PT calls; 44 Buy/0 Sell; high bar set
+- **Key risk:** Sell-the-news dynamics elevated (Rule 12 history: CEG -9.06%, NVDA -7.62%, AVGO -6.06% post-earnings); "parabolic" expectations = room for disappointment even on beat
+- **Rate factor:** MU = rate-sensitive (Rule 13). With 10Y at 5.1%, any ADP/PCE beat amplifies the rate headwind
+- **Stop status:** GTC at $997.848 (HWM $1,108.72). Buffer = 6.5% from current $1,067. Gap-down risk: if MU opens below ~$997 post-earnings, GTC executes at open
+- **Action: HOLD. GTC is the sole risk manager into the binary.**
+
+### Trade Ideas
+
+**#1 — MU (existing): HOLD**
+- Entry $1,044.67, current $1,067, unrealized +2.14%. GTC trail managing at $997.848.
+- No manual adjustment today. Let earnings play out. GTC auto-manages gap-down risk.
+- Post-earnings scenario A (beat + raise guidance): MU gaps up → HWM ratchets → locked-in gain grows; Week 24 trade slots open for COST/QCOM/AMD
+- Post-earnings scenario B (beat + muted guidance): MU flat-to-mild reaction; thesis partially intact; reassess via midday scan
+- Post-earnings scenario C (miss or soft guidance): MU gaps down → GTC executes at open; position closes; evaluate sector state
+
+**#2 — COST (Costco): WATCHLIST — post-MU-binary only**
+- Catalyst: Consumer resilience, post-Q4 beat; rate-uncorrelated (contracted-backlog consumer)
+- Gate: MU binary resolves + COST reclaims 200dma; currently below 200dma (Rule 12 unfavorable setup)
+- Rate classification: Consumer staples = rate-uncorrelated (Rule 13: allowable alongside MU or as standalone)
+- R:R: ~1.5:1 at current levels; needs better setup for 2:1 minimum
+- Decision: **WATCHLIST — entry window Oct 1+ only after 200dma confirmation**
+
+**#3 — QCOM (Qualcomm): WATCHLIST — post-MU-binary**
+- Catalyst: Semi follow-through on MU beat; AI/mobile; entry zone $153–157
+- Rate classification: AI/mobile semis = borderline rate-sensitive. With MU open, would be 2nd rate-sensitive (Rule 13 limit, allowable)
+- Gate: MU must beat-and-raise; QCOM technical setup must confirm above entry zone
+- Decision: **WATCHLIST — Oct 1+ post-binary; only if MU beats**
+
+**#4 — AMD (Advanced Micro Devices): WATCHLIST**
+- Catalyst: AMD acquired World Labs (AI inference/LLM deployment); AI infra momentum
+- Rate classification: AI infra = rate-sensitive. Same Rule 13 slot as QCOM if MU still open — can't hold both QCOM and AMD alongside MU (would exceed 2 rate-sensitive limit)
+- Decision: **WATCHLIST — deeper research post-MU-binary; QCOM takes priority in semis**
+
+### Risk Factors
+1. **MU AMC binary (today):** High expectations bar; sell-the-news risk elevated even on beat; gap-down could trigger GTC at open if miss
+2. **Triple data day:** ADP (8:15am) + Core PCE + GDP — all three in pre-market window; rate spikes compound MU pre-binary weakness
+3. **ADP consensus rebound 38K→70K:** Strong print → yields spike → near-term rate headwind for semis before print
+4. **Core PCE hot (>3.3% YoY):** Rate repricing = bad day for AI infra/rate-sensitive names; MU caught in crossfire
+5. **Stop buffer 6.5%:** Manageable but any pre-market/early session weakness narrows the buffer further before AMC
+
+### Decision: HOLD
+- No new entries today. Earnings binary day = wrong session to add risk or adjust.
+- Rationale: (a) GTC is the risk manager into the binary; (b) post-earnings, 1–3 new setups become actionable with clean catalysts; (c) patience rule — 79.7% cash is acceptable while pre-binary uncertainty is elevated
+- Post-binary deployment plan (Oct 1): If MU beats, assess COST (200dma check) and QCOM (entry zone); if MU stops out, assess sector health before re-entry; AMD as alternate semi thesis if QCOM entry fails
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
+**Key watch (today):** ADP 8:15am ET (beats = yields spike, watch MU pre-market reaction); Core PCE 8:30am (hot = amplified rate headwind); MU AMC 4:30pm ET (EPS $31.52, Rev $51.07B; FY2027 guidance is the real catalyst); post-earnings gap reaction; COST/QCOM entry windows open after binary clears
+
