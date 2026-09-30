@@ -5845,3 +5845,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0 | **No Slack sent (no action taken)**
 **Key watch (tonight/tomorrow):** MU earnings AMC 4:30pm ET — GTC $997.848 auto-manages gap-down risk; Scenario A (beat+raise): HWM ratchets up, locked gain grows, Oct 1 scout COST/QCOM; Scenario B (beat+flat guide): reassess via Oct 1 pre-market; Scenario C (miss/soft guide): GTC fires at open, evaluate sector state. 10Y yield ~5.1% and USITC/Netlist ongoing tail risks documented.
+
+---
+
+## 2026-09-30 — EOD Snapshot (Day 114, Week 24 Day 3 — Wednesday — MU EARNINGS NIGHT)
+**Portfolio:** $110,290.84 | **Cash:** $87,761.30 (79.6%) | **Day P&L:** +$162.86 (+0.15%) | **Phase P&L:** +$10,290.84 (+10.29%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,072.80 | +$7.72 (+0.72%) | +$590.72 (+2.69%) | $997.848 (10% trail, HWM $1,108.72, 7.0% buf) |
+
+**Notes:** Day 114 (Wednesday, Week 24 Day 3 — MU earnings night). MU closed +0.72% ahead of earnings binary tonight (Sep 30 AMC 4:30 PM ET, EPS cons $31.52, Rev $51.07B). Constructive pre-earnings positioning continued from Tuesday's +1.72% bounce; thesis intact, 44 Buy/0 Sell analyst consensus, avg target $1,515. GTC trailing stop $997.848 (HWM $1,108.72, 7.0% buffer) is the sole risk manager into the binary — no manual override appropriate. No trades today; 0 trades this week (0/3 cap). Phase P&L +10.29% vs $100k start. Tomorrow (Oct 1): post-earnings reaction determines path — Scenario A (beat+raise): HWM auto-ratchets, locked gain grows, scout COST/QCOM entry; Scenario B (beat+flat guide): reassess thesis via pre-market; Scenario C (miss/soft guide): GTC fires at open, evaluate sector state.
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (Thu Oct 1 pre-market):** MU post-earnings gap reaction; GTC $997.848 auto-manages gap-down risk; ADP follow-through; scout COST/QCOM on favorable MU outcome
