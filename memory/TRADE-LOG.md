@@ -5903,3 +5903,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0 | **No Slack sent (no action taken)**
 **Key watch (rest of day/tomorrow):** Buffer compressed to 4.71% — GTC $997.848 is sole risk manager; NFP tomorrow Oct 2 8:30 ET gates new entries; watch MU recovery above $1,080 for HWM ratchet potential; ISM/Fed speakers today; post-NFP: assess COST (200dma) and QCOM (new entry zone if pullback)
+
+---
+
+## 2026-10-01 — EOD Snapshot (Day 115, Week 24 Day 4 — Thursday — MU RECOVERY FROM SELL-THE-NEWS)
+**Portfolio:** $110,594.18 | **Cash:** $87,761.30 (79.4%) | **Day P&L:** +$465.57 (+0.42%) | **Phase P&L:** +$10,594.18 (+10.59%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,087.25 | +$22.14 (+2.08%) | +$894.17 (+4.08%) | $997.848 (10% trail, HWM $1,108.72, 8.22% buf) |
+
+**Notes:** Day 115 (Thursday, Week 24 Day 4 — MU post-earnings recovery). MU reversed the intraday sell-the-news selloff, closing ~$1,087 (+2.08% on the day) vs. midday low ~$1,047. Earnings were record: Rev $54.23B, EPS $33.42, Q1 FY2027 guide Rev ~$61.5B (+13% sequential raise) — beat on all metrics. Multiple analyst upgrades post-earnings (DA Davidson, Cantor Fitzgerald, Rosenblatt, TD Cowen, RBC). Stop buffer recovered from midday low of 4.71% to 8.22% — GTC $997.848 (HWM $1,108.72) intact. No trades today; 0 trades this week (0/3 cap). Phase P&L +10.59% vs $100k start. Tomorrow (Oct 2 Fri): NFP at 8:30 ET is key macro gate — strong report supports growth thesis, weak report pressure on high-beta; post-NFP evaluate entry into COST (200dma support) or QCOM (new entry zone).
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (Fri Oct 2 pre-market):** NFP 8:30 ET; MU HWM $1,108.72 — close above would ratchet stop up; scout COST/QCOM post-NFP if conditions favorable
