@@ -7865,3 +7865,84 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
 **Key watch (today):** ADP 8:15am ET (beats = yields spike, watch MU pre-market reaction); Core PCE 8:30am (hot = amplified rate headwind); MU AMC 4:30pm ET (EPS $31.52, Rev $51.07B; FY2027 guidance is the real catalyst); post-earnings gap reaction; COST/QCOM entry windows open after binary clears
 
+
+## 2026-10-01 — Pre-Market Research (Day 115, Week 24 Day 4 — Thursday — POST-MU-EARNINGS)
+
+### Account Snapshot
+- **Equity:** $110,039.15 | **Cash:** $87,761.30 (79.7%) | **Long MV:** $22,277.85 (20.3%)
+- **Buying power:** $413,423.18 (paper)
+- **Open positions:** 1/6 — MU (21 shares @ $1,044.67 avg, current $1,060.85, +$339.77 +1.55%)
+- **GTC trailing stop:** $997.848 (10% trail, HWM $1,108.72, 5.94% buffer from $1,060.85)
+- **Week 24 trades:** 0/3 | **Daytrade count:** 0
+- **Phase P&L:** +$10,039.15 (+10.04%) vs $100k start
+
+### MU Post-Earnings (Sep 30 AMC — RECORD QUARTER)
+- **Revenue:** $54.23B (vs cons. $50.45–$51.33B; +379% YoY — record)
+- **EPS:** $33.42 (vs cons. $31.16–$31.72; beat by +$1.70)
+- **Gross margin:** ~87% (record)
+- **Q1 FY2027 guidance:** Revenue ~$61.5B, adj EPS ~$38.15 (massive raise; +13% sequential revenue guide)
+- **Initial AH reaction:** -0.78% to $1,056.75 (sell-the-news, consistent with Rule 12 pattern)
+- **Pre-market now:** $1,060.85, -0.40% from yesterday's close $1,065.11
+- **Analyst consensus unchanged:** 44 Buy/0 Sell; avg target $1,515
+- **Thesis assessment:** INTACT — beat and massive raise across all metrics; mild sell-the-news reaction NOT thesis-breaking; GTC stop $997.848 manages downside
+
+### Market Context
+- **WTI:** ~$89.16/bbl (-1% today; Iran talks, Gulf supply recovery easing geopolitical premium)
+- **Brent:** ~$96.92–$97.3/bbl (-0.7-1.1% today)
+- **S&P 500 futures:** +0.2–0.44% (7,742–7,755 range); start of Q4; but "US stocks waver as yield surge offsets AI gains" (Bloomberg)
+- **VIX:** 16.34 (+1.87% from Sep 30 close; slightly elevated; contango; elevated skew 141.92)
+- **10Y Treasury:** ~5.1% (persistent at multidecade highs; global bond selloff ongoing — primary rate headwind)
+- **Sector momentum YTD:** Energy +37.6%, Technology +36.0%, Health Care +8.8%; SPMO: 54% Tech weight; semis still in leadership; energy losing momentum vs prior quarter
+
+### Today's Economic Calendar (Oct 1)
+- **8:30 ET:** Initial Jobless Claims (cons. 200K vs prior 197K) — strong labor = rate spike risk
+- **10:00 ET:** ISM Manufacturing PMI (cons. 55 vs prior 54.6) — strong PMI = rate spike risk
+- **10:00 ET:** Construction Spending (Aug)
+- **10:00–15:30 ET:** Multiple Fed speakers — live policy commentary risk
+- **Earnings today:** NKE (Oct 1), ACN, MKC — not in our universe
+- **TOMORROW (Oct 2):** Non-Farm Payrolls + Employment Situation — MAJOR binary; dominates any entry made today
+
+### Trade Ideas
+
+**#1 — MU (existing): HOLD**
+- Post-earnings: record Q4 ($54.23B rev, $33.42 EPS, 87% GM) + record Q1 guide ($61.5B rev, $38.15 EPS)
+- Mild sell-the-news: -0.40% from close — NOT thesis-breaking; pattern documented in Rule 12
+- GTC stop $997.848 (HWM $1,108.72, 5.94% buffer) — buffer narrowed from 7.14% to 5.94% (sell-the-news pressure)
+- Watch: if price recovers above $1,080 today, HWM may ratchet and stop buffer improves
+- Stop will NOT ratchet unless price exceeds HWM of $1,108.72
+- Decision: **HOLD. GTC is sole risk manager.**
+
+**#2 — COST (Costco): WATCHLIST**
+- Pre-market quote illiquid (bid $875.90 / ask $972.71, $97 spread) — no reliable price for 200dma check
+- Rate classification: consumer staples = rate-uncorrelated (Rule 13: allowable)
+- Gate from prior research still applies: needs to reclaim 200dma before entry
+- Decision: **WATCHLIST — defer, 200dma unverified, NFP tomorrow gates new entries**
+
+**#3 — QCOM (Qualcomm): WATCHLIST**
+- Pre-market bid: $175.61 — ABOVE prior entry zone of $153–157
+- Rate classification: AI/mobile semis = rate-sensitive (Rule 13: same bucket as MU)
+- Entry zone was set for 2:1 R:R at $153–157; current $175.61 = chasing, R:R no longer 2:1
+- Decision: **WATCHLIST — entry zone missed; do not chase; wait for pullback to new R:R setup**
+
+**#4 — New entries today: SKIP**
+- NFP tomorrow (Oct 2, 8:30 ET) = massive binary → entering today means back-to-back binary risk
+- Bond yields at multidecade highs = persistent rate headwind for any new position
+- COST setup unverified; QCOM chased; AMD rate-sensitive (same bucket as MU) = Rule 13 block
+- Patience > activity. 0/3 trades this week is acceptable.
+
+### Risk Factors
+1. **NFP binary tomorrow (Oct 2):** Any new position entered today faces same-day binary risk; bonds at 5.1% amplify any "hot" labor print
+2. **Jobless claims + ISM today:** Two more data points that could spike yields; strong prints = near-term MU headwind
+3. **MU stop buffer tightened to 5.94%:** Sell-the-news narrowed buffer; if pre-market weakness continues, buffer could compress further before session open
+4. **VIX elevated at 16.34:** Slightly elevated post-earnings; skew elevated at 141.92 (tail risk priced in)
+5. **Multi-decade high yields:** Persistent structural headwind for AI infra/rate-sensitive names (Rule 13); MU is rate-sensitive
+
+### Decision: HOLD
+- No new entries today. NFP tomorrow gates deployment.
+- MU thesis intact: record beat, massive forward raise, GTC manages downside; mild sell-the-news not thesis-breaking.
+- Post-NFP (Oct 2 afternoon): reassess COST (200dma check) and QCOM (new entry zone) with cleared binary.
+- Patience > activity. 79.7% cash + NFP binary = wrong session to add risk.
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
+**Key watch (today):** MU pre-market/open reaction post-earnings — watch for sell-the-news vs recovery; jobless claims 8:30 ET (upside miss = yields spike = MU headwind); ISM 10:00 ET; stop buffer $997.848 (5.94% buf); potential HWM ratchet if MU recovers above $1,108.72 (currently 4.5% above current price); NFP tomorrow gates next entries
+
