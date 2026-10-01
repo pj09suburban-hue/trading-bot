@@ -7946,3 +7946,10 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrades:** 0
 **Key watch (today):** MU pre-market/open reaction post-earnings — watch for sell-the-news vs recovery; jobless claims 8:30 ET (upside miss = yields spike = MU headwind); ISM 10:00 ET; stop buffer $997.848 (5.94% buf); potential HWM ratchet if MU recovers above $1,108.72 (currently 4.5% above current price); NFP tomorrow gates next entries
 
+
+### Afternoon Addendum — 2026-10-01 Midday Scan
+- **MU post-earnings sell-the-news confirmed:** No new negative fundamental catalyst intraday. Sell-off driven by profit-taking + elevated pre-earnings expectations.
+- **Morningstar cut FV $700 (from $850):** Cites 2029 memory downcycle risk. Outlier bearish; long-duration, not near-term. Multiple firms (DA Davidson, Cantor, Rosenblatt, TD Cowen, RBC) raised targets post-print. Net consensus unchanged (44 Buy/0 Sell).
+- **Intraday range:** ~$1,041–$1,088; current ~$1,047. Stop buffer 4.71% (compressed from 7.0% EOD Sep 30).
+- **Thesis:** INTACT. Record Q4 ($54.23B, $33.42 EPS, 87% GM) + record Q1 guide ($61.5B, $38.15 EPS). GTC $997.848 sole risk manager.
+- **No action. No Slack.**

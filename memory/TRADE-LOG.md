@@ -5859,3 +5859,47 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (Thu Oct 1 pre-market):** MU post-earnings gap reaction; GTC $997.848 auto-manages gap-down risk; ADP follow-through; scout COST/QCOM on favorable MU outcome
+
+---
+
+## 2026-10-01 — Midday Scan (Day 115, Week 24 Day 4 — Thursday — POST-EARNINGS SELL-THE-NEWS)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,047.20 | +$53.12 | +0.242% | -1.68% | $997.848 (10% trail, 27f76f5f) | $1,108.72 | 4.71% | HOLD |
+
+**STEP 3 — Losers cut (−7% from entry):** None.
+- MU hard cut triggers at $971.54 (−7% from $1,044.67). Current $1,047.20 — 7.75% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MU | +0.242% | $1,201.37 (14.7% away) | $1,253.60 (19.7% away) | None |
+
+- GTC HWM $1,108.72 unchanged; current $1,047.20 < HWM → stop does not auto-ratchet. Stop $997.848 unchanged. Buffer 4.71%.
+
+**STEP 5 — Thesis check:**
+- **MU:** +0.242% unrealized, -1.68% intraday. Post-earnings sell-the-news consistent with Rule 12 pattern.
+- **Earnings actual (AMC Sep 30):** Rev $54.23B (+380% YoY, vs cons $50.45B–$51.47B), EPS $33.42 (vs cons $31.16–$31.82), GM ~87% — record quarter across all metrics.
+- **Q1 FY2027 guide:** Rev ~$61.5B, EPS ~$38.15 (+13% sequential rev raise) — massive forward raise.
+- **No new adverse near-term catalyst:** Sell-the-news is valuation/expectation-driven after major run-up, not fundamental deterioration.
+- **New bearish note:** Morningstar cut fair value to $700 (from $850) citing 2029 memory downcycle risk — outlier view, long-duration concern, not near-term thesis change.
+- **Multiple analyst upgrades:** D.A. Davidson, Cantor Fitzgerald, Rosenblatt, TD Cowen, RBC all raised targets post-earnings.
+- **Consensus unchanged:** 44 Buy/0 Sell; avg target $1,515.
+- **Stop buffer compressed:** 7.0% (EOD Sep 30) → 5.94% (pre-market Oct 1) → 4.71% (midday). Tightest point since entry.
+- **GTC stop $997.848 (HWM $1,108.72) is the sole risk manager.** No manual override appropriate.
+- **INTACT — HOLD.**
+
+**STEP 6 — Intraday research (Perplexity):**
+- Confirmed: sell-the-news (profit-taking + elevated expectations), not a new negative catalyst
+- Morningstar cut FV $850→$700 (2029 downcycle warning); multiple other firms raised targets; net consensus unchanged
+- Capex concerns (elevated MU capex forecast) cited as secondary bearish headwind
+- Intraday range ~$1,041–$1,088 (per Robinhood); current midday ~$1,047
+- Key macro today: ISM Manufacturing (10am ET) and Fed speakers still running — no MU-specific news
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Portfolio (midday):** $110,291.12 | **Cash:** $87,761.30 (79.6%) | **Long MV:** $21,991.20 (20.4%) | **Day P&L:** −$299.72 (−0.27% on MU) | **Phase P&L:** +$10,291.12 (+10.29%)
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0 | **No Slack sent (no action taken)**
+**Key watch (rest of day/tomorrow):** Buffer compressed to 4.71% — GTC $997.848 is sole risk manager; NFP tomorrow Oct 2 8:30 ET gates new entries; watch MU recovery above $1,080 for HWM ratchet potential; ISM/Fed speakers today; post-NFP: assess COST (200dma) and QCOM (new entry zone if pullback)
