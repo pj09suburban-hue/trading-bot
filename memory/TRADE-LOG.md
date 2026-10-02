@@ -5955,3 +5955,18 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0 | **No Slack sent (no action taken)**
 **Key watch (rest of day/EOD):** MU close vs HWM $1,108.72 (sustained break needed to ratchet stop); if close > $1,108.72 → HWM ratchets, stop auto-improves; GTC $997.848 sole risk manager; double-top resistance at $1,108 is the key technical gate
+
+---
+
+## 2026-10-02 — EOD Snapshot (Day 116, Week 24 Day 5 — Friday — NFP DAY / MU HOLD)
+**Portfolio:** $110,319.96 | **Cash:** $87,761.30 (79.6%) | **Day P&L:** −$486.53 (−0.44%) | **Phase P&L:** +$10,319.96 (+10.32%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,074.75 | −$22.64 (−2.06%) | +$631.66 (+2.88%) | $997.848 (10% trail, HWM $1,108.72, 7.16% buf) |
+
+**Notes:** Day 116 (Friday, Week 24 Day 5 — NFP Day). MU declined 2.06% intraday, closing at $1,074.75. Pre-market MU peaked at $1,111.71 (above HWM $1,108.72), but failed to hold through the session — double-top confirmed at $1,108 resistance. NFP released at 8:30 ET; broad market tone was risk-positive but MU gave back gains into close. No fundamental change: record earnings (Rev $54.23B, EPS $33.42), Q1 FY2027 guide $61.5B, 44 Buy/0 Sell analyst consensus, avg target $1,495.91 intact. Stop buffer 7.16% (GTC $997.848, HWM $1,108.72). No trades today; 0 trades all week (0/3 cap). Phase P&L +10.32% vs $100k start. Monday Oct 5: evaluate new entries (COST at 200dma, QCOM new entry zone) if macro conditions favorable; MU hold while above stop.
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (Mon Oct 5):** MU needs sustained close > $1,108.72 to ratchet stop up; COST 200dma support + QCOM entry zone as potential new positions; Week 25 resets 3-trade cap
+
