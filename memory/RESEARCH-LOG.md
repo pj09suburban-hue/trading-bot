@@ -7953,3 +7953,84 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **Intraday range:** ~$1,041–$1,088; current ~$1,047. Stop buffer 4.71% (compressed from 7.0% EOD Sep 30).
 - **Thesis:** INTACT. Record Q4 ($54.23B, $33.42 EPS, 87% GM) + record Q1 guide ($61.5B, $38.15 EPS). GTC $997.848 sole risk manager.
 - **No action. No Slack.**
+
+---
+
+## 2026-10-02 — Pre-Market Research (Day 116, Week 24 Day 5 — Friday — NFP DAY)
+
+### Account Snapshot
+| Field | Value |
+|---|---|
+| Equity | $110,819.09 |
+| Cash | $87,761.30 (79.2%) |
+| Long MV | $23,057.79 (MU: 21 sh @ $1,097.40) |
+| Unrealized MU | +$1,107.29 (+5.05%) |
+| Day P&L | +$12.60 (flat; pre-market) |
+| Phase P&L | +$10,819.09 (+10.82%) |
+| GTC Stop MU | $997.848 (10% trail, HWM $1,108.72, ~9.1% buf) |
+
+**Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+
+### Market Context
+- **Oil:** WTI -4.1% today to ~$89/bbl; Brent ~$99-$102/bbl. Strait of Hormuz supplies normalizing — geopolitical risk premium unwinding. Lower oil = lower inflation fear = positive for risk assets
+- **S&P 500 futures:** +0.4–0.5% pre-market (~7,750–7,763). Tailwinds: oil drop, yield easing, MU AI catalyst spillover
+- **VIX:** 16.39 (transitioning regime; skew elevated 142.77; front-month VIX futures 18.00)
+- **Yields:** Still near 24-year highs (10Y ~5.1%) but easing slightly on oil drop
+- **Fed:** Rate traders pricing 64% chance of Oct 28 hike — persistent headwind for rate-sensitive names
+
+### Today's Economic Calendar
+- **8:30 ET:** September NFP + unemployment + avg hourly earnings — PRIMARY BINARY TODAY
+  - Consensus: ~100K jobs, 4.1% unemployment, +0.3% avg hourly wages
+- **10:00 ET:** Factory orders (August)
+- **No earnings BMO**
+
+### MU Current Status
+- Pre-market price ~$1,097–$1,107 (NASDAQ data: $1,107.14; Alpaca: $1,097.40)
+- **HWM $1,108.72** — MU within 0.1–1.0% of HWM ratchet trigger
+- Multiple analyst target raises post-Q4: Goldman $1,250 (raised from $1,100), Mizuho $1,400, Rosenblatt $1,900
+- 75% of FY2027 HBM output already committed; discussions extending to 2028
+- $250B plan for two HBM campuses (Clay NY, Boise ID) — demand signal intact
+- Consensus: 44 Buy / 0 Sell; avg target $1,515
+- "Double top at $1,108 resistance" noted by technicians — exactly our HWM
+- Thesis: **INTACT — HOLD**
+
+### Trade Ideas
+
+**#1 — MU (existing): HOLD**
+- Post-earnings AI memory demand intact; record Q4+Q1 guide; analyst target upgrades
+- Near HWM ratchet ($1,107 pre-mkt vs HWM $1,108.72): favorable NFP could push above → stop auto-ratchets
+- GTC $997.848 sole risk manager; buffer ~9.1% — adequate going into NFP binary
+- Action: **HOLD. Let GTC manage. Watch for HWM ratchet above $1,108.72**
+
+**#2 — COST (Costco): WATCHLIST**
+- Current price ~$914.94; 200dma ~$961 — COST is 4.8% BELOW 200dma
+- Gate condition not cleared: "needs to reclaim 200dma before entry" still applies
+- Rate classification: consumer staples = rate-uncorrelated (Rule 13: allowable as 2nd position)
+- Perplexity confirms: "continues to trade below 50- and 200-day MAs after ~10% pullback over 6 months"
+- Action: **WATCHLIST — 200dma gate not cleared; no entry**
+
+**#3 — QCOM (Qualcomm): WATCHLIST**
+- Current price ~$175–180; entry zone was $153–157 (for 2:1 R:R)
+- Still well above entry zone — chasing; R:R no longer 2:1
+- Rate classification: AI/mobile semis = rate-sensitive (Rule 13: same bucket as MU)
+- Action: **WATCHLIST — entry zone not revisited; do not chase**
+
+**#4 — New entries today: SKIP**
+- NFP binary at 8:30 ET — no entry before data regardless of catalyst quality
+- Both watchlist candidates fail entry gates
+- Patience > activity. 0/3 trades this week acceptable.
+
+### Risk Factors
+1. **NFP hot (>150K):** Yields spike → rate hike odds jump above 64% → MU + risk assets under pressure; HWM ratchet fails
+2. **MU double-top at $1,108:** Technicians flagging $1,108 resistance = exactly our HWM; could cap today's upside
+3. **Oil geopolitics reversal:** Strait of Hormuz normalization trade could unwind quickly on any Middle East escalation
+4. **Fed Oct 28 hike (64% probability):** Persistent structural headwind for all rate-sensitive names; caps multiple expansion
+
+### Decision: HOLD
+- No new entries before or after NFP today. No candidates clear entry gates.
+- MU near HWM ratchet — favorable NFP could lock in higher gains; GTC manages downside.
+- Post-NFP watch: if labor soft + yields ease → MU above HWM is the key event to monitor at market open.
+- COST gate (200dma at $961) remains the next entry catalyst — not today.
+- Patience > activity. End of week. 0/3 trades is the right call.
+
+**Key watch (today's session):** NFP 8:30 ET; MU vs HWM $1,108.72; WTI supply/geopolitics; 10Y yield reaction to NFP
