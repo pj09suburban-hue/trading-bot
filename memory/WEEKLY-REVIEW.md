@@ -1498,3 +1498,65 @@ Template for each entry:
 *Week 23 — portfolio +0.17% vs S&P +1.20% (-1.03% underperformance). MPC thesis-break exit executed precisely per pre-set trigger conditions (+10.52% locked; no discretion, no hesitation). MU entered on AI/HBM Q4-earnings catalyst at correct sizing, performing +3.91% in 4 sessions. All GTC orders self-managed correctly. C+ reflects disciplined execution of two distinct rule types (thesis-break exit + catalyst entry) offset by the 14th consecutive week below 75–85% deployment target — a single position at 20% deployment cannot generate alpha in a +1.20% S&P week regardless of per-position performance. MU earnings Sep 30 is the immediate binary; post-print deployment of 2–3 positions is the Week 24 primary objective.*
 
 ---
+## Week ending 2026-10-02
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $110,557.12 |
+| Ending portfolio | $110,334.20 |
+| Week return | -$222.92 (-0.20%) |
+| S&P 500 week | +1.21% (7,719.87 Sep 25 → ~7,813 Oct 2) |
+| Bot vs S&P | -1.41% |
+| Phase return | +$10,334.20 (+10.33% from $100k baseline) |
+| Phase bot vs S&P | +1.28% (bot +10.33% vs S&P +9.06% from Apr 24 start 7,165.08) |
+| Trades | 0 (W:0 / L:0 / open:1) |
+| Win rate | N/A — no closed trades this week (31.6% all-time, 6/19 closed) |
+| Best trade | MU +2.88% unrealized (only position; peaked post-earnings intraday) |
+| Worst trade | MU +2.88% unrealized (only position) |
+| Profit factor | 1.77 all-time (unchanged; $22,318 winners / $12,583 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| MU | $1,044.67 | $1,074.75 | +$631.68 (+2.88%) | $997.848 (10% trail, HWM $1,108.72, 7.16% buf) — post-earnings double-top at $1,108 resistance |
+
+### What Worked
+- MU Q4 FY2026 record earnings beat confirmed AI/HBM structural demand thesis: Rev $54.23B, EPS $33.42, Q1 FY2027 guide $61.5B (+13% seq) — all materially above consensus; the AI/HBM investment thesis is structurally intact
+- GTC trailing stop self-managed correctly through the earnings binary: HWM advanced from $997.85 (Sep 25 stop) to $1,108.72 on post-earnings continuation Oct 1; no manual intervention required; stop auto-ratcheted protecting the position through the binary event
+- Sell-the-news reaction Oct 1 handled without panic: MU dropped -1.68% intraday Oct 1, then recovered +2.08% EOD — stop buffer (8.1%) absorbed the volatility cleanly without triggering; thesis discipline prevented a reactionary exit on an emotionally uncomfortable intraday move
+- Rule 11 (patience > activity) correctly applied: zero new trades with pre-earnings binary on sole position; "a week with zero trades can be the right answer" — adding new positions into an earnings event on the only holding would have violated position management discipline
+- Stop was never moved down despite post-earnings volatility: HWM $1,108.72 is locked; stop $997.848; buffer 7.16% at week close — rule compliance clean
+
+### What Didn't Work
+- Bot underperformed S&P by -1.41% in a week where S&P gained +1.21%; single 20% position in MU cannot generate portfolio alpha in a rising week regardless of per-position performance
+- MU sell-the-news post record earnings: stock peaked $1,111.71 pre-market Oct 2 (above HWM $1,108.72), confirmed double-top at $1,108 resistance, closed $1,074.75 (-2.06% on NFP day) — record beat did NOT produce a sustained breakout; unrealized compressed from +3.91% (Sep 25) to +2.88% (Oct 2)
+- Phase alpha compressed from +2.82% (Week 23) to +1.28% (Week 24): S&P continued to advance while bot stayed at 20% deployment; the pattern is now critical — each rising S&P week at 20% deployment costs ~1% phase alpha
+- Deployment: 20.4% at week end — 15th consecutive week below 75–85% target; MU pre-earnings binary was the correct reason for caution this week, but post-earnings that constraint is now removed
+- Double-top at $1,108 resistance (Sep 30 HWM, Oct 2 pre-market peak $1,111.71 failed to hold) is a near-term technical headwind despite the fundamental beat
+
+### Key Lessons
+- Record earnings beats can be fully priced in before the print: MU's pre-earnings run (+3.91% from Sep 22 entry) set elevated expectations; the Q4 beat and Q1 $61.5B guide were exceptional but the stock was already partially pricing in a beat; sell-the-news on Oct 2 NFP day (-2.06%) confirms this; lesson: per-share thesis strength ≠ per-share price action post-print
+- Double-top technical pattern at $1,108 resistance matters even for fundamentally strong AI/HBM names: two distinct peaks at $1,108 (Sep 30 earnings-day high, Oct 2 pre-market $1,111.71 intraday fail) signal overhead supply at that level; the next weekly close above $1,108 would flip the pattern bullish; below it, tactical patience is warranted
+- Phase alpha compression math is urgent: at 20% deployment, a position performing +2.88% generates only +0.58% portfolio impact; S&P at +1.21% means structural underperformance is guaranteed in any positive market week at this deployment level; the deployment problem is no longer a risk — it is actively destroying phase alpha weekly
+- The pre-earnings caution rationale was correct; the post-earnings inaction window has now closed: the binary event resolved, the thesis is confirmed, and 5 open position slots with 80% cash is no longer justifiable without new documented entry barriers
+
+### Adjustments for Next Week
+- **MU:** Stop $997.848 (HWM $1,108.72, 7.16% buffer from $1,074.75); +15% trigger $1,201.37 ($126.62 / +11.8% away); monitor double-top at $1,108 — a weekly close above $1,108 flips technical posture bullish and sets up +15% stop-tighten chase; thesis intact (AI/HBM, Q1 FY2027 guide $61.5B); no action unless -7% hard cut ($975.54) or thesis break; do NOT move stop down
+- **Deployment imperative — no more deferrals:** Post-earnings binary resolved; no macro events blocking new entries Oct 5–10; deploy 2–3 positions by Oct 10 EOD; this is mandatory, not aspirational; phase alpha at +1.28% will turn negative on any strong S&P up-week at 20% deployment; rate-factor Rule 13: MU = rate-sensitive AI infra (1/2); next entry rate-classification required
+- **Primary candidates:** NOC or GD (contracted-backlog defense, non-rate-sensitive, fills rate-uncorrelated slot; brings deployment to ~40%); one semiconductor/AI infra name if rate-factor Rule 13 allows (MU already occupies 1/2 rate-sensitive slots; second rate-sensitive valid; third requires uncorrelated name); target full 3-position deployment at 75–85% total by Oct 10
+- **10Y yield gate:** ~5.1% at week end; rate-sensitive entries (AVGO, VRT) require yield relief toward or below 5%; contracted-backlog defense is rate-uncorrelated and valid at any current yield; do NOT use yield as excuse to defer the rate-uncorrelated slot — NOC/GD entry is valid today
+- **MU hard cut level:** -7% from entry = $971.54; GTC stop at $997.848 provides a 2.5% gap above the manual cut; if stop fires, evaluate whether to re-enter after dust settles given intact AI/HBM thesis; energy sector: 1 consecutive failure (VST, pre-Rule-13); MPC was a win; if any energy re-entry considered, WTI equilibrium and fresh supply catalyst required
+
+### Overall Grade: C
+*Week 24 — 0 trades. Portfolio -0.20% vs S&P +1.21% (-1.41% underperformance). MU Q4 FY2026 record earnings beat (Rev $54.23B, EPS $33.42, Q1 guide $61.5B) confirmed AI/HBM thesis but produced sell-the-news double-top at $1,108 resistance; week close $1,074.75 (+2.88% unrealized). GTC stop self-managed correctly through the binary event (HWM $1,108.72, 7.16% buffer). Zero trades correctly executed given pre-earnings binary on sole position. C reflects disciplined rule application (no stop manipulation, no pre-earnings adds, no panic on sell-the-news), but phase alpha compressed to +1.28% — the lowest since Week 19 (+0.28%) — as the 15th consecutive week below 75–85% deployment target makes structural S&P outperformance impossible in any positive market week. Post-earnings deployment of 2–3 positions is now mandatory, not optional.*
+
+---
