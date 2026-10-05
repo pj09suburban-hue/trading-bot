@@ -5970,3 +5970,42 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 **Week 24 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (Mon Oct 5):** MU needs sustained close > $1,108.72 to ratchet stop up; COST 200dma support + QCOM entry zone as potential new positions; Week 25 resets 3-trade cap
 
+
+---
+
+## 2026-10-05 — Midday Scan (Day 117, Week 25 Day 1 — Monday — ISM SERVICES DAY / GEV SETUP)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,064.95 | +$425.87 | +1.94% | −0.93% | $997.848 (10% trail, 27f76f5f) | $1,108.72 | 6.31% | HOLD |
+
+**STEP 3 — Losers cut (−7% from entry):** None.
+- MU hard cut triggers at $971.54 (−7% from $1,044.67). Current $1,064.95 — 9.6% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MU | +1.94% | $1,201.37 (12.8% away) | $1,253.60 (17.7% away) | None |
+
+- GTC HWM $1,108.72 unchanged; current $1,064.95 < HWM → stop does not auto-ratchet. Stop $997.848 unchanged. Buffer 6.31%.
+
+**STEP 5 — Thesis check:**
+- **MU:** +1.94% unrealized, −0.93% intraday from Friday close $1,074.89. Continued post-earnings sell-the-news digestion (Rule 12 pattern).
+- **No new adverse MU catalyst:** Thesis fully intact — record earnings (Rev $54.23B, EPS $33.42), Q1 FY2027 guide $61.5B, 44 Buy/0 Sell, avg target $1,495.91. HWM $1,108.72 resistance continuing to cap upside; needs sustained close above $1,108.72 to auto-ratchet stop.
+- **New positives noted:** Micron Ventures Paradigm Fund ($250M AI stack VC fund, Sep 30); $0.15 dividend ex-date Oct 14.
+- **INTACT — HOLD.**
+
+**STEP 6 — Intraday research:**
+- **ISM Services (10am ET):** 54.9 (below prior 55.4, but above est ~54.5). Expansion confirmed. Not inflationary — pre-market gate for GEV entry was "ISM < 55" → **gate met (54.9 < 55).**
+- **MU:** Post-earnings digestion continues; no new negative catalyst; MarketBeat confirms ~$1,063.96 as of 11:53 AM ET; investors weighing AI demand vs memory price peak concerns.
+- **GEV ($992 ask):** ISM gate cleared. Buy-Side Gate passes (2 positions ≤ 6; 1 trade ≤ 3; ~$21,824 ≤ 20% equity; catalyst in today's research log; rate-uncorrelated per Rule 13). 2:1 R:R confirmed: entry ~$992, stop ~$893 (10%), target ~$1,190 vs Bernstein consensus $1,298. Pre-market conditional entry criteria all met. **Flagged for market-open tomorrow — deferred per midday scan scope.**
+- **COST (~$922):** Still below 200dma (~$961). Gate NOT cleared. Watchlist only.
+- **QCOM (~$182):** Above entry zone ($153–157). Not chasing. Watchlist only.
+
+**STEP 7 — Notification:** No action taken on positions — no Slack notification per rules.
+
+**Portfolio (midday):** $110,124.10 | **Cash:** $87,761.30 (79.6%) | **Long MV:** $22,363.95 (20.4%) | **Day P&L:** −$209.89 (−0.19%) | **Phase P&L:** +$10,124.10 (+10.12%)
+
+**Week 25 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0 | **No Slack sent (no action taken)**
+**Key watch (rest of day/tomorrow):** MU vs HWM $1,108.72 (sustained close above ratchets stop); GEV entry at tomorrow market-open (ISM gate cleared, all buy-side gates pass, ~22 shares ~$992 ~$21,824); COST 200dma gate ($961) still unmet; GEV: entry ~$992, stop ~$893 (10%), target ~$1,190, Bernstein PT $1,298
+

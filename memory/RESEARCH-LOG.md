@@ -8100,3 +8100,11 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - Patience > activity. End of week. 0/3 trades is the right call.
 
 **Key watch (today's session):** NFP 8:30 ET; MU vs HWM $1,108.72; WTI supply/geopolitics; 10Y yield reaction to NFP
+
+### Midday Addendum (Oct 5 — ISM Services + GEV Entry Setup)
+- **ISM Services (10am ET):** 54.9 (prior 55.4; est ~54.5). Expansion, not inflationary. Pre-market GEV gate ("ISM < 55") **cleared**.
+- **GEV ($992):** All buy-side gates pass. 2:1 R:R: entry ~$992, stop ~$893 (10% trail), target ~$1,190 (Bernstein PT $1,298). Rate-uncorrelated (industrials/contracted-backlog per Rule 13). **Flagged for market-open tomorrow.**
+- **MU ($1,065):** Continued sell-the-news digestion. Buffer 6.31%. New positives: $250M Ventures Fund (Sep 30), $0.15 dividend ex-date Oct 14. Thesis intact. HOLD.
+- **COST ($922):** 200dma gate unmet (~$961). No change.
+- **QCOM ($182):** Above entry zone. No change.
+
