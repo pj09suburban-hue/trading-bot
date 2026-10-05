@@ -6009,3 +6009,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 **Week 25 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0 | **No Slack sent (no action taken)**
 **Key watch (rest of day/tomorrow):** MU vs HWM $1,108.72 (sustained close above ratchets stop); GEV entry at tomorrow market-open (ISM gate cleared, all buy-side gates pass, ~22 shares ~$992 ~$21,824); COST 200dma gate ($961) still unmet; GEV: entry ~$992, stop ~$893 (10%), target ~$1,190, Bernstein PT $1,298
 
+
+---
+
+## 2026-10-05 — EOD Snapshot (Day 117, Week 25 Day 1 — Monday — GEV SETUP DAY)
+**Portfolio:** $110,029.81 | **Cash:** $87,761.30 (79.8%) | **Day P&L:** −$304.18 (−0.28%) | **Phase P&L:** +$10,029.81 (+10.03%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,060.41 | −$14.48 (−1.35%) | +$330.53 (+1.51%) | $997.848 (10% trail, HWM $1,108.72, 5.90% buf) |
+
+**Notes:** Day 117 (Monday, Week 25 Day 1 — GEV Setup Day). MU declined 1.35% on the day, closing at $1,060.41, continuing post-earnings digestion. No fundamental change: record earnings (Rev $54.23B, EPS $33.42), Q1 FY2027 guide $61.5B, 44 Buy/0 Sell analyst consensus, avg target $1,495.91 all intact. Stop buffer narrowed to 5.90% (GTC $997.848, HWM $1,108.72) — still adequate but approaching the lower end of comfortable range. ISM Services 54.9 (below 55 gate) cleared the pre-condition for GEV entry tomorrow at market-open. All buy-side gates pass for GEV: ~22 shares ~$992 (~$21,824, ≤20% equity), 1 trade ≤3 weekly cap, positions 2/6, catalyst documented. No trades today; 0 trades this week. Phase P&L +10.03% vs $100k start.
+
+**Week 25 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (Tue Oct 6 market-open):** GEV entry ~$992, stop ~$893 (10% trail GTC), target ~$1,190 (2:1 R:R, Bernstein PT $1,298); MU hold vs HWM $1,108.72 (close above ratchets stop); MU hard cut $971.54
