@@ -4,6 +4,72 @@ Daily pre-market research entries will be appended here.
 
 ---
 
+## 2026-10-05 — Pre-Market Research (Day 117, Week 25 Day 1 — Monday — NFP AFTERMATH / ISM SERVICES DAY)
+
+### Account Snapshot
+- **Equity:** $110,198.33 | **Cash:** $87,761.30 (79.6%) | **Long MV:** $22,437.03 (20.4%)
+- **Phase P&L:** +$10,198.33 (+10.20% vs $100k start)
+- **Open positions:** 1/6 (MU) | **Week 25 trades:** 0/3 | **Daytrade count:** 0
+- **Deployment gap:** 79.6% cash — significantly below 75–85% target; 1–4 new positions needed
+
+### Positions
+| Ticker | Shares | Entry | Last Close | Pre-Mkt Ask | Unrealized P&L | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,068.43 | $1,141.62* | +$498.95 (+2.27%) | $997.848 (10% trail) | $1,108.72 | 7.16% |
+
+*Pre-market ask wide ($1,030.27 bid / $1,141.62 ask) — thin liquidity; ask above HWM $1,108.72 suggesting potential stop ratchet if open holds above HWM. Verify live quote at open.
+
+### Market Context
+- **S&P 500 futures:** ~7,763–7,769 (-0.11% to -0.18%, flat to slightly lower). Prior close 7,777.25. Nasdaq futures +0.3%.
+- **VIX:** 15.31 (Friday close, -6.59% on soft NFP), opening +6.47% to ~16.30 today. Low-vol bull regime, contango.
+- **WTI:** ~$90.65/bbl (-0.54%) | **Brent:** ~$103.37/bbl. Iran/Strait-of-Hormuz preconditions intact — supply tail risk.
+- **NFP Friday context:** Soft September jobs print → Fed Oct hike odds fell 64% → 23%. Risk-positive Friday close (+0.73% S&P). ISM Manufacturing 54.5 (below 54.9 est), Prices Paid 77.9 (elevated).
+- **Sectors:** Technology leading YTD; Energy/Real estate undervalued; rate environment easing as hike odds fade.
+
+### Today's Economic Calendar
+- **10:00 ET:** September ISM Services PMI — PRIMARY BINARY (prior ~54.7; est ~54.5)
+- **10:00 ET:** S&P Global Services PMI (September final)
+- **Earnings BMO:** None significant
+
+### MU Status
+- Pre-market ask $1,141.62 — above HWM $1,108.72 by ~3%; if open holds > $1,108.72, trailing stop auto-ratchets
+- Thesis fully intact: 8th straight beat, Rev $54.23B, EPS $33.42, Q1 FY2027 guide $61.5B (+13% seq raise), 75%+ HBM output committed
+- 44 Buy / 0 Sell consensus, avg target $1,495.91. Cramer added MU to post-NFP buy list.
+- GTC 27f76f5f, stop $997.848 (HWM $1,108.72) — sole risk manager; no manual override
+- **Action: HOLD. Watch for HWM ratchet at open.**
+
+### Trade Ideas
+
+**#1 — GEV (GE Vernova): WATCHLIST — conditional**
+- Catalyst: AI/data-center power infrastructure buildout; post-NFP rate relief benefits contracted-backlog industrials
+- Rate classification: Industrials/contracted-backlog — tentatively rate-uncorrelated (Rule 13: allowable alongside MU)
+- Trigger: ISM Services < 55 at 10am + live quote confirming 2:1 R:R
+- Max position: ~$22,000 (20% of $110k equity)
+- Status: **WATCHLIST — do not enter pre-ISM**
+
+**#2 — TJX Companies (TJX): WATCHLIST**
+- Catalyst: Discount retail trade-down; soft labor market (NFP miss) supports value-retail consumer preference
+- Rate classification: Consumer staples — rate-uncorrelated (Rule 13: clean as 2nd position)
+- Trigger: ISM Services < 55 + soft macro confirms thesis
+- Status: **WATCHLIST — check entry zone at open**
+
+**#3 — AMD: SKIP** — Rule 13 limit (same bucket as MU; at cap with 2 rate-sensitive names)
+**#4 — COST: SKIP** — 200dma gate unmet ($914 vs $961 200dma)
+
+### Risk Factors
+1. **ISM Services hot (>56):** Inflation signal → hike odds rebound → rate-sensitive names under pressure; negates NFP relief
+2. **MU HWM rejection at $1,108:** Pre-market ask may not hold; double-top resistance confirmed — second failure bearish
+3. **Oil geopolitics reversal:** Iran talks unwind → WTI spike → inflation/rate pressure
+4. **Under-deployment risk:** 79.6% cash at 1 position — ISM-benign scenario creates real deployment opportunity
+
+### Decision: TRADE-conditional
+- **Pre-10am:** HOLD, no new entries. Monitor MU open vs HWM $1,108.72.
+- **At 10am:** Read ISM Services. If < 55 and not inflationary → evaluate GEV entry (post-ISM, live quote, 2:1 R:R check)
+- **Fallback:** ISM > 55 or hot on prices → HOLD all day, no new entries
+- Week 25 resets 3-trade cap — deployment opportunity real but entry discipline applies
+
+---
+
 ## 2026-09-18 — Pre-Market Research (Day 106, Week 22 Day 5 — Friday, Triple Witching / BOJ Hike Day)
 
 ### Account Snapshot
