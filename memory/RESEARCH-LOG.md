@@ -8186,3 +8186,8 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - GEV entry: ~22 shares ~$992 (~$21,824). All gates pass. ISM cleared, NRC permit new catalyst, sector in momentum, rate-uncorrelated.
 - MU: HOLD. GTC $997.848 manages downside. No manual action.
 - Entry checklist for GEV ✓: Catalyst (ISM + NRC permit + AI power demand) | Sector (Industrials, in momentum) | Stop (10% trail ~$893) | Target ($1,190, 2:1 R:R)
+
+### Afternoon Addendum (Midday Scan — 12:10 PM ET)
+- **GEV:** Gapped +4.75–6.1% from $990 to $1,036–$1,052 range. AI/power grid momentum + BWRX-300 NRC permit continuation. No new catalyst today. At $1,040 entry, conservative target $1,190 = 1.44:1 R:R (below 2:1 gate). No midday entry. Re-evaluate tomorrow market-open for pullback to $992–$1,010.
+- **MU:** Flat intraday. AI demand thesis intact. Stop buffer 6.19% (GTC $997.848, HWM $1,108.72). Hold.
+- **Market-open routine note:** Heartbeat f720767 ran but no GEV order placed. Root cause unclear (likely routine completed early without executing trade step). Tomorrow market-open must re-verify GEV entry conditions from scratch.
