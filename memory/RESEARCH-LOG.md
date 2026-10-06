@@ -8108,3 +8108,81 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **COST ($922):** 200dma gate unmet (~$961). No change.
 - **QCOM ($182):** Above entry zone. No change.
 
+
+---
+
+## 2026-10-06 — Pre-Market Research (Day 118, Week 25 Day 2 — GEV ENTRY DAY)
+
+### Account Snapshot
+| Metric | Value |
+|---|---|
+| Equity | $110,261.18 |
+| Cash | $87,761.30 (79.6%) |
+| Long MV | $22,499.88 (MU: 21sh @ $1,071.42) |
+| Unrealized MU | +$561.80 (+2.56%) |
+| MU intraday (pre-mkt) | +0.70% |
+| GTC Stop MU | $997.848 (10% trail, HWM $1,108.72, ~6.87% buf) |
+| Week 25 trades | 0/3 |
+| Day trades | 0 |
+
+### Market Context
+- **Oil:** WTI ~$87.48–$89.48/bbl (down ~1–2% on US-Iran diplomacy progress, Gulf supply normalization). Brent ~$96.92–$98.30. Lower oil = lower inflation fear = risk-positive.
+- **S&P 500 futures:** +0.09–0.33% premarket (~7,833–7,852). Constructive. Nasdaq hit record close Mon (Oct 5), led by NVDA/MSFT.
+- **VIX:** 15.48–15.52 (LOW VOL BULL regime; down from 16.39 Monday). Contango. Low-vol environment supports entries.
+- **10Y Yield:** ~5.31% (elevated but NFP miss last Friday cut hike odds; yield easing from 5.33% peak).
+- **Fed:** Rate hike probability dropped post-NFP miss. Easing structural headwind for rate-sensitive names.
+- **Sector momentum YTD:** Energy +41.9% (leader), Tech +39.6%, Industrials +9.7% | Worst: Consumer Discretionary −7.5%, Utilities −6.4%.
+
+### Today's Economic Calendar
+- **8:30 AM ET:** U.S. Trade Balance (August) — modest market impact; not a binary like NFP
+- **No CPI, PPI, FOMC, or jobs today** (next CPI is Oct 14)
+- **6:00 PM ET:** Dallas Fed's Logan speaks (low market impact)
+- **BMO earnings:** APOG, LW, RPM — none material to our positions
+
+### MU Current Status
+- Pre-market: ~$1,069–$1,072 (+0.70% vs Mon close $1,060.41)
+- Thesis intact: record Q4 (Rev $54.23B, EPS $33.42), Q1 FY2027 guide $61.5B, 44 Buy/0 Sell, avg target $1,495.91
+- $0.15 dividend ex-date Oct 14 — minor positive
+- HWM $1,108.72 still the key technical gate; needs sustained close above to auto-ratchet stop
+- Stop buffer adequate at ~6.87%; GTC $997.848 sole risk manager
+
+### GEV Current Status
+- Pre-market: ~$989.50–$1,004 (prior close $990.00; +0.08–1.4% pre-mkt range)
+- **NEW catalyst today:** BWRX-300 secured first US NRC construction permit (nuclear reactor design approval — very positive for power infrastructure thesis)
+- $0.50 quarterly dividend declared Sep 30, ex-date Oct 27, payment Nov 24
+- Earnings date: Oct 28 (22 days away — meaningful runway for entry today)
+- Industrials sector in momentum (+9.7% YTD); GEV = contracted-backlog defense = rate-uncorrelated per Rule 13 ✓
+- All Buy-Side Gates pass: 2 positions ≤ 6 ✓ | 1 trade ≤ 3 cap ✓ | ~22sh × $992 ≈ $21,824 (19.8% equity) ✓ | cash $87,761 >> cost ✓ | 0 day trades ✓
+
+### Trade Ideas
+
+**#1 — MU (existing): HOLD**
+- Catalyst: AI memory demand, Q4 record earnings, strong Q1 guide; thesis unchanged
+- Sector: Tech momentum ✓
+- Stop: GTC $997.848 (10% trail, HWM $1,108.72)
+- Target: Analyst avg $1,495.91 (35 analysts, 44 Buy/0 Sell)
+- Action: **HOLD. GTC manages. Watch for close > HWM $1,108.72 → stop auto-ratchets.**
+
+**#2 — GEV: TRADE at market-open**
+- Catalyst: ISM Services 54.9 (cleared gate); BWRX-300 NRC permit (new today); AI/data center power demand; contracted backlog $176B; FCF raised to >$10B YTD; $0.50 dividend
+- Sector: Industrials in momentum (+9.7% YTD); rate-uncorrelated ✓ (Rule 13)
+- Entry: ~$992 (22 shares = ~$21,824, 19.8% equity)
+- Stop: 10% trailing stop GTC at ~$893 (HWM = fill price at placement)
+- Target: ~$1,190 (Bernstein PT $1,298, 2:1+ R:R at entry)
+- Pre-earnings risk: Oct 28 earnings → will monitor stop tightening and potential exit ahead of earnings per MU sell-the-news lesson
+- Action: **TRADE — enter at market-open. Place GTC 10% trailing stop immediately.**
+
+**#3 — COST: WATCHLIST** — 200dma gate (~$961) still unmet; no entry
+**#4 — QCOM: WATCHLIST** — above entry zone ($153–157); no chase
+
+### Risk Factors
+1. **10Y yield persistent at ~5.31%:** Cap on multiple expansion; GEV is rate-uncorrelated but macro headwind present for all equities
+2. **MU stop buffer narrowing (6.87%):** Below 7%; approaching lower comfort range. Any broad selloff could trigger GTC stop $997.848
+3. **GEV pre-earnings (Oct 28):** Sell-the-news risk — MU pattern confirmed 3×; will monitor and potentially tighten stop ahead of earnings
+4. **Oil geopolitics:** US-Iran diplomacy could reverse quickly; Strait of Hormuz still a risk
+5. **Trade balance at 8:30 ET:** Wider-than-expected deficit could pressure USD and yields modestly
+
+### Decision: **TRADE** (GEV at market-open)
+- GEV entry: ~22 shares ~$992 (~$21,824). All gates pass. ISM cleared, NRC permit new catalyst, sector in momentum, rate-uncorrelated.
+- MU: HOLD. GTC $997.848 manages downside. No manual action.
+- Entry checklist for GEV ✓: Catalyst (ISM + NRC permit + AI power demand) | Sector (Industrials, in momentum) | Stop (10% trail ~$893) | Target ($1,190, 2:1 R:R)
