@@ -6064,3 +6064,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 25 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0 | **No Slack sent (no action taken)**
 **Key watch (rest of day / tomorrow market-open):** MU vs HWM $1,108.72 (sustained close above ratchets stop); GEV re-evaluate at tomorrow market-open — enter only if price near $992–$1,010 (R:R ≥ 2:1); GEV gap-up suggests catalyst partially priced in, no chase above $1,010
+
+---
+
+## 2026-10-06 — EOD Snapshot (Day 118, Week 25 Day 2 — Tuesday — GEV MISS / MU SLIDE)
+**Portfolio:** $109,883.96 | **Cash:** $87,761.30 (79.9%) | **Day P&L:** −$220.50 (−0.20%) | **Phase P&L:** +$9,883.96 (+9.88%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,053.60 | −0.97% (−$10.36) | +$187.52 (+0.86%) | $997.848 (10% trail, HWM $1,108.72, 5.29% buf) |
+
+**Notes:** Day 118 (Tuesday, Week 25 Day 2 — GEV Miss / MU Slide). MU declined 0.97% to $1,053.60 from yesterday's $1,063.96 close; stop buffer has narrowed to 5.29% (GTC $997.848, HWM $1,108.72). Thesis intact (record Q4 Rev $54.23B, EPS $33.42, Q1 guide $61.5B, 44 Buy/0 Sell, avg target $1,495.91) but price action weakening. GEV gapped at market-open to ~$1,040–$1,052 — missed entry (R:R fell below 2:1 minimum at fill price vs $1,190 conservative target). No trades executed today. Week 25: 0/3 trades. Phase P&L +9.88% vs $100k start.
+
+**Week 25 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (Wed Oct 7 market-open):** GEV — enter only on pullback to $992–$1,010 (R:R ≥ 2:1 vs Bernstein PT $1,298); if no pullback skip; MU hold vs $997.848 stop (hard cut $971.54); MU buf 5.29% — break below ~$1,020 is a warning
