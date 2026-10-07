@@ -8280,3 +8280,25 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - GEV: Watchlist. Entry gate not met (R:R < 2:1 at any price above $1,010). If FOMC-driven pullback to $992–$1,010, re-evaluate.
 - No new entries today. FOMC minutes at 2pm are a binary event — entering a new position before minutes resolution is poor risk management given narrow MU stop and thin deployment buffer.
 - Patience > activity applies: zero trades this week is correct if conditions don't align.
+
+### Midday Addendum — 2026-10-07 12:12 PM ET
+
+**MU — Catalyst confirmation:**
+- DA Davidson: maintains Buy, raises PT $2,100 → $3,000 (Oct 7, 2026) — strongest single-analyst move today
+- Netlist patent settlement ($600M, multi-year license) removes ongoing legal risk
+- MU trading $1,075 bid / $1,090 ask per Alpaca live quote; up 3.19% intraday
+- Thesis: fully intact. Record Q4, AI memory demand, institutional support strengthened.
+
+**GEV — Entry zone reached intraday:**
+- Pre-market: $1,012 (−1.67%)
+- Intraday low: ~$989.41 at 10:08 AM ET (within entry zone $992–$1,010; technically slightly below lower bound)
+- 12:12 PM Alpaca live quote: bid $938.60 / ask $995.66 (abnormally wide — possible off-hours condition or order book imbalance)
+- R:R at $989: ($1,190 − $989) / ($989 × 0.10) = $201 / $98.90 = 2.03:1 ✓ (barely clears 2:1 gate)
+- R:R at $995 ask: 1.95:1 (JUST BELOW 2:1 gate vs conservative $1,190 target)
+- Midday entry outside scope (entries = market-open). FOMC minutes at 2pm create binary risk — no midday entry regardless.
+- **Tomorrow market-open:** Re-evaluate GEV fresh. If still near $989–$1,010 and R:R ≥ 2:1, this is a live setup. Confirm with live quote at open.
+
+**Pending events today:**
+- 1pm ET: $39B 10-Year Treasury auction (weak demand = yield spike = MU pressure)
+- 2pm ET: FOMC September meeting minutes (hawkish tone = rate shock scenario)
+- Both events represent tail risk to MU; GTC $997.848 provides 7.18% buffer.
