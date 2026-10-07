@@ -8191,3 +8191,92 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **GEV:** Gapped +4.75–6.1% from $990 to $1,036–$1,052 range. AI/power grid momentum + BWRX-300 NRC permit continuation. No new catalyst today. At $1,040 entry, conservative target $1,190 = 1.44:1 R:R (below 2:1 gate). No midday entry. Re-evaluate tomorrow market-open for pullback to $992–$1,010.
 - **MU:** Flat intraday. AI demand thesis intact. Stop buffer 6.19% (GTC $997.848, HWM $1,108.72). Hold.
 - **Market-open routine note:** Heartbeat f720767 ran but no GEV order placed. Root cause unclear (likely routine completed early without executing trade step). Tomorrow market-open must re-verify GEV entry conditions from scratch.
+
+---
+
+## 2026-10-07 — Pre-Market Research (Day 119, Week 25 Day 3 — Wednesday — FOMC MINUTES DAY)
+
+### Account Snapshot
+- **Equity:** $109,149.80 | **Cash:** $87,761.30 (80.4%) | **Long MV:** $21,388.50 (19.6%)
+- **Phase P&L:** +$9,149.80 (+9.15% vs $100k start)
+- **Open positions:** 1/6 (MU) | **Week 25 trades:** 0/3 | **Daytrade count:** 0
+- **Deployment:** 19.6% long — significantly below 75–85% target
+
+### Positions
+| Ticker | Shares | Entry | Oct 6 Close | Pre-Mkt | Unrealized P&L | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,045.56 | ~$1,018–$1,022 | −$549.58 (−2.51%) | $997.848 (10% trail GTC) | $1,108.72 | ~2.0% |
+
+**⚠ MU STOP BUFFER CRITICAL:** Pre-market price ~$1,018–$1,022 gives only ~2.0–2.4% buffer above GTC stop $997.848. Any broad selloff on FOMC minutes (2pm) could trigger stop. Hard cut at $971.54 (−7% from entry) is below stop.
+
+### Market Context
+- **S&P 500 futures:** ~7,873–7,882 (+0.1–0.2% pre-mkt). S&P hit 4th record close on Oct 6. Near all-time highs.
+- **VIX:** 15.01 (Oct 6 close), ~15.27 pre-mkt. LOW VOL BULL regime, contango, 52W range 13.38–35.30.
+- **WTI:** ~$87–90/bbl (EIA raised 2026 forecast to $88/bbl; down from $92+ last week). Brent ~$99–103.
+- **10Y yield:** ~5.31% (elevated; NFP miss last Friday reduced hike odds but yield still high).
+- **Market regime:** Low-vol bull at record highs, but 10Y yield elevated and FOMC minutes create afternoon binary.
+
+### Today's Economic Calendar
+- **10:00 AM ET:** NY Fed 1-Year Inflation Expectations
+- **10:30 AM ET:** EIA Crude Oil Inventories (medium impact)
+- **1:00 PM ET:** $39B 10-Year Treasury Auction (critical — can spike yields)
+- **2:00 PM ET:** FOMC Minutes (Sep 15–16 meeting) — **PRIMARY BINARY EVENT**
+- **All day:** Fed's Logan + Williams speaking
+- **3:00 PM ET:** Consumer Credit (August)
+- **No BMO earnings today** — LEVI, APLD report after close (not material to positions)
+
+### MU Current Status
+- Oct 6 close $1,045.56 (−1.73%); AH price ~$1,022.30; pre-mkt ~$1,014–$1,022
+- Alpaca live: $1,018.50 (−2.51% unrealized from entry $1,044.67)
+- GTC stop: $997.848 (HWM $1,108.72); buffer from $1,018.50 = **2.03%**
+- Thesis still intact (record Q4 Rev $54.23B, EPS $33.42, Q1 FY2027 guide $61.5B, 44 Buy/0 Sell, avg target $1,495.91; MarketBeat highest PT $2,100) but price action weak 5 consecutive sessions
+- Dividend ex-date Oct 14 ($0.15/sh) — minor positive
+- **Risk:** FOMC minutes hawkish → yields spike → rate-sensitive tech hit → MU could pierce $997.848 stop
+- **Action: HOLD. GTC manages. No manual override.**
+
+### GEV Current Status
+- Oct 6 close: $1,029.21 (+3.96% on AI/power grid/BWRX-300 momentum)
+- Pre-mkt: ~$1,015–$1,031 (slight drift; -1.3% AH per MarketBeat)
+- Entry zone: $992–$1,010 — still NOT revisited
+- At $1,015 entry: risk $101.50, target $1,190 = R:R 1.72:1 — **below 2:1 gate**
+- At $1,030 entry: risk $103, target $1,190 = R:R 1.55:1 — **well below 2:1 gate**
+- Only valid entry if FOMC-driven selloff pulls GEV back to $992–$1,010
+- Avg analyst target $1,230.34 (98 analysts); MarketBeat avg $1,171.87
+- Earnings Oct 28 — 21 days away; pre-earnings sell-the-news risk per Rule 12
+
+### Trade Ideas
+
+**#1 — MU (existing): HOLD**
+- Stop buffer 2.03% — razor thin ahead of FOMC minutes
+- Thesis intact, price action weak; let GTC manage
+- Do NOT manual cut unless thesis breaks or price drops below stop
+- Watch: if MU opens near $997, GTC may fill at market; no manual preemption
+
+**#2 — GEV: WATCHLIST — entry gate NOT met**
+- Entry valid only at $992–$1,010 with R:R ≥ 2:1 confirmed via live quote
+- At current pre-mkt ~$1,015–$1,030: no entry (R:R < 2:1)
+- Scenario: FOMC hawkish → GEV sells off to $992–$1,005 → re-evaluate
+- **Do not chase above $1,010**
+
+**#3 — CEG (Constellation Energy): WATCHLIST — new catalyst**
+- Reports of Google power deal pre-market (Google signing with CEG per Company Chronicle)
+- Prior CEG trade: stopped out at −9.06% (May 13) on sell-the-news post-earnings
+- Sector (utilities/nuclear): only 1 prior failed trade — sector ban NOT triggered
+- CEG is rate-sensitive (utilities) per Rule 13; already holding MU (rate-sensitive tech) → would be 2nd rate-sensitive position → at Rule 13 limit if entered alongside MU
+- Gate not met: Rule 13 (already 1 rate-sensitive position; CEG utilities = rate-sensitive)
+- **Skip. Rate factor limit. No entry.**
+
+**#4 — New deployment opportunities:** Low today — FOMC minutes create afternoon binary; no new entries pre-2pm advisable
+
+### Risk Factors
+1. **FOMC minutes hawkish (2pm):** If Sep 15–16 meeting showed debate about another hike, yields spike, rate-sensitive names hit hard — MU stop triggered, GEV entry delayed
+2. **MU stop-out at $997.85:** Buffer 2% — pre-market already at $1,018. If market sells off 2%, stop triggers. Realized P&L = −$979 (21 × ($997.85 − $1,044.67))
+3. **$39B 10-Year auction (1pm):** Weak demand = yield spike pre-FOMC minutes = double pressure on MU
+4. **GEV gap sustained:** If GEV holds $1,020+, entry zone never reached; week ends 0/3 trades, underdeployed
+5. **Rate factor limit:** With MU as rate-sensitive, effectively blocked from second rate-sensitive entry (CEG, GEV as AI/data-center infra) — limits deployment optionality
+
+### Decision: **HOLD**
+- MU: HOLD. GTC $997.848 is the only risk manager. Buffer 2% — no tightening action available (under 3% buffer threshold). No manual preemption.
+- GEV: Watchlist. Entry gate not met (R:R < 2:1 at any price above $1,010). If FOMC-driven pullback to $992–$1,010, re-evaluate.
+- No new entries today. FOMC minutes at 2pm are a binary event — entering a new position before minutes resolution is poor risk management given narrow MU stop and thin deployment buffer.
+- Patience > activity applies: zero trades this week is correct if conditions don't align.
