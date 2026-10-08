@@ -6127,3 +6127,41 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 25 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (Thu Oct 8 market-open):** GEV pullback entry $989–$1,010 (R:R ≥ 2:1 vs $1,298 PT); verify fresh R:R at pre-open; MU hold vs $997.848 stop (hard cut $971.54); MU recovering — watch for HWM re-test ($1,108.72)
+
+---
+
+## 2026-10-08 — Midday Scan (Day 120, Week 25 Day 4 — Thursday — OIL SURGE / AI CHIP SECTOR SELLOFF)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Intraday | Stop (live) | HWM | Buffer | Action |
+|---|---|---|---|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,066.40 | +$456.27 | +2.07% | −1.99% | $997.848 (10% trail, 27f76f5f) | $1,108.72 | 6.00% | HOLD |
+
+**STEP 3 — Losers cut (−7% from entry):** None.
+- MU hard cut triggers at $971.54 (−7% from $1,044.67). Current $1,066.40 — 9.8% above cut level. No action.
+
+**STEP 4 — Stop tightening:** None triggered.
+| Symbol | Unreal % | +15% trigger | +20% trigger | Action |
+|---|---|---|---|---|
+| MU | +2.07% | $1,201.37 (12.7% away) | $1,253.60 (17.6% away) | None |
+
+- GTC HWM $1,108.72 unchanged; current $1,066.40 < HWM → stop does not auto-ratchet. Stop $997.848 unchanged. Buffer 6.00%.
+
+**STEP 5 — Thesis check:**
+- **MU:** −1.99% intraday (from $1,088 yesterday close). Sector-wide AI chip profit-taking/sell-off — SK Hynix and Sandisk down on same move. No company-specific negative catalyst confirmed.
+- Confirmed: Record Q4 (Rev $54.23B, EPS $33.42), Q1 FY2027 guide $61.5B, 44 Buy/0 Sell, DA Davidson PT $3,000 (Oct 7) — all intact.
+- Taiwan union strike: no confirmation it materialized. Headline overhang only.
+- Perplexity confirms: "profit-taking after a huge run-up" and "broader AI/semiconductor weakness" — cyclical, not fundamental breakdown.
+- **INTACT — HOLD.** GTC stop $997.848 (6.00% buffer) manages tail risk.
+
+**STEP 6 — Intraday research (Perplexity):**
+- **MU sector context:** AI chip sell-off sector-wide today. MU, SK Hynix, Sandisk all lower. Move driven by profit-taking and valuation concerns, not fundamental deterioration. Thesis unchanged.
+- **30-year Treasury auction (1pm ET today, not yet occurred at scan time):** Binary event risk for rate-sensitive names (MU). GTC stop manages downside. No preemptive action.
+- **GEV (~$1,009 midday, within $992–$1,010 entry zone):** Market-open routine ran this morning (heartbeat 12:35:43Z) but no GEV trade was executed — likely gapped at open above entry zone or R:R failed. GEV now back in zone. Midday scope ≠ entry execution. **Re-evaluate at tomorrow market-open.** At $1,009 fill: stop $908, target $1,190 → R:R 1.80:1 ❌ vs conservative; vs Bernstein $1,298 → R:R 2.87:1 ✓. Entry valid if price holds $992–$1,010 at tomorrow open.
+- **Energy names (WTI +5%):** XOM, CVX, EOG not yet researched. Do not trade today — catalyst already in pre-market, insufficient entry checklist. Rule 13 rate-sensitive limit: if GEV entered tomorrow, 2 rate-sensitive positions held → energy names blocked until one exits.
+
+**STEP 7 — Notification:** No action taken — no Slack notification per rules.
+
+**Portfolio (midday):** $110,156.33 | **Cash:** $87,761.30 (79.7%) | **Long MV:** $22,395.03 (20.3%) | **Day P&L:** −$452.97 (−0.41%) | **Phase P&L:** +$10,156.33 (+10.16%)
+
+**Week 25 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0 | **No Slack sent (no action taken)**
+**Key watch (rest of day / tomorrow market-open):** 30-year auction 1pm ET (yield spike = MU/GEV risk); MU GTC $997.848 manages; GEV re-eval at open — enter if ≤$1,010 AND R:R ≥ 2:1 vs Bernstein $1,298; MU recovery — watch for HWM re-test $1,108.72
