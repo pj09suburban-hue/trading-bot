@@ -8302,3 +8302,72 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - 1pm ET: $39B 10-Year Treasury auction (weak demand = yield spike = MU pressure)
 - 2pm ET: FOMC September meeting minutes (hawkish tone = rate shock scenario)
 - Both events represent tail risk to MU; GTC $997.848 provides 7.18% buffer.
+
+---
+
+## 2026-10-08 — Pre-Market Research (Day 120, Week 25 Day 4 — Thursday — OIL SURGE / GEV GATE)
+
+### Account Snapshot
+- **Equity:** $110,231.30 | **Cash:** $87,761.30 (79.6%) | **Long MV:** $22,470 (20.4%)
+- **Phase P&L:** +$10,231.30 (+10.23%) vs $100k start
+- **Week 25 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+- **Deployment:** 20.4% — significantly below target 75–85%; 3 trade slots and 5 position slots remain
+
+### Market Context
+- **WTI crude:** ~$92.72/bbl (+5.0% from $88.28 close); catalyst: Iranian attacks on commercial tankers in Strait of Hormuz. Elevated geopolitical risk premium.
+- **Brent:** data unavailable; WTI spike confirms broad crude move
+- **S&P 500 futures:** ~7,826–7,851 (−0.3% to −0.26% premarket)
+- **VIX:** 15.96 (live); 15.08 (Oct 7 close) — slightly elevated, not fearful
+- **Jobless claims (today 8:30 AM ET):** 197K actual vs 200K expected — slight beat (risk-positive)
+- **30-year Treasury auction (1:00 PM ET today):** Key yield risk event — weak demand = yield spike = rate-sensitive pressure
+- **CPI:** Oct 14 (next Tuesday) — not today
+- **Fed Waller speech today** — monitor for hawkish tone
+- **Earnings pre-market:** PepsiCo (PEP), Helen of Troy (HELE), Tilray (TLRY), Fast Retailing (FRCOY); no major tech earnings
+- **Sector momentum YTD:** Energy +42.32% | Materials +15.86% | Industrials +8.71% | Consumer Staples +9.59%
+
+### Held Position Update
+
+**MU — Thesis intact, HOLD**
+- Pre-market: ~$1,070–$1,074 (−1.4–1.6% from $1,088 close)
+- GTC trailing stop: $997.848 (10% trail, HWM $1,108.72); buffer ~6.7% from $1,070
+- Hard cut: $971.54 (−7% from entry $1,044.67); current 2.42% unrealized gain
+- DA Davidson Buy, PT $3,000 (Oct 7) — intact
+- **New risk today:** Taiwan union authorized strike over bonus dispute; modest negative pressure (~−2.6% cited pre-market previously, absorbed Oct 7). Headline risk remains if strike materializes.
+- **Ex-dividend Oct 14:** $0.15/share (minor, non-strategic)
+- **Decision: HOLD.** GTC stop manages risk. No manual action needed.
+
+### Trade Ideas
+
+**#1 — GEV (GE Vernova): WATCHLIST — R:R gate at market open**
+- Oct 7 close: $997.09 (−3.12% on digestion after BWRX-300/AI grid rally)
+- Pre-market Oct 8: ~$1,010–$1,012 (+1.3% from close)
+- Entry zone established: $992–$1,010 (R:R ≥ 2:1 required)
+- **R:R check at $1,010 fill (10% stop):**
+  - Stop: $909.00
+  - Conservative target $1,190: R:R = $180/$101 = **1.78:1 ❌**
+  - Bernstein PT $1,298: R:R = $288/$101 = **2.85:1 ✓** (use only if catalyst still intact)
+- GEV is rate-sensitive (AI infra/data center). MU is also rate-sensitive. Adding GEV = 2nd rate-sensitive position — AT Rule 13 limit (allowed).
+- Gate decision at market open: verify live quote, confirm R:R ≥ 2:1 vs $1,298 PT. If GEV opens ABOVE $1,010, R:R narrows further. Do not chase above $1,020 (Bernstein R:R = ($1,298-$1,020)/$102 = 2.73:1 — marginal). If at or below $1,010 with confirmed momentum: enter.
+- **Week 25 context:** 3 trade slots remain, 0 used. Highly underdeployed (20% deployed vs 75–85% target). GEV is the highest-conviction entry available.
+- **TRADE-CONDITIONAL:** Enter at market open ONLY if live Alpaca quote confirms fill ≤ $1,020 AND R:R ≥ 2:1 vs Bernstein $1,298 (confirmed catalyst). Otherwise skip.
+
+**#2 — Energy sector (oil spike catalyst): NEW WATCHLIST**
+- WTI +5% today on Iranian tanker attacks. Energy sector YTD leader (+42.32%).
+- Candidates: XOM (ExxonMobil), CVX (Chevron), EOG (E&P). Not yet researched.
+- **Do NOT trade today:** Catalyst is already in pre-market; chasing a +5% oil gap without prior research violates entry checklist. Evaluate at next research session if geopolitical risk premium sustains.
+- Rate sensitivity: oil/energy names are rate-sensitive per Rule 13(a). With MU held and possibly GEV entering, could hit Rule 13 limit. Block if at 2 rate-sensitive after GEV entry.
+
+**#3 — New deployment opportunities (general):** Underdeployment gap is significant. At 20% deployed, need 3–4 more positions to reach 75% target. This week's 3 trade slots support 2–3 new entries. After GEV resolution at market-open, identify 1–2 additional setups for midday/tomorrow pre-market.
+
+### Risk Factors
+1. **30-year bond auction (1pm ET):** Weak demand = yield spike = pressure on MU (rate-sensitive) and potentially GEV entry
+2. **Oil geopolitical escalation:** WTI +5% today already priced pre-open. Additional spike = inflation concern = rate-higher narrative = broad pressure
+3. **Taiwan MU strike:** If strike materializes, disrupts production; MU stop $997.848 manages downside
+4. **GEV gap above entry zone:** If opens above $1,010, R:R with $1,190 target fails; discipline required
+5. **Persistent underdeployment:** At 20% deployed, missing 3–4 positions worth of return on capital; need to resolve this week
+
+### Decision: **TRADE-CONDITIONAL**
+- MU: HOLD. GTC manages risk.
+- GEV: TRADE at market-open IF live fill ≤ $1,020 AND R:R ≥ 2:1 vs Bernstein PT $1,298. Max 20 shares at $1,010 = $20,200 (18.3% equity) — under 20% limit.
+- Energy: No trade today. Insufficient pre-market research. Revisit tomorrow if WTI holds $90+.
+- Size: If GEV trades, 20 shares @ ~$1,010 = $20,200 (18.3% equity). Stop GTC at 10% trail.
