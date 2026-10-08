@@ -6165,3 +6165,17 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 25 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0 | **No Slack sent (no action taken)**
 **Key watch (rest of day / tomorrow market-open):** 30-year auction 1pm ET (yield spike = MU/GEV risk); MU GTC $997.848 manages; GEV re-eval at open — enter if ≤$1,010 AND R:R ≥ 2:1 vs Bernstein $1,298; MU recovery — watch for HWM re-test $1,108.72
+
+---
+
+## 2026-10-08 — EOD Snapshot (Day 120, Week 25 Day 4 — Thursday — AI CHIP CONTINUED WEAKNESS)
+**Portfolio:** $109,504.07 | **Cash:** $87,761.30 (80.1%) | **Day P&L:** −$1,105.23 (−1.00%) | **Phase P&L:** +$9,504.07 (+9.50%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,035.26 | −4.85% | −$197.72 (−0.90%) | $997.848 (10% trail, HWM $1,108.72, 3.61% buf) |
+
+**Notes:** Day 120 (Thursday, Week 25 Day 4 — AI Chip Continued Weakness). MU fell −4.85% intraday to $1,035.26 (close). Sector-wide AI/semiconductor profit-taking continued — SK Hynix and Sandisk also lower. Fundamentals intact: record Q4 (Rev $54.23B, EPS $33.42), Q1 FY2027 guide $61.5B, DA Davidson PT $3,000 (Oct 7), 44 Buy ratings. GTC trailing stop $997.848 unchanged (HWM $1,108.72, 3.61% buffer — above 3% minimum floor; stop does not ratchet as price below HWM). No stop tightening triggered (unrealized −0.90%, well below +15%/+20% thresholds). 30-yr auction resolved without yield spike. No trades executed. Week 25: 0/3 trades. Phase P&L +9.50% vs $100k start.
+
+**Week 25 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
+**Key watch (Fri Oct 9 market-open):** GEV re-eval entry $989–$1,010 (R:R ≥ 2:1 vs Bernstein $1,298 PT); MU hold vs $997.848 stop (buffer 3.61%); MU recovery — HWM re-test $1,108.72 key level
