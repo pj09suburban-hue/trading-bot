@@ -8371,3 +8371,75 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - GEV: TRADE at market-open IF live fill ≤ $1,020 AND R:R ≥ 2:1 vs Bernstein PT $1,298. Max 20 shares at $1,010 = $20,200 (18.3% equity) — under 20% limit.
 - Energy: No trade today. Insufficient pre-market research. Revisit tomorrow if WTI holds $90+.
 - Size: If GEV trades, 20 shares @ ~$1,010 = $20,200 (18.3% equity). Stop GTC at 10% trail.
+
+---
+
+## 2026-10-09 — Pre-Market Research (Day 121, Week 25 Day 5 — Friday — BANK EARNINGS / MICHIGAN SENTIMENT)
+
+### Account Snapshot
+- **Equity:** $109,888.16 | **Cash:** $87,761.30 (79.9%) | **Long MV:** $22,126.86 (20.1%)
+- **Positions:** 1/6 (MU) | **Week 25 trades:** 0/3 | **Daytrade count:** 0
+- **Phase P&L:** +$9,888.16 (+9.89%) vs $100k start
+
+### Market Context
+- **WTI crude:** ~$90.49/bbl (easing from $93 peak; Trump signals Iran diplomacy, geopolitical risk premium fading)
+- **Brent:** ~$103.20/bbl (-1% today on Iran diplomacy signal)
+- **S&P 500 futures:** +0.4–0.5% (~7,846–7,850); supported by falling oil and easing AI investment worries
+- **VIX:** 15.23 (slightly elevated, not fearful)
+- **Michigan Consumer Sentiment (10am ET today):** Consensus 47.6 vs prior 48.1; 1-yr inflation expectations 4.7% vs 4.6% prior — softening sentiment, slightly elevated inflation expectations
+- **Earnings today (pre-market):** DAL (Delta), JPM, BAC, GS, WFC, C, BLK (major banks day)
+- **No CPI/PPI/FOMC/jobs data today**
+- **Sector YTD:** Energy +48.8% | Tech +37.9% | Materials +10.0% | Health Care +10.3% | Comm Services −3.9% | Consumer Disc −5.9%
+
+### Held Position Update
+
+**MU — Thesis intact, HOLD**
+- Pre-market: $1,053.66 (+1.72% intraday recovery from yesterday's $1,035.84 close)
+- GTC trailing stop: $997.848 (10% trail, HWM $1,108.72); buffer 5.30% from current price
+- Hard cut: $971.54 (−7% from entry $1,044.67); current 0.86% unrealized gain (+$188.78)
+- Thesis: Record Q4 (Rev $54.23B, EPS $33.42), Q1 FY2027 guide $61.5B, DA Davidson Buy PT $3,000, 44 Buy/0 Sell
+- Taiwan union strike: no confirmed materialization; headline overhang only
+- **Decision: HOLD.** GTC stop manages risk. Recovery from AI chip weakness beginning.
+
+### Trade Ideas
+
+**#1 — GEV (GE Vernova): TRADE-CONDITIONAL at market-open**
+- Perplexity: Oct 9 ~$998–$1,012; opened $984.68 intraday, range $974–$1,026
+- **NEW BEARISH CATALYST:** GLJ Research issued "Strong Sell" (stock dropped 8.6% on call); stock appears to have absorbed and recovered near $998–$1,012
+- Bernstein Outperform PT $1,298 — intact; Q4 earnings Oct 28 (~19 days, not post-earnings rule)
+- Ex-dividend Oct 27: $0.50/share (minor, non-strategic)
+- R:R at $1,000 fill: Stop $900 (10% trail), target $1,298 → R:R = $298/$100 = **2.98:1 ✓**
+- Rate-sensitive classification: YES (AI infra/data center). MU (1) + GEV (2) = Rule 13 limit → NO more rate-sensitive entries after this
+- Max size: 20 shares × $1,000 = $20,000 (18.2% equity — under 20% limit)
+- **GATE at market-open (market-open routine handles execution):**
+  - Live fill ≤ $1,010 (Alpaca quote confirmed)
+  - R:R ≥ 2:1 vs $1,298 Bernstein target
+  - GEV holding above $990 support (GLJ sell absorbed)
+  - Cash available ($87,761 > $20,000 ✓)
+  - Total positions after fill: 2/6 ✓
+  - Week 25 trades: 1/3 after fill ✓
+
+**#2 — Major Banks (JPM/GS): WATCHLIST for Mon**
+- JPM, BAC, GS, WFC, C, BLK all reporting pre-market today
+- Financials benefit from higher-yield environment
+- Rate-uncorrelated from MU/GEV (commercial banks / investment banks = NOT AI infra / utility / materials)
+- **Cannot enter today:** No prior research; catalyst just breaking; entry checklist requires documented catalyst in prior RESEARCH-LOG
+- **Flag for Monday pre-market:** if bank earnings beat consensus → sector momentum entry on best-in-class name
+
+**#3 — Energy: HOLD for reassessment**
+- WTI easing from $93 to $90 (Trump Iran signal); geopolitical risk premium fading
+- Energy YTD +48.8% — sector momentum strong but near-term catalyst weakening
+- Rule 13: if GEV entered → 2 rate-sensitive held → energy names blocked (most are rate-sensitive per rule 13a)
+- **Reassess Monday:** if WTI holds $88+ and geopolitical risk persists, energy adds remain valid post-GEV exit or offset
+
+### Risk Factors
+1. **Michigan Sentiment (10am ET):** Consensus already weak (47.6); if miss + elevated inflation expectations → consumer/growth selloff
+2. **GLJ Strong Sell on GEV:** Additional bearish overhang; if stock gaps below $990 at open, R:R gate fails → skip entry
+3. **Oil easing:** WTI $90 → Iran diplomacy signal; if talks progress, energy sector momentum fades
+4. **MU stop buffer 5.30%:** Another AI chip down day could test $997.848 stop; thesis intact but buffer thinning from HWM
+5. **Persistent underdeployment:** 20% deployed vs 75–85% target; only 2 trade slots remain this week after GEV; need 2–3 positions next week
+
+### Decision: **TRADE-CONDITIONAL**
+- **MU:** HOLD. GTC stop $997.848 manages risk. Recovery underway (+1.72% premarket).
+- **GEV:** TRADE-CONDITIONAL at market-open (fill ≤ $1,010, R:R ≥ 2:1 vs $1,298, GLJ sell absorbed above $990). Market-open routine executes.
+- **Banks/Energy:** HOLD today. Log for Monday pre-market research.
