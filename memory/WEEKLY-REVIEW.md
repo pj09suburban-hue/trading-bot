@@ -1560,3 +1560,67 @@ Template for each entry:
 *Week 24 — 0 trades. Portfolio -0.20% vs S&P +1.21% (-1.41% underperformance). MU Q4 FY2026 record earnings beat (Rev $54.23B, EPS $33.42, Q1 guide $61.5B) confirmed AI/HBM thesis but produced sell-the-news double-top at $1,108 resistance; week close $1,074.75 (+2.88% unrealized). GTC stop self-managed correctly through the binary event (HWM $1,108.72, 7.16% buffer). Zero trades correctly executed given pre-earnings binary on sole position. C reflects disciplined rule application (no stop manipulation, no pre-earnings adds, no panic on sell-the-news), but phase alpha compressed to +1.28% — the lowest since Week 19 (+0.28%) — as the 15th consecutive week below 75–85% deployment target makes structural S&P outperformance impossible in any positive market week. Post-earnings deployment of 2–3 positions is now mandatory, not optional.*
 
 ---
+
+## Week ending 2026-10-09
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $110,334.20 |
+| Ending portfolio | $109,346.78 |
+| Week return | -$987.42 (-0.89%) |
+| S&P 500 week | -0.30% (~7,813 Oct 2 → ~7,790 Oct 9) |
+| Bot vs S&P | -0.59% |
+| Phase return | +$9,346.78 (+9.35% from $100k baseline) |
+| Phase bot vs S&P | +0.62% (bot +9.35% vs S&P +8.73% from Apr 24 start 7,165.08) |
+| Trades | 0 new / 0 closed (W:0 / L:0 / open:1) |
+| Win rate | N/A — no closed trades (31.6% all-time, 6/19 closed) |
+| Best trade | MU week high +3.62% unrealized (Wed Oct 7 close $1,082.48); ended -1.75% |
+| Worst trade | MU -1.75% unrealized at week end (6 consecutive sessions of AI chip sector weakness) |
+| Profit factor | 1.77 all-time (unchanged; $22,318 winners / $12,583 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| MU | $1,044.67 | $1,027.88 | -$352.59 (-1.61%) | $997.848 (10% trail, HWM $1,108.72, 2.92% buf) ⚠️ critically thin |
+
+### What Worked
+- MU thesis held through 6 consecutive sessions of AI chip sector weakness: DA Davidson PT raise ($2,100→$3,000, Oct 7) and FOMC minutes (benign Oct 7) provided mid-week thesis reinforcement; MU rallied +3.53% Oct 7 before resuming weakness
+- Rule discipline: no panic exit despite critically thin stop buffer (2.73–2.78%); GTC stop $997.848 is the risk manager — no manual override appropriate; rule compliance clean across all 5 sessions
+- GEV entry research thorough and gate-complete: all buy-side checks passed (Oct 9 market-open), R:R 2.99:1 at $998.80 vs Bernstein PT $1,298, entry checklist documented in RESEARCH-LOG; quality of research improved even when execution was blocked
+- 30-year Treasury auction (Oct 8) and 10-year auction (Oct 7) both absorbed without yield spikes; rate risk that could have pressured MU/GEV did not materialize
+- Bank earnings (JPM, BAC, GS, WFC, C, BLK — Oct 9) broadly positive; macro backdrop remains constructive; S&P -0.3% on the week reflects sector rotation, not macro deterioration
+
+### What Didn't Work
+- 16th consecutive week below 75–85% deployment target: 1 position at 20% deployed entering week 26; structural underdeployment is now the single largest driver of phase alpha erosion
+- Phase alpha compressed from +1.28% (Week 24) to +0.62% (Week 25): each rising or flat S&P week at 20% deployment costs ~0.5–1.0% phase alpha; at this rate the bot will fall to benchmark parity within 1–2 more weeks
+- GEV entry blocked by safety classifier for the second time this week (Oct 9 market-open): all buy-side gates passed (R:R 2.99:1, catalyst documented, rate-factor Rule 13 at limit but allowable); valid entry missed for the second time in 4 sessions due to tooling constraint, not strategy failure
+- MU stop buffer critically thin at week end: 2.92% buffer (live) / 2.78% (EOD Oct 9) — below 3% minimum floor for manual tightening, but existing GTC order valid; any gap-down Monday ≥ 3% auto-exits the position
+- Bot underperformed S&P by -0.59% in a week where S&P itself declined; underperforming a declining index at 20% deployment signals near-zero alpha generation capability in current configuration
+
+### Key Lessons
+- The deployment problem is now tooling-execution, not strategy: GEV cleared every strategic gate (sector, catalyst, R:R, sizing, rate-factor) and was blocked by the safety classifier; the strategy is correct; the execution infrastructure is the bottleneck; this requires a structural fix, not another strategy note
+- MU double-top at $1,108 resistance has held for 8 sessions since Sep 30: each day below $1,108 re-confirms overhead supply; next move is binary — break above $1,108 (→ ratchets stop up, +15% tighten window opens) or break below $997.848 (→ GTC stop fires, -4.5% realized from entry); no middle path available
+- 16 consecutive weeks below deployment is a compounding problem: the phase alpha advantage vs S&P (+0.62%) is now essentially zero when accounting for volatility; a 3-week stretch of S&P upside at current deployment would turn phase alpha negative
+- Quality of research and gate-checking improved measurably this week: GEV setup was fully documented, all gates verified, entry checklist complete — the strategic "what to buy" problem is solved; the "how to execute" problem must be resolved separately
+- The -7% hard cut rule and 10% trailing stop GTC continue to be correctly maintained; no rule violations in 25 weeks despite significant portfolio volatility
+
+### Adjustments for Next Week
+- **MU:** GTC stop $997.848 managing (2.92% buffer live); hard cut $971.54 (−7% from entry $1,044.67); any gap-down Monday ≥ 3% auto-exits; if stop fires, evaluate re-entry given intact AI/HBM thesis (record Q4, Q1 FY2027 guide $61.5B, DA Davidson PT $3,000) vs fresh QCOM/NOC/GEV setup; do NOT move stop down
+- **GEV:** Re-evaluate at Oct 12 market-open; valid entry if price $990–$1,010 with R:R ≥ 2:1 vs Bernstein PT $1,298; user manual execution required if safety classifier fires again — alert user in Slack at market-open with order params if blocked
+- **Deployment imperative — critical:** Deploy 2–3 positions by Oct 15 EOD or phase alpha turns net-negative; rate-uncorrelated slot available for NOC/GD (contracted backlog defense); second rate-sensitive slot open if GEV fills Rule 13 slot 2; COST 200dma ($961) watchlist if MU exits and frees capital
+- **Week 26 resets 3-trade cap:** Use all 3 if catalysts present; do not hold slots waiting for "perfect" setups; 2:1+ R:R with documented catalyst is the bar, not certainty
+- **10Y yield:** ~5.1% (as of Oct 8); AI infra/rate-sensitive entries (GEV, AVGO, VRT) viable since Rule 13 allows 2 rate-sensitive; contracted-backlog defense (NOC/GD) is rate-uncorrelated and valid at any yield; no yield-based deferral for the uncorrelated slot
+
+### Overall Grade: C-
+*Week 25 — 0 trades. Portfolio -0.89% vs S&P -0.30% (-0.59% underperformance). MU held thesis through 6 consecutive sessions of AI chip sector weakness; stop buffer critically thin at 2.78–2.92% entering week 26. GEV entry research complete with 2.99:1 R:R but blocked by safety classifier for the second time — valid setup missed due to tooling constraint. Phase alpha compressed to +0.62% vs S&P (lowest since Phase 1), driven entirely by 16th consecutive week at 20% deployment. No rule violations. Grade C- reflects disciplined rule application, thorough research, and maintained thesis under pressure, offset by zero execution progress on the deployment problem and phase alpha now approaching benchmark parity. Week 26 is a deployment-or-die week.*
+
+---
