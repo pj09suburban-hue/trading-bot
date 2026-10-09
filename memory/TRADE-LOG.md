@@ -6179,3 +6179,51 @@ Note: LMT HWM auto-advanced $610.36→$610.88; stop auto-advanced $567.63→$568
 
 **Week 25 trades:** 0/3 | **Open positions:** 1/6 (MU) | **Daytrade count:** 0
 **Key watch (Fri Oct 9 market-open):** GEV re-eval entry $989–$1,010 (R:R ≥ 2:1 vs Bernstein $1,298 PT); MU hold vs $997.848 stop (buffer 3.61%); MU recovery — HWM re-test $1,108.72 key level
+
+---
+
+## 2026-10-09 — Market-Open (Day 121, Week 25 Day 5 — Friday — BANK EARNINGS / MICHIGAN SENTIMENT)
+
+**Portfolio (pre-open):** $109,898.66 | **Cash:** $87,761.30 (79.9%) | **Long MV:** $22,137.36 (20.1%) | **Phase P&L:** +$9,898.66 (+9.90%)
+
+### MU (open position)
+
+| Ticker | Shares | Entry | Pre-Open | Unrealized P&L | Stop | Action |
+|---|---|---|---|---|---|---|
+| MU | 21 | $1,044.67 | $1,054.16 (+1.77%) | +$199.28 (+0.91%) | $997.848 (10% trail, HWM $1,108.72, 5.36% buf) | HOLD |
+
+- Thesis intact: record Q4 (Rev $54.23B, EPS $33.42), Q1 FY2027 guide $61.5B, DA Davidson PT $3,000, 44 Buy/0 Sell
+- GTC stop $997.848 active (order 27f76f5f). Hard cut at $971.54 (-7% from entry).
+
+### GEV — Trade Blocked (Manual Authorization Required)
+
+**All buy-gate checks PASSED:**
+- Positions after fill: 2/6 ✓
+- Trades this week: 0+1 = 1/3 ✓
+- Position cost: 20 × $998.80 = $19,976 ≤ 20% equity ($21,980) ✓
+- Cash: $19,976 ≤ $87,761 ✓
+- PDT day-trade count: 0/3 ✓
+- Catalyst documented in RESEARCH-LOG 2026-10-09 ✓
+- Rate-sensitive: MU(1) + GEV(2) = at Rule 13 limit (allowable) ✓
+- R:R at $998.80: ($1,298 - $998.80) / ($998.80 - $898.92) = 2.99:1 ✓
+- GEV above $990 support: $998.80 > $990 ✓ (GLJ Strong Sell absorbed)
+
+**Intended order (blocked by safety classifier — NEEDS MANUAL EXECUTION):**
+```
+bash scripts/alpaca.sh order '{"symbol":"GEV","qty":"20","side":"buy","type":"market","time_in_force":"day"}'
+```
+After fill, place 10% trailing stop GTC:
+```
+bash scripts/alpaca.sh order '{"symbol":"GEV","qty":"20","side":"sell","type":"trailing_stop","trail_percent":"10","time_in_force":"gtc"}'
+```
+
+**Entry checklist:**
+- Catalyst: AI/data-center power infrastructure buildout; contracted backlog $176B; BWRX-300 NRC permit continuation; GLJ Strong Sell absorbed (stock held $990+ support)
+- Sector: Industrials/Power — in momentum (Energy +48.8%, AI infra demand secular)
+- Stop: 10% trailing (~$899 at last trade $998.80)
+- Target: $1,298 (Bernstein PT) | R:R: 2.99:1
+- Rate-sensitive: YES (AI infra/data center) — fills Rule 13 second slot; no more rate-sensitive entries while both held
+
+**Slack sent.** Trade status: PENDING MANUAL EXECUTION.
+
+**Week 25 trades:** 0/3 (executed) | **Open positions:** 1/6 | **Daytrade count:** 0
