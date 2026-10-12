@@ -6326,3 +6326,26 @@ bash scripts/alpaca.sh order '{"symbol":"GEV","qty":"20","side":"sell","type":"t
 
 **Week 26 trades:** 1/3 (GEV submitted) | **Open positions:** 1/6 (MU) + GEV pending fill | **Daytrade count:** 0
 **Key watch:** MU stop 0.78% buffer — gap-down risk on thin Columbus Day liquidity; GEV fill at 9:30 AM ET; trailing stop auto-placement via watcher; CPI Wednesday Oct 14 (MU earnings same day per research)
+
+### GEV — FILLED (9:30 AM ET market open)
+
+| Date | Ticker | Side | Shares | Entry | Stop Level | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-10-12 | GEV | BUY | 20 | $996.141 | 10% trail (stop ~$893.71) | AI/data-center power infra; $176B contracted backlog; BWRX-300 NRC permit; GLJ sell absorbed | $1,298 (Bernstein PT) | 3.05:1 |
+
+- Order c726f8d9 filled 20sh @ $996.141 avg at market open
+- 10% trailing stop GTC placed: order 9e05b84f, initial stop $893.709, HWM $993.01
+- Stop placed at 9:33 AM ET (delayed due to watcher "not_found" false failure; order had fully filled and moved to closed orders)
+
+### MU — STOP TRIGGERED / PARTIAL FILL ISSUE
+
+- **9:30 AM ET open:** MU gapped down; trailing stop 27f76f5f triggered at $997.848
+- **Partial fill:** 5 of 21 shares sold (paper trading simulation issue); 16 shares STILL HELD
+- **Current (post-open):** MU $985.67 | −5.65% from entry | GTC order 27f76f5f still active (partially_filled status)
+- **Hard cut level:** $971.54 (−7% from $1,044.67) — still 1.4% below current
+- **Status:** GTC order remains active for remaining 16 shares; may auto-fill or may be stuck
+- **ACTION NEEDED by user:** If MU does not fill remaining 16sh automatically, manually run:
+  1. `bash scripts/alpaca.sh cancel 27f76f5f-e868-4933-87cf-c239f35b16b2`
+  2. `bash scripts/alpaca.sh close MU`
+
+**Week 26 trades:** 1/3 (GEV) | **Open positions:** GEV (20sh) + MU (16sh partial, stop triggered) | **Daytrade count:** 0
