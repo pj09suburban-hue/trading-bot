@@ -8443,3 +8443,68 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **MU:** HOLD. GTC stop $997.848 manages risk. Recovery underway (+1.72% premarket).
 - **GEV:** TRADE-CONDITIONAL at market-open (fill ≤ $1,010, R:R ≥ 2:1 vs $1,298, GLJ sell absorbed above $990). Market-open routine executes.
 - **Banks/Energy:** HOLD today. Log for Monday pre-market research.
+
+---
+
+## 2026-10-12 — Pre-Market Research (Day 122, Week 26 Day 1 — Columbus Day / CPI Week)
+
+### Account Snapshot
+- **Equity:** $108,866.94 | **Cash:** $87,761.30 (80.6%) | **Long MV:** $21,105.64 (19.4%)
+- **Phase P&L:** +$8,866.94 (+8.87%)
+- **Open positions:** 1/6 (MU) | **Week 26 trades:** 0/3 | **Daytrade count:** 0
+
+### MU Position (CRITICAL — STOP BUFFER 0.71%)
+- Pre-market: $1,005.03 (−2.33% from Friday close $1,029)
+- GTC stop: $997.848 (10% trail, HWM $1,108.72) — **buffer only 0.71% ($7.18) from current price**
+- Hard cut: $971.54 (−7% from entry $1,044.67)
+- Unrealized: −$832.44 (−3.80%)
+- **NEW catalyst:** Baird raised PT $1,280 → $1,520 (bullish); MU Q1 FY2027 earnings expected Wednesday Oct 14 (per Perplexity — high uncertainty on exact date)
+- AI memory fundamentals intact: record FY2026 revenue $133.19B, >75% FY2027 output committed, 44 Buy/0 Sell
+- Risk: earnings-eve volatility + thin Columbus Day liquidity could trigger stop
+
+### Market Context
+- **WTI:** ~$90.57/bbl (−1.27% today, session range $89.61–$92.62); Iran ceasefire signal capping premium
+- **Brent:** ~$103.38/bbl (Hormuz tanker traffic at 2-month low keeping floor)
+- **S&P 500 futures:** +0.09–0.32%; cautious open — inflation concerns vs. earnings optimism
+- **VIX:** 15.53 (+4.65% today, elevated from Friday's 14.84 — risk-off bias)
+- **Today's econ events:** Columbus Day (bond market closed, stocks open); Existing Home Sales 10am ET; Fed Governor Hammack speech ~12:50pm ET
+- **THIS WEEK:** CPI Wednesday 8:30am ET; PPI Thursday 8:30am ET — MAJOR rate signals
+- **Earnings today:** No significant pre-market US earnings (LVMHY, Blue Owl only)
+- **S&P 500 sectors YTD:** Energy +48.4% | IT +38.6% | Health Care +11.7% | Materials +10.6% | Industrials +9.5% | Financials +8.8% | Consumer Disc −4.9%
+
+### Trade Ideas
+
+**#1 — MU: HOLD**
+- Thesis intact. Baird +$240 PT raise bullish. Q1 FY2027 earnings due Wednesday potential catalyst.
+- Stop $997.848 at 0.71% buffer — GTC order is the risk manager; do not manually tighten (within 3% rule).
+- If stopped out at $997.848 before earnings: take the stop, log, evaluate re-entry post-earnings.
+- **HOLD. GTC stop manages risk.**
+
+**#2 — JPM / GS (Financials sector entry): WATCHLIST → Flag for Tuesday**
+- Catalyst: Bank earnings season beat consensus broadly (JPM, BAC, GS, WFC, C, BLK all reported strong Oct 9–10)
+- Sector: Financials +8.8% YTD — momentum intact; higher-yield environment benefits net interest margin
+- Rate-sensitive classification: NO (commercial/investment banks = not AI infra / utility / materials) — does NOT consume Rule 13 slot
+- Entry gate: CPI Wednesday could move rates sharply; wait for CPI print before entering financials
+- If CPI in-line or lower → Financials get tailwind → enter JPM or GS Tuesday/Wednesday
+- Stop: 10% trailing; R:R needs verification against targets
+- **HOLD today. Flag for Tuesday pre-market research.**
+
+**#3 — GEV (re-evaluation): TRADE-CONDITIONAL**
+- Last week: all buy gates passed but blocked by safety classifier; manual execution pending
+- Need fresh quote to evaluate $990 support; likely needs market-open verification
+- Rate-sensitive: YES (AI infra) — 1/2 Rule 13 slots used if entered; MU not classified rate-sensitive
+- Wait for market-open routine to re-evaluate live quote and current R:R
+
+### Risk Factors
+1. **MU stop 0.71% buffer:** Another down tick in AI chips stops out MU before Wednesday earnings
+2. **Columbus Day thin liquidity:** Bond market closed; elevated intraday moves possible; VIX up 4.65%
+3. **CPI Wednesday (Oct 14):** High inflation print → yields spike → rate-sensitive names hit; disruptive for GEV entry thesis
+4. **Earnings-eve selling (MU):** Pre-earnings positioning could pressure MU further before Wednesday print
+5. **Persistent underdeployment:** 80% cash vs 75–85% target; 3 trades/week available to close gap
+
+### Decision: HOLD
+- **MU:** HOLD. GTC stop $997.848 manages risk. If triggered before earnings: system working as designed.
+- **GEV:** TRADE-CONDITIONAL at market-open (market-open routine verifies live $990+ support and R:R ≥ 2:1)
+- **JPM/GS:** WATCHLIST. Document catalyst today; enter Tuesday or Wednesday post-CPI if in-line
+- **No new buys today:** Columbus Day liquidity thin; CPI Wednesday is high-uncertainty event; patience > activity
+
