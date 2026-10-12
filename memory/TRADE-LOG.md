@@ -6407,3 +6407,17 @@ GTC stop $903.60, HWM $1,004. No tightening warranted.
 **Portfolio:** $108,509.14 | **Cash:** $88,478.24 (81.6%) | **Long MV:** $20,030.90 | **Day P&L:** ~−$802 (MU stop loss) | **Phase P&L:** +$8,509.14 (+8.51%)
 **Week 26 trades:** 1/3 (GEV) | **Open positions:** 1/6 (GEV) | **Daytrade count:** 0 (MU stop was GTC, not a day trade)
 **Key watch:** GEV stop $903.60 (10% trail); CPI Wednesday Oct 14 — rate shock risk for GEV; MU re-entry post earnings Wednesday (if Q1 FY2027 print bullish); JPM/GS entry window opens post-CPI; 2 more trades available this week
+
+---
+
+## 2026-10-12 — EOD Snapshot (Day 122, Week 26 Day 1 — Columbus Day / CPI Week)
+**Portfolio:** $108,361.84 | **Cash:** $88,478.24 (81.6%) | **Day P&L:** −$1,008.46 (−0.92%) | **Phase P&L:** +$8,361.84 (+8.36%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GEV | 20 | $996.141 | $994.515 | −1.02% | −$32.52 (−0.16%) | $903.60 (10% trail, HWM $1,004, 9.1% buf) |
+
+**Notes:** Day 122 (Monday, Week 26 Day 1 — Columbus Day). MU trailing stop triggered at open: 21sh sold @ $982.85 avg (GTC order 27f76f5f), realized −$1,297.62 (−5.92% from $1,044.67 entry); within −7% hard cut — trailing stop worked as designed despite thin Columbus Day liquidity. GEV bought at $996.141 (20sh) at market-open; closed at $994.515 (−0.16% unrealized), trailing stop GTC active at $903.60 (10% trail, HWM $1,004, 9.1% buffer). Day P&L −$1,008.46 (−0.92%) driven by MU realized loss; GEV mark-to-market −$32.52. Portfolio 81.6% cash (1/6 positions) — underdeployment persists. Phase P&L: +8.36% vs $100k start.
+
+**Week 26 trades:** 1/3 (GEV) | **Open positions:** 1/6 (GEV) | **Daytrade count:** 0
+**Key watch (Tue Oct 13):** GEV stop $903.60 (9.1% buffer); CPI Wednesday Oct 14 — rate shock risk for GEV (rate-sensitive sector); MU Q1 FY2027 earnings Wednesday (re-entry candidate on bullish print); 2 more trades available this week; target 2–3 new setups to address 81.6% cash underdeployment
