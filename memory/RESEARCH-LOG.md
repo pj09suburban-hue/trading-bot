@@ -8508,3 +8508,70 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **JPM/GS:** WATCHLIST. Document catalyst today; enter Tuesday or Wednesday post-CPI if in-line
 - **No new buys today:** Columbus Day liquidity thin; CPI Wednesday is high-uncertainty event; patience > activity
 
+
+---
+
+## 2026-10-13 — Pre-Market Research (Day 123, Week 26 Day 2 — Bank Earnings / CPI Eve)
+
+### Account Snapshot
+- **Equity:** $108,070.66 | **Cash:** $88,477.80 (81.9%) | **Long MV:** $19,592.86 (18.1%)
+- **Phase P&L:** +$8,070.66 (+8.07%)
+- **Open positions:** 1/6 (GEV) | **Week 26 trades:** 1/3 (GEV Oct 12) | **Daytrade count:** 0
+
+### GEV Position
+- **Premarket:** ~$985–$991 (down ~0.5–1.1% from $996.80 close)
+- **Live (Alpaca open):** $979.643 — unrealized −$329.96 (−1.66%)
+- **Trailing stop:** $903.60 (10% trail, HWM $1,004, GTC 9e05b84f) — buffer 7.8%
+- **Earnings date:** Oct 28, 2026 (>2 weeks out, no pre-announcement risk today)
+- **Latest news:** JPM cut PT $1,330→$1,150 (Overweight maintained); $176B backlog intact; $5B+ data-center orders 1H2026; $0.50/sh dividend ex-date Oct 27
+- **Thesis:** INTACT — drift lower is valuation reset after JPM cut, not fundamental change. Stop $903.60 managing risk.
+
+### Market Context
+- **WTI:** ~$92.03–$92.66/bbl (−1% today; Brent ~$105.05–$105.60); Russian diesel supply signal easing geopolitical premium
+- **S&P 500 futures:** 7,854–7,858 (flat to −0.10%); Dow up (bank rotation), Nasdaq down (chip selloff)
+- **VIX:** 15.35–15.55 (+0.9–2.2% — mild risk-off; 52-week high 35.30)
+- **Today's earnings (pre-market):** JPM, GS, WFC, C, JNJ, UNH
+  - **JPM Q3 actual:** EPS $5.57 (est $5.93, miss −6.1%) | Revenue $50.17B (est $51.23B, miss −2.1%) | NII $27.04B (beat) | YoY EPS +9.8%
+  - GS/WFC/C results not yet confirmed at research time; calls at 9:30am–11am
+- **TODAY:** Existing Home Sales 10am ET; Treasury Statement 2pm ET; Fed Collins speech 8pm
+- **TOMORROW (Oct 14):** US CPI Sep 8:30am ET (prior +0.6% MoM; consensus +0.5% MoM, core +0.3%); MU Q1 FY2027 earnings (expected); Morgan Stanley earnings
+- **Semiconductor sector:** Korean chip stocks tumbled overnight — Chinese memory chip advances spooking investors; AI boom valuation concerns
+- **Sectors YTD:** Energy +50.6% | IT +36.9% | Capital Goods +27% | Health Care +12.5%
+
+### Trade Ideas
+
+**#1 — GEV: HOLD**
+- Catalyst: Holding $903 stop. Earnings Oct 28 is the next major catalyst.
+- No new thesis-breaking news. JPM PT cut is a valuation revision, not a fundamental negative.
+- Current $979.643 is 7.8% above stop; do not manually tighten (within-3% rule applies at ~$928+).
+- **HOLD. GTC stop is the risk manager.**
+
+**#2 — MU re-entry (conditional Wednesday):**
+- MU stopped out yesterday at −5.92%; thesis was intact at closure (44 Buy/0 Sell, Baird PT $1,520)
+- Q1 FY2027 earnings due **tomorrow Oct 14** — if bullish beat (HBM revenue acceleration, data-center capex confirmation) → re-entry candidate
+- Entry criteria: earnings beat + pre-market quote stable + 7% post-earnings trailing stop (Rule 12, within-3-days-of-print rule) + R:R ≥ 2:1 vs Baird $1,520 PT
+- Rate-sensitive: NO (AI chips/semiconductors) — does not use Rule 13 slot; stays at 1/2 rate-sensitive
+- Risk: chip sector under pressure today (Korean stocks, Chinese DRAM threat) — must see earnings print first
+- **CONDITIONAL — evaluate Wednesday pre-market post earnings print**
+
+**#3 — JPM/GS Financials (conditional Wednesday post-CPI):**
+- JPM Q3 NII beat ($27.04B) confirms rate tailwind thesis; headline EPS/Rev miss driven by non-NII components
+- Entry thesis: higher-rate environment → NIM expansion → sustained earnings growth; Financials +8.8% YTD with momentum
+- Gate: CPI Wednesday must be in-line or soft (≤+0.5% MoM); hot print → yields spike → Financials sell-off (counterintuitive)
+- Rate-sensitive: NO (commercial banks per Rule 13 heuristic) — no Rule 13 slot consumed
+- Size: ~20k (≤20% equity), 10% trailing stop; R:R vs 52W high targets
+- **CONDITIONAL — evaluate Wednesday post-CPI print at 8:30am ET**
+
+### Risk Factors
+1. **CPI tomorrow 8:30am ET:** Hot print (+0.6%+ MoM) → yields spike → GEV (rate-sensitive) hit + Financials entry blocked
+2. **Chip sector contagion:** Korean KOSPI −3% on Chinese DRAM advances; if spreads to US semis, MU re-entry thesis weakens
+3. **JPM headline miss negative read-through:** Market may punish financials broadly at open despite NII beat; wait for intraday reaction before entry decision Wednesday
+4. **GEV approaching entry price from below:** At $979.643, unrealized −1.66%; sustained drift below $960 would approach −3.7% from entry — still well above −7% hard cut, but monitor for deteriorating thesis
+5. **Underdeployment:** 81.9% cash vs 75–85% deployed target; 2 trades remaining this week (Week 26)
+
+### Decision: **HOLD**
+- **GEV:** HOLD. Stop $903.60 managing risk. Thesis intact.
+- **MU:** CONDITIONAL re-entry Wednesday post-earnings print (market-open routine executes if gate passes)
+- **JPM/GS:** CONDITIONAL entry Wednesday post-CPI (market-open routine evaluates at 8:30am ET)
+- **No new buys today:** CPI tomorrow is high-uncertainty; bank earnings reaction unclear pre-open; patience > activity on CPI eve
+
