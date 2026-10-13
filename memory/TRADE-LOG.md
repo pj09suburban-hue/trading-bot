@@ -6421,3 +6421,17 @@ GTC stop $903.60, HWM $1,004. No tightening warranted.
 
 **Week 26 trades:** 1/3 (GEV) | **Open positions:** 1/6 (GEV) | **Daytrade count:** 0
 **Key watch (Tue Oct 13):** GEV stop $903.60 (9.1% buffer); CPI Wednesday Oct 14 — rate shock risk for GEV (rate-sensitive sector); MU Q1 FY2027 earnings Wednesday (re-entry candidate on bullish print); 2 more trades available this week; target 2–3 new setups to address 81.6% cash underdeployment
+
+---
+
+## 2026-10-13 — EOD Snapshot (Day 123, Week 26 Day 2 — Tuesday — CPI Eve)
+**Portfolio:** $108,444.20 | **Cash:** $88,477.80 (81.6%) | **Day P&L:** +$30.40 (+0.03%) | **Phase P&L:** +$8,444.20 (+8.44%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GEV | 20 | $996.141 | $998.32 | +0.15% | +$43.58 (+0.22%) | $903.60 (10% trail, HWM $1,004, 9.5% buf) |
+
+**Notes:** Day 123 (Tuesday, Week 26 Day 2 — CPI Eve). Quiet session. GEV drifted +0.15% to $998.32, ending just below HWM $1,004 — trailing stop unchanged at $903.60. No new trades; 2 trade slots remain this week. Portfolio remains 81.6% cash — significant underdeployment ahead of key catalysts: CPI Wednesday Oct 14 (rate shock risk for GEV), MU Q1 FY2027 earnings Wednesday (re-entry candidate). Day P&L +$30.40 purely mark-to-market on GEV. Phase P&L holding at +8.44%.
+
+**Week 26 trades:** 1/3 (GEV Mon Oct 12) | **Open positions:** 1/6 (GEV) | **Daytrade count:** 0
+**Key watch (Wed Oct 14):** CPI 8:30 AM ET — hot print = GEV pressure (rate-sensitive); MU earnings AH — bullish beat = re-entry at $985–$1,005; JPM/GS earnings — financial sector entry window; GEV stop $903.60 (9.5% buffer); 2 more trades available this week
