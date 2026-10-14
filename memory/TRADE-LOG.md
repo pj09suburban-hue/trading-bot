@@ -6435,3 +6435,41 @@ GTC stop $903.60, HWM $1,004. No tightening warranted.
 
 **Week 26 trades:** 1/3 (GEV Mon Oct 12) | **Open positions:** 1/6 (GEV) | **Daytrade count:** 0
 **Key watch (Wed Oct 14):** CPI 8:30 AM ET — hot print = GEV pressure (rate-sensitive); MU earnings AH — bullish beat = re-entry at $985–$1,005; JPM/GS earnings — financial sector entry window; GEV stop $903.60 (9.5% buffer); 2 more trades available this week
+
+---
+
+## 2026-10-14 — Midday Scan (Day 124, Week 26 Day 3 — CPI Day)
+
+### Portfolio (midday, ~12:12 PM ET)
+
+| Ticker | Shares | Entry | Current | Unreal P&L | % | Stop (live) | HWM | Action |
+|---|---|---|---|---|---|---|---|---|
+| GEV | 20 | $996.141 | $937.92 | −$1,164.42 | −5.84% | $905.40 (10% trail, 9e05b84f) | $1,006 | HOLD |
+
+**Equity:** $107,238 | **Cash:** $88,477.80 (82.5%) | **Long MV:** $18,760.20 (17.5%)
+
+**STEP 3 — Cut losers:** NOT triggered. GEV unrealized −5.84% from entry; hard cut level $926.41 (−7%). Not breached. ⚠️ Margin: 1.26% above cut level.
+
+**STEP 4 — Stop tightening:** None. GEV −5.84% from entry — far below +15%/+20% triggers. GTC stop $905.40 unchanged.
+
+**STEP 5 — Thesis check:**
+- **GEV ($937.92, −5.84% from entry, −6.6% intraday):** Thesis INTACT.
+  - CPI (Oct 14, 8:30 AM ET) printed hot → yields spiked → rate-sensitive names (GEV) sold off. This is a macro/rate-factor move.
+  - No new company-specific bearish news. No guidance revision. No order-book deterioration.
+  - Perplexity research: "The long-term demand/backlog thesis is not obviously broken, but the near-term valuation thesis is vulnerable. No clear new company-specific bearish announcement identified."
+  - $176B backlog intact. AI/data-center power infra demand secular. Oct 28 earnings unchanged.
+  - Pre-market plan: "If CPI hot → GTC manages." Following plan.
+  - **HOLD. GTC stop $905.40 manages downside.**
+
+**STEP 6 — Intraday research (Perplexity):**
+- CPI printed hot (rate shock confirmed). GEV −6–7% intraday on rate/valuation derating + pre-earnings de-risking.
+- No new company-specific negative: Wind execution costs, JPM/Susquehanna PT cuts already known.
+- Rate-factor move consistent with Rule 13 risk (added after Week 18 30Y spike). GEV is 1/2 allowed rate-sensitive slots.
+- ⚠️ Watch level: $926.41 (-7% from entry) — if breached before EOD scan, GTC stop ($905.40) auto-executes. Gap exists between -7% cut level and GTC stop; max downside from entry if stop triggers: ~−9.1%.
+- MS trade (conditional from pre-market): Not evaluated — CPI hot disqualifies per pre-market gate "(a) CPI must print ≤+0.5% MoM." Correct to skip.
+
+**STEP 7 — Notification: NO action taken → no Slack per midday notification rule.**
+
+**Portfolio:** $107,238 | **Cash:** $88,477.80 (82.5%) | **Long MV:** $18,760.20 | **Phase P&L:** +$7,238 (+7.24%)
+**Week 26 trades:** 1/3 (GEV) | **Open positions:** 1/6 (GEV) | **Daytrade count:** 0
+**Key watch (EOD/Thu):** GEV hard cut $926.41 (currently $11.51 above); GTC stop $905.40; CPI aftermath — will yields stabilize? Oct 28 earnings is the next major GEV catalyst.

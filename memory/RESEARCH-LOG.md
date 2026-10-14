@@ -8650,3 +8650,23 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **MS:** CONDITIONAL — market-open routine executes IF (a) CPI ≤+0.5% MoM AND (b) MS beats earnings AND (c) R:R ≥ 2:1 at live quote
 - **MU:** NOT today. Next catalyst December 2026.
 - **No pre-open buys:** CPI at 8:30 AM ET is binary; patience > activity until print is known.
+
+---
+
+## 2026-10-14 — Midday Addendum (~12:12 PM ET)
+
+**GEV CPI reaction (confirmed via Perplexity):**
+- CPI printed hot → rate shock → GEV −6–7% intraday. Rate-sensitive names sold broadly.
+- No company-specific negative news. Thesis intact ($176B backlog, AI power infra secular, Oct 28 earnings).
+- Analyst PT cuts (Susquehanna → $1,270, JPM → $1,150) were pre-existing; Guggenheim reiterated Buy $1,450.
+- Pre-earnings de-risking (Oct 28 3Q26) contributing to selloff.
+- **GEV verdict: HOLD. GTC stop $905.40 managing risk. Hard cut level $926.41 — monitor at EOD.**
+
+**MS trade (conditional from pre-market):**
+- Gate failure: CPI hot (>+0.5% MoM). Pre-market plan: "CPI must print ≤+0.5% MoM" — gate not met.
+- MS trade correctly skipped. No new positions opened today.
+
+**No new trade setups identified for remainder of day:**
+- CPI aftermath = high uncertainty; yields spiking = unfavorable for rate-sensitive names
+- Patience > activity on hot CPI day
+
