@@ -8575,3 +8575,78 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **JPM/GS:** CONDITIONAL entry Wednesday post-CPI (market-open routine evaluates at 8:30am ET)
 - **No new buys today:** CPI tomorrow is high-uncertainty; bank earnings reaction unclear pre-open; patience > activity on CPI eve
 
+
+---
+
+## 2026-10-14 — Pre-Market Research (Day 124, Week 26 Day 3 — CPI Day / Earnings Heavy)
+
+### Account Snapshot
+- **Equity:** $108,427.80 | **Cash:** $88,477.80 (81.6%) | **Long MV:** $19,950 (GEV 20sh, 18.4%)
+- **Phase P&L:** +$8,427.80 (+8.43%) vs $100k start
+- **Open positions:** 1/6 (GEV) | **Week 26 trades:** 1/3 (GEV Oct 12) | **Daytrade count:** 0
+
+### GEV Position
+- **Premarket (~6 AM ET):** $997.00 (−0.57% from $1,002.72 close); current Alpaca: $997.50 (+0.14% intraday)
+- **Unrealized:** +$27.18 (+0.14%) | **Stop:** $905.40 (10% trail GTC, 9e05b84f, HWM $1,006, 9.4% buffer)
+- **Earnings:** Oct 28 (3Q26) — safe window; no pre-announcement risk today
+- **News:** Guggenheim Buy $1,450 PT (maintained); Citi Hold maintained; JPM cut $1,330→$1,150 (Overweight held). $176B backlog intact. $0.50/sh quarterly dividend, ex-date Oct 27.
+- **Thesis:** INTACT — JPM PT cut is valuation reset, not fundamental change; data-center power infra demand secular; BWRX-300 NRC permit unchanged.
+- **Action:** HOLD. GTC stop $905.40 manages risk.
+
+### Market Context
+- **WTI:** ~$94.39–$95.41/bbl (+1.3% intraday); **Brent:** ~$105.95–$107.00 (+1.2%). Houthi attack on Saudi Aramco HQ in Dhahran reported; Hormuz tanker traffic at 2-month low. Energy elevated.
+- **S&P 500 futures:** +0.17–0.20% (~7,869) — modestly higher but cautious. Dow futures +0.25%, Nasdaq +0.2%. Mixed: financials under pressure, tech resilient.
+- **VIX:** 15.19 (−0.52%), range 15.17–15.61, prior close 15.27. Stable; no fear spike.
+- **CPI (8:30 AM ET today):** Not yet released. Consensus: headline +0.6% MoM (+3.7% YoY) vs prior +0.4%; core +0.2% MoM (+2.4–2.5% YoY). Michigan 1-yr inflation expectations 4.7% — market on edge.
+- **Today's BMO earnings:** ASML (beat: €11.7B Q3 sales, €4.96B net income — AI infra positive read-through); BAC (miss: EPS $1.08 vs $1.11 est — one-time $1.2B OCC/FinCEN settlement, NII +8%); MS (pending, est $2.94 EPS); BLK, STT, PGR, FAST
+- **MU earnings correction:** Q1 FY2027 NOT reporting today. Q4/FY2026 was reported Sep 30. Prior log erred. Next MU catalyst: Q1 FY2027 results (likely Dec 2026). MU dividend $0.15/sh record date today (Oct 14, ex-div today) — minor.
+- **ASML:** Beat expectations; NVDA +0.97%, AMD +1.90%, META +2.63% — AI infrastructure positive tone premarket
+
+### Sector Momentum (YTD)
+| Sector | YTD | Trend |
+|---|---|---|
+| Energy | +40.4% | Leader — elevated crude (Houthi/Hormuz) |
+| Information Technology | +29–30% | Strong — AI demand |
+| Materials | +12.7% | Constructive |
+| Health Care | +10.3% | Stable |
+| Financials | ~+8–10% | Mixed — NII growth vs miss narrative |
+| Communication Services | +4.0% | Laggard |
+| Utilities | Laggard | Pressured by yields |
+
+### Trade Ideas
+
+**#1 — GEV (current hold): HOLD**
+- Stop $905.40 active; buffer 9.4%; earnings Oct 28; thesis intact.
+- If CPI hot (>+0.6% MoM) → yields spike → GEV rate-sensitive pressure → WATCH stop. Do not manually tighten; GTC manages.
+- **HOLD. No action.**
+
+**#2 — MU re-entry: NOT TODAY**
+- Q1 FY2027 not reporting today (was a prior research error). Memory chip stocks extending declines premarket (CXMT Chinese DRAM advances). Sector headwind persists.
+- Re-entry requires: sector stabilization + clear catalyst. No setup today.
+- **SKIP.**
+
+**#3 — MS (Morgan Stanley): CONDITIONAL post-CPI + post-earnings**
+- Catalyst: Q3 2026 reporting today BMO; est $2.94 EPS (+10% YoY), NII expansion, wealth management. BAC miss on legal charge only (NII +8%, loans +6%) — doesn't invalidate MS thesis.
+- Gate: CPI must print ≤+0.5% MoM (in-line or soft); hot CPI = rate shock = bank sell-off counterintuitively
+- Rate-sensitive: NO (commercial banks per Rule 13 heuristic) — does not consume Rule 13 slot (GEV = 1/2 rate-sensitive)
+- Size: 20 shares ~$18–20k (≤20% equity ≈ $21,685)
+- Trailing stop: 10% GTC; R:R: target $140+ vs entry ~$112–$115, stop 7–10% below
+- **CONDITIONAL — market-open routine evaluates: (1) CPI print, (2) MS earnings print, (3) MS live quote + R:R ≥ 2:1**
+
+**#4 — BAC (Bank of America): WATCH**
+- Q3 miss driven by one-time charge; underlying NII +8%, loans +6%, strong. Could see entry on a dip if CPI in-line.
+- Not actionable today — wait for full price reaction to digest both CPI + earnings. 
+- **WATCHLIST only.**
+
+### Risk Factors
+1. **CPI hot (+0.6%+ MoM):** Yields spike → GEV rate-sensitive pressure; no new entries possible; watch GEV stop
+2. **MU chip sector weakness:** Chinese DRAM (CXMT) advances spooking AI chip stocks — sector headwind; no MU re-entry today
+3. **BAC/Financials miss narrative:** Market may punish financials broadly despite one-time settlement headwind
+4. **Oil spike (Houthi/Hormuz):** Brent $107 — inflation risk; positive for energy sector (energy ban still in effect for us), negative for rate-sensitive names
+5. **Underdeployment:** 81.6% cash vs 75–85% target; 2 trades remaining this week
+
+### Decision: HOLD (CPI-conditional)
+- **GEV:** HOLD. Stop $905.40 managing risk. Thesis intact ahead of CPI.
+- **MS:** CONDITIONAL — market-open routine executes IF (a) CPI ≤+0.5% MoM AND (b) MS beats earnings AND (c) R:R ≥ 2:1 at live quote
+- **MU:** NOT today. Next catalyst December 2026.
+- **No pre-open buys:** CPI at 8:30 AM ET is binary; patience > activity until print is known.
