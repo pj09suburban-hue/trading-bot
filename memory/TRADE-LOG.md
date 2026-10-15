@@ -6585,3 +6585,18 @@ No action taken at midday → no Slack per notification rule.
 **Week 26 trades:** 1/3 (GEV Oct 12 entry) | **Open positions:** 0/6 | **Daytrade count:** 0
 **Sector tracking:** Industrials/Power: 1 failed trade (GEV) | AI Chips/Semi: 1 failed trade (MU) | No sector ban triggered
 **Next:** EOD scan for rate stabilization; MU reaction; 2 trade slots remain this week (Thu/Fri potential)
+
+---
+
+## 2026-10-15 — EOD Snapshot (Day 125, Week 26 Day 4 — PPI Rate Shock / GEV Exit Day)
+**Portfolio:** $106,443.34 | **Cash:** $106,443.34 (100%) | **Day P&L:** −$869.06 (−0.81%) | **Phase P&L:** +$6,443.34 (+6.44%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| — | — | — | — | — | No open positions | — |
+
+**Notes:** Day 125 (Thursday, Week 26 Day 4 — PPI Rate Shock Day). GEV sold at market open 9:35 AM ET at $898.277 — gap-down worse than pre-market estimate ($912.50) due to PPI headline +1.3% MoM print (second-largest ever, vs +0.5% est; core PPI biggest 4-year gain). Realized P&L −$1,957.28 (−9.83%). Day P&L −$869.06 reflects the gap-down from Oct 14 close ($930.97) to fill. Now 100% cash, 0/6 positions. No new buys: dual rate-shock environment (CPI +0.6% Oct 14 + PPI +1.3% Oct 15), 10Y yield spiked to 5.05%. Patience > activity. Phase P&L: +6.44% from $100k start. Sector tracking: Industrials/Power 1 failed trade (GEV), AI Chips/Semi 1 failed trade (MU) — no sector ban triggered on either.
+
+**Week 26 trades:** 1/3 (GEV Oct 12 entry) | **Open positions:** 0/6 | **Daytrade count:** 0
+**Key watch (Fri Oct 16):** Rate stabilization; MU full earnings reaction; potential defensive setups (healthcare, consumer staples); 2 trade slots remain this week but hot macro = high bar for new entry
+
