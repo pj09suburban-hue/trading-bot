@@ -6487,3 +6487,47 @@ GTC stop $903.60, HWM $1,004. No tightening warranted.
 
 **Week 26 trades:** 1/3 (GEV Mon Oct 12) | **Open positions:** 1/6 (GEV) | **Daytrade count:** 0
 **Key watch (Thu Oct 15):** ⚠️ GEV hard cut $926.41 (only $4.56 buffer at EOD); GTC stop $905.40; CPI aftermath yield stabilization; MU Q1 FY2027 earnings AH (re-entry candidate); 2 more trades available this week
+
+---
+
+## 2026-10-15 — Market-Open Execution (Day 125, Week 26 Day 4 — PPI/Retail Sales Day)
+
+### GEV — SELL ORDER SUBMITTED (fill pending 9:30 AM ET market open)
+
+**Trigger:** −7% hard cut rule (unrealized loss −8.40% from $996.141 entry; $912.50 pre-open)
+- Hard cut level: $926.41 — breached as of pre-market ($913.25 pre-open, $912.50 last)
+- GTC trailing stop 9e05b84f (stop $905.40, HWM $1,006) — CANCELLED (12:37 UTC)
+- Market sell order submitted: 9905de8f | 20sh GEV | day TIF | 12:37 UTC (8:37 AM ET)
+- Fill expected at 9:30 AM ET market open
+
+**Estimated exit:** ~$912.50 (last price; actual fill TBD)
+**Estimated realized P&L:** ~−$1,673 (~−8.4% from $996.141 entry)
+
+| Date | Ticker | Side | Shares | Entry | Exit | Realized P&L | % | Reason |
+|---|---|---|---|---|---|---|---|---|
+| 2026-10-15 | GEV | SELL | 20 | $996.141 | ~$912.50 (fill TBD@open) | ~−$1,673 | ~−8.4% | −7% hard cut: unrealized breached $926.41 cut level on rate shock (CPI +0.6% Oct 14 + PPI +0.6% Oct 15); GTC stop cancelled; market sell submitted |
+
+**Entry checklist / reason for close:**
+- Thesis still intact fundamentally ($176B backlog, AI/power infra secular, Oct 28 earnings)
+- Selloff: pure macro/rate-factor (CPI + PPI double hot) → valuation derating of rate-sensitive names
+- Rule is rule: −7% = exit. No hoping. No averaging down. GTC stop cancelled; market sell submitted.
+- Rule 12 note: post-earnings entry rule NOT applicable (entry Oct 12 was NOT within 3 days of earnings)
+- Rate-sensitive slot freed: was 1/2; now 0/2 after close
+
+**New buys (STEP 3 gate check):**
+- SCHW conditional: GATED OUT — PPI printed +0.6% MoM (gate required ≤+0.4%); hot macro = no new buys
+- Default plan: patience > activity in dual rate shock environment
+
+**Portfolio (post-close estimate):**
+- Equity: ~$105,055 (TBD on actual fill)
+- Cash: ~$106,727.80 (100% cash after fill)
+- Open positions: 0/6
+- Week 26 trades: 1/3 (GEV Oct 12 entry — close today does NOT count as new trade; same position)
+- Daytrade count: 0 (GEV held since Oct 12; not a day trade)
+
+**Sector tracking:**
+- AI infra/Power (GEV): 1 failed trade (MU Week 26 Day 1, GEV Week 26 Day 4) — watch for sector rule
+  - Note: MU is AI Chips/Semiconductors sector (separate from GEV Industrials/Power); sectors differ
+  - GEV: 1 failed trade in Industrials/Power sector (first fail; no sector ban triggered)
+  - MU: 1 failed trade in AI Chips/Semiconductors sector (first fail; no sector ban triggered)
+
