@@ -6531,3 +6531,57 @@ GTC stop $903.60, HWM $1,004. No tightening warranted.
   - GEV: 1 failed trade in Industrials/Power sector (first fail; no sector ban triggered)
   - MU: 1 failed trade in AI Chips/Semiconductors sector (first fail; no sector ban triggered)
 
+
+---
+
+## 2026-10-15 — Midday Scan (Day 125, Week 26 Day 4 — PPI Day)
+
+### Portfolio (midday, ~12:12 PM ET)
+
+| Ticker | Shares | Entry | Exit | Realized P&L | % | Action |
+|---|---|---|---|---|---|---|
+| GEV | 20 | $996.141 | $898.277 | −$1,957.28 | −9.83% | CLOSED at market open (−7% rule) |
+
+**Equity:** $106,443.34 | **Cash:** $106,443.34 (100%) | **Open positions:** 0/6
+
+### Closed Trade — GEV (CONFIRMED FILL)
+
+| Date | Ticker | Side | Shares | Entry | Exit | Realized P&L | % | Reason |
+|---|---|---|---|---|---|---|---|---|
+| 2026-10-15 | GEV | SELL | 20 | $996.141 | $898.277 | −$1,957.28 | −9.83% | −7% hard cut: rate shock (CPI +0.6% Oct 14 + PPI +1.3% Oct 15); GTC cancelled; market sell filled 9:35 AM ET |
+
+**Fill detail:** Order 9905de8f | Filled at $898.277 | 9:35 AM ET (5 min after market open). Gap-down at open due to PPI +1.3% MoM headline (second largest ever, vs +0.5% expected). Estimated exit in pre-market was $912.50; actual fill $898.277 — $14.22/share worse due to continuation of rate-shock selloff at open. GEV recovered to ~$913 by midday.
+
+**STEP 3 — Cut losers:** N/A (no open positions).
+**STEP 4 — Stop tightening:** N/A (no open positions).
+**STEP 5 — Thesis check:** N/A (no open positions).
+
+### STEP 6 — Intraday Research (Perplexity)
+
+**Macro environment (12:12 PM ET):**
+- PPI headline +1.3% MoM (vs +0.5% expected) — second largest ever; core PPI biggest 4-year gain
+- 10Y yield: 5.05–5.06%, paradoxically DOWN ~13 bps (flight-to-safety equity rout bid)
+- Market: risk-off, tech/AI selloff; AI spending sustainability fears at 5%+ rates
+
+**SCHW — gate failed (correct call from pre-market):**
+- EPS beat: $1.69 (adj) vs $1.66 est (+29% YoY); GAAP EPS $1.62
+- Revenue slight miss: $7.17B vs $7.20B est; NIM expansion +25–30 bps guided Q4
+- Stock: −4% pre-market ($92.96 from $96.80); sell-the-news on revenue miss + declining sweep cash
+- GATE decision: PPI +1.3% >> ≤+0.4% gate → correctly skipped. Also setup weakened by gap-down.
+
+**MU — current price $905–912; no specific earnings confirmation available.**
+
+**New setups:** None. No catalyst passes all gates in dual rate-shock (CPI + PPI) + flight-to-safety environment. Defense, healthcare, consumer staples flagged as lower-rate-sensitivity sectors but no specific high-conviction setup identified with verified catalyst today.
+
+**Decision: NO new trades. Patience > activity.**
+- 2 trade slots remain this week
+- Environment: risk-off macro, AI infra under pressure, 10Y at 5.05%
+- Next catalyst to watch: MU earnings reaction (AH Oct 14 — check tomorrow for full reaction); any rate stabilization signal
+
+### STEP 7 — Notification
+No action taken at midday → no Slack per notification rule.
+
+**Portfolio:** $106,443.34 | **Cash:** $106,443.34 (100%) | **Phase P&L:** +$6,443.34 (+6.44% from $100k start)
+**Week 26 trades:** 1/3 (GEV Oct 12 entry) | **Open positions:** 0/6 | **Daytrade count:** 0
+**Sector tracking:** Industrials/Power: 1 failed trade (GEV) | AI Chips/Semi: 1 failed trade (MU) | No sector ban triggered
+**Next:** EOD scan for rate stabilization; MU reaction; 2 trade slots remain this week (Thu/Fri potential)

@@ -8763,3 +8763,23 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **Conditional (market-open):** SCHW IF: (a) PPI ≤+0.4% MoM, (b) SCHW beats EPS est $1.69 with margin expansion, (c) R:R ≥ 2:1 at live quote, (d) position cost ≤ 20% equity
 - **Default: Patience > activity in rate shock environment**
 
+
+### Afternoon Addendum — 2026-10-15 (midday ~12:12 PM ET)
+
+**Market update:**
+- PPI headline +1.3% MoM (second largest ever; vs +0.5% expected). Core PPI: biggest 4-year gain.
+- 10Y yield 5.05–5.06%, DOWN 13 bps — flight-to-safety paradox (equity rout > inflation concern for bond buyers)
+- Tech/AI complex selling off; AI spending sustainability fears compound rate pressure
+
+**GEV actual fill:** $898.277 (filled 9:35 AM ET). Worse than $912.50 estimate by $14.22/share. Stock recovered to ~$913 by midday. Exit was near intraday low.
+
+**SCHW:** Beat EPS ($1.69 adj, +29% YoY), revenue miss ($7.17B vs $7.20B). NIM expansion +25–30 bps guided Q4. Stock −4% on sweep cash decline. Gate (PPI ≤+0.4%) correctly excluded this trade.
+
+**MU:** Current price ~$905–912. No specific Q1 FY2027 earnings confirmation. Re-entry candidate remains on watchlist if AI sentiment stabilizes.
+
+**New setups:** None today. No passing catalyst in risk-off rate-shock environment.
+
+**Plan for remainder of week (2 slots remain):**
+- Thu Oct 16: Watch for rate stabilization; MU reaction post-earnings; any defense/healthcare/staples catalyst
+- Fri Oct 17: Weekly review will assess; if no catalyst, close week flat (0 new trades beyond GEV closure)
+- Patience > activity. Do not force a trade in macro uncertainty.
