@@ -8670,3 +8670,96 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - CPI aftermath = high uncertainty; yields spiking = unfavorable for rate-sensitive names
 - Patience > activity on hot CPI day
 
+
+---
+
+## 2026-10-15 — Pre-Market Research (Day 125, Week 26 Day 4 — PPI/Retail Sales Day)
+
+### ⚠️ CRITICAL ALERT: GEV -7% HARD CUT TRIGGERED
+
+**GEV current (pre-market):** $913.254 | Entry: $996.141 | Unrealized: −$1,657.74 (−8.32%)
+**−7% hard cut level:** $926.41 | **STATUS: BREACHED by $13.16 / 1.43%**
+**GTC trailing stop:** $905.40 (order 9e05b84f, HWM $1,006) — still active, backstop only
+**REQUIRED ACTION:** Close GEV at market open per sell-side rules. Market-open routine must execute close.
+*Note: Pre-market routine attempted to execute close; auto-mode classifier blocked order cancellation as outside research routine scope. GTC stop remains active as downside protection. Market-open routine must close GEV immediately at 8:30/9:30 AM ET.*
+
+---
+
+### Account Snapshot
+- **Equity:** $106,742.88 | **Cash:** $88,477.80 (82.9%) | **Long MV:** $18,265.08 (GEV 20sh, 17.1%)
+- **Phase P&L:** +$6,742.88 (+6.74%) vs $100k start
+- **Open positions:** 1/6 (GEV) | **Week 26 trades:** 1/3 (GEV Oct 12) | **Daytrade count:** 0
+
+### GEV Position — CLOSE AT MARKET OPEN
+- **Pre-market:** $913.254 (−8.32% from $996.141 entry)
+- **−7% cut level:** $926.41 — breached. Rule: "Unrealized loss ≤ −7% → close immediately"
+- **GTC stop:** $905.40 (HWM $1,006) — active, provides backstop to −9.1% from entry
+- **Thesis:** Still intact fundamentally — $176B backlog, AI power infra secular, Oct 28 3Q26 earnings
+  - Selloff driven by: hot CPI → yield spike → rate/valuation derating on rate-sensitive AI infra names
+  - Susquehanna maintained Positive, trimmed PT $1,300→$1,270; Guggenheim Buy $1,450 intact
+  - No new company-specific negative. Pure macro/rate-factor move.
+  - BUT rule is rule: −7% = exit. No hoping. No averaging down.
+- **EXIT at market open. Cancel GTC order 9e05b84f, sell 20sh GEV at market.**
+
+### Market Context
+- **WTI:** ~$94.05/bbl (−1.1%) | **Brent:** ~$104.31 (−1.7%) — easing on US moves to ease Hormuz shipping restrictions; Houthi/Mideast tensions partially offset
+- **S&P 500 futures:** ~7,745 (−0.32%) — lower open expected; Nasdaq futures −1.1% (rotation OUT of tech/AI infra); Dow futures flat to slightly positive (defensive rotation)
+- **VIX:** 17.51 (+3.79% from 16.87 prior close) — elevated but not extreme fear
+- **Rate environment:** Hot CPI (Sep) printed yesterday → 10Y yield spiked; implied Fed rate hike prob Oct ~40%; yields elevated this morning
+- **TSM Q3 earnings (BMO):** Beat — EPS $4.60 vs $4.45 est, revenue $46.7B vs $45.6B est (+51% YoY), Q4 guide $52.3–54.3B (vs ~$50B consensus). HPC/AI demand +22% sequentially = 68% of revenue. Strong AI read-through — BUT market not rewarding; rate fear dominates
+- **TSMC positive read-through:** AI chip demand intact; NVDA/AMD/semiconductor thesis supported fundamentally
+
+### Today's 8:30 AM ET Macro Releases
+| Release | Consensus | Prior |
+|---|---|---|
+| PPI (Sep) | ~+0.5% MoM | +0.4% MoM |
+| Core Retail Sales (Sep) | +0.6% MoM | +1.4% MoM |
+| Retail Sales (Sep) | +0.3% MoM | +1.2% MoM |
+| Initial Jobless Claims | 199K | 197K |
+
+**Risk:** Hot PPI (+0.5%+) = additional rate hike pressure → further GEV/AI infra pain. Cool PPI = relief rally possible, but GEV still gets closed (−7% already triggered).
+
+### Sector Momentum (YTD through Oct 2)
+| Sector | YTD | October Trend |
+|---|---|---|
+| Energy | +40.4% | Positive YTD but Hormuz easing capping upside; **BANNED** (2 consecutive losses) |
+| Information Technology | +30.2% | October rotation OUT; rate shock = headwind |
+| Health Care | +10.3% | Stable but not in momentum |
+| Financials | ~+8–10% | Mixed; bank earnings mostly in-line; rate hike risk = headwind |
+| Consumer Defensive | Lagging YTD | **October LEADER** (+4.3% median) — defensive rotation |
+| Utilities | −12.4% QTD | Laggard; yield pressure continues |
+
+### Trade Ideas (Post-GEV Close)
+
+**After closing GEV, will have ~2 trade slots remaining + $107k equity, ~$107k cash (100% deployed = 0)**
+
+**#1 — GEV CLOSE (required):**
+- Exit trigger: −7% rule
+- Action: Cancel GTC order 9e05b84f, market sell 20sh GEV at open
+- Expected realized loss: ~−$1,657 (−8.32% from $996.141)
+
+**#2 — New setups: HOLD pending 8:30 AM data**
+- PPI + Retail Sales at 8:30 AM ET: if BOTH cool (PPI ≤+0.3%, Retail Sales ≤+0.3%) → rate fear eases → consider tech re-entry
+- If PPI hot (>+0.5%) → no new entries; yields spike further → patience
+- Candidates to evaluate POST-DATA:
+  - **SCHW (Charles Schwab)** — Q3 earnings BMO today; wealth management / rate-beneficiary; est $1.69 EPS. Rate-insensitive per Rule 13 (NOT a rate-sensitive heuristic: it benefits from higher rates). Catalyst: beat + favorable rate commentary. GATE: PPI in-line or cool; SCHW beat with margin expansion.
+  - **TSM (Taiwan Semiconductor)** — Q3 beat; AI/HPC demand secular; 50%+ revenue growth. Rate-sensitive via tech valuation. GATE: Rate fear must ease (cool PPI + VIX stabilization). Not a Day 1 entry in rate shock.
+  - No other compelling setups in this environment.
+
+**Rate-sensitive classification (Rule 13):**
+- GEV (about to close): Rate-sensitive → slot freed on close
+- After GEV close: 0/2 rate-sensitive slots used → could add up to 2 rate-sensitive names if environment improves
+
+### Risk Factors
+1. **Hot PPI (>+0.5%):** Compounds CPI shock → further yield spike → AI infra / rate-sensitive names extend decline
+2. **GEV gap-down at open:** Could fill below $905.40 GTC stop → exit worse than planned; max downside from entry ~−9.1%
+3. **Rate shock persistence:** Fed repricing to hike in October — entire AI infra / data center capex theme under pressure
+4. **CoreWeave / AI leverage stress:** CRWV CDS widening signals AI infrastructure overcapacity fears; broader read-through to GEV
+5. **Underdeployment post-GEV:** After close, portfolio ~100% cash; finding quality setups in rate shock environment is difficult
+
+### Decision: SELL GEV + HOLD on new entries
+- **GEV:** SELL at market open (−7% rule triggered; market-open routine executes)
+- **New buys:** HOLD — wait for PPI + Retail Sales print at 8:30 AM ET
+- **Conditional (market-open):** SCHW IF: (a) PPI ≤+0.4% MoM, (b) SCHW beats EPS est $1.69 with margin expansion, (c) R:R ≥ 2:1 at live quote, (d) position cost ≤ 20% equity
+- **Default: Patience > activity in rate shock environment**
+
