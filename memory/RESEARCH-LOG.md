@@ -8869,3 +8869,14 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - End-of-week entry = risk of holding over weekend with Warsh speech catalyst unresolved
 - Watch for next week: rate stabilization signal (10Y below 4.8%), healthcare earnings catalyst (ELV, CI report mid-month), TSM re-entry if AI sentiment recovers
 
+
+### Afternoon Addendum (Midday Scan — ~12:10 PM ET)
+
+**Warsh speech result:** Dovish-neutral (refrained from signaling October hike; AI upbeat). October rate hike odds fell from ~25% to ~15%. Market: S&P +0.33%, tech bouncing but AI names (Nvidia, AMD, Intel) still red.
+
+**Setup evaluation:** No individual stock catalyst identified. Healthcare sector in momentum but no specific name with verified catalyst today. Friday + 10Y still ~5.05% + no individual catalyst = HOLD confirmed. 2 trade slots roll unused to Week 27.
+
+**Next week watch list:**
+- Healthcare: ELV/CI earnings if mid-October; UNH guidance update
+- TSM re-entry: If 10Y retreats below 4.8% and AI sentiment normalizes post-Warsh
+- Rate-sensitive gate: Will need 10Y to pull back meaningfully before re-entering AI infra/power
