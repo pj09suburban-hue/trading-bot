@@ -8783,3 +8783,89 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - Thu Oct 16: Watch for rate stabilization; MU reaction post-earnings; any defense/healthcare/staples catalyst
 - Fri Oct 17: Weekly review will assess; if no catalyst, close week flat (0 new trades beyond GEV closure)
 - Patience > activity. Do not force a trade in macro uncertainty.
+
+---
+
+## 2026-10-16 — Pre-Market Research (Day 126, Week 26 Day 5 — Post-Rate-Shock Recovery Friday)
+
+### Account Snapshot
+| Metric | Value |
+|---|---|
+| Equity | $106,442.95 |
+| Cash | $106,442.95 (100%) |
+| Open positions | 0/6 |
+| Week 26 trades | 1/3 (GEV entry Oct 12) — 2 slots remain |
+| Daytrade count | 0 |
+| Phase P&L | +$6,442.95 (+6.44% from $100k start) |
+
+### Market Context
+
+**Macro:**
+- **WTI:** $97.78 (−0.19%) | **Brent:** $106.30 (+0.36%) — elevated, oil mixed
+- **S&P 500 futures:** +0.18% (~7,805) — modest recovery after turbulent week; Dow +0.3%, Nasdaq mixed
+- **VIX:** 16.19 (−1.64% from 16.46 prior close) — fear receding but still elevated vs pre-CPI/PPI (~13-15 baseline)
+- **Rate environment:** 10Y yield ~5.05% (spiked this week on dual CPI+PPI shock); "higher for longer" dominant narrative
+
+**Today's data (7:30 AM ET — released):**
+- Import Prices Sep: +0.7% MoM (est +0.8%) — **slightly COOL** — minor relief vs prior shocks
+- Export Prices Sep: +0.6% MoM (est +1.0%) — **COOL** — significant undershoot
+- → Rate-shock easing signal; not enough to reverse 5.05% 10Y but helps sentiment
+
+**Upcoming today:**
+- 9:15 AM ET: Industrial Production Sep (est −0.1% MoM) — weak; not market-moving
+- 10:30 AM ET: **Fed Chair Warsh speaks** — HIGH risk event; any hawkish signal = more rate pressure
+
+**Week summary:** Hot CPI (+0.6% MoM, core +0.3%) Oct 14 + catastrophic PPI (+1.3% MoM, second-largest ever) Oct 15 → GEV stopped out −9.83%; market in defensive rotation
+
+**BMO Earnings today:**
+| Ticker | Sector | EPS Est | Consensus Rev | Note |
+|---|---|---|---|---|
+| TRV | Insurance | $7.01–7.49 | $11.0–11.49B | Rate beneficiary; beat historical 4/4 |
+| TFC | Financials | $1.12–1.14 | $5.41B | Bank; rate risk |
+| MTB | Financials | $4.92–5.01 | $2.5B | Bank |
+| CFG | Financials | $1.40 | $2.36B | Bank |
+| RF | Financials | $0.68 | $2.05B | Bank |
+| SLB | Energy | $0.62 | $9.3B | BANNED sector |
+
+### Sector Momentum (YTD as of Oct 15)
+| Sector | YTD | Status |
+|---|---|---|
+| Energy | +46–59% | **BANNED** (2 consecutive losses) |
+| Technology | +31–36% | Under rate pressure Oct; no ban triggered |
+| Health Care | +14–16% | **BEST** — defensive rotation leader; Oct +5.84% 1-month |
+| Materials | +11–12% | Momentum moderate |
+| Industrials | +8% | 1 failed trade (GEV); no ban |
+| Financials | ~0–1% | Flat YTD; 1-month −2.93% |
+
+### Trade Ideas
+
+**#1 — TRV (Travelers Companies)** — BMO today
+- Catalyst: Q3 earnings; historically beats 4/4; insurance benefits from higher rates (investment income)
+- Sector: Financials/Insurance — flat YTD; 1-month flat to negative
+- **GATE CHECK:** Sector not in YTD momentum → fails "sector in momentum" gate
+- Rate classification: Rate BENEFICIARY (not rate-sensitive per Rule 13) → 0/2 slots used
+- **Verdict: GATED OUT — Financials not in momentum; no sector tailwind**
+
+**#2 — Healthcare defensive (e.g., UNH, ISRG, ELV)** — No earnings catalyst today
+- Sector: +14–16% YTD, October defensive rotation leader (+5.84% 1-month)
+- No specific catalyst today for any individual name
+- Rate classification: Not rate-sensitive
+- **Verdict: HOLD — no individual stock catalyst today; sector in momentum but need specific setup**
+
+**#3 — TSM / AI Chips re-entry** — TSMC strong Q3 beat (AI demand intact)
+- Market NOT rewarding AI beat this week; rate-shock dominates; too early to re-enter
+- AI Chips/Semi: 1 failed trade (MU); needs rate stabilization signal
+- **Verdict: HOLD — wait for 10Y yield to retreat from 5.05% before re-entering tech/AI**
+
+### Risk Factors Today
+1. **Fed Warsh speech (10:30 AM ET):** Hawkish = more rate pressure; could undo today's import price relief
+2. **End of week positioning:** Friday = elevated slippage/reversals; wrong time to deploy fresh capital post-volatile week
+3. **10Y at 5.05%:** Rate shock not resolved; import prices mildly cool but single data point vs CPI+PPI double-shock
+4. **Sector rotation risk:** Healthcare in favor but no individual catalyst → entry without catalyst violates gate
+
+### Decision: HOLD
+- No setup passes all Buy-Side gates today (no individual catalyst for healthcare; Financials not in momentum; AI under rate pressure)
+- Friday post-volatile week = patience > activity
+- End-of-week entry = risk of holding over weekend with Warsh speech catalyst unresolved
+- Watch for next week: rate stabilization signal (10Y below 4.8%), healthcare earnings catalyst (ELV, CI report mid-month), TSM re-entry if AI sentiment recovers
+
