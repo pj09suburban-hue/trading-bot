@@ -8880,3 +8880,88 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - Healthcare: ELV/CI earnings if mid-October; UNH guidance update
 - TSM re-entry: If 10Y retreats below 4.8% and AI sentiment normalizes post-Warsh
 - Rate-sensitive gate: Will need 10Y to pull back meaningfully before re-entering AI infra/power
+
+---
+
+## 2026-10-19 — Pre-Market Research (Day 127, Week 27 Day 1 — Post-Rate-Shock Recovery, Big Earnings Week)
+
+### Account Snapshot
+| Metric | Value |
+|---|---|
+| Equity | $106,442.95 |
+| Cash | $106,442.95 (100%) |
+| Open positions | 0/6 |
+| Week 27 trades | 0/3 (fresh week) |
+| Daytrade count | 0 |
+| Phase P&L | +$6,442.95 (+6.44% from $100k start) |
+
+### Market Context
+
+**Macro:**
+- **WTI:** ~$99.81 (−1.58%) | **Brent:** ~$107.80 (−1.88%) — oil pulling back from elevated levels; Hormuz disruption narrative
+- **S&P 500 futures:** +0.52–0.78% (~7,744–7,764) — "buy the dip" in tech/AI after last week's rate-shock rout
+- **VIX:** 18.66 (−6.65%) — declining from Friday's spike to 19.99 (hit 22.31 intraday, highest since June); fear receding
+- **10Y yield:** ~5.05% — UNCHANGED from PPI-shock levels; no material rate relief yet
+- **Sector backdrop:** Healthcare +15.6% YTD (+5.84% October), Energy +55.7% YTD (BANNED), IT +27.9% YTD (under rate pressure)
+
+**Economic data today (Oct 19):**
+- NAHB Housing Market Index (Oct): 31 vs 32 prior — weak housing; not market-moving
+- China GDP Q3: +4.5% YoY (beat +4.4% est) — minor positive macro signal
+- No major US macro releases; quiet calendar → focus shifts entirely to earnings
+
+**Week's key earnings:**
+| Date | Ticker | Sector | When | Note |
+|---|---|---|---|---|
+| Oct 19 | CLF, FITB, DX | Materials/Banks | BMO | Not relevant to strategy |
+| Oct 20 | GE (Aerospace) | Industrials/Aerospace | BMO | $2.02 EPS vs $1.863 est — beat (+8.4%) per prelim data |
+| Oct 21 | **ELV** (Elevance) | **Healthcare** | **BMO** | PRIMARY WATCH — healthcare earnings gate |
+| Oct 22 | META, TSLA | Tech | AMC | AI sentiment signal |
+| Oct 23 | IBM, P&G | Tech/Staples | — | — |
+
+### Sector Momentum (YTD as of Oct 16)
+| Sector | YTD | Status |
+|---|---|---|
+| Energy | +55.7% | **BANNED** (2 consecutive losses) |
+| Information Technology | +27.9% | Under rate pressure; recovering today |
+| Health Care | +14.4–15.6% | **BEST** — defensive rotation leader; Oct +5.84% 1-month |
+| Materials | +11.6% | Moderate momentum |
+| Industrials | +8% | 1 failed trade (GEV/Power); no ban |
+| Consumer Discretionary | −2.9% | **NOT in momentum** |
+| Financials | ~0–1% | **NOT in momentum** |
+
+### Trade Ideas
+
+**#1 — ELV (Elevance Health) — CONDITIONAL POST-EARNINGS entry Oct 21 BMO**
+- Catalyst: Q3 2026 earnings Oct 21 BMO. Sector in momentum (+15.6% YTD, +5.84% Oct). UNH beat confirmed (+8.4% EPS surprise Oct 13, raised FY guidance) → strong positive read-through for managed care.
+- Concern: ELV consensus EPS $4.69 = −22% YoY (elevated medical cost ratio pressures; already priced into $428 vs 52W high $436). Earnings binary risk → enter ONLY after confirmed beat Oct 21.
+- Rate classification: NOT rate-sensitive → 0/2 slots used; sector not affected by 10Y
+- Entry (conditional, Oct 21): ~$430–440 at market open IF beat; Stop: 7% (Rule 12 post-earnings within 3 days): ~$400–409; Target 2:1 R:R: ~$465–480
+- Position size: 49 shares at ~$428 = $20,972 (≤20% equity ✓)
+- **Gate check (conditional):** Positions 0+1=1/6 ✓ | Trades 0+1=1/3 ✓ | Cost ≤20% equity ✓ | PDT 0 ✓ | Catalyst documented ✓ | Stock ✓
+- **Verdict: HOLD today; conditional TRADE entry Oct 21 if ELV beats**
+
+**#2 — GE Aerospace (GE) — WATCH for post-earnings entry Oct 20**
+- Catalyst: Q3 earnings Oct 20 BMO. Prelim data suggests EPS $2.02 vs $1.863 est (+8.4% beat). Commercial aviation secular growth; contracted backlog; NOT rate-sensitive.
+- Sector: Industrials/Aerospace — distinct from GEV (Power). GEV was 1 failed trade in Industrials/Power; no ban on Aerospace subsector.
+- Entry (conditional, Oct 20): ~market open IF confirmed beat; Stop 10% (standard, not post-earnings within 3 days); Target 2:1 R:R
+- **Verdict: WATCH — secondary setup behind ELV; evaluate Oct 20 BMO**
+
+**#3 — TSM — HOLD**
+- Beat Q3 massively ($4.60 EPS vs $4.45 est, revenue +41.2% YoY, raised 2026 guidance to +44%) but stock −5% on Oct 15 (sell-the-news). Today pre-market +1.8% (~$420) — AI sector trying to rebound.
+- Rate-sensitive (AI infra/data center capex per Rule 13). 10Y still 5.05%. Sector: 1 failed trade (MU).
+- **Verdict: HOLD — wait for 10Y < 4.8% and AI sentiment stabilization before re-entry**
+
+### Risk Factors Today
+1. **10Y yield at 5.05%:** No improvement from dual CPI+PPI shock; higher-for-longer dominant narrative; rate-sensitive names remain dangerous
+2. **Pre-earnings binary risk (ELV Oct 21):** ELV EPS expected −22% YoY; entering pre-print is unnecessary risk when confirmed-beat entry available 2 days later
+3. **VIX still elevated (18.66):** Down from 22.31 Friday but above pre-shock baseline (~13–15); market not fully recovered
+4. **Earnings-week volatility:** META/TSLA on Wednesday; any miss = tech rout continuation risk
+
+### Decision: HOLD
+- No setup passes ALL gates for today: BMO reporters (CLF, FITB) not relevant; no individual catalyst for existing watchlist names.
+- **Conditional trade plan this week:**
+  - ELV: monitor Oct 21 BMO result — if EPS beat, enter at open with 7% initial stop (Rule 12). Primary setup.
+  - GE Aerospace: monitor Oct 20 BMO result — if EPS beat confirmed, enter same day. Secondary setup.
+- Patience > activity. Rate environment unchanged; 10Y must retreat before aggressive deployment.
+- 3/3 trade slots and 6/6 position slots available for the week.
+
