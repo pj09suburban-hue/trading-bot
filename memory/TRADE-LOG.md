@@ -6723,3 +6723,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 27 trades:** 1/3 | **Open positions:** 1/6 | **Daytrade count:** 0
 **Next:** ELV earnings Oct 21 BMO — conditional entry if EPS beat, 7% stop (Rule 12). META/TSLA Wednesday earnings key for AI sentiment.
+
+---
+
+## 2026-10-20 — EOD Snapshot (Day 128, Week 27 Day 2 — GE Earnings Entry / Sell-The-News Hold)
+**Portfolio:** $106,613.32 | **Cash:** $85,591.58 (80.28%) | **Day P&L:** +$170.37 (+0.16%) | **Phase P&L:** +$6,613.32 (+6.61%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GE | 70 | $297.877 | $300.48 | −3.47% | +$182.23 (+0.87%) | $285.84 (7% trail, HWM $307.35) |
+
+**Notes:** Day 128 (Tuesday, Week 27 Day 2 — GE Earnings Entry). GE Aerospace reported a strong Q3 beat pre-market (EPS $2.25 vs $2.01 est, +12%; rev $14.12B vs $12.84B; orders +49% YoY; FY guidance raised $8.00–8.10). Classic sell-the-news action: stock gapped to ~$307–311 at open, HWM $307.35 captured, then pulled back to close $300.48 (−3.47% from yesterday's reference price). Entry executed at $297.877 during the sell-off, below the gap-up level — now profitable +$182.23 (+0.87%). GTC trailing stop 252e586b at $285.84 (7% below HWM $307.35) remains active; stop will advance only if stock makes new highs. Rule 12 applies (entry within 3 days of earnings print → 7% initial stop). Day P&L reflects the position gain on a small notional base. Phase P&L: +6.61% from $100k start. No sector concerns; Industrials/Aerospace thesis intact.
+
+**Week 27 trades:** 1/3 | **Open positions:** 1/6 (GE) | **Daytrade count:** 0
+**Key watch (Wed Oct 21):** ELV earnings BMO — conditional entry if EPS beat, 7% stop (Rule 12). META/TSLA earnings Wednesday — key AI spending commentary. GE thesis: hold; stop only tightens at +15% ($342.56) or +20% ($357.45).
