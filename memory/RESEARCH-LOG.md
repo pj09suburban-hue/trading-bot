@@ -9047,3 +9047,23 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - Market-open workflow will confirm entry or abort if price continues selling below $298 or shows no stabilization.
 - All buy-side gates pass contingent on live quote confirmation at open.
 - ELV remains the secondary setup for tomorrow.
+
+---
+
+## 2026-10-20 — Midday Addendum (GE Aerospace Thesis Check)
+**Time:** ~12:10 PM ET
+
+**GE Aerospace intraday check:**
+- Current price: ~$298.19 (ask $299.76 / bid $297.70)
+- Intraday high: $307.35 (HWM for trailing stop)
+- Entry: $297.877 | Unrealized: +$21.93 (+0.105%)
+- Stop: $285.84 (7% below HWM, GTC order 252e586b — active)
+
+**Thesis check result: INTACT**
+- Perplexity confirms no analyst downgrade or negative development today
+- Pullback from $307.35 → $298.19 is pure sell-the-news / profit-taking
+- No FCF or reserve deterioration announced; stock reaction is valuation concern, not fundamental break
+- Beat: +12% EPS, +49% orders, raised guidance — all confirmed by multiple sources
+- No action warranted
+
+**No Slack notification — midday rule: notify only if action taken**
