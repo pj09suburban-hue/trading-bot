@@ -8965,3 +8965,85 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - Patience > activity. Rate environment unchanged; 10Y must retreat before aggressive deployment.
 - 3/3 trade slots and 6/6 position slots available for the week.
 
+
+---
+
+## 2026-10-20 — Pre-Market Research (Day 128, Week 27 Day 2 — GE Earnings Day / Sell-The-News Watch)
+
+### Account Snapshot
+| Metric | Value |
+|---|---|
+| Equity | $106,442.95 |
+| Cash | $106,442.95 (100%) |
+| Open positions | 0/6 |
+| Week 27 trades | 0/3 (fresh) |
+| Daytrade count | 0 |
+| Phase P&L | +$6,442.95 (+6.44% from $100k start) |
+
+### Market Context
+| Indicator | Value | Note |
+|---|---|---|
+| WTI crude | ~$98.85–$99.34 | Hormuz tanker disruption; elevated |
+| Brent crude | ~$109.79–$110.49 | +1.5–2% from yesterday |
+| S&P 500 futures | 7,728 (−0.08%) | Essentially flat |
+| Nasdaq 100 futures | 29,590 (−0.45%) | Chip stocks under pressure again |
+| VIX | 18.58 (+0.76%) | Down from 19.99 Friday; still elevated |
+| 10Y yield | 5.13–5.14% | **TICK UP** from 5.05% Friday — headwind worse |
+
+### Economic Calendar Today (Oct 20)
+- 8:30 AM ET: Housing Starts & Building Permits (Sep)
+- 10:00 AM ET: Pending Home Sales (Sep)
+- No CPI/PPI/FOMC this week
+- **Next FOMC: Oct 27–28 (decision Oct 28)**
+
+### Key Earnings Today (BMO Oct 20)
+| Ticker | Est EPS | Actual | Beat | Note |
+|---|---|---|---|---|
+| **GE** (GE Aerospace) | $2.01 | **$2.25** | +12% | Revenue $14.12B vs $12.84B est; orders +49%; FY guidance raised to $8.00–8.10 |
+| RTX | $1.78 | — | — | Reporting BMO |
+| 3M | $2.41 | — | — | Reporting BMO |
+| PM | $2.31 | — | — | Reporting BMO |
+| TMO | $6.40 | — | — | Reporting BMO |
+| ABT | $1.42 | — | — | Reporting BMO |
+
+### Sector Momentum (YTD through Oct 19)
+| Sector | YTD | Status |
+|---|---|---|
+| Energy | +54.6% | **BANNED** (2 consecutive losses) |
+| Information Technology | +29.6% | Under rate pressure; Nasdaq -0.45% today |
+| Health Care | +14.9% | Defensive leader; **ELV Oct 21 BMO** |
+| Consumer Staples | +12.1% | Defensive bid |
+| Industrials | +8.2% | GE beat strong; 1 failed trade (GEV/Power) |
+
+### Trade Ideas
+
+**#1 — GE Aerospace (GE) — TRADE-CONDITIONAL (primary)**
+- Catalyst: Q3 2026 earnings beat — $2.25 EPS vs $2.01 (+12%); revenue $14.12B vs $12.84B (+9.9%); orders +49% YoY; FY guidance raised $7.65–7.85 → $8.00–8.10. Strongest quarter in history for orders.
+- Pre-market reaction: ~$301–305 (−3% sell-the-news despite massive beat). Confirms Rule 12 caution is warranted.
+- Sector: Industrials/Aerospace — NOT rate-sensitive (contracted backlog, commercial aviation demand; Rule 13 not triggered). 1 failed trade in Industrials/Power (GEV) — Aerospace is distinct subsector.
+- Rate classification: NOT rate-sensitive → 0/2 rate-sensitive slots remain free
+- Entry (conditional, market open): ~$301–305 IF price stabilizes in first 5 minutes (not continuing to crater); confirm via live quote before submitting
+- Stop: 7% below fill (Rule 12: entry within 3 days of earnings print)
+  - $303 fill → stop $281.79; target 2:1 → $324–342
+- Position size: 70 shares × $303 = $21,210 (≤20% equity ✓)
+- **Buy-side gate (conditional):** Positions 0+1=1/6 ✓ | Trades 0+1=1/3 ✓ | Cost ≤20% equity ✓ | Cash ✓ | PDT 0 ✓ | Catalyst documented ✓ | Stock ✓
+- **Verdict: TRADE-conditional — execute at market open if price ≥ $298 and shows stability**
+
+**#2 — ELV (Elevance Health) — WATCH (tomorrow Oct 21 BMO)**
+- Catalyst: Q3 earnings Oct 21 BMO. Healthcare +14.9% YTD, defensive leader.
+- No entry today; conditional plan unchanged: enter Oct 21 at open if EPS beat confirmed, 7% initial stop (Rule 12).
+
+**#3 — TSM — HOLD**
+- 10Y at 5.13% (tick up); AI infra is rate-sensitive (Rule 13); 1 failed trade in AI Chips/Semi. Wait for 10Y < 4.8% and sector recovery.
+
+### Risk Factors
+1. **10Y at 5.13%** — ticked UP from 5.05% Friday; FOMC Oct 28 ahead; higher-for-longer dominant
+2. **GE sell-the-news** — stock -3% pre-market despite massive beat; confirms elevated post-earnings volatility risk; Rule 12 stop mandatory
+3. **Nasdaq -0.45% pre-market** — chip stocks under pressure; broader tech weakness
+4. **FOMC uncertainty** — Oct 28 decision window = near-term rate risk for any position held into next week
+
+### Decision: TRADE-conditional (GE Aerospace)
+- GE beat is genuine and large (+12% EPS, +49% orders, raised guidance). Sell-the-news creates better entry than pre-announcement price. Rule 12 manages downside.
+- Market-open workflow will confirm entry or abort if price continues selling below $298 or shows no stabilization.
+- All buy-side gates pass contingent on live quote confirmation at open.
+- ELV remains the secondary setup for tomorrow.
