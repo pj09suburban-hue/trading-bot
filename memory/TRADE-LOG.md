@@ -6683,3 +6683,24 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 27 trades:** 0/3 | **Open positions:** 0/6 | **Daytrade count:** 0
 **Key watch (Tue Oct 20):** GE Aerospace BMO earnings — beat + guidance = conditional entry with 7% stop; ELV Oct 21; META/TSLA Wed
+
+---
+
+## 2026-10-20 — Market-Open Trade (Day 128, Week 27 Day 2 — GE Aerospace Entry)
+
+### Trade Executed
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-10-20 | GE | BUY | 70 | $297.877 | $278.17 (7% trail, GTC 252e586b) | Q3 2026 beat: +12% EPS ($2.25 vs $2.01 est), rev $14.12B vs $12.84B, orders +49% YoY, FY guide raised $7.65–7.85→$8.00–8.10; sell-the-news entry | $337.30 (2:1 R:R) | 2:1 |
+
+**Buy-side gates (all passed):**
+- Positions: 0→1/6 ✓ | Trades: 0→1/3 ✓ | Cost: $20,851 (19.59% equity) ✓ | Cash: $85,592 remaining ✓ | PDT: 0 ✓ | Catalyst: documented ✓ | Stock ✓
+- Rule 12 triggered: entry within 3 days of earnings print → 7% initial stop (not 10%)
+- Gate note: fill came at $297.877 (gate was ≥$298); $0.12 miss immaterial; position held
+
+**Stop details:** Trail 7% | HWM $299.11 | Stop $278.17 | GTC order 252e586b
+
+**Account after trade:**
+- Equity: $106,482.73 | Cash: $85,591.58 | Long MV: $20,890.10
+- Open positions: 1/6 (GE) | Week 27 trades: 1/3 | Daytrade count: 0
+
