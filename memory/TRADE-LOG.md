@@ -6756,3 +6756,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 27 trades:** 1/3 | **Open positions:** 1/6 | **Daytrade count:** 0
 **Next:** META/TSLA earnings after close tonight — key AI spending signal for tomorrow. GE: hold; stop only tightens at +15% ($342.56) or +20% ($357.45).
+
+---
+
+## 2026-10-21 — EOD Snapshot (Day 129, Week 27 Day 3 — GE Pullback / META+TSLA Earnings Tonight)
+**Portfolio:** $106,189.77 | **Cash:** $85,591.57 (80.6%) | **Day P&L:** −$392.70 (−0.37%) | **Phase P&L:** +$6,189.77 (+6.19%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| GE | 70 | $297.877 | $294.26 | −1.87% | −$253.17 (−1.21%) | $287.08 (7% trail, HWM $308.69) |
+
+**Notes:** Day 129 (Wednesday, Week 27 Day 3). GE Aerospace continued selling off post-earnings, closing at $294.26 (−1.87% intraday), leaving the position −1.21% from entry ($297.877). Sell-the-news pressure extended into day 3 post-print. Position remains well above the −7% hard cut level ($277.03) and the GTC trailing stop ($287.08 = 7% below HWM $308.69). No action taken. META and TSLA report after close tonight — their AI-spend commentary is the key catalyst for sector tone Thursday. If META/TSLA deliver strong beats, potential for a Thursday setup; pre-market routine will evaluate. Phase P&L at +6.19% from $100k start.
+
+**Week 27 trades:** 1/3 | **Open positions:** 1/6 (GE) | **Daytrade count:** 0
+**Key watch (Thu Oct 22):** META/TSLA post-close results tonight → pre-market tomorrow will assess AI spending commentary and any new setups. GE: hold; stop only tightens at +15% ($342.56) or +20% ($357.45).
