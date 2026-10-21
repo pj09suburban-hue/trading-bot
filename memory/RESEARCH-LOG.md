@@ -9067,3 +9067,70 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - No action warranted
 
 **No Slack notification — midday rule: notify only if action taken**
+
+---
+
+## 2026-10-21 — Pre-Market Research (Day 129, Week 27 Day 3 — ELV Earnings Day / META+TSLA After Close)
+
+### Account Snapshot
+- **Equity:** $106,645.83 | **Cash:** $85,591.57 (80.3%) | **Long MV:** $21,054.26
+- **Open positions:** 1/6 (GE: 70 shares @ $297.877, stop $285.84 GTC 252e586b)
+- **Week 27 trades:** 1/3 used | **Daytrade count:** 0
+
+### Market Context
+| Indicator | Level | Notes |
+|---|---|---|
+| S&P 500 Futures | +0.24% (7,773.75) | Earnings optimism; SpaceX boost |
+| Nasdaq-100 Futures | +0.61% (29,855) | AI chips leading premarket |
+| DOW Futures | +0.06% (52,750) | Lagging; rate/oil headwind |
+| VIX | 17.18 | Down from 19.99 Mon — significant improvement; risk-on tilting |
+| WTI Oil | $98.97 | +1.16%; U.S. crude draw of 8.6M bbl |
+| Brent Oil | $110.13 | Supply support; tanker concerns |
+| 10Y Treasury | ~5.10% | Still elevated; FOMC Oct 28 |
+| Economic Calendar | Jobless claims 8:30 AM | No CPI/PPI/jobs today; clean slate for earnings |
+
+### GE Aerospace (GE) — Held Position Update
+- Current: 70 shares @ $297.877, stop $285.84 (7% trail GTC, HWM $307.35)
+- Pre-market quote: ask $312.08 (Alpaca) — +3.9% from $300.48 close → strong bounce
+- No adverse news; investor concern about FCF/cash noted but no fundamental break
+- Thesis INTACT: +12% EPS beat, +49% orders, guidance raised $8.00–8.10
+- GE conference call today 7:30 AM ET — monitoring for any guidance color change
+- **Action: HOLD** — stop holds, no tightening needed (not yet at +15%)
+
+### Trade Ideas
+
+**#1 — ELV (Elevance Health) — TRADE-CONDITIONAL (primary)**
+- **Catalyst:** Q3 2026 beat BMO today — EPS topped estimates (5th consecutive beat; last Q +20.6%); revenue $50.4B vs $50.1B est; raised FY 2026 guidance; guided ≥12% adj. EPS growth in 2027 from ≥$26.75 base. Carelon operating gain +17% YoY. Barron's: +2.31% pre-market reaction — measured, not sell-the-news panic.
+- **Sector:** Healthcare — strongest recent sector momentum (1M: +5.84%, 3M: +11.89%, score 0.91 per SSGA). Healthcare hitting record highs.
+- **Rate classification:** NOT rate-sensitive (insurance/managed care; beta 0.71; no AI infra/energy exposure). 0/2 rate-sensitive slots used → Rule 13 clear.
+- **Previous ELV trades in healthcare:** 0 failed trades → no sector ban.
+- **Entry (conditional):** Market open if price ≥ $435 and shows stability in first 5 minutes; verify via live quote before submitting
+- **Stop:** 7% below fill (Rule 12: entry within 3 days of earnings print)
+  - $449 fill → stop $417.57; target 2:1 → $480.57
+- **Position size:** ~47 shares × $449 = ~$21,103 (19.8% equity ✓)
+- **Buy-side gates (all pass):**
+  - Positions: 1+1=2/6 ✓ | Trades: 1+1=2/3 ✓ | Cost ≤20% equity ✓ | Cash $85,591 ✓ | PDT 0 ✓ | Catalyst documented ✓ | Stock ✓
+- **Verdict: TRADE-conditional** — execute at open if price ≥ $435 and stable first 5 min; abort if gapping above $460 (sizing would breach 20% equity at 47 shares) or showing sell-the-news sell-off below $435
+
+**#2 — META/TSLA (watch — after close)**
+- Both report tonight after close
+- META: ~$6.64 EPS / $63.34B rev est; AI spending commentary is key signal for AI/tech sector
+- TSLA: ~$0.45 EPS / $28.06B rev; margins and vehicle demand
+- No entry today on either; results tonight will inform tomorrow's research
+
+**#3 — GE (hold)**
+- Pre-market bounce supports thesis; let trail work
+- No tightening warranted until +15% gain ($342.56)
+
+### Risk Factors
+1. **FOMC Oct 28** — 1 week away; any hawkish pre-meeting signaling could spike 10Y further
+2. **META/TSLA after-close** — positive = AI sentiment boost (helps risk-on); negative = could pressure Nasdaq tomorrow
+3. **ELV post-earnings volatility** — Rule 12 stop at 7% is the buffer; don't add to position if it moves against
+4. **Oil $99 WTI** — energy sector still in BANNED state; confirms no Energy entries
+
+### Decision: TRADE-conditional (ELV)
+- ELV beat + raised guidance + healthcare sector strength + rate-uncorrelated = clean setup
+- VIX decline from 19.99 → 17.18 supports risk-on entry today
+- All buy-side gates pass; Rule 12 disciplines the stop
+- Market-open workflow will confirm entry or abort if price is unstable or out of range
+
