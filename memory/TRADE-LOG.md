@@ -6825,3 +6825,18 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 27 trades:** 2/3 | **Open positions:** 1/6 (LMT) | **Daytrade count:** 0
 **Next:** LMT hold — stop only tightens at +15% ($670.03) or +20% ($699.17). Sector watch: GE was loss #1 in Industrials; if LMT closes as a loss, sector ban triggers. 1 trade slot remaining this week.
+
+---
+
+## 2026-10-22 — EOD Snapshot (Day 130, Week 27 Day 4 — GE Stop-Out / LMT Hold)
+**Portfolio:** $105,854.94 | **Cash:** $84,707.28 (80.0%) | **Day P&L:** −$448.23 (−0.42%) | **Phase P&L:** +$5,854.94 (+5.85%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $587.4225 | +6.51% (vs prev close $551.51) | +$172.22 (+0.82%) | $565.43 (7% trail, HWM $607.99, GTC a03820ce) |
+| GE | 70 | $297.877 | $287.0817 | CLOSED | −$755.67 (−3.62%) | Trailing stop 252e586b triggered 9:49 AM ET |
+
+**Notes:** Day 130 (Thursday, Week 27 Day 4). Two trades occurred: GE Aerospace stopped out at $287.0817 via GTC trailing stop at 9:49 AM ET (−3.62%, −$755.67 realized), ending the sell-the-news slide from post-Q3 earnings. LMT Lockheed Martin was entered at $582.639 — post-Q3 beat (EPS $7.97 vs $7.52e, +6%), record $292B backlog, raised guidance, and Houthi drone strike on Saudi Aramco as defense-procurement tailwind. LMT ran to intraday HWM $607.99 (+4.35%) before pulling back to close $587.4225 (+0.82% from entry). Phase P&L: +5.85% from $100k start. GE was Industrials loss #1; if LMT ultimately closes as a loss, sector ban (Industrials/Aerospace-Defense) triggers per Rule 10. Trailing stop a03820ce active and protecting position.
+
+**Week 27 trades:** 2/3 | **Open positions:** 1/6 (LMT) | **Daytrade count:** 0
+**Key watch (Fri Oct 23):** LMT hold — stop only tightens at +15% ($670.03) or +20% ($699.17). Friday pre-market: weekly review + any new setup. 1 trade slot remains (Week 27).
