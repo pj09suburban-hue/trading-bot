@@ -9134,3 +9134,92 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - All buy-side gates pass; Rule 12 disciplines the stop
 - Market-open workflow will confirm entry or abort if price is unstable or out of range
 
+
+---
+
+## 2026-10-22 — Pre-Market Research (Day 130, Week 27 Day 4 — Thursday — META/TSLA Digest / Houthi Oil Spike)
+
+### Account Snapshot
+- **Equity:** $106,165.27 | **Cash:** $85,591.57 (80.6%) | **Long MV:** $20,573.70 (19.4%)
+- **Phase P&L:** +$6,165.27 (+6.17% vs $100k start)
+- **Open positions:** 1/6 (GE) | **Week 27 trades:** 1/3 | **Daytrade count:** 0
+- **Deployment gap:** 80.6% cash — well below 75–85% target; 2–4 new positions needed once conditions stabilize
+
+### Positions
+| Ticker | Shares | Entry | Last Close | Pre-Mkt | Unrealized P&L | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|
+| GE | 70 | $297.877 | $295.88 | ~$293.91 | -$277.67 (-1.33%) | $287.08 (7% trail) | $308.69 | 2.3% above stop |
+
+**GE stop detail:** GTC 252e586b — 7% trailing, HWM $308.69, stop $285.84. Hard cut at -7% from entry = $277.02.
+
+### Market Context
+| Indicator | Level | Notes |
+|---|---|---|
+| S&P 500 Futures | 7,721.50 (-1.01%) | Risk-off; META/TSLA AH concerns + oil spike |
+| Nasdaq-100 Futures | 29,483 (-1.75%) | Sharper tech selloff; AI-spend fears |
+| DOW Futures | 52,737 (-0.61%) | Lagging but still negative |
+| VIX | ~18.41 (+10.4% from 16.68 close) | Jumping on risk-off; elevated but sub-20 |
+| WTI Oil | ~$100.88 (+1.00%) | Houthi drone strike on Saudi Aramco Shaybah field |
+| Brent Oil | ~$112.90 (+1.62%) | Above $112; US diplomats ordered to leave Saudi missions |
+| 10Y Treasury | ~5.10% (est) | FOMC Oct 28 — elevated; hawkish risk |
+
+### META/TSLA Earnings (After Close Oct 21)
+**META:** Rev $64.6B (+26% YoY) beat ($63.37B est); Q4 guide $73–76B beat; GAAP EPS $3.83 (ex-legal $7.40 beat). BUT operating margin compressed -37% YoY to 20%; FCF negative $2.1B; capex $34.9B (+80% YoY). Legal settlement $9.9B (youth-safety). AH: +3.79% to $723.93. Mixed read — revenue strength vs. spiraling AI capex.
+
+**TSLA:** EPS $0.48 (beat $0.44 est); Rev $28.05B (~inline $28.06B est). Auto rev -3% YoY; energy rev -16% YoY; FCF $1.5B; capex $4.7B (+110% YoY). AH: -2.22% to $377.88. Beat EPS but auto/energy segment deterioration + capex surge = cautious reaction.
+
+**Net read:** Both missed on narrative quality despite technical beats. AI capex spending is a growing concern across Mega-Cap Tech. Nasdaq futures -1.75% reflects this correctly.
+
+### Today's Economic Calendar
+- **8:30 AM ET:** Initial Jobless Claims (prior 199K) — key labor health signal
+- **No CPI/PPI/FOMC today**
+- **Earnings BMO today:** PG, Union Pacific (UNP), Valero (VLO), Blackstone (BX), Lockheed Martin (LMT), Honeywell (HON), Comcast (CMCSA), Norfolk Southern (NSC), Western Digital (WDC), Spotify (SPOT)
+
+### GE Aerospace Status
+- Pre-market: ~$293.91 (-0.65% from $295.88 close); overall from entry: -$3.97 (-1.33%)
+- Sell-the-news pattern entering Day 4 post-earnings print
+- Thesis INTACT: EPS +12%, orders +49%, guidance raised $8.00–8.10, UBS PT $380
+- FCF concern noted Oct 21 — already priced in; no fundamental break
+- Stop $287.08 = 2.3% buffer. Hard cut $277.02 = 6.0% buffer. Both comfortable.
+- Risk-off market today likely pressures GE alongside broader selloff
+- **Action: HOLD** — stop manages the downside; thesis unchanged
+
+### Trade Ideas
+
+**#1 — PG (Procter & Gamble): WATCHLIST — conditional**
+- Catalyst: Defensive consumer staples; Q3 BMO today; risk-off market supports defensive rotation
+- Rate classification: Consumer staples — rate-uncorrelated (Rule 13: clean as 2nd position)
+- Rule 12: NOT applicable (PG doesn't match typical post-earnings hold pattern; unless entry is within 3 days of print, use standard 10% trail)
+- Prerequisite: EPS beat confirmed + stock shows stability or bid in first 5 min; avoid buying into gap-down
+- Max position: ~$21,200 (20% of $106k equity); ~50 shares at est. ~$172 (checking needed)
+- Status: **WATCHLIST** — only enter if market stabilizes post-open and PG shows strength
+
+**#2 — LMT (Lockheed Martin): WATCHLIST — secondary**
+- Catalyst: Defense spending surge; Houthi attacks reignite Middle East escalation = near-term defense procurement tailwind
+- Rate classification: Defense/contracted-backlog — rate-uncorrelated (Rule 13: clean)
+- Concern: Energy sector BANNED; but LMT is defense, not energy — no ban applies
+- Prior sector analysis: No consecutive failed defense trades
+- Status: **WATCHLIST** — conditional on market stabilizing; oil spike may paradoxically support defense names
+
+**#3 — Technology (META, WDC, SMCI): SKIP**
+- Nasdaq -1.75% premarket; AI-spend concerns fresh off META/TSLA night
+- Do not add tech exposure into this selloff without clear reversal signal
+- WDC (Morgan Stanley top AI pick) noted for later in the week if sentiment improves
+
+**#4 — Energy (XOM, CVX, VLO): SKIP**
+- Energy sector in BANNED state (2 consecutive failed trades per strategy log)
+- Oil spike today confirms the ban remains relevant
+
+### Risk Factors
+1. **Houthi escalation:** Drone strike on Saudi Aramco Shaybah field → oil spike → inflation read → rates elevated → further pressure on equities
+2. **FOMC Oct 28 (6 days away):** Any hawkish pre-meeting signal could spike 10Y Treasury further
+3. **GE continued sell-off:** Sell-the-news Day 4; if stock breaks $290, approaching stop zone; thesis intact but patience required
+4. **AI-spend narrative:** META/TSLA AH reactions signal investor fatigue with AI capex; could re-price tech sector broadly today
+5. **Under-deployment risk:** 80.6% cash is a real cost if market reverses upward; but risk-off open is not the time to force entries
+
+### Decision: HOLD
+- Risk-off open (-1.01% S&P, -1.75% Nasdaq, VIX +10%, oil spike) is not the environment to add positions
+- GE stop manages downside; sell-the-news pressure likely continues but thesis intact
+- PG and LMT on watchlist — ONLY enter if market stabilizes materially after open
+- 2 trade slots remain this week; Jobless Claims (8:30 AM) is the first potential stabilizer
+- **Patience > activity. Default HOLD. Conditional TRADE-possible if market recovers.**
