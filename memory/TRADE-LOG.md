@@ -6788,3 +6788,40 @@ No action taken at midday → no Slack per notification rule.
 **PG:** SKIPPED — EPS beat ($2.00 vs $1.89) but full-year guidance below Wall Street estimates; gap-down risk; pre-market plan gated on market stabilization + no gap-down condition.
 
 **Week 27 trades:** 2/3 | **Open positions:** 2/6 (GE, LMT) | **Daytrade count:** 0
+
+---
+
+## 2026-10-22 — GE Stop-Out (Day 130, Week 27 Day 4 — Trailing Stop Triggered 9:49 AM ET)
+
+### Trade Closed
+
+| Date | Ticker | Side | Shares | Entry | Exit | Realized P&L | Return | Exit Reason |
+|---|---|---|---|---|---|---|---|---|
+| 2026-10-22 | GE | SELL | 70 | $297.877 | $287.0817 | −$755.67 | −3.62% | Trailing stop 252e586b triggered (7% trail, HWM $308.69 → stop $287.08); filled 9:49 AM ET |
+
+**Context:** GE sell-the-news pressure extended through Day 4 post-earnings. Stock never recaptured HWM $308.69; trailing stop advanced to $287.08 and was hit as morning selling continued. Thesis (Q3 EPS +12%, orders +49%, guidance raised) remained technically intact but sell-the-news dynamic consumed the position before any fundamental break. Exit via GTC trailing stop order as designed — no manual action required.
+
+**Sector note:** GE (Industrials/Aerospace) — Loss #1. Rule 10 watch: 1 of 2 consecutive sector failures needed for ban. LMT (current open position, Defense/Industrials) outcome will determine if sector ban triggers.
+
+---
+
+## 2026-10-22 — Midday Scan (Day 130, Week 27 Day 4 — GE Stopped Out / LMT Hold)
+
+**Portfolio:** $105,685.20 | **Cash:** $84,707.28 (80.15%) | **Open positions:** 1/6 (LMT) | **Day P&L:** −$617.97 (−0.58%) | **Phase P&L:** +$5,685.20 (+5.69%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Status |
+|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $582.645 | +$0.23 (+0.001%) | $565.43 (7% trail, HWM $607.99, GTC a03820ce) | HOLD |
+
+**STEP 3 — Cut losers:** N/A — LMT at +0.001%, far from −7% threshold ($541.85). GE already exited via trailing stop pre-midday scan.
+
+**STEP 4 — Stop tightening:** N/A — LMT not at +15% ($670.03) or +20% ($699.17). Trailing stop a03820ce active at 7% trail, HWM $607.99, stop $565.43. No manual action.
+
+**STEP 5 — Thesis check (LMT):** INTACT. Perplexity confirmed: Q3 beat (EPS $7.97 vs $7.52 est +6%), rev $20.71B, guidance raised (2nd consecutive quarter), record $292B backlog. RTX + NOC also raised outlooks — sector demand intact. RSI 72.4 (technically overbought, noted). F-35 Lot 20 cost overrun and NGAD loss are known pre-entry risks. Analyst avg target ~$619 — upside from entry. No thesis break. HOLD.
+
+**STEP 6 — Intraday research:** LMT ran to HWM ~$607.99 intraday (+4.35% above entry $582.64) then pulled back to near-entry ($582.65). Typical intraday volatility post-earnings; no news driving the pullback. GE stopped out as designed by GTC trailing stop — no reaction needed. 
+
+**STEP 7 — Action taken (GE stop-out) → Slack sent.**
+
+**Week 27 trades:** 2/3 | **Open positions:** 1/6 (LMT) | **Daytrade count:** 0
+**Next:** LMT hold — stop only tightens at +15% ($670.03) or +20% ($699.17). Sector watch: GE was loss #1 in Industrials; if LMT closes as a loss, sector ban triggers. 1 trade slot remaining this week.

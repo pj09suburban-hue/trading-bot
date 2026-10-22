@@ -9223,3 +9223,8 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - PG and LMT on watchlist — ONLY enter if market stabilizes materially after open
 - 2 trade slots remain this week; Jobless Claims (8:30 AM) is the first potential stabilizer
 - **Patience > activity. Default HOLD. Conditional TRADE-possible if market recovers.**
+
+### Afternoon Addendum — 2026-10-22 Midday
+- **GE stopped out 9:49 AM ET** at $287.08 (trailing stop 252e586b). Sell-the-news Day 4 extended; HWM $308.69 never recaptured. Realized −$755.67 (−3.62%). Industrials/Aerospace: 1 failed trade on record.
+- **LMT midday check:** $582.645, essentially flat from $582.64 entry. HWM $607.99 reached intraday then pulled back. Thesis intact — Q3 beat, $292B backlog, guidance raised, RTX/NOC sector support. Stop a03820ce at $565.43 (7% trail). HOLD.
+- **Market tone:** Defense sector outperforming general market. No new thesis-breaking events. 1 trade slot remains week 27 — no new entry candidates identified mid-session (risk-off backdrop, RSI elevated on defense names).
