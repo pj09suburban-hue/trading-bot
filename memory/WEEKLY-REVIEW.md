@@ -1690,3 +1690,66 @@ Template for each entry:
 *Week 26 — worst week of the phase by outcome. Portfolio −2.62% vs S&P −1.02% (−1.60% underperformance). Phase alpha inverted to −1.17% vs S&P benchmark — first time below benchmark in phase history. Two realized losses: MU −5.92% (trailing stop, Columbus Day liquidity) + GEV −9.83% (hard cut, dual rate shock CPI+PPI — worst single-trade loss in phase). All rules followed correctly: hard cut, stop-out, no panic override, SCHW gate enforcement, Friday HOLD. The losses were correct mechanical outcomes of extreme macro conditions. D+ reflects: disciplined rule execution + no violations, offset by the worst outcome week of the phase, phase alpha now behind S&P benchmark, 100% cash entering Week 27, and 17th consecutive week below deployment target. Next week is critical — a contracting-backlog defensive entry is mandatory to stop the phase alpha erosion.*
 
 ---
+
+## Week ending 2026-10-23
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $106,442.95 |
+| Ending portfolio | $106,565.15 |
+| Week return | +$122.20 (+0.11%) |
+| S&P 500 week | −1.17% (7,710.35 → 7,620.37) |
+| Bot vs S&P | +1.28% |
+| Phase return | +$6,565.15 (+6.57% from $100k baseline) |
+| Phase bot vs S&P | +0.22% (bot +6.57% vs S&P +6.35% from Apr 24 start 7,165.08) ⭐ phase alpha recovered |
+| Trades | 2 new (GE, LMT) + 1 closed (GE stop) — W:0 / L:1 / open:1 |
+| Win rate | 0% this week; 27.3% all-time (6/22 closed) |
+| Best trade | LMT +4.19% unrealized (open, $878.81) |
+| Worst trade | GE −3.62% realized (−$755.67, trailing stop Day 4 post-earnings) |
+| Profit factor | 1.34 all-time ($22,318 winners / $16,594 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| GE | $297.877 | $287.0817 | −$755.67 (−3.62%) | 4-day hold (Oct 19→22); trailing stop 252e586b triggered 9:49 AM ET Day 4; Q3 sell-the-news extended through full 4-day hold; HWM $308.69 never recaptured after gap-up open; Industrials/Aerospace: 1st consecutive fail |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| LMT | $582.639 | $607.05 | +$878.81 (+4.19%) | $565.43 (7% trail, HWM $607.99, GTC a03820ce) — FOMC Oct 28 |
+
+### What Worked
+- GE trailing stop executed mechanically: no override, stop 252e586b fired at 9:49 AM ET exactly as designed; Industrials/Aerospace loss #1 correctly logged for Rule 10 tracking
+- LMT entry (Oct 22) disciplined: all 8 gate checks passed; post-earnings Rule 12 (7% trail) applied correctly; rate-uncorrelated (contracted-backlog defense) per Rule 13; Houthi drone strike on Saudi Aramco Shaybah provided fresh defense-procurement catalyst same day
+- LMT +4.19% (+$878.81) at week end — post-earnings momentum continuing; analyst upgrades (RBC PT ~$670, BNP PT $670, Citi/Barclays raises) additive to thesis
+- Bot outperformed a declining S&P by +1.28% in a −1.17% down week — defense sector insulated from oil-spike/FOMC-pressure macro
+- Phase alpha recovered from −1.17% (Week 26) to +0.22% (Week 27) — back above benchmark for the first time since early October; a single defense winner drove the full recovery
+
+### What Didn't Work
+- GE post-earnings sell-the-news lasted all 4 days of hold (Oct 19–22): entered on correct EPS beat (+12%), but extended STNS consumed the 7% trail buffer before any re-rate; GE peaked at HWM $308.69 (+3.62% above entry) then declined each session; 7% Rule 12 trail set the exit, but even a 5% or 6% trail would not have changed the outcome
+- Underdeployment: 20.1% deployed at week end (1 position, LMT) vs 75–85% target — 18th consecutive week below target; structural drag persists
+- Week closed with only 1 open position entering the new week; zero wins from 2 entries (1 closed at loss, 1 open); all-time profit factor fell to 1.34 from 1.41
+- GE sector classification: Loss #1 in Industrials/Aerospace; LMT is defense/industrials and shares the broad sector bucket — if LMT ultimately fails, sector ban could force exit of all industrials names; must monitor LMT thesis rigorously
+- Friday trade slot preserved (AXP watchlist not entered) — correct decision (FOMC 5 days, VIX 19.32, oil $100+) but adds to the deployment problem
+
+### Key Lessons
+- Fourth post-earnings sell-the-news loss in phase (CEG −9.06%, NVDA −7.62%, AVGO −6.34%, GE −3.62%): Rule 12 (7% trail) correctly limits the damage, but the pattern is clear — entry within 3 days of earnings generates elevated STNS volatility even on beats; the shorter the trailing stop, the better; consider a 5% post-earnings initial trail as an informal target going forward (2 more instances needed before codifying)
+- LMT defense thesis working exactly as predicted from Week 26 analysis: "contracted-backlog defense as first new position — non-rate-sensitive per Rule 13; valid at any current yield" — the rate-uncorrelated selection was the right call; LMT absorbs oil-spike/FOMC pressure without thesis impact
+- Phase alpha recovery to +0.22% in a down week proves the outperformance math: one quality position in a down market beats the index without needing multiple positions; the quality > quantity principle is the only validated edge
+- Sector ban risk is now live for Industrials: GE fail #1 + LMT open = outcome determines sector fate; if LMT stops out, Rule 10 triggers and the industrials/defense complex becomes unavailable — must pre-plan exit sequence for any new defense names if LMT thesis breaks
+
+### Adjustments for Next Week
+- **LMT:** HOLD through FOMC Oct 28; do not add pre-FOMC; tighten to 5% at +20% ($699.17); tighten to 7% at +15% ($670.03, $63 away); stop $565.43 provides adequate buffer; thesis: Q3 beat, $292B backlog, Houthi tailwind, analyst upgrades to $670; verify GTC order a03820ce is active pre-market Monday
+- **FOMC Oct 28:** Hard rule — NO new entries on FOMC announcement day (Oct 28); re-evaluate Oct 29 post-FOMC at pre-market; if dovish hold → rate-sensitive slot opens; if hawkish → rate-uncorrelated only
+- **Deployment imperative:** 3 fresh trade slots Week 28; must deploy 2–3 positions by Oct 30 to restore 75–85% target; priority sectors: (1) Healthcare — +18.6% YTD, rate-uncorrelated, earnings catalysts continuing; (2) Defense/contracted-backlog second position IF rate environment permits; (3) AI/tech only if 10Y retreats below 4.9%
+- **Sector tracking:** Industrials/Aerospace: GE fail #1 (Oct 22); LMT outcome decides ban; no new pure-defense entries if LMT stops out; pre-plan simultaneous exit of any future industrials names if ban triggers; Energy banned (permanent until reset); AI Chips at 1 fail (MU, Oct 12)
+- **Post-earnings discipline:** If entering any name within 3 days of earnings print, consider 5% initial trail instead of 7% as default per Rule 12; track one more instance before proposing rule change
+
+### Overall Grade: C+
+*Week 27 — portfolio +0.11% vs S&P −1.17% (+1.28% outperformance). Phase alpha recovered to +0.22% — back above benchmark after first negative phase reading in history (Week 26). GE trailing stop executed mechanically; LMT entry disciplined and immediately constructive (+4.19%). C+ reflects: correct mechanical execution, benchmark outperformance in a down week, and phase alpha recovery — offset by 18th consecutive week below deployment target, GE loss extending the no-win streak on closed trades this week (0/1), and the ongoing structural risk of single-position concentration with LMT as the sole holding entering Week 28.*
+
+---
