@@ -9323,3 +9323,6 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - Sector constraint: Energy banned; rate-sensitive budget has room (0/2) but market conditions argue for patience
 
 **Positions: 1/6 | Trades: 2/3 | Daytrades: 0/3**
+
+### Afternoon Addendum — 2026-10-23 Midday
+- **LMT midday:** $596.77 (+2.43% from entry, +1.16% intraday). Analyst upgrades confirmed: RBC raised PT by $50, Citi +$15, Barclays +$6. BNP PT $670. Earlier-cited RBC/Bernstein target cuts appear to have been pre-earnings stale data; current picture is bullish. HWM $607.99 not recaptured today (stop stays at $565.43). Thesis intact — hold. No new entries considered; patience into Week 28 confirmed.
