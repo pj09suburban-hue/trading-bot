@@ -6859,3 +6859,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 27 trades:** 2/3 | **Open positions:** 1/6 (LMT) | **Daytrade count:** 0
 **Next:** LMT hold through Friday close. Weekly review later today at 4:00 PM ET. Stop only tightens at +15% ($670.03) or +20% ($699.17).
+
+---
+
+## 2026-10-23 — EOD Snapshot (Day 131, Week 27 Day 5 — LMT Friday Surge / Week Close)
+**Portfolio:** $106,565.15 | **Cash:** $84,706.85 (79.5%) | **Day P&L:** +$621.54 (+0.59%) | **Phase P&L:** +$6,565.15 (+6.57%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $607.05 | +2.91% (vs prev close $589.91) | +$878.81 (+4.19%) | $565.43 (7% trail, HWM $607.99, GTC a03820ce) |
+
+**Notes:** Day 131 (Friday, Week 27 Day 5). No trades today. LMT Lockheed Martin continued post-earnings momentum through the week close, reaching $607.05 (+2.91% day, +4.19% from $582.64 entry). HWM sits at $607.99 — today's close just below, so trailing stop remains at $565.43 (7% trail, GTC order a03820ce active). Thesis fully intact: Q3 beat, record $292B backlog, analyst upgrades (RBC PT ~$670, BNP PT $670, Citi/Barclays raises), defense sector tailwinds. Stop tightens to 7% manually at +15% ($670.03) and to 5% at +20% ($699.17) — neither triggered. Week 27 closes: 2 trades (GE entry + LMT entry; GE stopped out), net phase P&L +6.57% vs $100k start. 1 open position entering Week 28.
+
+**Week 27 trades:** 2/3 | **Open positions:** 1/6 (LMT) | **Daytrade count:** 0
+**Key watch (Mon Oct 26):** LMT open hold into Week 28. 3 fresh trade slots. Defense sector in momentum. Watch for LMT at $670 (+15%) to tighten stop.
