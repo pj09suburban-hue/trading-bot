@@ -9228,3 +9228,98 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **GE stopped out 9:49 AM ET** at $287.08 (trailing stop 252e586b). Sell-the-news Day 4 extended; HWM $308.69 never recaptured. Realized −$755.67 (−3.62%). Industrials/Aerospace: 1 failed trade on record.
 - **LMT midday check:** $582.645, essentially flat from $582.64 entry. HWM $607.99 reached intraday then pulled back. Thesis intact — Q3 beat, $292B backlog, guidance raised, RTX/NOC sector support. Stop a03820ce at $565.43 (7% trail). HOLD.
 - **Market tone:** Defense sector outperforming general market. No new thesis-breaking events. 1 trade slot remains week 27 — no new entry candidates identified mid-session (risk-off backdrop, RSI elevated on defense names).
+
+## 2026-10-23 — Pre-Market Research (Day 131, Week 27 Day 5 — Friday / Weekly Review Day)
+
+### Account Snapshot
+| Field | Value |
+|---|---|
+| Portfolio | $105,837.41 |
+| Cash | $84,706.85 (80.0%) |
+| Open Positions | 1/6 (LMT) |
+| Week 27 Trades | 2/3 (1 slot remaining) |
+| Daytrade Count | 0/3 |
+| Phase P&L | +5.84% from $100k start |
+
+**Open Position:**
+| Ticker | Shares | Entry | Pre-Mkt | Unrealized P&L | Stop | HWM |
+|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $586.96 | +$155.57 (+0.74%) | $565.43 (7% trail, GTC a03820ce) | $607.99 |
+
+### Market Context
+| Indicator | Level | Notes |
+|---|---|---|
+| S&P 500 Futures | 7,688 (−0.21%) | Modestly lower; balanced between earnings beats and macro risk |
+| Nasdaq-100 Futures | ~29,142 (~flat) | Recovering from Thu −1.75% after chip/AI sector stabilization |
+| DOW Futures | 52,753 (−0.59%) | Lagging; Industrials/Financials under pressure |
+| VIX | 19.32 (+1.52%) | Elevated vs prior weeks; risk-off tone persists |
+| WTI Crude | $100.43 (+0.97%) | Sustained above $100 on Houthi Shaybah attack fallout |
+| Brent Crude | $114.10 (+0.69%) | Near $114; Brent–WTI spread $13.67 |
+
+### Economic Calendar Today
+- **9:45 AM ET:** US Flash Manufacturing PMI (est 55.5, prev 55.9)
+- **9:45 AM ET:** US Flash Services PMI (est 58.0, prev 58.8) — key read on economic health
+- **10:00 AM ET:** UMich Consumer Sentiment Final (est 46.3)
+- No CPI/PPI/FOMC today; FOMC Oct 28 (5 days away) — silence period
+
+### BMO Earnings Today
+- **AXP:** Q3 earnings call 8:30 AM ET — watch for consumer spending, credit quality signals
+- **HCA Healthcare:** reporting pre-open — Health care sector momentum play
+- **SLB:** $9.45B rev reported — oilfield-services demand; no entry (Energy BANNED)
+- **GRC/BAH/GNTX:** small-cap reporters; not relevant to strategy
+
+### Sector Momentum (YTD)
+| Rank | Sector | YTD | Notes |
+|---|---|---|---|
+| 1 | Energy | +54.1% | **BANNED** (2 consecutive failed trades) |
+| 2 | Info Tech | +27.1% | AI-capex overhang; META/TSLA cautious after-hours reaction |
+| 3 | Health Care | +18.6% | Resilient; defensive rotation support |
+| — | Defense/Aero | Mixed | LMT outperforming; Houthi catalyst supports sector |
+| — | Comm Services | −7.9% | Weakest sector YTD |
+
+### LMT (Open Position) — Thesis Review
+- **Current:** $586.96 pre-market (−0.5% from close $589.91); from entry: +$155.57 (+0.74%)
+- **Thesis INTACT:** Q3 EPS $7.97 vs $7.52e (+6%), rev $20.71B (+11.3%), guidance raised, record $292B backlog
+- **Houthi escalation** (Saudi Aramco Shaybah drone strike) continues to provide defense-procurement tailwind
+- **Analyst targets:** Consensus $618.86 (~5% upside from here); UBS Buy $653; RBC/Bernstein/Cowen cut targets (~$550–570)
+- **Stop mechanics:** GTC a03820ce at $565.43 (7% trail, HWM $607.99). Tighten to 7% at +15% ($670.03); to 5% at +20% ($699.17)
+- **Rate classification:** Defense/contracted-backlog = rate-uncorrelated (Rule 13: clean)
+- **Rule 12 applied:** Post-earnings entry (day 1) → 7% trail (already set)
+- **Action: HOLD** — stop handles downside; thesis and sector intact
+
+### Trade Ideas
+
+**#1 — AXP (American Express): WATCHLIST — conditional**
+- Catalyst: Q3 earnings print (8:30 AM ET call); strong consumer spending and credit quality = bullish signal
+- Rate classification: Consumer financial services — rate-uncorrelated (not utility/AI infra/Materials)
+- Sector: Financials (+~10% YTD); resilient vs broader market
+- Entry condition: (a) EPS beat + no credit quality deterioration; (b) stock shows stability/bid first 5 min post-open; (c) market not selling off further
+- Rule 12: Post-earnings entry → 7% trail if entered within 3 days
+- Max position: ~$21,150 (20% equity); ~84 shares at est ~$250
+- Gate: Only 1 trade slot remaining for Week 27. High bar for Friday entry.
+- **Status: WATCHLIST** — requires beat + stability; default lean is save slot for Week 28
+
+**#2 — WDC (Western Digital): MONITOR — next week**
+- Previously noted as Morgan Stanley top AI pick; Nasdaq recovering today
+- AI-capex concerns from META/TSLA may linger into today; not the moment to add tech
+- Rate classification: AI infra/data center capex = rate-sensitive (Rule 13: currently 0/2, so room exists)
+- **Status: SKIP today** — better entry next week if tech sentiment stabilizes; Week 28 starts fresh (3 trade slots)
+
+**#3 — Energy names (XOM, CVX, SLB, VLO): SKIP**
+- Energy sector BANNED (2 consecutive failed trades). Ban remains in force.
+
+### Risk Factors
+1. **Oil elevated ($100+ WTI):** Geopolitical risk premium baked in; any escalation → further spike → inflation → rates → equity pressure
+2. **FOMC Oct 28 (5 days):** Fed silence period; market pricing in hawkish hold; elevated 10Y ~5.10%
+3. **Friday risk-reduction:** Institutional de-risking into weekend typical; elevated VIX (19.32) supports this
+4. **LMT target cuts:** RBC/Bernstein/Cowen lowered price targets ($550–570 range) despite earnings beat; mixed institutional conviction
+5. **AI-capex narrative:** META/TSLA after-hours reaction still weighing on tech; potential cross-contamination into high-beta names
+
+### Decision: HOLD
+- Risk-off Friday (VIX 19.32, oil elevated, FOMC in 5 days) is not the environment to force a final Week 27 trade
+- LMT hold: stop $565.43 protects; thesis intact; +0.74% from entry
+- AXP on watchlist — only if beats AND market stabilizes post-open AND there's a clear technical setup
+- Saving 1 trade slot for Week 28 (starts Mon Oct 26) when 3 fresh slots open — patience > activity
+- Sector constraint: Energy banned; rate-sensitive budget has room (0/2) but market conditions argue for patience
+
+**Positions: 1/6 | Trades: 2/3 | Daytrades: 0/3**
