@@ -9415,3 +9415,11 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - LLY on watchlist for Thursday post-earnings conditional entry
 
 **Positions: 1/6 | Trades: 0/3 | Daytrades: 0**
+
+### Afternoon Addendum — 2026-10-26 Midday
+- **LMT midday:** $623.785 (+7.06% from entry, +3.25% intraday). HWM $626.37 (hit earlier session). Trailing stop $582.52 active.
+- **New analyst targets:** Morgan Stanley upgraded to Overweight, PT $835 (highest on Street, from $690). Jefferies, BofA, JPMorgan also raised targets. UBS PT $692, Citi PT $706 confirmed earlier.
+- **Ultra Maritime acquisition:** Lockheed closed acquisition of Ultra Maritime today — expands ASW (anti-submarine warfare) capabilities. Minor intraday catalyst.
+- **LMT total move from earnings print (Oct 22):** +9.6%. Trailing stop has ratcheted up with price.
+- **Thesis:** INTACT and strengthening. Stop handles downside. HOLD.
+- **Macro reminder:** FOMC Wednesday (expected hold at 3.75-4.00%); GOOG/MSFT after close Wednesday; AMZN/LLY Thursday. No new entries until Thursday post-clarity.
