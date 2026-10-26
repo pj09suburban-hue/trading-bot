@@ -9326,3 +9326,92 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 ### Afternoon Addendum — 2026-10-23 Midday
 - **LMT midday:** $596.77 (+2.43% from entry, +1.16% intraday). Analyst upgrades confirmed: RBC raised PT by $50, Citi +$15, Barclays +$6. BNP PT $670. Earlier-cited RBC/Bernstein target cuts appear to have been pre-earnings stale data; current picture is bullish. HWM $607.99 not recaptured today (stop stays at $565.43). Thesis intact — hold. No new entries considered; patience into Week 28 confirmed.
+
+---
+
+## 2026-10-26 — Pre-Market Research (Day 132, Week 28 Day 1 — Monday — FOMC WEEK / MEGA-TECH EARNINGS)
+
+### Account Snapshot
+- **Equity:** $106,729.85 | **Cash:** $84,706.85 (79.4%) | **Long MV:** $22,023.00 (20.6%)
+- **Buying Power:** $400,491.80 | **Phase P&L:** +$6,729.85 (+6.73%)
+- **Open Positions:** 1/6 (LMT) | **Week 28 Trades:** 0/3 | **Daytrade Count:** 0
+- **Rate-sensitive budget:** 0/2 (LMT = defense/contracted-backlog, rate-uncorrelated)
+
+### Open Position Status
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM |
+|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $611.75 | +$1,048.01 (+4.99%) | $566.67 (7% trail, GTC a03820ce) | $609.32 |
+
+**LMT update:** UBS upgraded to Buy today with PT $692 (from Neutral). Citi target at $706. Stock trading +2.1% in morning session (~$616 range per news). HWM updated to $609.32 (above Friday close $607.05); trailing stop ratcheting up automatically. Thesis INTACT: Q3 beat, record $292B backlog, 10-yr F-35 framework (850 jets), raised guidance, defense-procurement tailwinds from Houthi escalation. Tighten stop to 7% at +15% ($670.03) or 5% at +20% ($699.17).
+
+### Market Context
+| Indicator | Value | Signal |
+|---|---|---|
+| WTI Crude | ~$101 (-2.2%) | Retreating from 6-month highs; demand destruction concern vs geopolitical risk |
+| Brent Crude | ~$114-115 (-1.9%) | Same dynamic |
+| S&P 500 Futures | +0.2% (7,675) | Modestly positive open; oil relief rally |
+| VIX | 19.73 (+1.44%) | Elevated; risk-off undertone despite futures green |
+| 10Y Treasury | ~5.0-5.1% | Elevated; FOMC hold expected but guidance critical |
+
+**This week's macro binary events (extremely dense):**
+- Mon 10/26: VZ earnings before open; Chicago Fed; Dallas Fed Mfg
+- Tue 10/27: FOMC meeting begins; Durable Goods; Consumer Confidence; VZ/BA/KO earnings
+- Wed 10/28: **FOMC rate decision 2PM ET** (hold at 3.75-4.00% expected); GOOG + MSFT earnings after close
+- Thu 10/29: Q3 GDP first estimate; PCE deflator; Jobless Claims; **AMZN + INTC earnings**
+- Fri 10/30: Employment Cost Index; Chicago PMI; XOM + CVX earnings
+
+**Sector momentum (YTD through Oct 23):**
+| Rank | Sector | YTD | Momentum Score | Status |
+|---|---|---|---|---|
+| 1 | Energy | +58.1% | 1.30 | **BANNED** (2 failed trades) |
+| 2 | Info Tech | +27.7% | 1.10 | Watchlist (post-GOOG/MSFT/AMZN results) |
+| 3 | Health Care | +17.2% | 0.91 | **IN MOMENTUM** — best actionable sector |
+| 4 | Consumer Staples | +15.6% | — | KO reporting this week |
+| 5 | Materials | +11.6% | — | Neutral |
+| 6 | Industrials | +8.2% | -1.08 | LMT hold; 1 of 2 sector failures (GE was loss #1) |
+| — | Defense/Aero | +4.99% (LMT) | — | Hold; UBS upgrade today |
+
+### Today's Earnings (Before Open Oct 26)
+- **VZ (Verizon):** EPS est $1.27 (vs $1.21 year ago); Comm Services sector weakest YTD (-9.6%) → NO INTEREST
+- CEMEX, MakeMyTrip: Not relevant
+- **Wednesday:** GOOG + MSFT after close → critical AI capex read
+- **Thursday:** AMZN + INTC + LLY (Eli Lilly) → GLP-1 demand
+
+### Trade Ideas
+
+**#1 — LLY (Eli Lilly): WATCHLIST — post-earnings entry Thursday**
+- Catalyst: Q3 earnings before open Oct 29; GLP-1 demand (Mounjaro/Zepbound) continues at massive scale
+- Sector: Health Care (+17.2% YTD, momentum score 0.91) — cleanest actionable sector
+- Rate classification: Pharma/Health Care = rate-uncorrelated (Rule 13: clean, 0/2 used)
+- Rule 12 applies (post-earnings 7% initial trail if entered within 3 days)
+- Entry condition: (a) EPS beat + no guidance disappointment; (b) stock shows buy-the-news reaction; (c) VIX not spiking post-FOMC; (d) GOOG/MSFT not negative surprise Wed night
+- Max position: ~$21,300 (20% equity) → ~75-80 shares at est ~$270
+- Risk: high P/E (>70x forward), patent expiry pressure post-2028, FDA competitive approvals
+- **Status: WATCHLIST — conditional on Thu morning beat + stable macro**
+
+**#2 — WDC (Western Digital): DEFERRED — wait for GOOG/MSFT/AMZN results**
+- AI storage demand thesis; rate-sensitive (Rule 13: 0/2, room exists)
+- Cannot evaluate until hyperscaler CapEx confirmed this week
+- **Status: SKIP this week; reassess Thursday/Friday if AI capex narrative confirmed**
+
+**#3 — VZ, BA, KO, INTC: SKIP**
+- VZ: wrong sector (Comm Services worst YTD)
+- BA: operational risk (MAX-10 certification still pending), no clean catalyst
+- KO: Consumer Staples defensive, not a momentum play
+- INTC: heavy AI capex overhang; foundry economics uncertain
+
+### Risk Factors
+1. **FOMC Wednesday:** Hold expected but any hawkish surprise (guidance toward another hike) → equity selloff, especially rate-sensitive names
+2. **Mega-tech binary:** GOOG/MSFT/AMZN combined = ~18% S&P weight; miss from any = index-wide pressure
+3. **VIX elevated (19.73):** Rising despite futures green → institutional hedging; suggests real fear under the hood
+4. **Oil relief rally (WTI -2.2%) fragile:** Houthi attacks on Saudi Aramco Shaybah continuing; any escalation → spike back above $103
+5. **LMT sector watch:** GE was Industrials loss #1; if LMT ultimately closes as a loss, sector ban triggers. Currently +4.99% — thesis intact.
+
+### Decision: HOLD
+- Too many binary events Mon-Thu (FOMC + 3 mega-cap tech) to enter new positions into uncertainty
+- VIX rising while futures barely green = institutional hedging ahead of FOMC/earnings
+- LMT carry: +4.99%, stop protecting, UBS upgrade = let it run
+- Next entry window: Thursday post-FOMC clarity + GOOG/MSFT results known
+- LLY on watchlist for Thursday post-earnings conditional entry
+
+**Positions: 1/6 | Trades: 0/3 | Daytrades: 0**
