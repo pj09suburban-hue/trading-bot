@@ -9423,3 +9423,94 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - **LMT total move from earnings print (Oct 22):** +9.6%. Trailing stop has ratcheted up with price.
 - **Thesis:** INTACT and strengthening. Stop handles downside. HOLD.
 - **Macro reminder:** FOMC Wednesday (expected hold at 3.75-4.00%); GOOG/MSFT after close Wednesday; AMZN/LLY Thursday. No new entries until Thursday post-clarity.
+- **Macro reminder:** FOMC Wednesday (expected hold at 3.75-4.00%); GOOG/MSFT after close Wednesday; AMZN/LLY Thursday. No new entries until Thursday post-clarity.
+
+---
+
+## 2026-10-27 — Pre-Market Research (Day 133, Week 28 Day 2 — Tuesday — FOMC DAY 1 / EARNINGS BLITZ)
+
+### Account Snapshot
+- **Equity:** $107,404.85 | **Cash:** $84,706.85 (78.9%) | **Long MV:** $22,698 (21.1%)
+- **Phase P&L:** +$7,404.85 (+7.40% vs $100k start)
+- **Open Positions:** 1/6 (LMT) | **Week 28 Trades:** 0/3 | **Daytrade Count:** 0
+- **Rate-sensitive budget:** 0/2 (LMT = defense/contracted-backlog, rate-uncorrelated)
+
+### Open Position Status
+| Ticker | Shares | Entry | Last Close | Pre-Mkt | Unrealized P&L | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $635.20 | $634.83 (-0.06%) | +$1,723.01 (+8.22%) | $592.00 (7% trail, HWM $636.56, GTC a03820ce) | $636.56 | 6.4% |
+
+**LMT thesis check:** INTACT. Pre-market flat (-0.06%) after Monday's +5.13% surge. Morgan Stanley OW $835 (highest on Street). JPM raised PT to $665. UBS PT $692, Citi PT $706. Ultra Maritime acquisition closed Oct 26. Q3 beat (EPS $7.97 vs $7.52e, +6%), record $292B backlog, raised guidance. GTC auto-managing. Tighten stop to 5% at +20% ($699.17). +15% tighten trigger $670.03 (stop already at 7%).
+
+### Market Context
+| Indicator | Value | Signal |
+|---|---|---|
+| WTI Crude | ~$100.86–$101/bbl (-0.78%) | 2nd day declining; Iran diplomacy talks easing geopolitical premium |
+| Brent Crude | ~$114.77/bbl (-0.94%) | Same dynamic; down from $115.81 Monday close |
+| S&P 500 Futures | +0.02% to +0.16% (~7,716–7,727) | Flat/cautious; wait-and-see ahead of FOMC + mega-tech earnings |
+| VIX | 17.84 (-2.99% from 18.39) | Declining; less fear than Monday — mild positive |
+| 10Y Treasury | ~5.0–5.1% | Elevated; FOMC hold expected but guidance critical |
+
+**FOMC Day 1:** Two-day meeting begins today. Rate decision Wednesday Oct 28, 2 PM ET. Market consensus: hold at 3.75–4.00%. Guidance on December hike is the real binary.
+
+### Today's Economic Calendar
+- **8:30 AM ET:** September Durable Goods Orders — directional read for Industrials; LMT relevance
+- **10:00 AM ET:** October Consumer Confidence — key macro sentiment read
+- **10:00 AM ET:** September New Home Sales — secondary
+
+### Today's Earnings (BMO Oct 27)
+| Ticker | Est. EPS | Sector | Interest |
+|---|---|---|---|
+| KO | $0.87–$0.91 | Consumer Staples | LOW — defensive, not momentum sector |
+| BA | −$0.21 | Industrials | LOW — operational risk, no clean catalyst |
+| V (Visa) | — | Financials | LOW — consumer spend read |
+| UPS | — | Industrials | LOW — logistics; no position relevance |
+
+**Notable AMC tomorrow (Oct 28):** GOOG + MSFT — AI capex read; critical for tech/AI setup Thursday.
+**Notable BMO Thursday (Oct 29):** AMZN + LLY — LLY is the watchlist candidate (Health Care sector).
+
+### Sector Momentum (YTD through Oct 26)
+| Rank | Sector | YTD | Status |
+|---|---|---|---|
+| 1 | Energy | +58.8% | **BANNED** (2 failed trades) |
+| 2 | Info Tech | +29.9% | Watchlist — evaluate post-GOOG/MSFT/AMZN |
+| 3 | Health Care | +17.2% | **IN MOMENTUM** — LLY watchlist |
+| 4 | Industrials/Defense | ~+8–10% | LMT hold; GE was loss #1 (sector watch) |
+| — | S&P 500 | +12.1% | Benchmark |
+
+### Trade Ideas
+
+**#1 — LMT (HOLD):** FOMC week + MS $835 target — let it run. Stop $592 protects. No action.
+
+**#2 — LLY (Eli Lilly): WATCHLIST — Thursday post-earnings conditional entry**
+- Catalyst: Q3 2026 earnings BMO Thursday Oct 29; GLP-1 drugs (Mounjaro/Zepbound) scale demand
+- Sector: Health Care (+17.2% YTD, #3 ranked, in momentum)
+- Rate classification: Pharma/Health Care = rate-uncorrelated (Rule 13: clean, 0/2 budget used)
+- Rule 12: post-earnings entry within 3 days → 7% initial trailing stop
+- All 4 entry conditions must be met: (a) EPS beat; (b) buy-the-news reaction; (c) VIX not spiking post-FOMC; (d) GOOG/MSFT not negative surprise Wednesday night
+- Max position: ~$21,500 (20% equity $107,405) → est. ~70–80 shares if price ~$270
+- Risk: high P/E (>70x forward), patent cliff post-2028, FDA competitive approvals, FOMC guidance volatility
+
+**#3 — Tech/AI infrastructure names (DEFERRED):** GOOG/MSFT/AMZN results determine whether AI capex narrative holds. Reassess Thursday/Friday.
+
+**#4 — Boeing (BA): SKIP** — still burning cash (-$0.21 EPS est); operational risk (MAX-10 cert pending); no momentum setup.
+
+**#5 — Energy sector: BANNED** (2 consecutive failed trades per Rule 10).
+
+### Risk Factors
+1. **FOMC hawkish surprise (Wed Oct 28):** Hold expected but any hike signal → equity selloff; rate-sensitive names pressure
+2. **GOOG/MSFT miss (Wed AMC):** Combined ~18% S&P weight; miss = index-wide selling, breaks AI-capex narrative
+3. **VIX re-elevation:** Down to 17.84 today but elevated baseline; one macro shock re-lights volatility
+4. **LMT stop buffer 6.4%:** HWM $636.56, stop $592.00 — tight enough that a 6.4% reversal stops out; monitor post-Durable Goods (8:30 AM)
+5. **GE sector watch:** GE was Industrials/Aerospace loss #1; if LMT ultimately closes as a loss, sector ban triggers per Rule 10
+
+### Decision: HOLD
+- FOMC Day 1 + dense earnings (KO/BA/V/UPS BMO, GOOG/MSFT AMC) = binary overload today
+- No new entries — wait for post-FOMC clarity Thursday
+- LMT: hold, stop managing, analyst upgrades intact. VIX declining is mild tailwind.
+- LLY: WATCHLIST conditional on Thursday morning: EPS beat + stable market post-FOMC + no GOOG/MSFT disaster
+- **Zero new trades today.** Patience > activity.
+
+**Positions: 1/6 | Trades: 0/3 | Daytrades: 0**
+**Key watch (today):** Durable Goods 8:30 AM (LMT relevance); Consumer Confidence 10 AM; LMT pre-market $634.83, stop $592.00 — 6.4% buffer; GOOG/MSFT AMC tonight.
+
