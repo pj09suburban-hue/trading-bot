@@ -6933,3 +6933,19 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 28 trades:** 0/3 | **Open positions:** 1/6 (LMT) | **Daytrade count:** 0
 **Next:** LMT hold through FOMC (tomorrow 2:00 PM ET). Stop only tightens at +15% ($670.03) or +20% ($699.17). Tonight: GOOG/MSFT AMC — if negative surprise, reassess LLY thesis Thursday. Stop $592.00 active.
+
+---
+
+## 2026-10-27 — EOD Snapshot (Day 133, Week 28 Day 2 — LMT Pre-FOMC Pullback)
+**Portfolio:** $107,234.39 | **Cash:** $84,706.85 (79.0%) | **Day P&L:** -$339.66 (-0.32%) | **Phase P&L:** +$7,234.39 (+7.23%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $625.765 | -1.49% (vs prev close $635.20) | +$1,552.55 (+7.40%) | $592.00 (7% trail, HWM $636.56, GTC a03820ce) |
+
+**Notes:** Day 133 (Tuesday, Week 28 Day 2). No trades today. LMT pulled back -1.49% from yesterday's close ($635.20 → $625.765) on pre-FOMC consolidation. All-time intraday HWM $636.56 set yesterday; trailing stop GTC a03820ce still active at $592.00 (7% trail). Unrealized P&L +$1,552.55 (+7.40% from entry $582.639) — still below +15% threshold ($670.03) for stop tightening to 7%. GOOG/MSFT reported AMC tonight; results will inform tomorrow's market-open decision on any new entries post-FOMC (decision Wed Oct 28 ~2pm ET, 90% probability hold). LLY watchlist entry still conditional on Thursday BMO earnings + post-FOMC clarity. Portfolio down slightly on day due to LMT drift — no concern, thesis intact.
+
+**Week 28 trades:** 0/3 | **Open positions:** 1/6 (LMT) | **Daytrade count:** 0
+**Key watch (Wed Oct 28):** FOMC decision 2pm ET. Hold LMT — monitor HWM $636.56, stop $592.00. Stop tightens to 7% at +15% ($670.03), to 5% at +20% ($699.17). Post-close: digest GOOG/MSFT results for AI capex/growth narrative. LLY entry review Thursday post-FOMC clarity.
+
+---
