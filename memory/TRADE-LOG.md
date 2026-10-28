@@ -6949,3 +6949,26 @@ No action taken at midday → no Slack per notification rule.
 **Key watch (Wed Oct 28):** FOMC decision 2pm ET. Hold LMT — monitor HWM $636.56, stop $592.00. Stop tightens to 7% at +15% ($670.03), to 5% at +20% ($699.17). Post-close: digest GOOG/MSFT results for AI capex/growth narrative. LLY entry review Thursday post-FOMC clarity.
 
 ---
+
+---
+
+## 2026-10-28 — Midday Scan (Day 134, Week 28 Day 3 — FOMC Decision Day / LMT Hold)
+
+**Portfolio:** ~$107,254 (est) | **Cash:** $84,706.85 (79.0%) | **Open positions:** 1/6 (LMT) | **Phase P&L:** ~+$7,254 (+7.25%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | Status |
+|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $628.86 | +$1,663.97 (+7.93%) | $592.00 (7% trail, HWM $636.56, GTC a03820ce) | HOLD |
+
+**STEP 3 — Cut losers:** N/A — LMT at +7.93%, well above −7% threshold ($541.85). No action.
+
+**STEP 4 — Stop tightening:** N/A — LMT at $628.86 (+7.93%), below +15% threshold ($670.03). Trailing stop a03820ce active, 7% trail, HWM $636.56, stop $592.00. No manual action.
+
+**STEP 5 — Thesis check (LMT):** INTACT. Perplexity confirmed intraday: $694M ARRW hypersonic contract (bullish), Morgan Stanley $835 PT OW upgrade intact, Q3 beat + record $292B backlog, F-35 10-yr framework (pending congressional approval). Boeing down ~11% on earnings creating mild defense-sector headwind but LMT is trading +0.94% today ($622.99 → $628.86), showing clear resilience. No adverse LMT-specific news. HOLD.
+
+**STEP 6 — Intraday research:** LMT recovering from pre-FOMC profit-taking; up +0.94% intraday. Boeing -11% (earnings miss + cash burn) is sector noise, not LMT signal — different business model, different issues. FOMC at 2pm ET; hold at 3.75–4.00% expected (94% consensus). MSFT/GOOGL report after close tonight — key AI capex read for LLY and tech entries Thursday. No Perplexity concern identified. LLY watchlist entry remains pending: (a) LLY BMO beat + buy-the-news Thu, (b) FOMC hold today (no hawkish shock), (c) MSFT/GOOGL not a disaster AMC.
+
+**STEP 7 — No action taken → no Slack per notification rule.**
+
+**Week 28 trades:** 0/3 | **Open positions:** 1/6 (LMT) | **Daytrade count:** 0
+**Next:** LMT hold through FOMC (2pm ET). Stop tightens at +15% ($670.03) → 7% trail, +20% ($699.17) → 5% trail. Tonight: MSFT/GOOGL AMC results inform LLY thesis. Tomorrow (Thu Oct 29): LLY conditional entry if all 4 gates pass.
