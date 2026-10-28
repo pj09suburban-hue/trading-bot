@@ -9514,3 +9514,102 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 **Positions: 1/6 | Trades: 0/3 | Daytrades: 0**
 **Key watch (today):** Durable Goods 8:30 AM (LMT relevance); Consumer Confidence 10 AM; LMT pre-market $634.83, stop $592.00 — 6.4% buffer; GOOG/MSFT AMC tonight.
 
+
+---
+
+## 2026-10-28 — Pre-Market Research (Day 134, Week 28 Day 3 — Wednesday — FOMC DECISION DAY + MSFT/GOOGL AMC)
+
+### Account Snapshot
+- **Equity:** $106,954.85 | **Cash:** $84,706.85 (79.2%) | **Long MV:** $22,248 (20.8%)
+- **Phase P&L:** +$6,954.85 (+6.95% vs $100k start)
+- **Open Positions:** 1/6 (LMT) | **Week 28 Trades:** 0/3 | **Daytrade Count:** 0
+- **Rate-sensitive budget:** 0/2 (LMT = defense/contracted-backlog, rate-uncorrelated)
+- **Deployment gap:** 79.2% cash — significantly below 75–85% target; 1–4 new positions needed post-FOMC clarity
+
+### Open Position Status
+| Ticker | Shares | Entry | Last Close | Pre-Mkt | Unrealized P&L | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $622.99 | ~$618 (−1.9% profit-taking) | +$1,273.01 (+6.07%) | $592.00 (7% trail, GTC a03820ce) | $636.56 | 4.2% |
+
+**LMT thesis check:** INTACT. Profit-taking after 16% 5-day post-earnings rally — no new negative catalysts. Confirmed positive news:
+- $694M Air Force ARRW hypersonic missile contract (new)
+- PAC-3 maintenance facility planned in Poland
+- MS PT $835 (OW), UBS $692 (Buy), Citi $706, JPM $665 (Neutral), BofA $620 (Neutral), Jefferies $615 (Hold)
+- Record $292B backlog, Q3 beat (EPS $7.97 vs $7.52e), raised 2026 guidance, 10-yr F-35 framework (850 jets, 156/yr) intact
+- Stop auto-manages: GTC a03820ce, 7% trail, HWM $636.56, stop $592.00 — 4.2% buffer from current $618
+- Tighten to 5% at +20% ($699.17) — not yet triggered
+
+### Market Context
+| Indicator | Value | Signal |
+|---|---|---|
+| S&P 500 Futures | ~+0.05–0.1% (flat) | Cautious; FOMC + mega-tech binary ahead |
+| Nasdaq Futures | +0.3–0.6% | Tech bid on SK Hynix blowout (7× quarterly profit) |
+| Dow Futures | −0.2–0.3% | Mild red; rate sensitivity concern |
+| VIX | ~17.53 (−0.86 from Tuesday) | Declining; slightly less fearful pre-FOMC |
+| WTI | ~$100/bbl (continuing decline) | 3rd day retreating from highs; Iran diplomacy easing |
+| 10Y Treasury | ~5.0–5.1% | Elevated; FOMC hold won't change near-term |
+
+**Today's macro binary events:**
+- **2:00 PM ET — FOMC rate decision:** Hold at 3.75–4.00% overwhelmingly expected (94/100 economists; <10% chance of Oct hike). December hike probability ~71%. Fed Chair Kevin Warsh. Market risk = hawkish statement language or December hike signaled more explicitly than expected. Hold = benign for equities; hawkish surprise = immediate selloff.
+- **After close — MSFT earnings (Q1 FY2027 = Jul-Sep 2026):** Consensus ~EPS $3.75; Azure growth and AI commercial run rate the key watch metrics. Pre-market: −0.2% (pending).
+- **After close — GOOGL earnings (Q3 2026):** Consensus EPS ~$3.03 (+5.6% YoY), Revenue ~$127.9B (+25% YoY). Google Cloud expected ~$29B (+92% YoY). Large $4.2B acquired R&D charge may distort reported EPS. Market focus: Cloud growth confirmation and whether $195–$205B capex guidance is credible.
+
+**Key context:**
+- SK Hynix reported 7× quarterly profit overnight → MU +4% premarket; AI semiconductor demand confirmed strong
+- Both MSFT and GOOGL report **tonight** (not last night as prior log anticipated)
+- AMZN + LLY both report BMO **Thursday Oct 29**
+
+### Tomorrow's Earnings Preview (BMO Oct 29)
+**LLY (Eli Lilly) — WATCHLIST conditional entry:**
+- Revenue consensus: ~$22.1–22.6B (+26–28% YoY); Mounjaro ~$10.0–10.1B; Zepbound ~$5.0–5.1B
+- EPS consensus dispersed due to $4.2B acquired R&D: $5.38 (Zacks), $5.63 (MarketBeat), $7.03 (Visible Alpha)
+- Key watch: guidance raise on $85–87B FY2026 revenue target; Foundayo (oral GLP-1) contribution ~$234M
+- Analyst: Bernstein PT raised to $1,450 (Outperform); options imply 6.6% move
+- Rule 12: post-earnings entry within 3 days → 7% initial trailing stop
+- Entry requires ALL of: (a) EPS beat + no guidance miss; (b) buy-the-news gap up, not sell-the-news; (c) VIX not spiking post-FOMC; (d) MSFT/GOOGL not a disaster AMC tonight
+- Max position: ~$21,390 (20% of $106,954 equity) → verify live quote at open
+- Rate classification: Pharma/Health Care = rate-uncorrelated (Rule 13: 0/2 budget, clean)
+- Health Care sector: +17.2% YTD (#3 by momentum), in momentum — best actionable sector
+
+### Sector Momentum (YTD Oct 28)
+| Rank | Sector | YTD | Status |
+|---|---|---|---|
+| 1 | Energy | +58%+ | **BANNED** (2 consecutive failures) |
+| 2 | Info Tech | ~+29–30% | Post-MSFT/GOOGL results → assess Thu/Fri |
+| 3 | Health Care | +17.2% | **IN MOMENTUM** — LLY watchlist |
+| 4 | Industrials/Defense | +8–10% | LMT +6.07% (GE was loss #1; sector watch) |
+| — | S&P 500 | ~+12% | Benchmark |
+
+### Trade Ideas
+
+**#1 — LMT (Current position): HOLD**
+- Profit-taking pullback today; thesis intact; stop $592 manages risk
+- No action needed until +20% ($699.17) triggers 5% trail tighten
+- Let the trailing stop do its job
+
+**#2 — LLY (Eli Lilly): WATCHLIST — Thursday BMO conditional entry**
+- All 4 conditions must confirm at Thu market-open: beat + buy-the-news + stable VIX + no MSFT/GOOGL blowup
+- Do NOT enter pre-earnings (today) — binary risk
+- Rule 12 applies (7% initial trail)
+
+**#3 — Tech/AI names (WDC, AI infrastructure): DEFERRED**
+- Cannot evaluate until MSFT/GOOGL/AMZN capex guidance confirmed tonight and tomorrow
+- Reassess Thu/Fri if AI capex narrative holds
+
+**#4 — Energy sector: BANNED (Rule 10 — 2 consecutive failures)**
+
+### Risk Factors
+1. **FOMC hawkish surprise:** Any hike or very hawkish December guidance → equity selloff, LMT at risk given extended rally
+2. **MSFT or GOOGL miss (AMC tonight):** Combined ~18% S&P weight; miss = tech/AI selloff, breaks Thursday entry thesis for LLY
+3. **LMT stop buffer 4.2%:** HWM $636.56, stop $592.00 — another -4.2% from current $618 triggers stop (locks in ~$0 gain from $582 entry given $592 stop)
+4. **Oil re-escalation:** WTI retreating but Iran/Houthi tensions persistent; spike would pressure rate outlook
+5. **Industrials sector ban risk:** GE was loss #1; if LMT closes as a loss, sector ban triggers. Currently +6.07% — thesis intact
+
+### Decision: HOLD / WAIT
+- FOMC at 2pm + MSFT/GOOGL after close = too much binary risk to enter new positions today
+- LMT: hold, stop protecting, profit-taking pullback is normal after +16% 5-day run
+- No new entries today — patience > activity
+- **Next entry window: Thursday morning**, contingent on: FOMC hold (no hawkish shock), MSFT/GOOGL not a disaster, LLY beats with buy-the-news reaction
+
+**Positions: 1/6 | Trades: 0/3 | Daytrades: 0**
+
