@@ -6972,3 +6972,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 28 trades:** 0/3 | **Open positions:** 1/6 (LMT) | **Daytrade count:** 0
 **Next:** LMT hold through FOMC (2pm ET). Stop tightens at +15% ($670.03) → 7% trail, +20% ($699.17) → 5% trail. Tonight: MSFT/GOOGL AMC results inform LLY thesis. Tomorrow (Thu Oct 29): LLY conditional entry if all 4 gates pass.
+
+---
+
+## 2026-10-28 — EOD Snapshot (Day 134, Week 28 Day 3 — FOMC Decision / LMT Rally)
+**Portfolio:** $107,378.21 | **Cash:** $84,706.85 (78.9%) | **Day P&L:** +$243.72 (+0.23%) | **Phase P&L:** +$7,378.21 (+7.38%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $629.76 | +1.09% | +$1,696.37 (+8.09%) | $592.00 (7% trail, HWM $636.56, GTC a03820ce) |
+
+**Notes:** Day 134 (Wednesday, Week 28 Day 3). No trades today. FOMC day — Fed held rates (expected, ~94% probability priced in). LMT rallied +1.09% ($622.99 → $629.76), building on recovery from yesterday's pre-FOMC pullback. Unrealized P&L +$1,696.37 (+8.09% from entry $582.639) — still below +15% threshold ($670.03) for stop tightening. HWM $636.56 unchanged (set Oct 26); trailing stop GTC a03820ce active at $592.00. No stop adjustments warranted. MSFT/GOOGL reported AMC — results inform LLY Thursday entry decision. Phase P&L +7.38% vs S&P 500 benchmark. Account equity up on the day purely from LMT intraday gain ($243.72).
+
+**Week 28 trades:** 0/3 | **Open positions:** 1/6 (LMT) | **Daytrade count:** 0
+**Key watch (Thu Oct 29):** LLY BMO earnings — conditional entry if: (1) beat + positive guidance, (2) buy-the-news reaction, (3) FOMC confirmed hold (done ✓), (4) MSFT/GOOGL AMC not a disaster. Stop $592.00 active. Tightens to 7% trail at +15% ($670.03), to 5% trail at +20% ($699.17).
