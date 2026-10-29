@@ -7036,3 +7036,20 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 28 trades:** 1/3 | **Open positions:** 2/6 (LMT + LLY) | **Daytrade count:** 0
 **Next:** Daily summary (3:00 PM ET). LMT tightens to 5% trail at +20% ($699.17). LLY tightens to 7% at +15% ($1,585.82). Stops active.
+
+---
+
+## 2026-10-29 — EOD Snapshot (Day 135, Week 28 Day 4)
+**Portfolio:** $107,809.51 | **Cash:** $64,022.29 (59.4%) | **Day P&L:** +$431.66 (+0.40%) | **Phase P&L:** +$7,809.51 (+7.81%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $647.72 | +2.85% | +$2,342.93 (+11.17%) | $603.57 (7% trail, HWM $649.00, GTC a03820ce) |
+| LLY | 15 | $1,378.97 | $1,364.62 | +5.92%* | −$215.26 (−1.04%) | $1,309.79 (7% trail, HWM $1,408.38, GTC 65c4f74a) |
+
+*LLY day-change is vs yesterday close ($1,288.30); position opened today — unrealized P&L is vs our entry.
+
+**Notes:** Day 135 (Thursday, Week 28 Day 4). One trade today: LLY BUY (15 shares @ $1,378.97, post-earnings entry). LLY reported massive Q3 beat (EPS $7.48 vs $6.26 est, Rev $24.4B vs $22.6B est, +39% YoY) and raised FY guidance +$5.5B midpoint — all thesis gates passed. LMT continued to new HWMs, now +11.17% from entry. Both trailing stops GTC and active. Neither position near stop or tightening threshold. Phase P&L +7.81% vs $100k start. 2 open positions (LMT + LLY), 1 trade this week.
+
+**Week 28 trades:** 1/3 | **Open positions:** 2/6 (LMT + LLY) | **Daytrade count:** 0
+**Key watch (Fri Oct 30):** LMT tightens to 5% trail at +20% ($699.17). LLY tightens to 7% trail at +15% ($1,585.82). Weekly review Friday 4:00 PM ET.
