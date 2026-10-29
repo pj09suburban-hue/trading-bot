@@ -9613,3 +9613,100 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 
 **Positions: 1/6 | Trades: 0/3 | Daytrades: 0**
 
+
+---
+
+## 2026-10-29 — Pre-Market Research (Day 135, Week 28 Day 4 — LLY BMO / GDP+PCE Day)
+
+### Account Snapshot
+- **Equity:** $107,638.49 | **Cash:** $84,706.85 (78.7%) | **Long MV:** $22,931.64 (21.3%)
+- **Phase P&L:** +$7,638.49 (+7.64% vs $100k start)
+- **Open positions:** 1/6 (LMT) | **Week 28 trades:** 0/3 | **Daytrade count:** 0
+- **Day P&L (pre-market):** +$260.64 (+0.24% vs yesterday close $107,377.85)
+
+### Positions
+| Ticker | Shares | Entry | Last Close | Pre-Mkt | Unrealized P&L | Stop | HWM | Buffer |
+|---|---|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $629.75 | $636.99 (+1.15%) | +$1,956.65 (+9.33%) | $592.00 (7% trail, GTC a03820ce) | $636.56 | 7.0% |
+
+- LMT making new intraday HWM today ($636.99 > $636.56). Trailing stop should auto-trail to ~$592.40.
+
+### Market Context
+| Indicator | Value | Signal |
+|---|---|---|
+| S&P 500 Futures | ~7,757 (−0.34%) | Mildly lower; GOOGL miss weighing on Nasdaq |
+| Nasdaq 100 Futures | −1.18% | GOOGL −10% AH dragging tech |
+| Dow Futures | +0.36% | Rotating to Dow/defensives |
+| VIX | 17.24 (+1.95%, prev 16.91) | Mild uptick; NOT a spike — manageable |
+| WTI | ~$100.66–101.42/bbl (−2.1%) | Declining on US-Iran peace talks |
+| Brent | ~$113.32–114.78/bbl (−1.7%) | Declining |
+
+### Macro Releases Today (8:30 AM ET)
+| Release | Consensus | Actual (if known) | Signal |
+|---|---|---|---|
+| Q3 GDP Advance | +3.1% QoQ | 2.2% (early Perplexity data) | Miss — growth slowdown |
+| GDP Price Index Q3 | +3.6% | 6.1% (early) | HOT — stagflation risk |
+| Core PCE MoM Sep | +0.3% | 0.2% (early) | Soft — dovish |
+| PCE MoM Sep | +0.5% | 0.3% (early) | Soft — dovish |
+| Initial Claims | 196K | 194K (early) | Better than expected |
+- Note: GDP price index beat (6.1% vs 3.6%) is stagflationary. Core PCE softening offsets. Mixed read overall. Market may key off core PCE (0.2%) as Fed-relevant.
+
+### AMC Earnings (Oct 28) Results
+| Company | Result | Reaction |
+|---|---|---|
+| MSFT | Rev $92.28B beat ($90.69B est), EPS $4.89 beat ($4.73 est), Azure +48% | +3% AH ✅ |
+| GOOGL | Rev $127.6B miss ($128.2B est), EPS $2.12 vs ~$3.02 est, Search slowed | −9–10% AH ❌ |
+
+### S&P 500 Sector Momentum (YTD Oct 28)
+| Rank | Sector | YTD | Status |
+|---|---|---|---|
+| 1 | Energy | +58%+ | **BANNED** (2 consecutive failures) |
+| 2 | Info Tech | ~+29–30% | Post-GOOGL AI concerns; MSFT offsets |
+| 3 | Health Care | +17.2% | **IN MOMENTUM** — LLY watchlist entry today |
+| 4 | Industrials/Defense | +8–10% | LMT +9.33% open position |
+
+### Trade Ideas
+
+**#1 — LMT (Current position): HOLD**
+- Pre-market +1.15% ($636.99), new HWM above $636.56 — stop auto-trailing
+- Stop: 7% trail from new HWM. Tightens to 7% at +15% ($670.03), to 5% at +20% ($699.17)
+- Thesis intact (MS $835 OW, $292B backlog, +$ARRW contract, F-35 framework)
+
+**#2 — LLY (Eli Lilly): CONDITIONAL ENTRY TODAY ← KEY SETUP**
+- **BMO Earnings Beat (Oct 29):**
+  - Revenue: $24.4B (+39% YoY) vs $22.61B est — massive beat
+  - Adj EPS: $7.48 vs $6.26 est — large beat
+  - Mounjaro: $10.72B (+65% YoY)
+  - FY2026 Revenue guidance raised to $91–92B from $85–87B (+$5.5B midpoint)
+- **Pre-market reaction:** +3.48% to ~$1,333.62 — BUY-THE-NEWS confirmed
+- **Conditional Gate Check (all 4 must pass at open):**
+  - [x] Gate 1: EPS beat + guidance raised ✅
+  - [x] Gate 2: Buy-the-news reaction (+3.48% premarket) ✅
+  - [x] Gate 3: VIX not spiking (17.24, NOT elevated) ✅
+  - [x] Gate 4: MSFT/GOOGL not a disaster (MSFT beat; GOOGL down but S&P only -0.34%) ✅
+- **Entry sizing (at ~$1,333):** 16 shares × $1,333 ≈ $21,328 (19.8% of equity — within 20% cap)
+- **Stop:** Rule 12 (post-earnings entry) → 7% initial trailing stop
+- **Target:** +14% from entry (2:1 R:R on 7% risk) → ~$1,520
+- **Rate classification:** Health Care/Pharma = rate-uncorrelated. Rule 13: 0/2 rate-sensitive budget. ✅
+- **Health Care sector:** In momentum (#3 YTD). No consecutive failures.
+- **Catalyst:** Q3 massive beat + $5.5B guidance raise + Mounjaro/Zepbound volume strength
+- **Verify at open:** Use live quote via `alpaca.sh quote LLY` before submitting. Confirm fill price × 16 ≤ 20% equity. If LLY reversed/flat at open or market conditions deteriorated (VIX spike, GDP shock), ABORT.
+
+**#3 — Tech/AI (NVDA, AMZN): MONITOR post-AMZN BMO**
+- AMZN reports BMO today — AWS revenue key for AI capex narrative
+- MSFT Azure +48% confirms AI cloud demand; GOOGL miss was advertising/search, not cloud
+- No entry today — wait for AMZN data; assess Friday if AI thesis holds post-week
+
+### Risk Factors
+1. **GDP stagflation signal:** GDP Price Index 6.1% (if confirmed) vs 3.6% consensus — very hot; could prompt rate-hike talk, market selloff, LLY pullback at open
+2. **GOOGL contagion:** Tech -1.18% futures; if GOOGL dragging causes broader risk-off rotation, LLY may not sustain buy-the-news
+3. **LMT stop buffer 7.0%:** HWM $636.56 → stop $592.00; new HWM at $636.99 → stop auto-trails to ~$592.40. 6.97% buffer. Still within 3% safety margin.
+4. **LLY EPS guidance cut:** 2026 adj EPS guidance lowered to $35–36 from $35.50–36.50 due to acquired R&D charges — market likely to look past this (one-time) but monitor for any sell-the-news dynamic at open
+
+### Decision: TRADE-CONDITIONAL (LLY)
+- All 4 LLY entry gates pass as of pre-market research
+- LMT: HOLD
+- **Action for market-open routine (8:30 AM ET):** Verify LLY buy-the-news still intact post-8:30 macro data. If yes → enter LLY, 16 shares, market order, GTC 7% trailing stop immediately after fill. If macro data caused VIX spike or LLY reversed → ABORT and log reason.
+- Deploy to ~41.8% equity (LMT $22,931 + LLY ~$21,328 = $44,259 / $107,638 = 41.1%) — still below 75–85% target but constrained by 5-6 position rule and LLY being the available setup.
+
+**Positions: 1/6 | Trades: 0/3 | Daytrades: 0**
