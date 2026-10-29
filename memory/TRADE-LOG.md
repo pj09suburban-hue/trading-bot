@@ -6986,3 +6986,25 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 28 trades:** 0/3 | **Open positions:** 1/6 (LMT) | **Daytrade count:** 0
 **Key watch (Thu Oct 29):** LLY BMO earnings — conditional entry if: (1) beat + positive guidance, (2) buy-the-news reaction, (3) FOMC confirmed hold (done ✓), (4) MSFT/GOOGL AMC not a disaster. Stop $592.00 active. Tightens to 7% trail at +15% ($670.03), to 5% trail at +20% ($699.17).
+
+---
+
+## 2026-10-29 — Market-Open Trades (Day 135, Week 28 Day 4)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-10-29 | LLY | BUY | 15 | $1,378.97 | $1,285.93 (7% trail GTC 65c4f74a, HWM $1,382.73) | Q3 beat: EPS $7.48 vs $6.26 est, Rev $24.4B vs $22.6B est (+39% YoY); Mounjaro +65% YoY ($10.7B), Zepbound +49% ($5.35B); FY guide raised $91–92B (+$5.5B midpoint); buy-the-news +7.4% | $1,572 (+14%) | 2:1 |
+| 2026-10-29 | LMT | HOLD | 36 | $582.64 | $592.00 (7% trail GTC a03820ce, HWM $636.56) | Thesis intact; +10.34% unrealized; below +15% tighten threshold ($670.03) | $699.17 (+20%) | — |
+
+**Week trades:** 1/3 | **Open positions:** 2/6 (LMT + LLY) | **Deployed:** $43,971 / $107,994 (40.7%)
+
+**Entry checklist — LLY:**
+- Catalyst: Q3 massive beat + $5.5B guidance raise + Mounjaro/Zepbound volume strength ✅
+- Sector: Health Care — YTD #3, in momentum ✅
+- Stop: 7% trail (Rule 12: post-earnings entry, initial HWM $1,382.73, stop $1,285.93) ✅
+- Target: $1,572 (+14% from $1,378.97) — 2:1 R:R on 7% risk ✅
+- Rate classification: Health Care/Pharma = rate-uncorrelated; Rule 13: 0/2 rate-sensitive names ✅
+
+**Account Snapshot (post-trade):**
+- Equity: $107,993.53 | Cash: $64,022.29 (59.3%) | Long MV: $43,971.24 (40.7%)
+- Phase P&L: +$7,993.53 (+8.0% vs $100k start)
