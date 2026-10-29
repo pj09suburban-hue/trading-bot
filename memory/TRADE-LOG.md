@@ -7008,3 +7008,31 @@ No action taken at midday → no Slack per notification rule.
 **Account Snapshot (post-trade):**
 - Equity: $107,993.53 | Cash: $64,022.29 (59.3%) | Long MV: $43,971.24 (40.7%)
 - Phase P&L: +$7,993.53 (+8.0% vs $100k start)
+
+---
+
+## 2026-10-29 — Midday Scan (Day 135, Week 28 Day 4 — LMT + LLY Hold)
+
+**Portfolio:** ~$107,857 (est) | **Cash:** $64,022.29 (59.4%) | **Open positions:** 2/6 (LMT + LLY) | **Phase P&L:** ~+$7,857 (+7.86%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop | HWM | Status |
+|---|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $646.09 | +$2,284.07 (+10.89%) | $603.57 (7% trail, HWM $649.00, GTC a03820ce) | $649.00 | HOLD |
+| LLY | 15 | $1,378.97 | $1,372.30 | −$100.06 (−0.48%) | $1,309.79 (7% trail, HWM $1,408.38, GTC 65c4f74a) | $1,408.38 | HOLD |
+
+**STEP 3 — Cut losers:** No action. LMT +10.89% (cut level $541.85). LLY −0.48% (cut level $1,282.44). Neither near −7% threshold.
+
+**STEP 4 — Stop tightening:**
+- LMT: +10.89%, below +15% threshold ($670.03). Stop already 7% trail (from Rule 12 post-earnings). HWM has auto-trailed from $636.56 → $649.00. Stop has auto-trailed to $603.57. No manual action.
+- LLY: −0.48%, below +15% threshold. No tightening. Trailing stop auto-trailed to HWM $1,408.38; stop $1,309.79. No manual action.
+
+**STEP 5 — Thesis check:**
+- LMT: INTACT. Up +2.59% intraday, making new HWM $649. Defense/aerospace sector strength. MS $835 OW, $292B backlog, ARRW contract — all unchanged. No adverse news.
+- LLY: INTACT. Reached HWM $1,408.38 post-earnings, now consolidating at $1,372.30. Q3 massive beat (EPS $7.48 vs $6.26 est, Rev $24.4B vs $22.6B est), FY guidance raised $5.5B — thesis unchanged. Intraday pullback is normal post-earnings consolidation. −0.48% from entry well within tolerance.
+
+**STEP 6 — Intraday research:** No unusual moves requiring research. LMT making new highs as expected (defense momentum). LLY consolidating after gap-up — healthy price action post-beat. No Perplexity query needed.
+
+**STEP 7 — No action taken → no Slack per notification rule.**
+
+**Week 28 trades:** 1/3 | **Open positions:** 2/6 (LMT + LLY) | **Daytrade count:** 0
+**Next:** Daily summary (3:00 PM ET). LMT tightens to 5% trail at +20% ($699.17). LLY tightens to 7% at +15% ($1,585.82). Stops active.
