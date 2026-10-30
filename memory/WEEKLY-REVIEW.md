@@ -1753,3 +1753,68 @@ Template for each entry:
 *Week 27 — portfolio +0.11% vs S&P −1.17% (+1.28% outperformance). Phase alpha recovered to +0.22% — back above benchmark after first negative phase reading in history (Week 26). GE trailing stop executed mechanically; LMT entry disciplined and immediately constructive (+4.19%). C+ reflects: correct mechanical execution, benchmark outperformance in a down week, and phase alpha recovery — offset by 18th consecutive week below deployment target, GE loss extending the no-win streak on closed trades this week (0/1), and the ongoing structural risk of single-position concentration with LMT as the sole holding entering Week 28.*
 
 ---
+
+## Week ending 2026-10-30
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $106,565.15 |
+| Ending portfolio | $108,129.00 |
+| Week return | +$1,563.85 (+1.47%) |
+| S&P 500 week | −0.72% (7,676.77 → 7,621.59) |
+| Bot vs S&P | +2.19% |
+| Phase return | +$8,129.00 (+8.13% from $100k baseline) |
+| Phase bot vs S&P | +1.76% (bot +8.13% vs S&P +6.37% from Apr 24 start 7,165.08) ⭐ phase alpha re-expanding |
+| Trades | 1 new (LLY Oct 29) — W:0 / L:0 / open:2 |
+| Win rate | N/A — no closed trades this week (27.3% all-time, 6/22 closed) |
+| Best trade | LMT +9.16% unrealized |
+| Worst trade | LLY +2.54% unrealized |
+| Profit factor | 1.34 all-time (unchanged; $22,318 winners / $16,594 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| LMT | $582.639 | $636.02 | +$1,921.73 (+9.16%) | $611.01 (7% trail, HWM $657.00, GTC a03820ce) — +20% trig $699.17 |
+| LLY | $1,378.97 | $1,414.00 | +$525.45 (+2.54%) | $1,348.20 (7% trail, HWM $1,449.68, GTC 65c4f74a) — +15% trig $1,585.82 |
+
+### What Worked
+- LLY entry (Oct 29) disciplined and immediately constructive: all 8 gate checks passed; Q3 massive beat (EPS $7.48 vs $6.26 est, Rev $24.4B +39% YoY) + $5.5B FY guidance raise; post-FOMC clarity ✓; Rule 12 (7% trail) applied; rate-uncorrelated healthcare ✓; LLY +2.54% in 2 days with HWM $1,449.68 already set
+- FOMC discipline held cleanly: no new entries on Oct 28 decision day; LMT held through the hold-rate announcement and rallied +1.09% on the day; framework prevented any reactive trading
+- LMT approaching phase landmark: +9.16% on 9-day hold; HWM auto-ratcheted from $636.56 (Oct 26) → $657.00 (Oct 29); stop $611.01 protecting $1,922 unrealized gain with no manual intervention
+- Healthcare rotation from tech earnings miss: AMZN −7%, INTC −25% on Oct 30 drove sector capital rotation into healthcare; LLY new HWM $1,449.68 set during this tailwind — thesis reinforced by macro cross-current
+- Phase alpha recovered: +0.22% (Week 27) → +1.76% (Week 28) on consecutive S&P-down weeks; bot +1.47% vs S&P −0.72% = second consecutive week of benchmark outperformance
+
+### What Didn't Work
+- Deployment 40.8% at week end ($44,107 / $108,129) — 19th consecutive week below 75–85% target; only 1 of 3 trade slots used; 4 position slots idle entering Week 29
+- No 3rd position deployed: research pipeline produced no second gated setup after LLY; the Week 27 plan called for 2–3 entries but only 1 materialized
+- Phase alpha +1.76% is fragile: recovery driven entirely by S&P declining (−0.72%), not by deployed capital compounding; any S&P up week at 40% deployment will re-compress immediately
+- Profit factor 1.34 unchanged — 8 consecutive weeks without a new realized winning closed trade; the last win was MPC (+10.52%, Sep 22); phase remains dependent on 6 historical wins to carry the losers
+- Week closed with 2 positions and 40% deployed: structurally similar to Week 23 (2 positions, MU + open) and Week 20 (1 position, MPC) — the deployment ceiling keeps recurring despite explicit plans to fix it
+
+### Key Lessons
+- Healthcare GLP-1 thesis is rate-uncorrelated and catalyst-rich: LLY Q3 beat + FY guidance raise + Mounjaro/Zepbound volume growth is a multi-quarter structural thesis unaffected by Fed path; first Healthcare sector entry in the phase; should have been considered earlier given +18.6% YTD sector strength documented since Week 26 analysis
+- Tech earnings week creates a repeatable healthcare rotation pattern: AMZN/INTC negative surprises → defensives bid → healthcare outperforms; this is now documented twice (Q3 mega-cap misses drove healthcare on Oct 30 just as Q2 had driven similar rotation in Aug); pre-plan healthcare entries during mega-cap earnings seasons
+- LMT is following the GE/RTX pattern: contracted-backlog defense name with multi-quarter thesis (F-35, PAC-3, record backlog) that can hold through macro volatility; patience through FOMC and pre-FOMC drift produced +9% in 9 days; do not trade around the position
+- Phase alpha recovery math: −1.17% (Week 26) → +0.22% (Week 27) → +1.76% (Week 28) over 3 weeks purely from S&P declining on a down market; this improvement is structurally fragile and will not persist without deploying 3–4 quality positions; the phase alpha problem is a deployment problem, not a selection problem
+
+### Adjustments for Next Week
+- **LMT:** Stop $611.01 (7% trail, HWM $657.00); +20% trig $699.17 ($63.15 / +9.9% away) → tighten to 5% trail; stop already at 7% per Rule 12; no action until $699.17 is hit; verify GTC a03820ce active Monday
+- **LLY:** Stop $1,348.20 (7% trail, HWM $1,449.68); +15% trig $1,585.82 ($171.82 / +12.1% away); +20% trig $1,654.76 → tighten to 5% trail; stop already at 7% per Rule 12; no manual action needed; verify GTC 65c4f74a active Monday
+- **Deployment imperative (Week 29 primary):** 3 fresh trade slots; must deploy 2–3 positions by Nov 6 EOD; rate-factor: LMT = rate-uncorrelated, LLY = rate-uncorrelated → both Rule 13 rate-sensitive slots available for next entries
+- **Sector tracking:** Industrials/Aerospace: GE fail #1, LMT open; Energy banned; AI Chips at 1 fail (MU); Healthcare: 0 fails (LLY open); sector ban risk is contained heading into Week 29
+- **Specific candidates for Week 29:** NOC/GD (contracted-backlog defense, rate-uncorrelated), AMZN/GOOGL if tech recovers from earnings-week miss, VRT/AVGO if 10Y retreats below 4.9%; research 2–3 names Sunday and have orders ready at Monday open; do NOT accept another week below 3 deployed positions
+
+### Overall Grade: B
+*Week 28 — portfolio +1.47% vs S&P −0.72% (+2.19% outperformance). Phase alpha recovered to +1.76% vs benchmark — re-expanding after the Week 26 nadir (−1.17%). LLY entry on Healthcare/GLP-1 thesis post-FOMC was disciplined and immediately constructive (+2.54% in 2 days). LMT +9.16% after 9 days with trailing stop correctly auto-ratcheting. B reflects solid benchmark outperformance and two quality open positions, offset by 19th consecutive week below 75–85% deployment target (40.8% deployed) — phase alpha recovery is entirely S&P-driven, not deployed-capital-compounding, and will re-compress the moment S&P posts a positive week at current deployment levels. Week 29 deployment of 2–3 positions is mandatory.*
+
+---
+
