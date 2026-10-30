@@ -7081,3 +7081,18 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 28 trades:** 1/3 | **Open positions:** 2/6 (LMT + LLY) | **Daytrade count:** 0
 **Next:** Daily summary (3:00 PM ET) + Weekly review (4:00 PM ET today). LMT tightens to 5% trail at +20% ($699.17). LLY tightens to 7% trail at +15% ($1,585.82). Both stops active and auto-trailing.
+
+---
+
+## 2026-10-30 — EOD Snapshot (Day 136, Week 28 Day 5 — Month-End / Week-End)
+**Portfolio:** $108,312.54 | **Cash:** $64,022.28 (59.1%) | **Day P&L:** +$515.52 (+0.48%) | **Phase P&L:** +$8,312.54 (+8.31%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $639.96 | −0.56% | +$2,063.57 (+9.84%) | $611.01 (7% trail, HWM $657.00, GTC a03820ce) |
+| LLY | 15 | $1,378.97 | $1,416.78 | +3.14% | +$567.14 (+2.74%) | $1,348.20 (7% trail, HWM $1,449.68, GTC 65c4f74a) |
+
+**Notes:** Day 136 (Friday, Week 28 Day 5 — month-end). No new trades today. LLY continued higher (+3.14%), making new HWMs intraday as healthcare rotation from tech selloff accelerated (AMZN −7%, INTC −25%). LMT pulled back −0.56% on normal post-HWM consolidation; still +9.84% from entry. Both trailing stops GTC and active — LLY stop auto-trailed to $1,348.20 (HWM $1,449.68), LMT stop at $611.01 (HWM $657.00). Neither position near stop or tightening threshold. Phase P&L +8.31% vs $100k start. Weekly review fires at 4:00 PM ET today.
+
+**Week 28 trades:** 1/3 | **Open positions:** 2/6 (LMT + LLY) | **Daytrade count:** 0
+**Key watch (Mon Nov 2):** LMT tightens to 5% trail at +20% ($699.17). LLY tightens to 7% trail at +15% ($1,585.82). Both stops active into weekend.
