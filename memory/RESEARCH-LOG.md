@@ -9710,3 +9710,78 @@ All 4 GTC trailing stops confirmed live via Alpaca orders.
 - Deploy to ~41.8% equity (LMT $22,931 + LLY ~$21,328 = $44,259 / $107,638 = 41.1%) — still below 75–85% target but constrained by 5-6 position rule and LLY being the available setup.
 
 **Positions: 1/6 | Trades: 0/3 | Daytrades: 0**
+
+---
+
+## 2026-10-30 — Pre-Market Research (Day 136, Week 28 Day 5 — Final Day / Month-End)
+
+### Account Snapshot
+| Metric | Value |
+|---|---|
+| Equity | $108,587.28 |
+| Cash | $64,022.28 (59.0%) |
+| Long MV | $44,565 (41.0%) |
+| Open Positions | 2/6 (LMT + LLY) |
+| Week Trades | 1/3 (LLY, Oct 29) |
+| Daytrade Count | 0 |
+| Phase P&L | +$8,587.28 (+8.59%) |
+
+### Current Positions
+| Ticker | Shares | Entry | Premarket | Unrealized P&L | Stop (GTC) | HWM | Threshold |
+|---|---|---|---|---|---|---|---|
+| LMT | 36 | $582.639 | $648.17 (+0.71%) | +$2,425 (+11.56%) | $603.57 (7% trail, GTC a03820ce) | $649.00 | +15% = $670.03 → tighten to 7%; +20% = $699.17 → 5% |
+| LLY | 15 | $1,378.97 | $1,411 (+2.72%) | +$480 (+2.32%) | $1,309.79→~$1,312 (7% trail, GTC 65c4f74a) | $1,408.38→~$1,411 | +15% = $1,585.82 → tighten to 7% |
+*LLY above prior HWM $1,408.38; trailing stop auto-trailed to ~$1,312.23 (7% of $1,411)
+
+### Market Context
+| Indicator | Value | Signal |
+|---|---|---|
+| S&P 500 Futures | ~7,671 (−1.07%) | Weak open — AMZN/INTC earnings dragging |
+| Nasdaq-100 Futures | −2.5% | Tech selloff; AMZN −7%, INTC −25% premarket |
+| Dow Futures | −0.05% | Near-flat; less tech exposure |
+| VIX | 18.47 (+7.38% from 17.20) | Elevated but NOT spiking; below 20 |
+| WTI | $103.85/bbl (+1.3%) | Rising; Houthi attacks stoking supply fears |
+| Brent | $117.28/bbl (+1.0%) | Rising; 4th consecutive monthly gain |
+
+### Macro Releases Today (8:30 AM ET)
+| Release | Note |
+|---|---|
+| Employment Cost Index Q3 (8:30 AM ET) | Imminent at research time; consensus ~+1.1% QoQ; hot = rate-hike risk |
+| PCE (Oct 29 — already released) | Core PCE YoY +3.1% (prev 3.0%), Headline +3.6% — slightly warm; market absorbed |
+
+### Key Earnings (AMC Oct 29)
+| Company | Result | Reaction |
+|---|---|---|
+| AMZN | EPS $1.89 vs $1.96 est, Rev $201.9B miss; AWS +39% (best in 5yr); FCF −$42.4B; $220B capex maintained | −7% premarket |
+| INTC | Q4 guide $15–16B vs $17.1B est; cash burn warning | −25% premarket |
+
+### S&P 500 Sector Momentum (YTD)
+| Rank | Sector | YTD | Status |
+|---|---|---|
+| 1 | Energy | +58%+ | **BANNED** (2 consecutive failures) |
+| 2 | Info Tech | ~+29–30% | Rotating OUT — AMZN/INTC/GOOGL miss week |
+| 3 | Health Care | +17.2% | **IN MOMENTUM** — LLY position |
+| 4 | Industrials/Defense | +8–10% | **IN MOMENTUM** — LMT position |
+
+### Position Thesis Check
+**LMT: INTACT** — +11.56% unrealized. October +27% on $292B backlog, $58.6B PAC-3 contract, F-35 10-yr/850-aircraft framework, MS $835 OW. Premarket +0.71%. Defensives benefiting from tech rotation. Stop auto-trailing. Tighten to 5% at +20% ($699.17).
+
+**LLY: INTACT** — +2.32% unrealized. Q3 massive beat (EPS $7.48 vs $6.26, Rev +39% YoY), FY guide raised $5.5B midpoint. Jefferies PT raised to $1,610. Premarket $1,411 — new HWM, stop auto-trailed to ~$1,312. Healthcare rotation benefiting from tech selloff. Tighten to 7% at +15% ($1,585.82).
+
+### Trade Ideas
+- **LMT: HOLD** — Thesis intact, stops active, tailwind from defensive rotation.
+- **LLY: HOLD** — Thesis intact, new HWM, stops auto-trailed, healthcare momentum.
+- **New position: NO SETUP** — Tech selloff (AMZN/INTC violent); Energy BANNED; no additional healthcare/defense name with catalyst + sizing room today.
+
+### Risk Factors
+1. ECI (8:30 AM ET): Hot ECI = rate-hike narrative restart → VIX spike risk
+2. VIX 18.47 (+7.4%): Not a spike but elevated; watch 20 level
+3. AMZN/INTC/GOOGL week = AI-capex reassessment rotation; LMT/LLY sector-isolated
+4. Month-end/week-end institutional rebalancing: net tailwind for defensives and healthcare
+5. Oil rising (+1.3%) = mild inflation concern; isolated from held positions
+
+### Decision: HOLD
+Both positions healthy. No new setups. Tech environment argues for patience.
+**Weekly review: Today 4:00 PM ET**
+
+**Week 28 trades: 1/3 | Open positions: 2/6 | Daytrades: 0**
