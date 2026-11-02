@@ -9785,3 +9785,69 @@ Both positions healthy. No new setups. Tech environment argues for patience.
 **Weekly review: Today 4:00 PM ET**
 
 **Week 28 trades: 1/3 | Open positions: 2/6 | Daytrades: 0**
+
+---
+
+## 2026-11-02 — Pre-Market Research (Day 137, Week 29 Day 1)
+
+### Account Snapshot
+- **Equity:** $108,063.83 | **Cash:** $64,022.28 (59.3%) | **Long MV:** $44,041.55 (40.7%)
+- **Phase P&L:** +$8,063.83 (+8.06% vs $100k start)
+- **Positions:** 2/6 (LMT + LLY) | **Week 29 trades:** 0/3 | **Daytrades:** 0
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (GTC) | HWM |
+|---|---|---|---|---|---|---|
+| LMT | 36 | $582.64 | $634.90 | +$1,881.41 (+8.97%) | $611.01 (7% trail, GTC a03820ce) | $657.00 |
+| LLY | 15 | $1,378.97 | $1,412.34 | +$500.59 (+2.42%) | $1,348.20 (7% trail, GTC 65c4f74a) | $1,449.68 |
+
+### Market Context
+| Indicator | Value | Signal |
+|---|---|---|
+| S&P 500 Futures | ~7,654 (+0.49%) | Rebounding after last week's brutal tech selloff |
+| Nasdaq-100 Futures | +0.87% | Tech stabilizing from −5.2% week |
+| VIX | 18.83 (−0.59 from 19.42 close) | Elevated but easing; contango term structure |
+| WTI | ~$100.05/bbl (−2%) | Falling on Iran-Qatar peace talks |
+| Brent | ~$111-112/bbl (−2%) | Easing from 4-week run |
+| Dollar | One-month low | Oil slump easing haven demand |
+
+### Today's Key Releases & Catalysts
+| Event | Time ET | Detail |
+|---|---|---|
+| ISM Manufacturing PMI | 10:00 AM | Oct; consensus 54.6 vs 54.5 prev |
+| AAPL Q4 Earnings | AMC tonight | EPS est $1.99 — biggest sentiment pivot risk |
+| PLTR Q3 Earnings | AMC tonight | AI momentum read; EPS est $0.41 |
+| US Midterm Elections | TOMORROW | Congressional elections — fiscal/regulatory binary event |
+| Jobs Report (NFP) | Fri Nov 6 | 8:30 AM ET — main macro event this week |
+
+### Sector Momentum YTD (Oct 30 close)
+| Rank | Sector | YTD | Status |
+|---|---|---|---|
+| 1 | Energy | +59.7% | **BANNED** — 2 consecutive failures |
+| 2 | Info Tech | +25.1% | Rotating OUT — AI-capex reassessment |
+| 3 | Health Care | +20.9% | **IN MOMENTUM** — LLY held |
+| ~4 | Industrials/Defense | ~+8–10% | **IN MOMENTUM** — LMT held |
+
+### Position Thesis Check
+**LMT: INTACT** — Q3 beat (EPS $7.97 vs $7.52, Rev +11.3% YoY), $292B backlog, $694M ARRW contract, Ultra Maritime closed, Dec 1 ex-div $3.60. Mirae bought $134.7M new position Nov 1. Minor risk: F-35 own-capital production vs delayed authorization. Current $634.90 (recovering from Oct 30 $636.95 close); stop $611.01 auto-trailing.
+
+**LLY: INTACT** — Q3 massive beat (EPS $7.48 vs $5.71 est, Rev $24.4B +39% YoY), FY raised $91–92B. Mounjaro $10.72B + Zepbound $5.35B. Retatrutide Phase 3 vs Ozempic WIN; ovarian cancer 100% disease control Phase 1. Multiple PT raises (Jefferies $1,610). Nov 13 ex-div $1.73. ETF buying 4-day streak. Current $1,412.34; HWM $1,449.68; stop $1,348.20 auto-trailing.
+
+### Trade Ideas
+**No new setup today.**
+- Election tomorrow (Nov 3) + AAPL AMC tonight = two binary events within 24h
+- Entering a new position today loads both; Wednesday open is the cleaner door
+- If AAPL beats and election resolves without shock → evaluate 3rd position Wed/Thu
+- Candidates (conditional on catalysts): Healthcare add (UNH, MDT) or Defense add (RTX)
+- Rate check: LMT = rate-sensitive (1/2 used). Next entry may be rate-uncorrelated if adding 2nd rate-sensitive.
+
+### Risk Factors
+1. Election tomorrow — fiscal policy/regulatory direction binary; enters all positions
+2. AAPL tonight — $5T market cap; miss = Nasdaq re-selloff; beat = tech re-rally
+3. Underdeplyed at 40.7% vs 75-85% target — structurally underinvested but wrong timing today
+4. ISM Manufacturing 10 AM — minor; extreme read could move rates narrative
+5. LMT F-35 funding gap — manageable execution risk; monitor next earnings
+
+### Decision: **HOLD**
+Both positions healthy and theses intact. Election + AAPL = compounded binary event risk. Patience > activity. Re-evaluate Wednesday morning.
+
+**Week 29 trades: 0/3 | Open positions: 2/6 | Daytrades: 0**
