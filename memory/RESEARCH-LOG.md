@@ -9973,3 +9973,63 @@ Election Day + VIX elevated + AAPL margin miss dampening sentiment. Both positio
 
 **Week 29 trades: 0/3 | Open positions: 2/6 | Daytrades: 0**
 
+
+---
+
+## 2026-11-05 — Pre-Market Research (Day 140, Week 29 Day 4)
+
+### Account Snapshot
+- **Equity:** $107,568.73 | **Cash:** $86,088.73 (79.9%) | **Deployed:** $21,480 (20.0%)
+- **Phase P&L:** +$7,568.73 (+7.57% vs $100k start)
+- **Positions:** 1/6 (LLY only) | **Week 29 trades:** 0/3 | **Daytrade count:** 0
+- **LMT STOPPED OUT (Nov 4):** GTC trailing stop triggered at ~$611.01 when LMT dropped -6.88% on Democrat midterm sweep. Realized gain: ~+$1,022 (+4.87%). Defense sector selloff confirmed stop was correct. **Defense sector consecutive failures: 0** (LMT exited at gain, not a failed trade).
+- **LLY:** 15 shares @ $1,378.97, premarket $1,432 (+0.99% vs $1,417.99 close), unrealized +$795.45 (+3.85%), stop $1,348.20 (7% trail, HWM $1,449.68, GTC 65c4f74a). HWM not breached — stop remains at $1,348.20.
+
+### Market Context
+- **S&P 500 futures:** ~7,728 (+0.10%) — mixed; Dow +0.43%, Nasdaq −0.47%, S&P flat as post-election rally cools
+- **VIX:** 16.83 (+1.32%) — dropped from 20.83 (Nov 3) to 16.61 (Nov 4, −20% single-day post-election). Now ticking slightly higher. Still materially lower than pre-election.
+- **WTI:** $86.82 (−1.75%) | **Brent:** $93.76 (−0.91%) — fourth consecutive decline on Iran war de-escalation hopes; JD Vance reportedly blamed election rout on Iran war → pressure to wind down conflict
+- **Post-election outcome:** Democrats swept both chambers (Nov 3). Nov 4 rotations: Consumer Discretionary +4.27%, Energy −4.86%, Defense −6.88%. S&P 500 rallied +1.6% on Nov 4.
+- **Today's data:** Initial Jobless Claims 8:30 AM ET (196K est vs 194K prior), Q3 Productivity/Costs 8:30 AM ET
+- **Tomorrow (Nov 6):** October Jobs Report (nonfarm payrolls, 8:30 AM ET) — major market mover. Hold back trade slots.
+- **Earnings BMO today:** COP (Q3), Cigna (Q3 beat + guidance raise), Parker-Hannifin, Duke Energy. No direct position impact.
+- **FOMC:** Next meeting Dec 8–9.
+
+### Sector Momentum (YTD as of Nov 4 close)
+| Rank | Sector | YTD | Status |
+|---|---|---|---|
+| 1 | Energy | +44.9% | BANNED (2 consecutive failures) |
+| 2 | Technology | +27.7% | MIXED — chips/AI infra under pressure |
+| 3 | Healthcare | +23.76% | IN MOMENTUM — primary target |
+| 4 | Consumer Non-Cyclical | +17.3% | IN MOMENTUM |
+| 5 | Industrials/Defense | ~+13% | CAUTION — defense sub-sector −6.88% Nov 4 |
+| 6 | Financials | +7.7% | IMPROVING |
+| 7 | Consumer Discretionary | +2.4% | WEAK — 1-day pop only, not confirmed |
+
+### Position Thesis Check
+**LLY: INTACT** — Q3 blowout (+39% YoY, $24.4B, FY $91–92B). Dem sweep bullish for Medicare GLP-1 coverage expansion (long-term). Cantor Fitzgerald raised PT to $1,600 from $1,440. Next-gen obesity drug Phase 3 initiated. LLY +0.99% premarket ($1,432). HWM $1,449.68 intact; stop $1,348.20 auto-trailing. Key risk: 15% realized price decline in Q3 (volume growth offsetting); Nov 30 Medicare negotiated prices publication.
+
+### Trade Ideas
+**Primary: BUY UNH — Healthcare, rate-uncorrelated**
+- **Catalyst:** Q3 EPS $4.69 beat ($4.14 est, Oct 13), raised 2026 EPS guidance >$20.50, MS PT $531 (OW). Dem win → ACA subsidies extended, stable Medicare Advantage environment. Healthcare sector +23.76% YTD momentum.
+- **Sector:** Healthcare ✓ | **Rate-sensitive:** NO → rate slot count stays 0/2
+- **Entry:** ~$413.20 (premarket) — verify live quote at open per checklist
+- **Shares:** 52 (20% equity = $21,514 → 52 × $413 = $21,476 ✓)
+- **Stop:** 10% → ~$372 (NOT post-earnings; last earnings Oct 13 = 23 days ago)
+- **Target:** $496+ (2:1 R:R). MS PT $531 validates upside.
+- **Gate checks:** Positions 2/6 ✓ | Trades 1/3 ✓ | Cost ≤ 20% equity ✓ | Cost ≤ $86k cash ✓ | PDT 0 ✓ | Catalyst documented ✓ | Stock ✓
+
+**Secondary (Week 29 Day 5 or Week 30):** Evaluate AMZN or MCK after Nov 6 Jobs Report. Hold 2 trade slots back.
+
+### Risk Factors
+1. **Oct Jobs Report tomorrow (Nov 6, 8:30 AM)** — hot or cold print could move markets sharply; limit to 1 new position today
+2. **Oil continuing lower** — macro uncertainty; not direct portfolio risk
+3. **Nasdaq/AI infra rotation** — chip pressure from Democrat data-center regulation concerns
+4. **LLY pricing risk** — 15% realized price decline in Q3; Nov 30 Medicare negotiated prices key date
+5. **80% cash concentration** — UNH buy helps but still need 2-3 more positions for 75-85% target
+
+### Decision: **TRADE**
+Buy UNH at open (~$413, 52 shares ≈ $21,476). All gate checks pass. Healthcare sector momentum confirmed. Dem win ACA catalyst intact. Market-open routine executes at 8:30 AM ET. Hold 2 remaining trade slots for post-Jobs Report.
+
+**Rate-sensitive count after UNH: 0/2** (UNH = rate-uncorrelated; LMT was 1/2 → now gone)
+**Week 29 trades:** 0/3 (UNH buy at market open = 1/3)
