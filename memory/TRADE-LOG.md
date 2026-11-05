@@ -7198,3 +7198,33 @@ No action taken at midday → no Slack per notification rule.
 **LLY (existing):** 15 sh @ $1,378.97, current $1,429.95 (+3.70%), stop $1,348.20 (7% trail, HWM $1,449.68, GTC 65c4f74a). No action needed.
 
 **Week 29 trades:** 1/3 | **Open positions:** 2/6 (LLY + UNH pending) | **Daytrade count:** 0
+
+---
+
+## 2026-11-05 — Midday Scan (Day 140, Week 29 Day 4)
+
+**Portfolio:** $107,279.03 | **Cash:** $65,925.23 (61.5%) | **Open positions:** 2/6 (LLY + UNH) | **Phase P&L:** +$7,279.03 (+7.28%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (GTC) | HWM | Status |
+|---|---|---|---|---|---|---|---|
+| LLY | 15 | $1,378.97 | $1,424.53 | +$683.39 (+3.30%) | $1,351.29 (7% trail, GTC 65c4f74a) | $1,453 | HOLD |
+| UNH | 49 | $411.50 | $407.865 | −$178.12 (−0.88%) | $367.21 (10% trail, GTC 4c159282 — PLACED TODAY) | $408.015 | HOLD |
+
+**STEP 3 — Cut losers:** No action. LLY +3.30% (cut level $1,282.44). UNH −0.88% (cut level $382.70). Neither near −7%.
+
+**STEP 4 — Stop tightening:**
+- LLY: +3.30%, below +15% threshold ($1,585.82). Stop auto-trailing from HWM $1,453 to $1,351.29. No manual action.
+- UNH: −0.88%, well below any tightening threshold. No action.
+
+**STEP 5 — Thesis check:**
+- LLY: INTACT. Perplexity confirms no thesis-breaking news. Competitive win vs. compounded tirzepatide advertising. Retatrutide Phase 3 positive results at ACRO. Dividend $1.73/sh ex-Nov 13. HWM $1,453 (up from $1,449.68). Stop auto-trailing correctly.
+- UNH: INTACT but watching. DOJ/antitrust scrutiny elevated — Sen. Warren breakup calls on Amedisys deal completion. −0.88% intraday reflects this overhang. Not thesis-breaking today; becomes a problem if DOJ opens formal structural investigation. Q3 EPS $4.69 beat, margin recovery thesis intact. Stop $367.21 (10% trail) placed today — deferred from market-open routine.
+
+**STEP 4 ACTION — UNH trailing stop placed:** Deferred from market-open (fill at $411.50 confirmed). GTC trailing stop order 4c159282 placed at 10% trail, stop $367.21, HWM $408.015. Not post-earnings (last earnings Oct 13 = 23 days ago) → standard 10% trail per rules.
+
+**STEP 6 — Intraday research (Perplexity):** LLY no thesis break — competitive moat strengthening vs. compounders, retatrutide milestone, volume growth offsetting price headwinds. UNH: regulated risk watch on antitrust (Amedisys / Warren / DOJ), not an acute catalyst. No position changes warranted by research.
+
+**STEP 7 — Action taken (UNH stop placed) → Slack notification sent.**
+
+**Week 29 trades:** 1/3 | **Open positions:** 2/6 (LMT + UNH)... correction: 2/6 (LLY + UNH) | **Daytrade count:** 0
+**Key watch:** UNH DOJ/antitrust developments (formal investigation would be thesis-break → close). LLY tightens to 7% at +15% ($1,585.82). Tomorrow Nov 6 = Jobs Report 8:30 AM ET — market mover. Hold 2 trade slots.

@@ -10033,3 +10033,8 @@ Buy UNH at open (~$413, 52 shares ≈ $21,476). All gate checks pass. Healthcare
 
 **Rate-sensitive count after UNH: 0/2** (UNH = rate-uncorrelated; LMT was 1/2 → now gone)
 **Week 29 trades:** 0/3 (UNH buy at market open = 1/3)
+
+### Afternoon Addendum — Midday Scan (16:12 UTC)
+- **LLY:** No thesis-breaking news. Positive: LLY won ad changes vs. compounded tirzepatide competitors; retatrutide Phase 3 results (osteoarthritis + obesity) presented ACRO; XLV ETF net bought $330M on Nov 3 (all 60 holdings increased). Dividend $1.73/sh ex-Nov 13. HWM $1,453 (intraday new high). Risks flagged: 15% realized price decline in Q3, $2B nonrecurring revenue, compounded drug competitive friction. **Assessment: INTACT, hold.**
+- **UNH:** Q3 EPS $4.69 beat, margin recovery thesis intact. Negative watch: Sen. Warren breakup calls on completed $3.3B Amedisys deal + DOJ settlement adding antitrust scrutiny. −0.88% intraday reflects this regulatory overhang. **Assessment: INTACT but thesis-break trigger identified** — formal DOJ/FTC structural investigation → close position.
+- **UNH trailing stop placed:** GTC 10% trail order 4c159282 (stop $367.21, HWM $408.015). Deferred from market-open routine.
