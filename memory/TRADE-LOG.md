@@ -7228,3 +7228,18 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 29 trades:** 1/3 | **Open positions:** 2/6 (LMT + UNH)... correction: 2/6 (LLY + UNH) | **Daytrade count:** 0
 **Key watch:** UNH DOJ/antitrust developments (formal investigation would be thesis-break → close). LLY tightens to 7% at +15% ($1,585.82). Tomorrow Nov 6 = Jobs Report 8:30 AM ET — market mover. Hold 2 trade slots.
+
+---
+
+## 2026-11-05 — EOD Snapshot (Day 140, Week 29 Day 4 — Thursday)
+**Portfolio:** $106,215.09 | **Cash:** $65,925.23 (62.1%) | **Day P&L:** −$1,143.49 (−1.07%) | **Phase P&L:** +$6,215.09 (+6.22%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| LLY | 15 | $1,378.97 | $1,385.85 | −2.27% | +$103.20 (+0.50%) | $1,351.29 (7% trail, HWM $1,453, GTC 65c4f74a) |
+| UNH | 49 | $411.50 | $397.98 | −2.79% | −$662.48 (−3.29%) | $367.50 (10% trail, HWM $408.33, GTC 4c159282) |
+
+**Notes:** Day 140 (Thursday, Week 29 Day 4). UNH initiated today at $411.50 avg (49 sh, market order). Both positions closed in the red today — broad market risk-off ahead of tomorrow's Jobs Report (8:30 AM ET). LLY slipped −2.27% intraday but remains +0.50% from entry; HWM $1,453 intact, stop auto-trailing at $1,351.29. UNH dropped −2.79% intraday to $397.98, now −3.29% from $411.50 entry — still 1.71 pct points from −7% cut level ($382.70); DOJ/antitrust overhang persists but not thesis-breaking today. Neither stop hit. Phase P&L +6.22% vs $100k start. Tomorrow: Jobs data at 8:30 AM could drive outsized healthcare/consumer moves — monitor both positions at open; UNH thesis-break watch remains active.
+
+**Week 29 trades:** 1/3 | **Open positions:** 2/6 (LLY + UNH) | **Daytrade count:** 0
+**Key watch (Fri Nov 6 — Jobs Report):** Strong jobs → rate-sensitive names could sell further; weak jobs → Fed pivot hope → healthcare rotation. UNH cut level $382.70 (stop $367.50). LLY holds well above stop. No new trades unless a strong post-jobs setup emerges and position/week limits allow.
