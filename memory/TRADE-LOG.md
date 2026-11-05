@@ -7182,3 +7182,19 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 29 trades:** 0/3 | **Open positions:** 2/6 (LMT + LLY) | **Daytrade count:** 0
 **Key watch (Wed Nov 4 — post-election):** Election results will drive sector rotation at the open. Defense (LMT) likely holds or rallies regardless of outcome. LLY sensitive to Medicare/GLP-1 policy (Dem Senate favored ~75% → positive for LLY). Evaluate 3rd position Wednesday once post-election direction is clear — UNH or RTX remain top candidates. Stops protect both positions overnight.
+
+---
+
+## 2026-11-05 — Market-Open Order (Day 140, Week 29 Day 4)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-11-05 | UNH | BUY | 49 | ~$413 (market order, fill at 9:30 AM EST) | 10% trail GTC — to be placed at fill confirmation | Healthcare momentum; ACA subsidies extended (Dem sweep); Q3 EPS beat ($4.69 vs $4.14); MS PT $531 OW; rate-uncorrelated | $496+ | ~2:1 |
+
+**Gate checks passed:** Positions 2/6 ✓ | Trades 1/3 ✓ | Cost ~$20,237 ≤ 20% equity ($21,508) ✓ | Cash $86,089 ✓ | PDT 0 ✓ | Catalyst in RESEARCH-LOG ✓ | Stock ✓
+**Gap-up protection:** Shares reduced from 52 → 49 (stale quote: ask $435.44; 49×$435=$21,315 ≤ $21,508)
+**Order ID:** 89af7e5b | Status: queued, executes at 9:30 AM EST market open
+**Trailing stop:** ORDER 89af7e5b queued pre-market. Stop to be placed by midday routine once fill confirmed.
+**LLY (existing):** 15 sh @ $1,378.97, current $1,429.95 (+3.70%), stop $1,348.20 (7% trail, HWM $1,449.68, GTC 65c4f74a). No action needed.
+
+**Week 29 trades:** 1/3 | **Open positions:** 2/6 (LLY + UNH pending) | **Daytrade count:** 0
