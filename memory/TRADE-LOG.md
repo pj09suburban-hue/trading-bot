@@ -7284,3 +7284,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 29 trades:** 1/3 | **Open positions:** 1/6 (UNH only) | **Daytrade count:** 0
 **Key watch:** UNH cut level $382.70 (−4.99% from $411.50 → 2.01 pct points of room). VIX still elevated. No new entries — VIX must settle below 22 before re-deploying. Next: Fri EOD snapshot at 3 PM ET.
+
+---
+
+## 2026-11-06 — EOD Snapshot (Day 141, Week 29 Day 5 — Friday)
+**Portfolio:** $105,490.74 | **Cash:** $86,141.62 (81.7%) | **Day P&L:** −$295.71 (−0.28%) | **Phase P&L:** +$5,490.74 (+5.49%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $394.88 | −0.21% | −$814.38 (−4.04%) | $367.50 (10% trail, HWM $408.33, GTC 4c159282) |
+
+**Notes:** Day 141 (Friday, Week 29 Day 5). LLY GTC trailing stop auto-executed at open (9:32 AM ET) at $1,347.76 — realized −$468.15 (−2.26%); stop protection worked as designed. UNH ended the day at $394.88, now −4.04% from $411.50 entry — still 3.14 pct points above manual −7% cut level ($382.70). No DOJ formal probe announced; thesis intact. Trailing stop $367.50 (10%, HWM $408.33, GTC 4c159282) active. Heading into the weekend with 81.7% cash and 1 open position. Week 29 final: 1/3 new trades (UNH open), 1 stop execution (LLY close). Phase P&L +5.49% vs $100k start, still above S&P benchmark. Next week: watch VIX normalization below 22 before deploying new capital; UNH cut level $382.70 hard floor.
+
+**Week 29 final trades:** 1/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+**Key watch (Mon Nov 9):** UNH cut level $382.70 (stop $367.50). VIX must settle <22 before new entries. 2 trade slots remain this week but carry forward — reset to 3/3 available Mon Nov 9.
