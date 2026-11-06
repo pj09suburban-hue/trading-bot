@@ -10038,3 +10038,59 @@ Buy UNH at open (~$413, 52 shares ≈ $21,476). All gate checks pass. Healthcare
 - **LLY:** No thesis-breaking news. Positive: LLY won ad changes vs. compounded tirzepatide competitors; retatrutide Phase 3 results (osteoarthritis + obesity) presented ACRO; XLV ETF net bought $330M on Nov 3 (all 60 holdings increased). Dividend $1.73/sh ex-Nov 13. HWM $1,453 (intraday new high). Risks flagged: 15% realized price decline in Q3, $2B nonrecurring revenue, compounded drug competitive friction. **Assessment: INTACT, hold.**
 - **UNH:** Q3 EPS $4.69 beat, margin recovery thesis intact. Negative watch: Sen. Warren breakup calls on completed $3.3B Amedisys deal + DOJ settlement adding antitrust scrutiny. −0.88% intraday reflects this regulatory overhang. **Assessment: INTACT but thesis-break trigger identified** — formal DOJ/FTC structural investigation → close position.
 - **UNH trailing stop placed:** GTC 10% trail order 4c159282 (stop $367.21, HWM $408.015). Deferred from market-open routine.
+
+## 2026-11-06 — Pre-Market Research (Day 141, Week 29 Day 5 — Jobs Report Day)
+
+### Account Snapshot
+- **Equity:** $105,072.22 | **Cash:** $65,925.22 (62.8%) | **Deployed:** $39,147 (37.3%)
+- **Phase P&L:** +$5,072.22 (+5.07% vs $100k start)
+- **Positions:** 2/6 (LLY + UNH) | **Week 29 trades:** 1/3 | **Daytrade count:** 0
+
+### CRITICAL: Position Alerts
+- **LLY STOP WILL TRIGGER AT OPEN:** Premarket price $1,344.10 is BELOW GTC trailing stop $1,351.29 (7% trail from HWM $1,453). GTC stop will execute when market opens.
+- **UNH AT -5.84%:** Premarket $387.46 vs entry $411.50. Cut level -7% = $382.70. Only $4.76 (1.16%) above forced cut. VIX 28 + continued regulatory overhang = high risk of hitting cut today.
+
+### Market Context
+- **S&P 500 futures:** +0.28% (DOW -0.89%, Nasdaq +1.46% — mixed; tech attempting rebound)
+- **VIX:** 28.18 close Nov 5 (spiked +70% in one day); intraday today ~26.08 (moderating but still highly elevated)
+- **WTI:** ~$91.60 | **Brent:** ~$99.79 — rebounded sharply; fresh Iran attacks denting peace-talk hopes
+- **Oct Jobs Report:** 8:30 AM ET release, consensus +65K (prior +29K, ADP +86K) — not yet released
+- **Nov 5 selloff context:** Worst day since April 2025 tariff shock. S&P -4.4%, Nasdaq -5.52%, Dow -3.44%. Triggered by Democrat midterm sweep → AI data-center regulatory fears (Texas data-center moratorium, Democrat data-cap proposals). $2.5T in US equity value wiped.
+
+### Position Thesis Check
+- **LLY:** Stop triggering at open. Decline driven by: (1) GLP-1 pricing pressure — realized prices fell 15% in Q3; (2) Novo Nordisk oral drug competition (Foundayo missing $217M estimate at $184M); (3) $2B non-recurring items in guidance raising durability questions; (4) broad market selloff. Healthcare 90D momentum still #1 (+18.66% YTD) — decline is market/sector selloff, not fundamental thesis break. Stop protection working as designed.
+- **UNH:** Premarket $387.46 (-5.84% from entry $411.50). Warren antitrust/breakup calls intensifying; utilization management pressure; margin recovery timeline pushed beyond 2027; 2027 Medicare Advantage uncertainty. No formal DOJ action yet (thesis-break trigger). BUT: deteriorating qualitative picture + market regime change. Monitoring for -7% cut at $382.70.
+
+### Sector Momentum (90D as of Nov 4)
+| Rank | Sector | 90D | YTD | Status |
+|---|---|---|---|---|
+| 1 | Healthcare | +18.66% | +19.35% | IN MOMENTUM (but volatile) |
+| 2 | Consumer Defensive | +7.01% | +18.50% | IN MOMENTUM — defensive rotation |
+| 3 | Energy | +4.42% | +38% | BANNED (2 consecutive failures) |
+| 4 | Consumer Cyclical | +2.88% | weak | MIXED |
+| 5 | Financial Services | +1.88% | +7.7% | IMPROVING |
+| — | Technology | negative | +17.5% | SELLOFF (AI trade unwind) |
+| — | Industrials | -2.71% | ~+13% | CAUTION |
+
+### Trade Ideas
+**None today — HOLD:**
+1. VIX 28 (highly elevated); entering positions into a correction-mode market violates risk discipline.
+2. LLY stop triggering → going to 1 position or fewer at open.
+3. Jobs Report binary event at 8:30 AM; wait for data + reaction to settle.
+4. Need 2+ sessions of stability before re-deploying capital.
+5. **Watch for Week 30 (Nov 9+):** Consumer Defensive names (sector #2 in momentum) for a potential defensive rotation trade if Jobs Report prints weak (rate-pivot hope) or market finds support. No specific setup documented yet.
+
+### Risk Factors
+1. **Oct Jobs Report 8:30 AM ET** — consensus +65K on improving ADP (+86K); a hot print (>100K) could spike yields further and pressure healthcare; a cold print could validate Fed pivot hope and boost defensive names
+2. **VIX 28** — market in fear regime; rapid moves likely; no new entry until VIX settles below 22
+3. **UNH regulatory risk escalating** — Warren political pressure + utilization headwinds; not a formal DOJ action yet but thesis degrading
+4. **Oil near $100 (Brent $99.79)** — Iran war escalation risk; macro uncertainty elevated
+5. **Post-election AI trade unwind ongoing** — Nasdaq in correction; contagion risk to other sectors
+
+### Decision: **HOLD**
+VIX 28 + post-major-selloff + Jobs Report binary event + LLY stop triggering = not the day to add positions. Letting defensive stops do their job. Re-evaluate Week 30 once market regime clarifies.
+
+**Rate-sensitive count:** 0/2 (LLY = uncorrelated, UNH = uncorrelated)
+**Week 29 trades:** 1/3 (2 slots remaining) | **Open positions:** 2/6 → likely 0–1 after open | **Daytrade count:** 0
+**Key watch (Mon Nov 9):** Jobs Report reaction + market follow-through. If VIX holds below 22 and 2 sessions of recovery confirmed, evaluate Consumer Defensive position (1 name, ~$20k). LLY / healthcare sector watch for re-entry after volatility clears.
+
