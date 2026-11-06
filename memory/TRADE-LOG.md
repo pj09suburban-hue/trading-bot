@@ -7254,3 +7254,33 @@ No action taken at midday → no Slack per notification rule.
 **⚠ UNH:** At ~-5.6% from entry $411.50 (premarket ~$387–388). Manual -7% cut level $382.70 is ~1.5% below; trailing stop $367.50 (10%, GTC 4c159282) backstop in place. Hold per midday scan.
 
 **Week 29 trades:** 1/3 | **Open positions:** 2/6 (LLY + UNH pre-open; likely 0–1 post-open) | **Daytrade count:** 0
+
+---
+
+## 2026-11-06 — LLY Closed (GTC Stop Executed at Open)
+
+| Ticker | Side | Shares | Entry | Exit | Realized P&L | Reason |
+|---|---|---|---|---|---|---|
+| LLY | SELL | 15 | $1,378.97 | $1,347.76 | −$468.15 (−2.26%) | GTC trailing stop $1,351.29 (7% trail from HWM $1,453) auto-executed at open — market opened below stop |
+
+**Stop order:** 65c4f74a | **Filled:** 2026-11-06 14:32 UTC (9:32 AM ET)
+**Context:** Premarket $1,344.10 was already below stop $1,351.29. Stop executed cleanly at open. Broad market selloff + GLP-1 pricing pressure + Nov 5 worst-day-since-April context. Not a thesis break — stop protection working as designed.
+
+---
+
+## 2026-11-06 — Midday Scan (Day 141, Week 29 Day 5)
+
+**Portfolio:** $105,293.27 | **Cash:** $86,141.62 (81.8%) | **Open positions:** 1/6 (UNH) | **Phase P&L:** +$5,293.27 (+5.29%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (GTC) | HWM | Action |
+|---|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $390.97 | −$1,005.97 (−4.99%) | $367.50 (10% trail, GTC 4c159282) | $408.33 | HOLD |
+
+**STEP 3 — Cut losers (≤−7%):** UNH −4.99%, cut level $382.70. Above threshold → HOLD.
+**STEP 4 — Stop tightening:** UNH −4.99%, nowhere near +15% threshold → no action.
+**STEP 5 — Thesis check (UNH):** Perplexity confirms NO new formal DOJ/FTC structural investigation announced today. Warren political pressure (Amedisys deal breakup calls) is ongoing but unchanged from prior days. Thesis-break trigger = formal DOJ structural probe → not triggered. Thesis INTACT per rules. HOLD.
+**STEP 6 — Intraday research:** UNH intraday ~−1.48% today; broad healthcare weakness. No new acute catalyst. No action warranted.
+**STEP 7 — Notification:** No action taken → no Slack (per midday notification rule).
+
+**Week 29 trades:** 1/3 | **Open positions:** 1/6 (UNH only) | **Daytrade count:** 0
+**Key watch:** UNH cut level $382.70 (−4.99% from $411.50 → 2.01 pct points of room). VIX still elevated. No new entries — VIX must settle below 22 before re-deploying. Next: Fri EOD snapshot at 3 PM ET.

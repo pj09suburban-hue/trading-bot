@@ -10094,3 +10094,8 @@ VIX 28 + post-major-selloff + Jobs Report binary event + LLY stop triggering = n
 **Week 29 trades:** 1/3 (2 slots remaining) | **Open positions:** 2/6 → likely 0–1 after open | **Daytrade count:** 0
 **Key watch (Mon Nov 9):** Jobs Report reaction + market follow-through. If VIX holds below 22 and 2 sessions of recovery confirmed, evaluate Consumer Defensive position (1 name, ~$20k). LLY / healthcare sector watch for re-entry after volatility clears.
 
+
+### Afternoon Addendum — Midday Scan (16:12 UTC, Nov 6)
+- **LLY:** GTC stop $1,351.29 auto-executed at 9:32 AM ET. Fill $1,347.76. Realized −$468.15 (−2.26%). Position closed. No re-entry today — VIX 28, no fresh setup.
+- **UNH:** −4.99% from entry $411.50 (current $390.97). Perplexity: no new formal DOJ/FTC investigation announced today. Warren breakup calls = political noise, unchanged. Thesis-break trigger NOT met. HOLD. Cut level $382.70 is $8.27 (2.1%) below current. Stop $367.50 backstop active.
+- **Market context:** VIX ~26 (moderating from 28 yesterday). Jobs Report +65K in line; no major rate reaction. Healthcare sector consolidating. No new entries today — wait for VIX < 22 and 2 sessions of stability.
