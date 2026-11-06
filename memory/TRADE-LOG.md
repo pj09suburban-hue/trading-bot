@@ -7243,3 +7243,14 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 29 trades:** 1/3 | **Open positions:** 2/6 (LLY + UNH) | **Daytrade count:** 0
 **Key watch (Fri Nov 6 — Jobs Report):** Strong jobs → rate-sensitive names could sell further; weak jobs → Fed pivot hope → healthcare rotation. UNH cut level $382.70 (stop $367.50). LLY holds well above stop. No new trades unless a strong post-jobs setup emerges and position/week limits allow.
+
+## 2026-11-06 — Market-Open (Day 141, Week 29 Day 5 — Jobs Report Day)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-11-06 | — | HOLD | — | — | — | VIX 28 (fear regime); Oct Jobs Report 8:30 AM ET binary; pre-market decision: HOLD | — | — |
+
+**⚠ LLY:** GTC trailing stop (order 65c4f74a, $1,351.29, 7% trail from HWM $1,453) triggers at open — premarket ~$1,344, below stop. Auto-exit, no manual intervention. Expected realized loss from entry $1,378.97.
+**⚠ UNH:** At ~-5.6% from entry $411.50 (premarket ~$387–388). Manual -7% cut level $382.70 is ~1.5% below; trailing stop $367.50 (10%, GTC 4c159282) backstop in place. Hold per midday scan.
+
+**Week 29 trades:** 1/3 | **Open positions:** 2/6 (LLY + UNH pre-open; likely 0–1 post-open) | **Daytrade count:** 0
