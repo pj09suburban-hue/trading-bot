@@ -1818,3 +1818,71 @@ Template for each entry:
 
 ---
 
+
+---
+
+## Week ending 2026-11-06
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $108,312.54 |
+| Ending portfolio | $105,490.74 |
+| Week return | −$2,821.80 (−2.60%) |
+| S&P 500 week | ~−2.63% (7,580.07 Oct 30 → ~7,381 est Nov 6; Thu −4.36% / Fri +0.37% recovery) |
+| Bot vs S&P | +0.03% |
+| Phase return | +$5,490.74 (+5.49% from $100k baseline) |
+| Phase bot vs S&P | +2.48% (bot +5.49% vs S&P +3.01% from Apr 24 start 7,165.08) |
+| Trades | 1 new (UNH Nov 5) + 2 closed (LMT Nov 4, LLY Nov 6) — W:1 / L:1 / open:1 |
+| Win rate | 50% this week (1/2); 29.2% all-time (7/24 closed) |
+| Best trade | LMT +5.21% (+$1,091.92 realized, 14-day hold) |
+| Worst trade | LLY −2.26% (−$468.15 realized, 8-day hold) |
+| Profit factor | 1.37 all-time ($23,410 winners / $17,062 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| LMT | $582.639 | $612.97 | +$1,091.92 (+5.21%) | 14-day hold (Oct 22→Nov 4); 7% trailing stop GTC a03820ce fired Nov 4 open; post-election Nasdaq correction spread to defense; HWM $657.00 → stop $611.01 → fill $612.97 (positive slippage) |
+| LLY | $1,378.97 | $1,347.76 | −$468.15 (−2.26%) | 8-day hold (Oct 29→Nov 6); 7% trailing stop GTC 65c4f74a fired at open; premarket $1,344 already below stop $1,351.29; Oct Jobs Report + GLP-1 pricing pressure + broad healthcare selloff; Healthcare fail #1 |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| UNH | $411.50 | $394.66 | −$825.16 (−4.04%) | $367.50 (10% trail, HWM $408.33, GTC 4c159282) ⚠️ −7% cut $382.70 |
+
+### What Worked
+- LMT trailing stop fired cleanly Nov 4 at $612.97 (+5.21%) — no override; Industrials/Aerospace sector now 1 win (this phase) after Oct 22 GE stop-out; consecutive-fail counter reset
+- LLY trailing stop honored without intervention: premarket gap below stop $1,351.29 auto-executed at open, limiting loss to −2.26% vs a potential −7% hard cut; stop protection as designed
+- Election Day hold (Nov 3): correctly maintained all positions through the binary event; no panic-driven pre-election exit
+- UNH thesis check (Nov 5 midday): confirmed no formal DOJ structural investigation — thesis intact per rules; did not panic-cut at −4.99% intraday when rules required HOLD
+- VIX 28 discipline on Jobs Report day (Nov 6): correctly placed zero new entries in a fear regime; preserved remaining trade slots
+
+### What Didn't Work
+- Portfolio −2.60% driven by tech/AI correction spreading into healthcare (LLY −2.27% session, UNH −2.79% session); broad risk-off correlation erased the defense-sector buffer
+- LMT truncated at +5.21% — Nasdaq correction on Nov 4 (post-election sentiment reversal) fired the stop before LMT could develop toward the +15%/+20% tighten thresholds; a 10-day hold that could have matured to a +15% position was cut by macro contagion
+- UNH entry poorly timed (Nov 5): entered one session before a −3.44% Dow / VIX spike day; no hindsight rule violation but entry timing into elevated VIX was suboptimal
+- Deployment 18.3% at week end ($19,338 UNH / $105,491) — 20th+ consecutive week below 75–85% target; planned 2–3 new positions this week never materialized beyond UNH
+- Healthcare sector at critical risk: LLY is fail #1; UNH open and −4.04%; one more Healthcare stop-out triggers Rule 10 2-consecutive ban → cannot enter LLY/UNH/JNJ/ABBV for the rest of the phase
+
+### Key Lessons
+- Nasdaq/tech corrections propagate into healthcare on a 1–3 session lag: Oct 30 AMZN/INTC selloff drove healthcare rotation (positive), but Nov 4–5 Nasdaq technical correction (−5.52% from ATH) reversed the flow; defense names also caught the contagion; factor diversification is not full protection in extreme risk-off events
+- LMT at +5.21% highlights a persistent pattern: positions entered in Week 27 and left to mature are truncated by macro events before reaching the +15%/+20% tighten thresholds; this is the third consecutive defense/industrials name to exit below +10% realized (GE −3.62%, LMT −, LMT +5.21%); only GE (28.42%), MRVL (50.77%), RTX (20.36%) have cleared the full stop-progression arc — patience horizon for defense names is 60–90 days, not 14
+- Healthcare sector tracking: LLY is 1st consecutive fail; UNH open and struggling; if UNH stops out, Rule 10 triggers healthcare ban for remainder of phase; must monitor UNH thesis integrity daily — formal DOJ structural probe is the only thesis-break trigger, not political pressure from Sen. Warren alone
+- Jobs Report VIX spike (28): Nov 6 inaction was correct; deploying capital into a 28-VIX environment risks immediate stop-out on the entry session; VIX must normalize below 22 before new entries resume; this is now the second VIX-driven inaction signal in 10 weeks (prior: Aug 25 Jackson Hole)
+- Phase alpha at +2.48% is structurally fragile: entirely a function of holding cash in down weeks; any sustained S&P rally at 18% deployment will immediately compress it; the deployment problem has persisted 20+ weeks and cannot be fixed by correct gate decisions alone
+
+### Adjustments for Next Week
+- **UNH:** −7% hard cut at $382.70 (stop $367.50, 10% trail, GTC 4c159282 active); current $394.66 → 3.03% buffer above cut floor; if Monday open ≤$382.70 → close immediately, no waiting for midday; if UNH stops out → Healthcare fail #2 → Rule 10 ban fires → NO new Healthcare entries for remainder of phase; verify GTC 4c159282 active Monday pre-market
+- **VIX gate:** No new entries until VIX settles below 22 on a closing basis; Fri Nov 6 VIX ~28 — likely 2–3 sessions of normalization needed; monitor pre-market Monday
+- **Deployment (once VIX clears):** Priority: 2–3 rate-uncorrelated contracted-backlog names; GD (defense, $136.5B backlog, BofA PT $415, non-rate-sensitive) and NOC (defense, $95.6B backlog, B-21/GBSD programs) are primary candidates; both passed prior research gates; have orders ready at Monday pre-market for immediate deployment if VIX ≤22
+- **If UNH stops out before VIX clears:** Accept 100% cash position temporarily rather than deploy into VIX >22; scout GD/NOC for first entry post-VIX normalization; do not force entries into elevated fear regime
+- **Sector tracking:** Energy = banned; Healthcare = 1 fail (LLY; UNH open); AI Chips = 1 fail (MU); Industrials/Aerospace = 0 fails (LMT win resets); LHX = blacklisted
+- **Rate-factor Rule 13:** UNH = rate-uncorrelated (1 slot occupied); GD/NOC = rate-uncorrelated; next entry can use either slot if UNH holds; if UNH exits → both slots free; no rate-sensitive entries until 10Y retreats below 4.9%
+
+### Overall Grade: C+
+*Week 29 — portfolio −2.60% vs S&P ~−2.63% (+0.03% marginal outperformance). Two mechanical stop exits executed without override: LMT (+5.21% realized, 14-day hold) and LLY (−2.26% realized, 8-day hold, stop-gap execution). UNH entry (Nov 5) disciplined but timed into the Oct Jobs Report risk-off spike. VIX 28 correctly suppressed all new entries on Jobs Report day. Phase alpha +2.48% vs benchmark maintained. C+ reflects rule-compliant execution and marginal benchmark outperformance in a volatile week, offset by: 20th+ consecutive week below deployment target (18.3%), LMT truncated below its full potential at only +5.21%, UNH entering a critical healthcare sector tracking risk zone (1 fail + 1 struggling open = one stop-out away from a sector ban), and no meaningful alpha generation beyond cash preservation in a down market.*
+
+---
