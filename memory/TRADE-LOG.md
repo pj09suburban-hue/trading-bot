@@ -7330,3 +7330,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 **Key watch:** UNH cut level $382.70 (−4.095% → 2.9 pct points of room). **Claritev DOJ CIDs = escalation threshold crossed; next escalation (formal complaint or structural probe) = immediate close.** CPI binary Tue 8:30 AM ET. VIX must settle <22 before new entries.
+
+---
+
+## 2026-11-09 — EOD Snapshot (Day 142, Week 30 Day 1 — Monday)
+**Portfolio:** $105,629.96 | **Cash:** $86,141.19 (81.5%) | **Day P&L:** +$175.42 (+0.17%) | **Phase P&L:** +$5,629.96 (+5.63%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $397.73 | +0.91% | −$674.73 (−3.35%) | $367.50 (10% trail, HWM $408.33, GTC 4c159282) |
+
+**Notes:** Day 142 (Monday, Week 30 Day 1). No new trades — VIX 24.42 above 22 gate blocked new entries; CPI binary Tue 8:30 AM ET also warranted caution. UNH recovered +0.91% intraday to $397.73, trimming unrealized loss to −$674.73 (−3.35%); still 3.65 pct points above manual −7% cut level ($382.70). Midday scan flagged DOJ Claritev CID expansion (pre-enforcement, not formal complaint) — thesis intact by rule, but escalation threshold crossed. GTC trailing stop (4c159282) active at $367.50 (10% trail, HWM $408.33). Portfolio recovered from Friday close, day P&L +$175.42 (+0.17%). Phase P&L +5.63% vs $100k start. Week 30 trades: 0/3 (3 slots available). Tomorrow: Oct CPI 8:30 AM ET — if benign (≤0.2% core MoM) + VIX <22 → evaluate WMT or PG entry; if hot → hold cash.
+
+**Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+**Key watch (Tue Nov 10):** Oct CPI 8:30 AM ET binary. UNH cut level $382.70, stop $367.50. If Claritev DOJ escalates to formal complaint → immediate close regardless of P&L.
