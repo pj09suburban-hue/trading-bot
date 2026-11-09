@@ -10099,3 +10099,79 @@ VIX 28 + post-major-selloff + Jobs Report binary event + LLY stop triggering = n
 - **LLY:** GTC stop $1,351.29 auto-executed at 9:32 AM ET. Fill $1,347.76. Realized −$468.15 (−2.26%). Position closed. No re-entry today — VIX 28, no fresh setup.
 - **UNH:** −4.99% from entry $411.50 (current $390.97). Perplexity: no new formal DOJ/FTC investigation announced today. Warren breakup calls = political noise, unchanged. Thesis-break trigger NOT met. HOLD. Cut level $382.70 is $8.27 (2.1%) below current. Stop $367.50 backstop active.
 - **Market context:** VIX ~26 (moderating from 28 yesterday). Jobs Report +65K in line; no major rate reaction. Healthcare sector consolidating. No new entries today — wait for VIX < 22 and 2 sessions of stability.
+
+---
+
+## 2026-11-09 — Pre-Market Research (Day 142, Week 30 Day 1)
+
+### Account Snapshot
+- **Equity:** $105,574.59 | **Cash:** $86,141.19 (81.6%) | **Deployed:** $19,433.40 (18.4%)
+- **Phase P&L:** +$5,574.59 (+5.57% vs $100k start)
+- **Positions:** 1/6 (UNH only) | **Week 30 trades:** 0/3 | **Daytrade count:** 0
+
+### Position Status
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (GTC) | HWM | Status |
+|---|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $396.60 | −$730.10 (−3.62%) | $367.50 (10% trail, GTC 4c159282) | $408.33 | HOLD — no thesis break |
+
+UNH +0.62% today in early trading (last $396.60 vs prior close $394.15). Manual cut level: $382.70 (−7%). Stop $367.50. DOJ/regulatory: no new formal enforcement action — Warren political pressure (Patients Before Monopolies Act, structural breakup bills) ongoing but unchanged; thesis-break trigger NOT met.
+
+### Market Context
+- **S&P 500 futures:** +0.3–0.7% (bargain hunting; Asia recovering; futures showing 7,412–7,453 range)
+- **VIX:** 24.42 (prev close 25.64 → −4.76% today) — declining but STILL ABOVE 22 re-deploy threshold
+- **WTI:** $90.21 (−0.68%) | **Brent:** $97.12 (−1.22%) — oil pulling back as Iran peace-talk hopes partly revive
+- **10Y Yield:** elevated — Oct Jobs 165K (beat +65K consensus), unemployment 4.1%, wages +0.4% MoM → Fed hawkish risk remains
+- **Nvidia CEO probe:** Board opened independent investigation on Jensen Huang → NVDA −4.5% premarket; AI trade overhang remains
+
+### Economic Calendar This Week
+| Date | Event | Impact |
+|---|---|---|
+| Mon Nov 9 | No major releases; Fed Bowman speaks | Low |
+| **Tue Nov 10** | **Oct CPI 8:30 AM ET** | **HIGH — market-moving** |
+| Thu Nov 12 | Initial jobless claims | Medium |
+| Fri Nov 13 | Oct PPI 8:30 AM ET | High |
+
+### Earnings Today (BMO)
+CEG, KKR, NRG, FERG — no direct overlap with positions or watch list.
+
+### Sector Momentum (YTD as of Nov 6)
+| Sector | YTD | Status |
+|---|---|---|
+| Energy | +40.6% | **BANNED** (2 consecutive failures) |
+| Healthcare | +20.9% | IN MOMENTUM (UNH held) |
+| Consumer Staples | +18.2% | **IN MOMENTUM — defensive rotation candidate** |
+| Materials | +13.1% | Watch |
+| Real Estate | +10.3% | Watch |
+| Technology | −9.5% | AVOID (AI/regulatory selloff) |
+| Communication Services | −10.2% | AVOID |
+| Industrials | −6.4% | AVOID |
+
+### Trade Ideas
+**Conditional HOLD — wait for post-CPI clarity (Tue 8:30 AM)**
+
+1. **WMT (Walmart) — Consumer Staples — WATCHLIST**
+   - Catalyst: defensive sector rotation (#2 YTD +18.2%), consumer trade-down trend, strong execution vs peers
+   - Entry: post-CPI clarity if VIX drops below 22; buy limit near prior support
+   - Stop: 7–10% below entry (not post-earnings — most recent earnings Oct 23, well outside 3-day window)
+   - Target: minimum 2:1 R:R; ~20k position size (~$20k = ~20% equity)
+   - Rate-sensitive classification: NO (consumer staples = uncorrelated to rates)
+   - Gate checks: 1 open position after fill = 2/6 ✓; trades 1/3 ✓; size ≤ 20% equity ✓
+   - BLOCKER TODAY: VIX 24.42 (must be <22); CPI binary event tomorrow
+
+2. **PG (Procter & Gamble) — Consumer Staples — WATCHLIST**
+   - Same sector thesis as WMT; pricing power; Q3 beat Oct 18
+   - Same blockers as WMT; evaluate post-CPI
+
+### Risk Factors
+1. **Oct CPI Tue 8:30 AM ET** — hot print (>0.3% core MoM) could spike yields further and resume healthcare/consumer selloff; benign print (<0.2%) = Fed pivot hope and re-deployment trigger
+2. **VIX still 24.42** — above 22 re-deploy threshold; entering now violates rules
+3. **NVDA CEO probe** — AI trade overhang; contagion risk if sentiment deteriorates
+4. **UNH regulatory creep** — Warren legislation gaining momentum post-Democrat midterms; not formal DOJ yet but risk of escalation
+5. **Oil volatile near $90–97** — Iran peace-talk dynamics unpredictable; macro uncertainty elevated
+
+### Decision: **HOLD**
+VIX 24.42 (above 22 threshold) + CPI binary event tomorrow + Jobs beat reviving Fed hawkish risk = wrong time to add positions. UNH thesis intact; trailing stop active. Full re-evaluation post-CPI Tuesday. Consumer Staples (WMT/PG) on active watchlist for first new entry of Week 30 if macro cooperates.
+
+**Rate-sensitive count:** 0/2 (UNH = uncorrelated)
+**Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+**Key watch (Tue Nov 10):** Oct CPI 8:30 AM ET. Benign (≤0.2% core MoM) → evaluate WMT or PG entry at market open if VIX <22. Hot (≥0.3%) → hold cash, re-evaluate.
