@@ -10175,3 +10175,20 @@ VIX 24.42 (above 22 threshold) + CPI binary event tomorrow + Jobs beat reviving 
 **Rate-sensitive count:** 0/2 (UNH = uncorrelated)
 **Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 **Key watch (Tue Nov 10):** Oct CPI 8:30 AM ET. Benign (≤0.2% core MoM) → evaluate WMT or PG entry at market open if VIX <22. Hot (≥0.3%) → hold cash, re-evaluate.
+
+### Afternoon Addendum — 2026-11-09 (Midday Scan)
+
+**UNH / Claritev — DOJ CID Escalation (NEW today)**
+
+DOJ has expanded its existing antitrust investigation to include UnitedHealth's healthcare technology subsidiary **Claritev**, issuing civil investigative demands alleging coordination with insurers to suppress out-of-network reimbursement rates. Claritev cooperating. Source: SimplyWallSt/Bloomberg (Nov 8–9, 2026).
+
+**Significance escalation ladder:**
+1. ~~Warren political pressure~~ ✓ (ongoing since Oct)
+2. ~~Texas AG civil investigative demands~~ ✓ (Oct 2026)
+3. **→ DOJ antitrust CIDs on Claritev** ✓ (Nov 8–9, NEW — current level)
+4. ☐ DOJ formal structural complaint/structural investigation — **THESIS-BREAK TRIGGER**
+5. ☐ Divestiture order / consent decree on corporate structure
+
+**Position impact:** Still at level 3. Thesis break requires reaching level 4. CIDs are discovery tools, not enforcement. HOLD per rules, but risk profile elevated. Next escalation = close immediately regardless of P&L.
+
+**Updated risk assessment:** Regulatory creep is accelerating. If CPI (Tue) is hot AND DOJ escalates to formal complaint this week = double-whammy scenario; consider whether thesis-break trigger could fire before next scan.

@@ -7311,3 +7311,22 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 **Key watch (Tue Nov 10):** Oct CPI 8:30 AM ET. Benign (≤0.2% core MoM) → evaluate WMT or PG entry if VIX <22. Hot (≥0.3%) → hold cash, re-evaluate.
+
+---
+
+## 2026-11-09 — Midday Scan (Day 142, Week 30 Day 1)
+
+**Portfolio:** ~$105,578 est. | **Cash:** $86,141 (81.6%) | **Open positions:** 1/6 (UNH) | **Phase P&L:** ~+5.3%
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (GTC) | HWM | Action |
+|---|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $394.65 | −$825.65 (−4.095%) | $367.50 (10% trail, GTC 4c159282) | $408.33 | HOLD |
+
+**STEP 3 — Cut losers (≤−7%):** UNH −4.095%, cut level $382.70. Above threshold → HOLD.
+**STEP 4 — Stop tightening:** UNH −4.095%, nowhere near +15% threshold → no action.
+**STEP 5 — Thesis check (UNH):** ⚠ **NEW:** DOJ broadened antitrust inquiry to Claritev (UNH's healthcare tech subsidiary) via civil investigative demands (CIDs) — alleged pricing coordination with insurers on out-of-network reimbursement rates. Claritev cooperating. Per rules: thesis-break trigger = *formal DOJ structural investigation/complaint*. CIDs are pre-enforcement/discovery tools — not a formal complaint, structural probe, or divestiture order. **Thesis INTACT by rule.** This is meaningful escalation (tracking closely); if DOJ files a formal complaint or opens a structural investigation, that triggers immediate close regardless of P&L. HOLD.
+**STEP 6 — Intraday research (Perplexity):** Claritev CID expansion documented (see RESEARCH-LOG Nov 9 PM addendum). No other acute thesis-breaking catalysts. UNH intraday +0.127% — slight recovery but still deeply negative on the position. No action warranted.
+**STEP 7 — Notification:** No action taken → no Slack (per midday notification rule).
+
+**Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+**Key watch:** UNH cut level $382.70 (−4.095% → 2.9 pct points of room). **Claritev DOJ CIDs = escalation threshold crossed; next escalation (formal complaint or structural probe) = immediate close.** CPI binary Tue 8:30 AM ET. VIX must settle <22 before new entries.
