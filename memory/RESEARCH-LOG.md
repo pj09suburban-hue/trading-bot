@@ -10267,3 +10267,25 @@ VIX gate cleared (20.05 < 22) for the first time this week. CPI at 8:30 AM ET is
 **Rate-sensitive count after potential WMT entry:** 0/2 (WMT = uncorrelated; UNH = uncorrelated) ✓
 **Week 30 trades available:** 3/3
 
+
+---
+
+## 2026-11-10 — Afternoon Addendum (Day 143, Midday Scan)
+
+### Oct CPI Confirmed (8:30 AM ET)
+- **Headline CPI MoM: +0.4%** (above +0.3% consensus — HOT)
+- **Core CPI MoM: +0.3%** (above +0.2% consensus — HOT)
+- YoY rates withheld (Oct 2025 data gap from government shutdown)
+- **Impact:** Dec Fed hike odds increase. Consumer/healthcare headwind. WMT gate fails — CPI core ≥0.3% threshold. No new entries today.
+
+### UNH Thesis Update
+- **Amedisys settlement finalized:** Maryland federal judge approved DOJ settlement (divestiture of 164 locations across 19 states). Pre-existing case, resolution not escalation. No impact on thesis.
+- **TX AG probe (new):** Ken Paxton opened probe over alleged nursing-home incentives to delay hospitalizations, care delays, and coverage denials. Non-DOJ, not a formal structural investigation. Escalation ladder unchanged at Level 3 (DOJ Claritev CIDs). **Thesis INTACT.**
+- **DOJ Claritev:** No formal complaint or structural probe filed Nov 10. Escalation ladder remains Level 3.
+- **UNH intraday:** +0.32% to $398.90 (mild recovery from $397.73 Mon close). HWM $408.33 not reached; stop $367.50 (10% trail, GTC 4c159282) active.
+
+### Market Summary
+- VIX ~20.05–20.11 (below 22 gate — cleared, but CPI gate fails for WMT)
+- S&P 500: reaction to hot CPI — rate-sensitive names under pressure
+- WMT: not entered (CPI core +0.3% > 0.2% gate); revisit on Dec 10 CPI
+
