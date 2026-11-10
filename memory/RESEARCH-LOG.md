@@ -10192,3 +10192,78 @@ DOJ has expanded its existing antitrust investigation to include UnitedHealth's 
 **Position impact:** Still at level 3. Thesis break requires reaching level 4. CIDs are discovery tools, not enforcement. HOLD per rules, but risk profile elevated. Next escalation = close immediately regardless of P&L.
 
 **Updated risk assessment:** Regulatory creep is accelerating. If CPI (Tue) is hot AND DOJ escalates to formal complaint this week = double-whammy scenario; consider whether thesis-break trigger could fire before next scan.
+
+---
+
+## 2026-11-10 — Pre-Market Research (Day 143, Week 30 Day 2)
+
+### Account Snapshot
+- **Equity:** $105,657.89 | **Cash:** $86,141.19 (81.5%) | **Buying power:** $399,211.52
+- **Positions:** 1/6 (UNH only) | **Open orders:** 1 GTC trailing stop (4c159282)
+- **Week 30 trades:** 0/3 | **Daytrade count:** 0
+- **Phase P&L:** +5.66% (+$5,657.89 vs $100k start)
+
+### Open Position — UNH
+- 49 shares @ $411.50 entry | Close Nov 9: $397.62 (−3.35% unrealized, −$674.73)
+- GTC trailing stop 4c159282: $367.50 (10% trail, HWM $408.33)
+- Manual cut level: $382.70 (−7% from entry)
+- **UNH news today:** No new DOJ escalation; no Claritev formal complaint. UNH raised FY26 adj. EPS outlook to ≥$20.50 (Q3 beat by $0.55). New board member (Madeline Bell, former CHOP CEO). **Thesis INTACT.** Escalation ladder still at Level 3 (DOJ CIDs on Claritev — pre-enforcement). UNH premarket +0.0% (flat, no catalyst today).
+
+### Market Context
+| Factor | Level | Trend |
+|---|---|---|
+| WTI crude | ~$85.27/bbl | ↓ Falling (Iran peace signals from Trump) |
+| Brent crude | ~$91.04/bbl | ↓ Falling (Brent briefly below $90) |
+| S&P 500 futures (ES) | 7,592.50 (+0.24%) | ↑ Mildly positive |
+| Dow futures (YM) | 52,780 (+0.54%) | ↑ Positive |
+| Nasdaq 100 futures (NQ) | 28,013 (−0.01%) | → Flat (NVDA CEO probe overhang) |
+| **VIX** | **20.05 (+0.65%)** | **↓ BROKE BELOW 22 GATE** |
+
+**VIX alert:** Closed Mon Nov 9 at 19.92 (−22.3% from prior close of 25.64), trading 20.05 Tue premarket. The 22-entry gate is now CLEARED for first time in days. This was the primary blocker.
+
+### Economic Calendar
+- **Oct CPI (8:30 AM ET TODAY):** Consensus: headline +0.3% MoM, core +0.2% MoM. YoY unavailable (Oct 2025 shutdown data gap). ~84-85% implied probability of Dec Fed hike already priced in.
+  - **Benign (core ≤0.2%)** → confirms disinflation trend, reduces Dec hike probability, equities/consumer staples positive
+  - **Hot (core ≥0.3%)** → reinforces Dec hike, yield spike, consumer/healthcare selloff risk
+
+### Trade Ideas
+
+**1. WMT (Walmart) — Consumer Staples — PRIMARY WATCHLIST (CONDITIONAL)**
+- **Catalyst:** VIX gate CLEARED; Consumer Staples #3 YTD (+17-19%); consumer trade-down secular trend; WMT Q3 (Oct 23) beat by ~$0.12 EPS, 18 days ago (not in 3-day post-earnings window → 10% trailing stop applies normally)
+- **Condition:** CPI core ≤0.2% MoM AND VIX stays <22 at market open
+- **Entry:** market open (~$125.60)
+- **Shares:** ~165 (165 × $125.60 = $20,724 = 19.6% equity ✓)
+- **Stop:** 10% trailing (initial ~$113.04)
+- **Target:** minimum 2:1 R:R; risk $12.56/share; target ~$150.70 (+20%)
+- **Rate-sensitive:** NO (consumer staples = uncorrelated)
+- **Gate checks:** 2 positions total ✓ | 1/3 trades ✓ | ≤20% equity ✓ | <available cash ✓ | PDT 0 ✓
+- **Caution:** XLP (State Street) sold WMT $44.1M (Nov 5) + $16.3M (Nov 6) — institutional rebalancing headwind; monitor for continued ETF outflows; not a thesis-breaker but reduces conviction
+
+**2. PG (Procter & Gamble) — Consumer Staples — SECONDARY WATCHLIST (CONDITIONAL)**
+- Same sector thesis; pricing power; Q3 (Oct 18) beat
+- Entry: ~$168 | Rate-sensitive: NO
+- **Same conditions as WMT; prefer WMT given larger market cap and clearer volume; PG only if WMT setup breaks**
+- Caution: XLP sold PG $30.1M (Nov 5) + $11.2M (Nov 6) — same headwind
+
+### Risk Factors
+1. **Oct CPI (8:30 AM ET):** Hot print (≥0.3% core) → Dec hike risk → yield spike → consumer selloff; this is binary and market-moving
+2. **NVDA CEO probe:** AI tech overhang dragging Nasdaq; contagion risk if sentiment deteriorates; not our sector but macro dampener
+3. **UNH regulatory creep (DOJ Claritev):** Still at Level 3; no new escalation today; next escalation = immediate close
+4. **XLP institutional selling (WMT/PG):** 2 consecutive days of ETF selling in Consumer Staples — reduces momentum conviction for WMT/PG entry
+5. **Iran deal collapse risk:** Oil bounce would reverse if Trump deal falls through; oil slide currently boosting equities
+
+### Sector Momentum (YTD as of Nov 9)
+| Sector | YTD | Status |
+|---|---|---|
+| Energy | +41.3% | **BANNED** (2 consecutive failures) |
+| Healthcare | +21.8–23.2% | IN MOMENTUM (UNH held) |
+| Consumer Staples | +17.1–19.3% | **IN MOMENTUM — watchlist** |
+| Technology | Negative | AVOID (AI selloff) |
+| Industrials | Negative | AVOID |
+
+### Decision: **TRADE-CONDITIONAL**
+VIX gate cleared (20.05 < 22) for the first time this week. CPI at 8:30 AM ET is binary — a benign print (core ≤0.2% MoM) unlocks WMT entry at market open; a hot print (≥0.3%) keeps us in HOLD. Market-open routine must check actual CPI result before executing.
+
+**Rate-sensitive count after potential WMT entry:** 0/2 (WMT = uncorrelated; UNH = uncorrelated) ✓
+**Week 30 trades available:** 3/3
+
