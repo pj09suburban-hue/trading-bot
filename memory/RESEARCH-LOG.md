@@ -10289,3 +10289,73 @@ VIX gate cleared (20.05 < 22) for the first time this week. CPI at 8:30 AM ET is
 - S&P 500: reaction to hot CPI — rate-sensitive names under pressure
 - WMT: not entered (CPI core +0.3% > 0.2% gate); revisit on Dec 10 CPI
 
+
+---
+
+## 2026-11-11 — Pre-Market Research (Day 144, Week 30 Day 3 — Wednesday, Veterans Day)
+
+### Account Snapshot
+- **Equity:** $105,888.68 | **Cash:** $86,141.19 (81.4%) | **Deployed:** 18.6% (target: 75–85%)
+- **Open positions:** 1/6 (UNH) | **Week 30 trades:** 0/3 | **Daytrade count:** 0
+
+| Ticker | Shares | Entry | Premarket | Unrealized P&L | Stop (GTC) | HWM |
+|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $402.17 (−0.73%) | ~−$460 (−2.08%) | $367.50 (10% trail, GTC 4c159282) | $408.33 |
+
+### Market Context
+- **S&P 500 futures:** +0.78% (7,602.75) — recovering from Tuesday hot-CPI selloff via CoreWeave AI beat
+- **VIX:** 18.60 (−4.42% from 19.46 close) — **CLEARED** (< 22 gate ✓)
+- **WTI crude:** $86.59 (+0.64%) | **Brent:** $92.40 (+0.99%) — rising; Strait of Hormuz naval mine incident cited
+- **10Y Treasury:** Elevated (5.02% auction clearing rate Nov 10) — hawkish backdrop
+- **Economic calendar (today):** Light — Veterans Day; no BLS data releases. MBA mortgage data 12pm ET. Fed Vice Chair Jefferson speaks 7pm ET (productivity topic; not expected to be market-moving).
+- **Key macro overhang:** Hot Oct CPI (+0.4% headline, +0.3% core MoM vs 0.2% consensus — Tue Nov 10) keeps rate-hike path elevated. Fed may warrant ≥2 more 25bp hikes per market commentary.
+- **Today's major earnings BMO:** No S&P 500 large-caps before open. CGI (GIB), Rumble (RUM), Flex LNG (FLNG) — none relevant to our sectors.
+- **Big catalyst:** CoreWeave (CRWV) beat Q3 revenue, raised FY guidance (+10–17% premarket) — AI infra spending optimism recovering; Nasdaq 100 futures +1.78%.
+
+### UNH Thesis Check
+- **DOJ Claritev escalation ladder: Level 3** (CIDs only, pre-enforcement) — **UNCHANGED**. No formal complaint or structural probe filed Nov 11.
+- **New board member:** Madeline Bell (former CHOP CEO) joined Nov 9 — positive governance signal.
+- **Dividend announced:** $2.32/share, ex-date Dec 7, 2026 — minor positive; confirms company confidence.
+- **Senator Warren:** Criticized DOJ Amedisys approval (Nov 2 article) — political noise; not a new DOJ structural action. Not a thesis-break trigger.
+- **TX AG probe (Nov 9):** Level unchanged (watch-only, non-DOJ). No escalation.
+- **Thesis:** INTACT. UNH cut level $382.70 (buffer: $403 − $382.70 = 5.0 pct pts). Stop $367.50 GTC active.
+
+### Sector Momentum (YTD as of Nov 10)
+| Sector | YTD | Status |
+|---|---|---|
+| Energy | +41.9% | **BANNED** (2 consecutive failures) |
+| Healthcare | +23.5% | **IN MOMENTUM** (UNH held) |
+| Consumer Staples | +19.4% | **IN MOMENTUM — watchlist** |
+| Materials | +15.0% | IN MOMENTUM — no current setup |
+| Technology | +13.8% | CAUTION (AI overhang; Communication Services −7.6%) |
+
+### Trade Ideas
+
+**1. WMT (Walmart) — Consumer Staples — WATCHLIST (NOT today)**
+- **Positive signals:** XLP reversed from selling to buying $46.9M WMT on Nov 9 (after $44.1M sell Nov 5 and $16.3M sell Nov 6) — institutional flow turned positive. VIX cleared (18.60 < 22) ✓. Sector #3 YTD.
+- **Gate failures today:** (a) Hot CPI core +0.3% MoM invalidates pre-market plan condition (required ≤0.2%); macro now hawkish → PE compression risk on WMT 45-46x fwd P/E. (b) WMT earnings Nov 19 (8 days) — entering now creates pre-earnings binary risk within 1 week. (c) No fresh today-specific catalyst beyond ongoing sector momentum.
+- **Decision:** SKIP today. Revisit: (1) Post-Nov 19 earnings print if WMT beats and raises guidance → clean entry with fresh catalyst; or (2) Dec 10 CPI: benign print + VIX <22 → unlock WMT entry.
+- **Size if entered:** ~165 shares × $125 = $20,625 (19.5% equity) ✓
+
+**2. PG (Procter & Gamble) — Consumer Staples — WATCHLIST (secondary)**
+- Same conditions as WMT. Same gate failures. Same timing risk (earnings Oct 18, completed; next not until ~Jan 2027). No fresh catalyst today.
+- **Decision:** SKIP. Prefer WMT when conditions align.
+
+**3. No Materials/Tech ideas today**
+- Materials: No specific catalyst. Rate headwind post-CPI dampens macro demand thesis.
+- Technology: CoreWeave beat helps sentiment but sector volatile; not in strategy wheelhouse currently.
+
+### Risk Factors
+1. **Rate-hike repricing (primary):** Hot CPI → 2+ more hikes likely → sustained elevated yields → PE compression on growth/defensive premium names (WMT especially)
+2. **UNH regulatory creep:** DOJ Claritev Level 3 (CIDs). Next escalation (formal complaint/structural probe) = immediate close. TX AG probe = watch.
+3. **Oil/Geopolitics:** Strait of Hormuz incident (naval mine, tanker fire) → oil spike risk → inflation second-round risk. Energy sector BANNED but macro oil spikes affect broad market.
+4. **AI sentiment volatility:** CoreWeave bounce today; Nvidia/AI overhang from NVDA CEO probe unresolved — tech could whipsaw.
+5. **Veterans Day liquidity:** Bond markets reduced; some thinner equity tape possible early in session.
+6. **Pre-earnings risk (WMT):** Nov 19 earnings 8 days out. If entering WMT, would be exiting or holding through print.
+
+### Decision: **HOLD**
+- VIX cleared (18.60 ✓) but hot CPI invalidates WMT thesis conditions.
+- WMT earnings Nov 19 adds binary event risk — prefer waiting for clean post-earnings entry or Dec 10 CPI.
+- UNH thesis intact; no action needed. Continue monitoring Claritev DOJ escalation ladder.
+- Patience > activity. 0 trades this week is acceptable given macro backdrop.
+
