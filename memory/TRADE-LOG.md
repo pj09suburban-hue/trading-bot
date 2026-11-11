@@ -7404,3 +7404,28 @@ No action taken at midday → no Slack per notification rule.
 **Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 **Key watch (Wed Nov 11):** UNH cut level $382.70, stop $367.50 (8.9% buffer). DOJ Claritev Level 4 escalation = immediate close. TX AG probe = watch-only. No new entries — hot CPI shifts macro tone; await VIX compression + catalyst.
 
+
+---
+
+## 2026-11-11 — Midday Scan (Day 144, Week 30 Day 3 — Wednesday, Veterans Day)
+
+**Portfolio:** ~$105,656 est. | **Cash:** $86,141.19 (81.6%) | **Open positions:** 1/6 (UNH) | **Phase P&L:** +$5,656 (+5.66%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (GTC) | HWM | Action |
+|---|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $398.26 | −$649.01 (−3.22%) | $367.50 (10% trail, GTC 4c159282) | $408.33 | HOLD |
+
+**STEP 3 — Cut losers (≤−7%):** UNH −3.22%, cut level $382.70. Well above threshold → HOLD.
+**STEP 4 — Stop tightening:** UNH −3.22%, nowhere near +15% threshold → no action.
+**STEP 5 — Thesis check (UNH):**
+- **DOJ Claritev:** No new formal complaint, structural probe, or enforcement action. Escalation ladder: **Level 3** (CIDs only, pre-enforcement) — UNCHANGED.
+- **Medicare Advantage withdrawal (140 counties + Wyoming):** Already captured in pre-market research. Scheduled market exit from unprofitable geographies — not a thesis-break trigger; known tactic.
+- **Intraday decline −1.70% ($405.12→$398.26):** No specific new catalyst identified via Perplexity. Attributed to general macro/regulatory overhang continuation after hot CPI (Oct +0.3% core MoM). **Thesis INTACT.**
+- **Cut level buffer:** $398.26 − $382.70 = $15.56 (3.90 pct points of room). Stop buffer: $398.26 − $367.50 = $30.76 (8.6%).
+
+**STEP 6 — Intraday research (Perplexity):** Queried UNH intraday decline and Claritev updates. No new DOJ structural action or formal complaint filed. Decline unexplained by specific catalyst; macro/regulatory overhang continuation. Medicare Advantage county withdrawal pre-existing. No afternoon addendum warranted.
+
+**STEP 7 — Notification:** No action taken → no Slack (per midday notification rule).
+
+**Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+**Key watch:** UNH cut level $382.70 (3.90 pct pts room). Stop $367.50, HWM $408.33. DOJ Claritev Level 4 escalation (formal complaint/structural probe) = immediate close. TX AG probe = watch-only. No new entries — hot CPI macro backdrop; next clean opportunity: WMT post-Nov 19 earnings or Dec 10 CPI.
