@@ -7472,3 +7472,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 **Key watch:** UNH cut level $382.70 (5.2 pct pts room). Stop $367.50, HWM $408.33. DOJ Claritev Level 4 escalation (formal complaint/structural probe) = immediate close. TX AG probe = watch-only. No new entries — VIX gate cleared (18.26) but no qualifying catalyst; next clean window WMT post-Nov 19 earnings.
+
+---
+
+## 2026-11-12 — EOD Snapshot (Day 145, Week 30 Day 4 — Thursday)
+**Portfolio:** $105,987.66 | **Cash:** $86,141.19 (81.3%) | **Day P&L:** +$283.83 (+0.27%) | **Phase P&L:** +$5,987.66 (+5.99%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $405.03 | +0.52% | −$317.03 (−1.57%) | $367.50 (10% trail, HWM $408.33, GTC 4c159282) |
+
+**Notes:** Day 145 (Thursday, Week 30 Day 4). No trades — no qualifying catalyst; macro backdrop cautious post-hot CPI (Oct core +0.3% MoM). UNH rebounded +0.52% to close $405.03; DOJ Claritev remains Level 3 (pre-enforcement, no escalation), thesis intact. Unrealized loss narrowed to −$317.03 (−1.57%). Cut level buffer $405.03 − $382.70 = $22.33 (5.5 pct pts). Stop buffer $405.03 − $367.50 = $37.53 (9.3%). Portfolio +$283.83 on the day (+0.27%), +$5,987.66 phase (+5.99%). Week 30: 0/3 trades, 3 slots remaining. No new entries until VIX <22 AND benign catalyst; next clean window WMT post-Nov 19 earnings.
+
+**Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+**Key watch (Fri Nov 13):** UNH cut level $382.70 (5.5 pct pts room). Stop $367.50, HWM $408.33. DOJ Claritev Level 4 escalation (formal complaint/structural probe) = immediate close. TX AG probe = watch-only. No new entries — await VIX compression + benign catalyst; next clean window WMT post-Nov 19 earnings.
