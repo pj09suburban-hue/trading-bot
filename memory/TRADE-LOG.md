@@ -7486,3 +7486,32 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 **Key watch (Fri Nov 13):** UNH cut level $382.70 (5.5 pct pts room). Stop $367.50, HWM $408.33. DOJ Claritev Level 4 escalation (formal complaint/structural probe) = immediate close. TX AG probe = watch-only. No new entries — await VIX compression + benign catalyst; next clean window WMT post-Nov 19 earnings.
+
+---
+
+## 2026-11-13 — Midday Scan (Day 146, Week 30 Day 5 — Friday)
+
+**Portfolio:** $105,901.30 | **Cash:** $86,141.19 (81.3%) | **Open positions:** 1/6 (UNH) | **Phase P&L:** +$5,901.30 (+5.90%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (GTC) | HWM | Action |
+|---|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $402.78 | −$427.28 (−2.12%) | $367.50 (10% trail, GTC 4c159282) | $408.33 | HOLD |
+
+**STEP 3 — Cut losers (≤−7%):** UNH −2.12%, cut level $382.70. Well above threshold → HOLD.
+
+**STEP 4 — Stop tightening:** UNH −2.12%, nowhere near +15% threshold → no action.
+
+**STEP 5 — Thesis check (UNH):**
+- **DOJ Claritev:** No new formal complaint, structural probe, or enforcement action filed today. Perplexity and WebSearch confirm no Level 4 escalation. **Escalation ladder: Level 3 (CIDs only, pre-enforcement) — UNCHANGED.** Thesis INTACT.
+- **UNH intraday:** −0.58% ($405.13 → $402.78). No specific new negative catalyst identified. General macro pressure continues.
+- **Cut level buffer:** $402.78 − $382.70 = $20.08 (5.0 pct pts). Stop buffer: $402.78 − $367.50 = $35.28 (8.6%).
+
+**STEP 6 — Intraday research:**
+- **PPI (Oct 2026, released 8:30 AM ET today):** Core ex-food-energy +0.3% MoM (rose from prior +0.1%). HOT print — matches gate failure condition (≥0.3%). Pre-market plan: "If hot → hold cash, next window WMT post-Nov 19 earnings." Gate confirmed FAILED for new entries today.
+- **DOJ Claritev:** No escalation; still Level 3. Thesis intact.
+- **No new entries:** PPI hot + Week 30 ending (last trading day); patience > activity.
+
+**STEP 7 — Notification:** No action taken → no Slack (per midday notification rule).
+
+**Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+**Key watch:** UNH cut level $382.70 (5.0 pct pts room). Stop $367.50, HWM $408.33. DOJ Claritev Level 4 escalation (formal complaint/structural probe) = immediate close. TX AG probe = watch-only. No new entries — PPI hot (core +0.3%), hot CPI backdrop; next clean window WMT post-Nov 19 earnings or Dec 10 CPI benign.
