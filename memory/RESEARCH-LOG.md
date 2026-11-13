@@ -10433,3 +10433,78 @@ VIX gate cleared (20.05 < 22) for the first time this week. CPI at 8:30 AM ET is
 - **Next clean window:** WMT post-Nov 19 earnings (beat+raise), or Dec 10 CPI benign + VIX <22.
 
 **Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+
+## 2026-11-13 — Pre-Market Research (Day 146, Week 30 Day 5 — Friday)
+
+### Account Snapshot
+- **Equity:** $105,998.44 | **Cash:** $86,141.19 (81.3%) | **Phase P&L:** +$5,998.44 (+6.00%)
+- **Buying power:** $400,165.06 (margin) | **Daytrade count:** 0
+- **Open positions:** 1/6 (UNH only) | **Week 30 trades:** 0/3
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (GTC) | HWM |
+|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $405.25 | −$306.25 (−1.52%) | $367.50 (10% trail, GTC 4c159282) | $408.33 |
+
+### Market Context
+- **S&P 500 futures:** +0.1–0.2% (~7,625–7,630) — flat-to-slightly-higher open; market stabilizing after NVDA CEO shock
+- **VIX:** 18.33 (−1.98% from 18.70 close) — CLEARED (<22 gate ✓), compressing from Thursday spike
+- **WTI crude:** ~$88.73–88.96/bbl | **Brent:** ~$95.50–96.00/bbl — heading for 2nd consecutive weekly decline; Iran deal uncertainty keeps geopolitical risk premium elevated
+- **KEY EVENT TODAY: PPI at 8:30 AM ET** — Oct PPI: forecast +0.4% MoM headline, +0.3% MoM core (prior: +0.7% core). If core ≥0.3% → hot, no new trades. If core ≤0.2% → potential window opens.
+- **NVDA:** Jensen Huang resigned (confirmed Thu); NVDA +2% premarket on relief/stabilization. Tech broadly recovering but uncertainty persists.
+- **BMO earnings today:** No S&P 500 market-movers (small-caps only: CG Oncology, Perpetua Resources, Noodles & Co, etc.)
+- **Fed speakers:** Collins and Logan today — watch for hawkish surprise that could spike VIX above 22
+- **Dollar:** Strengthening on rate-hike repricing; Oct CPI core +0.3% (hot) overhang continues
+
+### UNH Thesis Check
+- **DOJ Claritev:** No new formal complaint, structural probe, or enforcement action confirmed. Sen. Warren criticism of DOJ Amedisys approval = political commentary, NOT a Level 4 enforcement action. **Escalation ladder: Level 3 (CIDs only, pre-enforcement) — UNCHANGED.** Thesis INTACT.
+- **UNH intraday:** $405.25 premarket, +$0.12 from $405.13 Thu close. Ground.news headline notes +1.8% intraday climb (likely reflecting Nov 12 intraday high). No new negative catalysts today.
+- **Cut level buffer:** $405.25 − $382.70 = $22.55 (5.6 pct pts). Stop buffer: $405.25 − $367.50 = $37.75 (9.3%).
+- **Health Care sector:** +21.5–22.8% YTD — firmly in momentum. ✓
+
+### Sector Momentum YTD (as of Nov 12, 2026)
+| Sector | YTD | Status |
+|---|---|---|
+| Energy | +41.5–46.7% | **BANNED** (2 consecutive failures) |
+| Consumer Staples | +18.5% | WMT watchlist (earnings Nov 19) |
+| Health Care | +21.5–22.8% | **IN MOMENTUM** (UNH held) |
+| Info Technology | +16.5–21.1% | CAUTION (NVDA CEO shock, stabilizing) |
+| Materials | +13.7% | No catalyst |
+| Industrials | +10.1–10.5% | No setup |
+| Financials | +6.0–6.9% | No setup |
+| Communication Services | −6.6 to −7.8% | Negative — no interest |
+
+### Trade Ideas
+
+**1. WMT (Walmart) — Consumer Staples — WATCHLIST (NOT today)**
+- VIX cleared (18.33 ✓). Cash available. Rate-sensitivity: low.
+- **Gate failures:** (a) Earnings Nov 19 — 6 days out; binary event risk. (b) Hot CPI backdrop (core +0.3%) still overhang. (c) PPI unknown at writing.
+- **Decision:** SKIP. Next review: post-Nov 19 WMT earnings. Beat+raise → clean entry.
+
+**2. MRK (Merck) — Health Care — SECONDARY WATCHLIST**
+- In-momentum sector. No specific catalyst today; "new growth catalysts being priced in" (Wallstreetzen) is vague.
+- Rate-sensitivity: low (pharma, not AI infra/utility). UNH rate-exposure: none. Rate-limit gate: 0/2 — room exists.
+- **Gate failures:** No specific catalyst documented today. 
+- **Decision:** SKIP. Add to watchlist for next catalyst-driven entry.
+
+**3. No other setups**
+- Tech: NVDA shock overhang — not adding exposure until clarity.
+- Energy: BANNED.
+
+### Risk Factors
+1. **PPI at 8:30 AM ET (acute):** Hot print (core ≥0.3%) = no new trades, possible VIX spike. This is the day's binary event.
+2. **Rate-hike repricing (persistent):** Hot CPI already in; PPI could confirm. Dollar rising; PE compression risk.
+3. **NVDA CEO transition uncertainty:** Broad AI-chain sentiment still unsettled; tech drag possible.
+4. **Iran/Hormuz premium:** Oil elevated on Trump-Iran stance; potential supply shock tail risk.
+5. **UNH regulatory creep:** DOJ Claritev Level 3. Level 4 (formal complaint/structural probe) = immediate close. TX AG probe = watch-only.
+6. **Fed speakers (Collins, Logan):** Any hawkish surprise → VIX above 22 gate.
+
+### Decision: **HOLD (conditional)**
+- PPI at 8:30 AM ET is the gating event. No new trades until print is known.
+- If hot (core ≥0.3%) → no action; next window WMT post-Nov 19 earnings.
+- If benign (core ≤0.2%) → re-evaluate WMT or MRK setup at market-open routine.
+- UNH: thesis intact, 9.3% stop buffer, Level 3 DOJ. HOLD.
+- Week 30 ends today; 3 trade slots remain unused — consistent with patience > activity rule.
+- **Next clean window:** PPI-benign today + WMT post-Nov 19 earnings beat.
+
+**Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+
