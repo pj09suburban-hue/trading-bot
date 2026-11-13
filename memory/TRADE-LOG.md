@@ -7515,3 +7515,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 **Key watch:** UNH cut level $382.70 (5.0 pct pts room). Stop $367.50, HWM $408.33. DOJ Claritev Level 4 escalation (formal complaint/structural probe) = immediate close. TX AG probe = watch-only. No new entries — PPI hot (core +0.3%), hot CPI backdrop; next clean window WMT post-Nov 19 earnings or Dec 10 CPI benign.
+
+---
+
+## 2026-11-13 — EOD Snapshot (Day 146, Week 30 Day 5 — Friday)
+**Portfolio:** $105,937.19 | **Cash:** $86,141.19 (81.4%) | **Day P&L:** −$55.37 (−0.05%) | **Phase P&L:** +$5,937.19 (+5.94%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $404.00 | −0.28% | −$367.50 (−1.82%) | $367.50 (10% trail, HWM $408.33, GTC 4c159282) |
+
+**Notes:** Day 146 (Friday, Week 30 Day 5). No trades — PPI hot (Oct core +0.3% MoM), confirming macro gate failure for new entries. UNH declined −0.28% to close $404.00; DOJ Claritev remains Level 3 (pre-enforcement, no escalation), thesis intact. Unrealized loss −$367.50 (−1.82%); cut level buffer $404.00 − $382.70 = $21.30 (5.3 pct pts), stop buffer $404.00 − $367.50 = $36.50 (9.0%). Portfolio −$55.37 on the day (−0.05%), +$5,937.19 phase (+5.94%). Week 30 final: 0/3 trades, patience was correct — hot PPI/CPI backdrop. No new entries until WMT post-Nov 19 earnings or Dec 10 CPI benign.
+
+**Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+**Key watch (Mon Nov 16):** UNH cut level $382.70 (5.3 pct pts room). Stop $367.50, HWM $408.33. DOJ Claritev Level 4 escalation (formal complaint/structural probe) = immediate close. TX AG probe = watch-only. No new entries — await WMT post-Nov 19 earnings catalyst or Dec 10 CPI.
