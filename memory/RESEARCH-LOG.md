@@ -10508,3 +10508,86 @@ VIX gate cleared (20.05 < 22) for the first time this week. CPI at 8:30 AM ET is
 
 **Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 
+
+## 2026-11-16 — Pre-Market Research (Day 147, Week 31 Day 1 — Monday)
+
+### Account Snapshot
+- **Equity:** $106,311.55 | **Cash:** $86,141.19 (81.1%) | **Phase P&L:** +$6,311.55 (+6.31%)
+- **Buying power:** $401,041.77 | **Daytrade count:** 0 (week resets)
+- **Open positions:** 1/6 (UNH only) | **Week 31 trades:** 0/3
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (GTC) | HWM |
+|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $411.64 | +$6.86 (+0.034%) | $367.66 (10% trail, GTC 4c159282) | $408.51 |
+
+*UNH +1.03% intraday today ($407.46 → $411.64) — back near entry.*
+
+### Market Context
+- **S&P 500 futures:** +0.16% (~6,867) — modestly positive open
+- **VIX:** 19.30 (Nov 13 close) — CLEARED (<22 gate ✓)
+- **WTI crude:** ~$88.56/bbl | **Brent:** ~$95.84/bbl — trending lower on Iran peace deal/supply surplus; double-top technical pattern in play
+- **Energy sector banned for us** — no entries regardless of direction
+- **BMO earnings today:** No major S&P 500 market-movers (BIDU, TSN, ARMK — not relevant)
+
+### This Week's Key Events
+| Date | Event | Consensus | Gate Impact |
+|---|---|---|---|
+| Mon Nov 16, 9:05 AM | NY Fed Williams speaks | — | Watch hawkish surprise |
+| Mon Nov 16, 12:00 PM | **Fed Chair Warsh speaks** | — | VIX spike risk if hawkish |
+| Tue Nov 17, 8:30 AM | **October Retail Sales** | +0.2% MoM (vs +0.8% prior) | Hot miss = tone negative |
+| Wed Nov 18, 2:00 PM | **FOMC minutes (Oct 27-28)** | — | Rate-hike repricing risk |
+| **Thu Nov 19, BMO** | **WMT Walmart earnings** | EPS $0.64 / Rev $187.2B | PRIMARY catalyst window |
+| Fri Nov 20, 12:15 PM | Fed Gov Cook speaks | — | Minor |
+
+### Sector Momentum YTD (as of Nov 13)
+| Sector | YTD | Status |
+|---|---|---|
+| Energy | +42.8% | **BANNED** (2 consecutive failures) |
+| Health Care | +22.7% | **IN MOMENTUM** (UNH held) |
+| Consumer Staples | +20.2% | WMT watchlist (earnings Thu Nov 19) |
+| Materials | +13.4% | No catalyst |
+| Info Technology | +10.2% | CAUTION (NVDA overhang) |
+| Industrials | +10.1% | No setup |
+| Communication Services | -6.4% | Negative — no interest |
+
+### UNH Thesis Check
+- **DOJ Claritev:** No new formal complaint, structural probe, or enforcement action. Perplexity confirms no Level 4 escalation. **Escalation ladder: Level 3 (CIDs only, pre-enforcement) — UNCHANGED.** Thesis INTACT.
+- **UNH intraday today:** +1.03% ($407.46 → $411.64) — recovering from post-PPI weakness last week. Essentially flat vs entry (+$0.14).
+- **Cut level buffer:** $411.64 − $382.70 = $28.94 (7.0 pct pts). Stop buffer: $411.64 − $367.66 = $43.98 (10.7%).
+- **Rate-sensitivity:** None (health insurance, not AI infra/utility/materials). Rate-sensitive count: 0/2.
+
+### Trade Ideas
+
+**1. WMT (Walmart) — Consumer Staples +20.2% YTD — PRIMARY WATCHLIST**
+- Earnings BMO Thu Nov 19: EPS consensus $0.64 (+3.2% YoY), revenue $187.2B (+3.9% YoY)
+- Analyst consensus bullish, PT ~$131. Health/wellness + marketplace/advertising thesis.
+- Rate-sensitivity: LOW (consumer staples). Rate-sensitive count after entry: 0/2 ✓.
+- **Gate failures today:** Earnings in 3 days (binary event risk). **Decision: SKIP. WATCHLIST.** If beat+raise Thursday → clean entry Thu post-print or Fri Nov 20.
+- Entry/stop/target when triggered: ~$108–115 at open post-beat. Stop: 7% (post-earnings rule, Rule 12). Target: +20% = $130–138.
+
+**2. MRK (Merck) — Health Care +22.7% YTD — SECONDARY WATCHLIST**
+- In-momentum sector. No specific catalyst identified today. Rate-uncorrelated. 2nd health care entry would be acceptable (0 rate-sensitive names, rate limit not binding).
+- **Decision: SKIP — no catalyst documented today.** Add to watch for next earnings or FDA action catalyst.
+
+**3. No other setups**
+- Tech: NVDA CEO uncertainty overhang continues. Not adding.
+- Energy: BANNED.
+- Materials: No catalyst.
+
+### Risk Factors
+1. **Fed Chair Warsh noon today (acute):** Hawkish surprise could spike VIX >22, re-triggering gate. Warsh historically hawkish.
+2. **FOMC minutes Wed (medium):** Oct 27-28 meeting — could reveal deeper hawkish intent; rate-hike repricing.
+3. **Retail Sales Tue (medium):** Consensus +0.2% — well below prior +0.8%. Hot miss = macro negative.
+4. **WMT earnings binary Thu (primary):** Beat+raise → entry window. Miss → Consumer Staples momentum fades.
+5. **UNH DOJ Claritev Level 4 (ongoing):** Formal complaint/structural probe = immediate close.
+6. **Oil double-top technical (background):** WTI/Brent broke uptrend support — supply-demand headwind; confirms energy ban.
+
+### Decision: **HOLD**
+- VIX 19.30 — gate cleared (<22 ✓). But Fed Chair Warsh speaks at noon today — potential intraday VIX spike. No new entries before Warsh clears.
+- WMT earnings Thu is the week's catalyst window; patience > reaching for a setup that hasn't cleared gates.
+- Deployment 19% — deeply below 75–85% target, but macro event density (Retail Sales, FOMC minutes, WMT earnings, 4 Fed speakers) justifies cash preservation through Friday.
+- UNH: thesis intact, DOJ Level 3 unchanged, back near entry. HOLD.
+- **Next action window:** WMT earnings Thu Nov 19 BMO — if beat+raise, evaluate entry at market-open routine.
+
+**Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+
