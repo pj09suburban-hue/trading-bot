@@ -7560,3 +7560,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 **Key watch:** UNH cut level $382.70 (7.1 pct pts room). Stop $373.6485, HWM $415.165. DOJ Claritev Level 4 escalation (formal complaint/structural probe) = immediate close. No new entries — await WMT post-Nov 19 earnings catalyst. Tomorrow: Retail Sales 8:30 AM ET + Warsh noon speech (hawkish risk).
+
+---
+
+## 2026-11-16 — EOD Snapshot (Day 147, Week 31 Day 1 — Monday)
+**Portfolio:** $106,231.19 | **Cash:** $86,141.19 (81.1%) | **Day P&L:** +$124.46 (+0.12%) | **Phase P&L:** +$6,231.19 (+6.23%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $410.04 | +0.63% | −$71.78 (−0.36%) | $373.65 (10% trail, HWM $415.17, GTC 4c159282) |
+
+**Notes:** Day 147 (Monday, Week 31 Day 1). No trades — no qualifying catalyst; macro backdrop cautious ahead of Retail Sales (Tue 8:30 AM ET) and Warsh noon speech (Tue). UNH rebounded +0.63% from Friday close ($407.46→$410.04), narrowing unrealized loss to −$71.78 (−0.36%); HWM updated to $415.165, trailing stop auto-adjusted to $373.65. DOJ Claritev Level 3 unchanged (criminal probe wound down per midday scan; civil CIDs ongoing). Thesis intact. Cut level buffer $410.04−$382.70=$27.34 (6.6 pct pts), stop buffer $410.04−$373.65=$36.39 (8.9%). Portfolio +$124.46 on the day (+0.12%), +$6,231.19 phase (+6.23%). No new entries pending — WMT post-Nov 19 earnings is next clean opportunity.
+
+**Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+**Key watch (Tue Nov 17):** Retail Sales 8:30 AM ET (consensus +0.2%), Warsh noon speech (hawkish risk). UNH cut level $382.70 (6.6 pct pts room). Stop $373.65, HWM $415.17. DOJ Claritev Level 4 escalation (formal complaint/structural probe) = immediate close. No new entries — await WMT post-Nov 19 earnings or Dec 10 CPI benign.
