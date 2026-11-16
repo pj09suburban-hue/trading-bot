@@ -7529,3 +7529,34 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 30 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 **Key watch (Mon Nov 16):** UNH cut level $382.70 (5.3 pct pts room). Stop $367.50, HWM $408.33. DOJ Claritev Level 4 escalation (formal complaint/structural probe) = immediate close. TX AG probe = watch-only. No new entries — await WMT post-Nov 19 earnings catalyst or Dec 10 CPI.
+
+---
+
+## 2026-11-16 — Midday Scan (Day 147, Week 31 Day 1 — Monday)
+
+**Portfolio:** $106,316.45 | **Cash:** $86,141.19 (81.1%) | **Open positions:** 1/6 (UNH) | **Phase P&L:** +$6,316.45 (+6.32%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (GTC) | HWM | Action |
+|---|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $411.855 | +$17.40 (+0.086%) | $373.6485 (10% trail, GTC 4c159282) | $415.165 | HOLD |
+
+**STEP 3 — Cut losers (≤−7%):** UNH +0.086%, cut level $382.70. Well above threshold → HOLD.
+
+**STEP 4 — Stop tightening:** UNH +0.086%, nowhere near +15% threshold → no action. HWM now $415.165 (trail auto-adjusted by Alpaca; stop $373.6485).
+
+**STEP 5 — Thesis check (UNH):**
+- **DOJ Claritev:** No formal complaint, no enforcement action. Perplexity confirms no Level 4 escalation. Criminal probe reportedly wound down (Claritev said DOJ not targeting criminally). **Escalation ladder: Level 3 (CIDs only, expanded scope) — UNCHANGED.** Thesis INTACT.
+- **UNH intraday:** +1.079% from Friday close ($407.46 → $411.855), back above entry. No new negative catalyst.
+- **Cut level buffer:** $411.855 − $382.70 = $29.16 (7.1 pct pts). Stop buffer: $411.855 − $373.65 = $38.21 (9.3%).
+
+**STEP 6 — Intraday research:**
+- **Fed Chair Warsh:** Pre-market research noted noon speech today; Perplexity confirms speech is actually **Nov 17 at 12:00 PM ET** — not today. No acute VIX spike risk today from Warsh.
+- **Warsh stance (from recent remarks):** Hawkish inflation priorities, higher-for-longer bias, noncommittal on December meeting. No new policy shift announced today.
+- **NY Fed Williams 9:05 AM ET:** No disruptive headline; UNH unaffected.
+- **DOJ Claritev update:** Criminal probe reportedly concluded with no charges; civil CID investigation ongoing (Level 3). No escalation.
+- **Macro:** No breaking macro event today. Next event: Retail Sales Tue Nov 17 8:30 AM ET (consensus +0.2%), then Warsh noon Tue Nov 17.
+
+**STEP 7 — Notification:** No action taken → no Slack (per midday notification rule).
+
+**Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+**Key watch:** UNH cut level $382.70 (7.1 pct pts room). Stop $373.6485, HWM $415.165. DOJ Claritev Level 4 escalation (formal complaint/structural probe) = immediate close. No new entries — await WMT post-Nov 19 earnings catalyst. Tomorrow: Retail Sales 8:30 AM ET + Warsh noon speech (hawkish risk).
