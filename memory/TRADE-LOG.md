@@ -7610,3 +7610,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 **Key watch:** UNH cut level $382.70 (3.74 pct pts buffer — THIN). Stop $373.6485, HWM $415.165. DOJ Claritev Level 4 escalation = immediate close. Antitrust/breakup discussion = new watch-only risk. No new entries — VIX 22.9+ gate failed; await NVDA resolution (tonight), VIX < 22, then WMT Thu BMO earnings.
+
+---
+
+## 2026-11-17 — EOD Snapshot (Day 148, Week 31 Day 2 — Tuesday)
+**Portfolio:** $105,389.62 | **Cash:** $86,141.19 (81.7%) | **Day P&L:** −$940.55 (−0.88%) | **Phase P&L:** +$5,389.62 (+5.39%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $392.83 | −4.66% | −$915.08 (−4.54%) | $373.6485 (10% trail, HWM $415.17, GTC 4c159282) |
+
+**Notes:** Day 148 (Tuesday, Week 31 Day 2). No trades — VIX elevated (22.9+), no qualifying catalyst, macro gate failed. UNH sold off −4.66% to $392.83 as managed care sector under broad pressure (Medicare Advantage reimbursement concerns, antitrust breakup discussion — watch-only). Unrealized P&L −$915.08 (−4.54%); cut level buffer $392.83−$382.70=$10.13 (2.46 pct pts) — VERY THIN. Stop $373.6485 intact, HWM $415.165. Thesis intact — DOJ Claritev remains Level 3 (civil CIDs, no escalation). Retail Sales +0.2% matched consensus (neutral). Warsh speech AI-focused, no hawkish rate guidance. NVDA earnings tonight (after close) — binary VIX event pending. Portfolio −$940.55 on the day (−0.88%), +$5,389.62 phase (+5.39%). Week 31: 0/3 trades.
+
+**Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+**Key watch (Wed Nov 18):** UNH cut level $382.70 — buffer VERY THIN $10.13 (2.46 pct pts). Stop $373.6485, HWM $415.165. DOJ Claritev Level 4 escalation = immediate close. Antitrust/breakup = watch-only. NVDA post-earnings VIX reset overnight — if VIX drops below 22, monitor for new entry; WMT reports Thu Nov 20 BMO.
