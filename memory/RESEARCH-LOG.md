@@ -10672,3 +10672,11 @@ Consumer Staples: best sector Mon AND Tue (pre-market), driven by WMT/TGT cataly
 
 **Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 
+
+### Afternoon Addendum (Midday Scan ~11:12 AM ET)
+- **Retail Sales (Oct 2026):** +0.2% MoM (matched consensus). Core +0.6%. Neutral print. Economy on solid footing but higher-for-longer narrative intact.
+- **Warsh speech:** AI/productivity focus. NOT hawkish. No new rate guidance. Pre-market hawkish risk did not materialize.
+- **VIX:** 22.9–23.0 intraday — gate remains FAILED for new entries.
+- **UNH:** Hit $389.50 low (−5.5% from Mon close), recovered to $397.69 (−3.36% from entry). Managed care sector-wide selloff (Humana, CVS also weak). No DOJ Claritev escalation (Level 3 unchanged). New risk: antitrust/breakup political discussion re-surfaced — watch-only, no formal action.
+- **NVDA earnings:** Tonight after close — primary binary event. Beat + VIX compression → WMT entry window opens Thu.
+- **Decision:** HOLD UNH. No new entries (VIX gate). Watch NVDA resolution tonight.

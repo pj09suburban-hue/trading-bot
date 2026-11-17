@@ -7574,3 +7574,39 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 **Key watch (Tue Nov 17):** Retail Sales 8:30 AM ET (consensus +0.2%), Warsh noon speech (hawkish risk). UNH cut level $382.70 (6.6 pct pts room). Stop $373.65, HWM $415.17. DOJ Claritev Level 4 escalation (formal complaint/structural probe) = immediate close. No new entries — await WMT post-Nov 19 earnings or Dec 10 CPI benign.
+
+---
+
+## 2026-11-17 — Midday Scan (Day 148, Week 31 Day 2 — Tuesday)
+
+**Portfolio:** ~$105,628.00 | **Cash:** $86,141.19 (81.6%) | **Open positions:** 1/6 (UNH) | **Phase P&L:** ~+$5,628 (+5.63%)
+
+| Ticker | Shares | Entry | Current | Unrealized P&L | Stop (GTC) | HWM | Action |
+|---|---|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $397.69 | −$676.69 (−3.36%) | $373.6485 (10% trail, GTC 4c159282) | $415.165 | HOLD |
+
+**STEP 3 — Cut losers (≤−7%):** UNH −3.36% from entry ($397.69 vs $411.50 entry). Cut level $382.70. Buffer = $397.69 − $382.70 = $14.99 (3.74 pct pts). Well above −7% threshold → **HOLD.**
+
+**STEP 4 — Stop tightening:** UNH below entry; nowhere near +15% threshold → **no action.** HWM $415.165, stop $373.6485 unchanged.
+
+**STEP 5 — Thesis check (UNH):**
+- **DOJ Claritev:** No formal complaint, no structural probe, no Level 4 escalation. Sources confirm Claritev probe remains at Level 3 (civil CIDs ongoing). Thesis condition INTACT.
+- **UNH intraday:** Opened −4.78%, hit low $389.50, recovered to $397.69 (−3.36% from entry $411.50). Sharp managed care sector selloff — Humana also weak. Sector-wide pressure, not UNH-specific.
+- **New risk — antitrust/breakup discussion:** Reports of renewed political pressure to break up vertically integrated health insurers (UNH specifically mentioned). NOT a formal action; classified as watch-only. No enforcement action, no bill introduced.
+- **Cut level buffer:** $397.69 − $382.70 = $14.99 (3.74 pct pts) — THIN. Elevated monitoring.
+- **Stop buffer:** $397.69 − $373.65 = $24.04 (6.0%). Stop is live GTC.
+- **Conclusion:** Thesis INTACT but buffer thin. Hold.
+
+**STEP 6 — Intraday research:**
+- **Retail Sales (Oct 2026):** +0.2% MoM (matched +0.2% consensus). Core ex-autos/gas/materials/food +0.6%. Neutral — not thesis-breaking. Higher-for-longer narrative reinforced but not an escalation.
+- **Warsh noon speech:** Focused on AI and productivity; NO new rate guidance, NOT hawkish. Pre-market hawkish risk did not materialize.
+- **St. Louis Fed Musalem:** Called for rate hikes "sooner," 100–150 bps target. Hawkish but Musalem is non-voting; market already pricing higher-for-longer.
+- **VIX:** 22.9–23.0 intraday — ABOVE 22 gate. No new entries.
+- **NVDA earnings:** Tonight after close. Binary event still pending; primary driver of VIX resolution.
+- **DOJ Claritev:** No escalation. Level 3 unchanged.
+- **Managed care sector:** Broad weakness (Humana, CVS also lower). Drivers: elevated medical utilization, Medicare Advantage reimbursement concerns, antitrust discussion. Sector-wide, not UNH-specific.
+
+**STEP 7 — Notification:** No action taken → no Slack (per midday notification rule).
+
+**Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+**Key watch:** UNH cut level $382.70 (3.74 pct pts buffer — THIN). Stop $373.6485, HWM $415.165. DOJ Claritev Level 4 escalation = immediate close. Antitrust/breakup discussion = new watch-only risk. No new entries — VIX 22.9+ gate failed; await NVDA resolution (tonight), VIX < 22, then WMT Thu BMO earnings.
