@@ -10591,3 +10591,84 @@ VIX gate cleared (20.05 < 22) for the first time this week. CPI at 8:30 AM ET is
 
 **Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 
+
+---
+
+## 2026-11-17 — Pre-Market Research (Day 148, Week 31 Day 2 — Tuesday)
+
+### Account Snapshot
+- **Portfolio:** $105,921.03 | **Cash:** $86,141.19 (81.3%) | **Phase P&L:** +$5,921.03 (+5.92%)
+- **Open positions:** 1/6 (UNH: 49 shares @ $411.50 avg, current $403.67, unrealized −$383.66 (−1.90%))
+- **UNH stop:** $373.65 GTC (HWM $415.165, 10% trail, order 4c159282). Cut level: $382.70 (5.1 pct pts buffer).
+- **Week 31 trades:** 0/3 | **Daytrade count:** 0
+
+### Market Context
+- **S&P 500:** Futures −0.30% at 7,414 pre-market; closed −1.92% yesterday (7,416.59). Two-day selloff.
+- **Nasdaq:** Futures −0.36% at 27,185; closed −2.49% yesterday.
+- **VIX:** Closed 22.91 yesterday (+18.70% single-session spike from 19.30). Pre-market ~22.44 — **ABOVE 22 gate. NO NEW ENTRIES.**
+- **10Y Treasury:** 5.115% — significant rate pressure on growth/AI names.
+- **Oil:** Brent $91.95 (−0.53%), WTI $85.09 (−0.73%) — supply surplus outlook (recovering Mideast exports), Goldman warns of glut.
+- **Retail Sales (Oct 2026):** Due 8:30 AM ET (consensus +0.2% vs prior +0.8%). NOT YET RELEASED at time of this scan.
+- **Earnings BMO today:** HD (EPS est $3.84, rev $42.8B), DIS (EPS est $1.68, rev $25.2B).
+- **NVDA earnings:** TONIGHT after close — first print since CEO Jensen Huang resigned. Primary binary market event.
+- **Fed:** Gov. Waller speaks today; FOMC minutes Wed.
+- **WMT earnings:** Thursday BMO (Nov 19) — primary catalyst window.
+
+### Sector Momentum (YTD as of Nov 16)
+| Rank | Sector | YTD |
+|---|---|---|
+| 1 | Energy | +45.3% — BANNED |
+| 2 | Health Care | +22.9% — IN MOMENTUM (UNH) |
+| 3 | Consumer Staples | +21.5% — IN MOMENTUM (WMT watchlist) |
+| 4 | Tech | ~+22.6% (off Oct 6 peak −12.9%) |
+| 10 | Consumer Discretionary | −0.4% — NOT in momentum |
+| 11 | Comm Services | −8.4% — AVOID |
+
+Consumer Staples: best sector Mon AND Tue (pre-market), driven by WMT/TGT catalyst week.
+
+### UNH Thesis Check
+- **DOJ Claritev:** No Level 4 escalation (no formal complaint, no structural probe). Level 3 unchanged (civil CIDs ongoing, criminal probe wound down). **THESIS INTACT.**
+- **UNH pre-market:** −0.94% at $403.63. Down from yesterday's $412.02 close (−2.03% intraday). Broad market selling, no UNH-specific catalyst.
+- **Other overhangs:** TX AG probe (watch-only), Optum Rx PBM investigation (pre-enforcement), Amedisys acquisition approved by DOJ w/ divestitures — no material new negative.
+- **Action:** HOLD. Cut level buffer 5.1 pct pts, stop buffer 7.4%.
+
+### Trade Ideas
+
+**1. WMT (Walmart) — Consumer Staples — WATCHLIST (unchanged from prior days)**
+- **Catalyst:** Thu Nov 19 BMO earnings. Beat + raise = entry at market-open routine.
+- **Sector:** Consumer Staples +21.5% YTD, sector leading past 2 sessions defensively.
+- **Entry condition:** Beat + raise Thursday → entry Thu at market open.
+- **Entry range:** ~$108–115 (verify live quote at time of entry).
+- **Stop:** 7% (post-earnings Rule 12). **Target:** +20% = $130–138.
+- **Rate-sensitivity:** LOW (consumer staples). Rate-sensitive count after entry: 0/2 ✓.
+- **Gate failures today:** VIX 22.91 → gate FAILED. No action today.
+
+**2. HD (Home Depot) — Consumer Discretionary — SKIP**
+- Reports BMO today. Consumer Discretionary −0.4% YTD — NOT in sector momentum. Skip regardless of print.
+
+**3. DIS (Walt Disney) — Communication Services — SKIP**
+- Comm Services −8.4% YTD. 2 consecutive failed sector periods. **SKIP.**
+
+**4. No other setups**
+- Tech: NVDA binary event tonight; AI sector volatility overhang. No new tech entries.
+- Energy: BANNED.
+- Materials/Industrials: No specific catalyst.
+
+### Risk Factors
+1. **NVDA earnings tonight (acute binary):** Miss → VIX spikes above 25, broad tech selloff, UNH likely caught in downdraft. Beat → potential VIX compression below 22, reopens entry gate for WMT Thursday.
+2. **Retail Sales 8:30 AM ET (medium):** Hot miss vs +0.2% consensus → UNH pressure, macro negative. Hot beat → further rate pressure (10Y 5.115+%).
+3. **VIX gate (ongoing):** Currently 22.44-22.91. Gate requires < 22. Must compress before any new entry.
+4. **10Y Treasury 5.115% (ongoing):** Rate-sensitive names suppressed. UNH is rate-uncorrelated (Health Care managed care) — mitigated.
+5. **UNH cut level $382.70 (5.1 pct pts buffer):** Thin; a sharp −5% market day could threaten. Monitor closely.
+6. **DOJ Claritev Level 4 escalation (ongoing):** Formal complaint/structural probe = immediate close trigger.
+7. **FOMC minutes Wed:** Could reveal deeper hawkish intent.
+
+### Decision: **HOLD**
+- VIX 22.91 — gate FAILED (<22 required). **No new entries today.**
+- NVDA binary event tonight creates elevated market uncertainty. Wait for resolution.
+- UNH thesis intact; no stop action needed.
+- **Next action window:** NVDA resolves tonight → assess VIX Wed pre-market → WMT Thu BMO earnings → entry at market-open routine Thursday IF beat+raise AND VIX <22.
+- Deployment 18.7% — below 75–85% target. Macro event density (NVDA, Retail Sales, FOMC minutes, Waller) justifies full cash hold through Wednesday.
+
+**Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+
