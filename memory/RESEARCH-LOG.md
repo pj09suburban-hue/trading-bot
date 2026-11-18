@@ -10680,3 +10680,75 @@ Consumer Staples: best sector Mon AND Tue (pre-market), driven by WMT/TGT cataly
 - **UNH:** Hit $389.50 low (−5.5% from Mon close), recovered to $397.69 (−3.36% from entry). Managed care sector-wide selloff (Humana, CVS also weak). No DOJ Claritev escalation (Level 3 unchanged). New risk: antitrust/breakup political discussion re-surfaced — watch-only, no formal action.
 - **NVDA earnings:** Tonight after close — primary binary event. Beat + VIX compression → WMT entry window opens Thu.
 - **Decision:** HOLD UNH. No new entries (VIX gate). Watch NVDA resolution tonight.
+
+---
+
+## 2026-11-18 — Pre-Market Research (Day 149, Week 31 Day 3 — Wednesday)
+
+### Account Snapshot
+- **Portfolio:** $105,139.47 | **Cash:** $86,141.19 (81.9%) | **Phase P&L:** +$5,139.47 (+5.14%)
+- **Open positions:** 1/6 (UNH) | **Week 31 trades:** 0/3 | **Daytrade count:** 0
+- **UNH:** 49 shares @ $411.50 entry | Current $387.72 | Unrealized −$1,165.22 (−5.78%)
+- **⚠️ CRITICAL: UNH cut level $382.70 — buffer only $5.02 (1.29%). CRITICALLY THIN.**
+- **Stop (GTC 4c159282):** $373.6485 (10% trail, HWM $415.165)
+
+### Market Context
+- **S&P 500 futures:** +0.58% at 7,401.50 (~6 AM ET) — NVDA beat lifting markets
+- **Nasdaq 100 futures:** +1.07% at 27,365 — AI trade back on
+- **VIX:** Closed Nov 17 at ~25.46 (up from 22.91 on Nov 16). Pre-market: compressing on NVDA beat, estimated 22–24 range. **Gate (<22) still likely FAILED for new entries.**
+- **WTI:** ~$84.32 (−1.96%) | **Brent:** ~$92.02 (−1.20%) — US crude inventory build +5.28M bbls; Middle East risk limits downside
+- **10Y Treasury:** ~5.1% (ongoing rate pressure)
+- **NVDA beat (after close yesterday):** Rev $115.8B (103% YoY), adj EPS $2.68 vs $2.48 est. Data Center revenue record. Major beat + raise. AI trade reinvigorated.
+- **Today BMO earnings:** TGT, TJX, LOW (LOW beat: EPS $2.98 vs $2.88 est, raised FY2026 outlook)
+- **8:30 AM ET:** Housing Starts (consensus 1.23M)
+- **2:00 PM ET:** FOMC minutes (Oct 27-28 meeting) — hawkish risk
+- **Anthropic IPO:** Pricing tonight, trading debut Thursday — AI sentiment support
+
+### Sector Momentum (YTD through Nov 17)
+| Sector | YTD | Status |
+|---|---|---|
+| Energy | ~+45% | BANNED |
+| Health Care | +21.1% | IN MOMENTUM (UNH — under regulatory pressure) |
+| Consumer Staples | +20.0% | IN MOMENTUM (WMT watchlist) |
+| Tech | ~+21% | IN MOMENTUM (NVDA beat reinvigorates) |
+| Consumer Discretionary | ~−0.4% | NOT in momentum |
+
+### UNH Thesis Check — ⚠️ ELEVATED ALERT
+- **DOJ Claritev:** NO Level 4 escalation. No formal complaint. Level 3 unchanged (civil CIDs, criminal probe wound down). **Thesis condition INTACT.**
+- **NEW RISK — CMS CRUSH audit rule:** Proposed rule would widen Medicare Advantage audits and extrapolate findings back to payment year 2018. This was the PRIMARY driver of UNH's −5.42% drop Nov 17. Material new headwind on MA margins. Elevated watch — not formal enforcement yet.
+- **Senator Warren breakup bill:** Call to break up vertically integrated health insurers. Watch-only; no legislation introduced.
+- **UNH pre-market:** ~$387.72 (−0.50% from $389.68 Nov 17 close). NVDA-driven market lift may provide slight support today.
+- **Cut level buffer:** $387.72 − $382.70 = **$5.02 (1.29%)** — CRITICALLY THIN.
+- **Conclusion:** Thesis technically intact (DOJ Claritev Level 3). BUT CMS CRUSH + Warren antitrust = materially increased headwinds. HOLD with extreme vigilance. Market-open routine must verify live price and act immediately if ≤ $382.70.
+
+### Trade Ideas
+
+**1. WMT (Walmart) — Consumer Staples — WATCHLIST (primary)**
+- **Catalyst:** Thu Nov 19 BMO earnings. Beat + raise → entry Thu at market-open routine.
+- **Entry condition:** Beat + raise AND VIX <22 at time of entry.
+- **Entry range:** ~$108–115 (verify live quote at entry).
+- **Stop:** 7% (post-earnings Rule 12). **Target:** +20%.
+- **Rate-sensitive:** LOW. Rate count after entry: 0/2 ✓.
+- **Gate today:** VIX likely >22 → no entry today.
+
+**2. TGT/TJX — Consumer Staples — SKIP today**
+- Reports BMO today. VIX gate likely failed. Skip.
+
+**3. No other setups** — other sectors banned, below threshold, or VIX gate failed.
+
+### Risk Factors
+1. **CMS CRUSH audit proposal (new, elevated):** Retroactive MA audits to 2018 — potential major UNH liability. No formal rule yet.
+2. **UNH cut level CRITICALLY THIN (1.29% buffer):** Any managed care selling triggers cut at $382.70. Market-open routine must enforce.
+3. **FOMC minutes 2:00 PM ET:** Could reveal deeper hawkish intent → rate pressure, risk-off.
+4. **VIX >22 gate (ongoing):** Even with NVDA compression, gate may remain failed today.
+5. **DOJ Claritev Level 4 escalation (ongoing):** Level 3 unchanged. Formal complaint = immediate close trigger.
+6. **Senator Warren antitrust bill (ongoing):** Watch-only.
+
+### Decision: **HOLD**
+- VIX likely still >22 — gate FAILED for new entries.
+- UNH at CRITICALLY THIN cut buffer (1.29%). Hold but market-open routine must enforce cut rule if price ≤ $382.70.
+- NVDA beat provides positive market backdrop; potential minor UNH lift today.
+- **Next action window:** Market open → verify UNH vs cut level. Thu Nov 19 BMO WMT earnings → entry IF beat+raise AND VIX <22.
+- Deployment 18.1% — well below 75-85% target. Macro/VIX environment justifies full cash hold.
+
+**Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
