@@ -7624,3 +7624,38 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
 **Key watch (Wed Nov 18):** UNH cut level $382.70 — buffer VERY THIN $10.13 (2.46 pct pts). Stop $373.6485, HWM $415.165. DOJ Claritev Level 4 escalation = immediate close. Antitrust/breakup = watch-only. NVDA post-earnings VIX reset overnight — if VIX drops below 22, monitor for new entry; WMT reports Thu Nov 20 BMO.
+
+---
+
+## 2026-11-18 — Midday Scan (Day 149, Week 31 Day 3 — Wednesday)
+
+**Portfolio:** $104,467.19 | **Cash:** $104,467.19 (100%) | **Open positions:** 0/6 | **Phase P&L:** +$4,467.19 (+4.47%)
+
+| Ticker | Shares | Entry | Exit | Realized P&L | Closed by |
+|---|---|---|---|---|---|
+| UNH | 49 | $411.50 | $374.00 | −$1,837.50 (−9.11%) | Trailing stop (GTC 4c159282, 9:48 AM ET) |
+
+**STEP 3 — Cut losers:** No open positions at scan time — UNH trailing stop already triggered.
+
+**STEP 4 — Stop tightening:** No open positions.
+
+**STEP 5 — Position exit — UNH trailing stop triggered 9:48 AM ET:**
+- **Exit price:** $374.00 | Filled qty: 49 | Stop level: $373.6485 | HWM: $415.165
+- **Cause:** UNH opened down hard (−6.29% on the day, contributing ~179 Dow points). Price gapped through -7% manual cut level ($382.70) at market open and triggered trailing stop at $373.6485, filled $374.00 at 9:48 AM ET.
+- **Driver:** Broad Dow selloff; no specific new UNH catalyst identified — continuation of managed care sector weakness (CMS CRUSH audit proposal, Medicare Advantage margin concerns). Market risk aversion amplified the move.
+- **Realized P&L:** 49 × ($374.00 − $411.50) = −$1,837.50 (−9.11% from entry)
+- **Stop worked as intended.** Manual -7% cut was bypassed by gap-down open; trailing stop was the backstop.
+- **DOJ Claritev:** No Level 4 escalation. Thesis was technically intact; stock closed by stop mechanics, not thesis break.
+
+**STEP 6 — Intraday research:**
+- **VIX:** 24.89 (12:44 PM ET) — gate FAILED (<22 required). No new entries.
+- **UNH intraday:** −6.29%, primary Dow drag. No new company-specific catalyst; sector-wide pressure.
+- **WMT earnings (Thu Nov 19 BMO):** No specific analyst consensus data available. Primary next setup — entry IF beat+raise AND VIX <22.
+- **FOMC minutes (2:00 PM ET):** Still pending at scan time.
+
+**STEP 7 — Notification:** Action taken (stop triggered, position closed) → Slack sent.
+
+**Closed trades to date (this validation phase):** 10 closed trades ≥ 6 threshold ✓ | **Validation criterion met.**
+
+**Week 31 trades:** 0/3 | **Open positions:** 0/6 | **Daytrade count:** 0
+**Key watch:** VIX 24.89 — gate still FAILED. Next setup: WMT Thu Nov 19 BMO earnings (beat+raise+VIX<22 → entry at market-open routine). FOMC minutes 2:00 PM ET today — hawkish risk. No open positions, 100% cash.

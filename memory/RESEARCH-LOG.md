@@ -10752,3 +10752,10 @@ Consumer Staples: best sector Mon AND Tue (pre-market), driven by WMT/TGT cataly
 - Deployment 18.1% — well below 75-85% target. Macro/VIX environment justifies full cash hold.
 
 **Week 31 trades:** 0/3 | **Open positions:** 1/6 (UNH) | **Daytrade count:** 0
+
+### Midday Addendum — 2026-11-18
+- **UNH stop-out at open:** Trailing stop triggered 9:48 AM ET at $374.00 (stop $373.6485, HWM $415.165). Realized −$1,837.50 (−9.11%). UNH −6.29% intraday, primary Dow drag (~179 pts). Driver: continued managed care sector weakness; no new company-specific catalyst beyond CMS CRUSH + broad risk aversion.
+- **VIX:** 24.89 at 12:44 PM ET — gate FAILED. No new entries.
+- **FOMC minutes (2:00 PM ET):** Still pending — hawkish risk remains.
+- **WMT tomorrow (Thu Nov 19 BMO):** Primary next setup; no consensus data available yet. Entry gated on beat+raise AND VIX <22.
+- **Portfolio:** 100% cash, $104,467.19. Phase P&L +4.47%.
