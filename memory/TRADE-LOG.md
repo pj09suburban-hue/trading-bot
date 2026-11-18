@@ -7659,3 +7659,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 31 trades:** 0/3 | **Open positions:** 0/6 | **Daytrade count:** 0
 **Key watch:** VIX 24.89 — gate still FAILED. Next setup: WMT Thu Nov 19 BMO earnings (beat+raise+VIX<22 → entry at market-open routine). FOMC minutes 2:00 PM ET today — hawkish risk. No open positions, 100% cash.
+
+---
+
+## 2026-11-18 — EOD Snapshot (Day 149, Week 31 Day 3 — Wednesday)
+**Portfolio:** $104,467.19 | **Cash:** $104,467.19 (100%) | **Day P&L:** −$768.32 (−0.73%) | **Phase P&L:** +$4,467.19 (+4.47%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| — | — | — | — | — | — | — |
+
+**Notes:** Day 149 (Wednesday, Week 31 Day 3). UNH trailing stop triggered at open (9:48 AM ET): 49sh sold at $374.00, realized −$1,837.50 (−9.11%). UNH gapped down at open, blew through the manual −7% cut level ($382.70) and triggered GTC stop at $373.6485, filled $374.00. Driver: continued managed care sector weakness (CMS CRUSH audit, Medicare Advantage margin pressure, antitrust discourse). Stop worked as designed. No open positions after 9:48 AM ET; account 100% cash. VIX 24.89 at midday — entry gate failed all session. No new trades placed. FOMC minutes (2 PM ET) pending at midday — any hawkish outcome would reinforce elevated VIX. NVDA reporting tonight after close — binary event; VIX resolution depends on outcome. WMT earnings Thu Nov 19 BMO (beat+raise+VIX<22 → primary next setup). Portfolio −$768.32 on the day (−0.73%); phase +$4,467.19 (+4.47%). Week 31: 0/3 new trades.
+
+**Week 31 trades:** 0/3 | **Open positions:** 0/6 | **Daytrade count:** 0
+**Key watch (Thu Nov 19):** WMT earnings BMO — entry criteria: beat+raise+VIX<22 (after NVDA-driven overnight reset). VIX gate is the primary barrier; NVDA print determines. No open positions, 100% cash, full capacity for new trade if criteria met.
