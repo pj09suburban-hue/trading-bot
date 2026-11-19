@@ -7673,3 +7673,32 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 31 trades:** 0/3 | **Open positions:** 0/6 | **Daytrade count:** 0
 **Key watch (Thu Nov 19):** WMT earnings BMO — entry criteria: beat+raise+VIX<22 (after NVDA-driven overnight reset). VIX gate is the primary barrier; NVDA print determines. No open positions, 100% cash, full capacity for new trade if criteria met.
+
+---
+
+## 2026-11-19 — Market-Open (Day 150, Week 31 Day 4 — Thursday)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|---|---|---|---|---|---|---|---|---|
+| 2026-11-19 | WMT | BUY | 164 | ~$126 (market order, fill @ 9:30 AM ET open — PENDING) | 7% trail GTC — Rule 12 post-earnings (STOP ORDER PENDING FILL — midday must verify/place) | WMT Q3 FY27 beat+raise (3rd guidance raise); VIX 21.88 <22 ✓; WMT pre-mkt $125.75 >$125.10 ✓; Consumer Staples sector IN MOMENTUM | ~$143.64 (+14%) | 2:1 |
+
+**Alpaca order ID:** 624ca1a8-72d1-4f70-9349-095f166a34ce (status: submitted, day TIF, fills at 9:30 AM ET open)
+**Entry conditions met (pre-market, 7:40 AM ET):** VIX 21.88 (< 22 gate ✓) | WMT $125.75 (> $125.10 support ✓) | Beat+raise catalyst ✓ | Consumer Staples momentum ✓
+**Post-earnings Rule 12:** Initial stop = 7% trail (not 10%) — entry within 3 days of earnings print.
+**Stop parameters:** 7% trailing, GTC — to be placed immediately at fill confirmation. At ~$126 entry: stop level ~$117.18, HWM = fill price.
+**Rate-sensitive:** NO — rate count 0/2 ✓
+
+**Buy-side gate (all passed):**
+- Positions: 0+1=1 ≤ 6 ✓
+- Trades week 31: 0+1=1 ≤ 3 ✓
+- Position cost: 164×$126≈$20,664 ≤ $20,893 (20% of equity $104,467) ✓
+- Cash: $104,467 ✓
+- PDT count: 0 < 3 ✓
+- Catalyst in RESEARCH-LOG: ✓
+- Stock (not options): ✓
+
+**Risk flags (noted, proceeding):** Tepid pre-market reaction (−0.47% from $127.36 close). Three-report earnings losing streak risk. Guidance raised but described as conservative vs. analyst expectations. Earnings call 8 AM ET — Q&A may move price before open.
+
+⚠️ **MIDDAY SCAN ACTION REQUIRED:** Confirm WMT buy filled. If filled, verify 7% trailing stop GTC is active. If stop missing, place immediately: `bash scripts/alpaca.sh order '{"symbol":"WMT","qty":"164","side":"sell","type":"trailing_stop","trail_percent":"7","time_in_force":"gtc"}'`
+
+**Week 31 trades:** 1/3 (pending fill) | **Open positions:** 0/6 (pending fill) | **Daytrade count:** 0
