@@ -10759,3 +10759,70 @@ Consumer Staples: best sector Mon AND Tue (pre-market), driven by WMT/TGT cataly
 - **FOMC minutes (2:00 PM ET):** Still pending — hawkish risk remains.
 - **WMT tomorrow (Thu Nov 19 BMO):** Primary next setup; no consensus data available yet. Entry gated on beat+raise AND VIX <22.
 - **Portfolio:** 100% cash, $104,467.19. Phase P&L +4.47%.
+
+---
+
+## 2026-11-19 — Pre-Market Research (Day 150, Week 31 Day 4 — Thursday)
+
+### Account Snapshot
+- **Equity:** $104,466.80 | **Cash:** $104,466.80 (100%) | **Buying power:** $417,867.20
+- **Open positions:** 0/6 | **Week 31 trades:** 0/3 | **Daytrade count:** 0
+- **Phase P&L:** +$4,466.80 (+4.47%)
+
+### Market Context
+| Indicator | Level | Signal |
+|---|---|---|
+| WTI Crude | ~$83/bbl | Stable; supply surplus weighing |
+| Brent Crude | ~$92/bbl | Stable |
+| S&P 500 Futures | +1.04–1.15% | Risk-on (NVDA beat + Anthropic IPO + WMT beat) |
+| VIX (premarket) | **21.88** (−10.91% from 24.56 close) | **POTENTIALLY BELOW 22 GATE** — needs confirmation at open |
+| VIX (Nov 18 close) | 24.56 | Was above gate |
+
+### Today's Economic Releases
+- **8:30 AM ET:** Initial jobless claims (consensus 197K vs prior 200K) — below prior = labor resilient, mild market positive
+- **8:30 AM ET:** Philly Fed manufacturing index (Nov)
+- **10:00 AM ET:** Leading indicators (Oct)
+- No CPI/FOMC/major macro
+
+### Sector Momentum (YTD)
+| Sector | YTD | 1-Month | Status |
+|---|---|---|---|
+| Energy | ~+47% | — | BANNED (2 consecutive losses) |
+| Health Care | ~+22% | +9.6% | IN MOMENTUM — exited (UNH stopped out -9.11%) |
+| Consumer Staples | +20.2% | +9.8% | **IN MOMENTUM** |
+| Tech (Info Tech) | +13–22% | −12.1% | Mixed — YTD positive but 1-month very weak |
+
+### Key News
+- **WMT Q3 FY2027 (BMO today):** EPS $0.65 vs $0.64 est (BEAT). Revenue $188.8B vs $187.27B est (BEAT, +5.2% YoY). FY27 guidance raised 3rd time: EPS $2.84–$2.89 (from $2.80–$2.87), sales growth 4.9–5.2% (from 4.0–5.0%). *Caveat: guidance "more conservative than analysts expected."* WMT premarket ~$126.51–$126.98 (prior close $127.36) — flat to slightly down. Three-report losing streak risk.
+- **PANW Q1 FY2027 (AH Wed):** EPS $1.05 vs $0.97 (BEAT). Revenue $3.44B vs $3.31B (BEAT). FY27 guidance raised. Premarket +9.6–10% (~$370–390).
+- **NVDA:** Revenue +103% YoY to $115.8B. Beat. AI demand narrative reinforced.
+- **Anthropic IPO:** Debut today. AI sentiment lift.
+
+### Trade Ideas
+
+**1. WMT — Consumer Staples — PRIMARY SETUP (TRADE-conditional)**
+- **Catalyst:** Beat + raise (3rd guidance raise). E-commerce US +23%, global advertising +25%, membership +17%.
+- **Sector:** Consumer Staples +20.2% YTD — IN MOMENTUM ✓
+- **Entry condition:** VIX < 22 confirmed at market open AND WMT opens ≥ $125.10 (key support per TradingKey analysis).
+- **Shares:** $20,893 / ~$127 ≈ 165 shares (verify live quote at open)
+- **Stop:** 7% initial (post-earnings Rule 12). ~$118.11 from $127 entry.
+- **Target:** 2:1 R:R → +14% ≈ $144.78
+- **Rate-sensitive:** NO → rate count stays 0/2 ✓
+- **Risk flag:** Tepid premarket reaction (-0.30%) despite beat+raise. Three-report losing streak. Guidance conservative vs. expectations.
+- **Buy-side gate:** Positions 1 ≤ 6 ✓ | Trades 1 ≤ 3 ✓ | Cost ~$20,893 ≤ 20% equity ✓ | Cash ✓ | Catalyst ✓ | Stock ✓
+
+**2. PANW — Tech/Cybersecurity — SKIP**
+- Beat+raise ✓ but already +9.6-10% gap at open. Tech 1-month momentum -12%. Sell-the-news risk elevated. Skip.
+
+### Risk Factors
+1. **WMT sell-the-news / three-report losing streak:** Tepid premarket despite beat+raise.
+2. **VIX gate:** Premarket 21.88 — must confirm <22 at open. Jobless claims 8:30 ET could spike VIX.
+3. **Guidance conservatism (WMT):** Raised but below analyst expectations — limits sustained upside catalyst.
+4. **Tech sector 1-month rotation:** -12% — PANW gap may face headwinds.
+
+### Decision: **TRADE-conditional**
+- WMT: Entry at market-open routine IF VIX <22 confirmed at open AND WMT ≥ $125.10. Post-earnings Rule 12 applies (7% initial stop).
+- If VIX ≥ 22 at open → HOLD, no entry.
+- PANW: Skip.
+
+**Week 31 trades:** 0/3 | **Open positions:** 0/6 | **Daytrade count:** 0
