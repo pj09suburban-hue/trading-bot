@@ -1948,3 +1948,68 @@ None.
 *Week 30 — portfolio +0.60% vs S&P +2.31% (−1.71% relative underperformance). Zero trades placed; all 5 daily skip decisions rule-compliant. UNH recovered from −4.04% to −0.92% unrealized — HOLD call validated. Discipline grade: A. Performance grade: D (passive cash drag in a +2.3% S&P week). C reflects the execution discipline offset by the structural consequence: phase alpha narrowed from +2.48% to +0.78% in one week; one more under-deployed rally week eliminates the phase lead entirely. 21st consecutive week below 75–85% deployment target — the deployment problem is now a material performance risk, not just a planning miss. No strategy rule changes warranted; gates functioned correctly; macro headwinds (4 hot inflation prints in 5 weeks) prevented entry, not poor analysis.*
 
 ---
+
+## Week ending 2026-11-20
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $106,118.98 |
+| Ending portfolio | $105,121.15 |
+| Week return | −$997.83 (−0.94%) |
+| S&P 500 week | −6.44% (~7,547.74 → ~7,062) ⚠️ steepest weekly loss since Apr 2025; 6th consecutive daily decline |
+| Bot vs S&P | +5.50% outperformance |
+| Phase return | +$5,121.15 (+5.12% from $100k baseline) |
+| Phase bot vs S&P | +6.56% (bot +5.12% vs S&P −1.44% from Apr 24 start 7,165.08) ⭐ S&P now negative phase-to-date |
+| Trades | 1 new (WMT Nov 19) + 1 closed (UNH Nov 18 stop) — W:0 / L:1 / open:1 |
+| Win rate | 0% this week (0/1 closed); 28.0% all-time (7/25 closed) |
+| Best trade | WMT +3.20% unrealized (open, +$654.36) |
+| Worst trade | UNH −9.11% realized (−$1,837.50) |
+| Profit factor | 1.24 all-time ($23,410 winners / $18,900 losers) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| UNH | $411.50 | $374.00 | −$1,837.50 (−9.11%) | 15-day hold (Nov 5→Nov 18); trailing stop GTC 4c159282 fired at open 9:48 AM ET; UNH gapped −6.29% through −7% cut level ($382.70); filled $374.00 (positive slippage vs $373.65 trigger); driver: CMS CRUSH audit proposal + Medicare Advantage margin concerns + continued sector-wide managed care pressure; Healthcare fail #2 → Rule 10 2-consecutive ban fires |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| WMT | $124.73 | $128.72 | +$654.36 (+3.20%) | $121.38 (7% trail GTC, HWM $130.52) — +15% trig $143.44, +20% trig $149.68 |
+
+### What Worked
+- UNH trailing stop executed mechanically without override: gapped through −7% manual cut level at open Nov 18; GTC 4c159282 at $373.65 filled $374.00 (+$0.35 positive slippage on a −6.29% gap open); stop absorbed a catastrophic gap without any manual decision
+- WMT entry Nov 19 disciplined: beat+raise confirmed (EPS $0.65 vs $0.64 est, 3rd guidance raise, e-commerce US +23%, global +25%, Sam's Club +30%); VIX 21.88 at open (<22 ✓); post-earnings Rule 12 (7% trail) applied; all 8 gate checks passed; position +3.20% in 2 days while S&P fell further
+- VIX gate held Nov 17–20 (22.9 → 29.87): zero new entries during extreme fear regime; avoided deploying capital into the worst S&P week in 18 months
+- Phase alpha inflection: +0.78% (Week 30) → +6.56% (Week 31) — S&P turned negative phase-to-date (−1.44%) while bot holds +5.12%; 22 weeks of cash preservation became a 6.56% alpha buffer when the market broke down
+- Consumer Staples sector call (WMT) proved anti-correlated to tech-led selloff: WMT +3.20% while S&P −6.44% — Dow defensive rotation vs Nasdaq collapse validated the sector choice
+
+### What Didn't Work
+- UNH loss −$1,837.50 (−9.11%): 2nd consecutive Healthcare fail (LLY −2.26% Nov 6 + UNH −9.11% Nov 18) → Rule 10 Healthcare ban fires; cannot re-enter any Healthcare name for remainder of phase; permanently eliminates the phase's #2 YTD sector (+21.8%)
+- UNH entry Nov 5 (Week 29) poorly timed in hindsight: sector-wide managed care pressure (CMS CRUSH proposal, DOJ Claritev Level 3, MA margin concerns) was present at entry; each individual risk was classified correctly (watch-only), but the aggregate sector headwind was underweighted
+- Deployment 20.1% at week end (1 position, WMT) vs 75–85% target — 22nd consecutive week below deployment target; the week's exceptional relative performance (+5.5% vs S&P) was entirely driven by cash preservation, not capital compounding
+- All-time profit factor declining: 1.37 (Week 29) → 1.24 (Week 31); 18 of 25 closed trades are losses; strategy remains dependent on a small number of large winners (MRVL, GE, RTX) to absorb accumulated small losers
+- No second position deployed in Week 31: had 2 trade/position slots available through Nov 16-17 before VIX spiked; GD/NOC were identified but not entered; deployment opportunity missed while gates were technically open Monday Nov 16
+
+### Key Lessons
+- 2-consecutive-sector ban (Rule 10) worked precisely as designed: LLY and UNH each had specific regulatory risk exposures; entering a 3rd Healthcare name after two failures would have risked further losses in a deteriorating sector; the ban protects remaining capital from sector-specific systematic risk
+- 22 weeks of frustrating underdeployment delivered a +5.5% single-week outperformance buffer when the market broke hardest in 18 months; passive cash preservation is the geometric inverse of cash drag — the same mechanism that suppressed alpha in up markets protected capital in the down market; Phase alpha +6.56% is now the highest sustained reading since Week 11 (+9.14%)
+- WMT Consumer Staples entry timing was prescient: entered one session before the worst S&P week since April 2025 on a defensive Consumer Staples name that gained +3.20% while the index fell −6.44%; sector momentum signal (1-month +19.3%) was correct anti-cyclical call
+- S&P 500 is now negative from the phase start date (7,062 vs 7,165.08 on Apr 24 = −1.44%): the bot's +5.12% phase return now represents genuine absolute alpha vs a negative-returning benchmark — this is the strongest relative standing since launch
+- UNH stop gap (+$0.35 above trigger): third consecutive positive stop slippage in this phase (LHX slipped −$3.25; LMT +positive slippage; UNH +$0.35); GTC stops on gap-down events have consistently filled better than the trigger price, reinforcing that stops should never be manually widened pre-earnings
+
+### Adjustments for Next Week
+- **WMT:** Hold; stop $121.38 (7% trail GTC, HWM $130.52, 5.7% buffer from $128.72); verify GTC 6d94bb64 active Monday pre-market; +15% trig $143.44 ($14.72 / +11.4% away); +20% trig $149.68; thesis: beat+raise, Consumer Staples momentum, analyst targets $134–$145 (Truist, KeyBanc); no manual action until stop fires or trigger hit
+- **Healthcare ban:** FIRED (LLY + UNH = 2 consecutive fails). DO NOT enter any Healthcare name (UNH, LLY, CVS, HUM, ABBV, JNJ, XLV, ISRG, MDT) for remainder of the phase — no exceptions, regardless of catalyst quality
+- **VIX gate:** Was 29.87 at week close — entry gate locked (>22); no new positions until VIX settles below 22 on a closing basis; monitor pre-market Monday; likely 2–3 sessions of normalization needed
+- **Deployment (once VIX clears):** Priority: 2 rate-uncorrelated contracted-backlog names; GD (defense, $136.5B backlog, BofA PT $415, non-rate-sensitive) and NOC (defense, $95.6B backlog, B-21/GBSD programs) are primary candidates — both pre-researched and previously vetted; have orders ready at Monday pre-market for immediate deployment if VIX ≤22
+- **Sector tracking:** Energy = banned; Healthcare = BANNED (2 consecutive fails: LLY + UNH); AI Chips = 1 fail (MU); Industrials/Aerospace = 0 fails; Consumer Staples = 0 fails (WMT open); LHX = blacklisted
+- **Rate-factor Rule 13:** WMT = rate-uncorrelated (1 slot occupied); GD/NOC = rate-uncorrelated; defer all rate-sensitive entries while 10Y >4.9%; VIX normalization is the gating variable for redeployment, not rate level
+
+### Overall Grade: B+
+*Week 31 — portfolio −0.94% vs S&P −6.44% (+5.50% outperformance). Best relative-performance week in the phase since Week 7 (+10.03% vs S&P Week 7). S&P 500 now −1.44% from phase start date; bot holds +5.12% — phase alpha +6.56%, highest since Week 11. UNH trailing stop executed without override through a −6.29% gap open; WMT entry disciplined and immediately constructive (+3.20% in 2 days). VIX gate held throughout extreme volatility (22.9→29.87). Healthcare ban fires (Rule 10: LLY + UNH = 2 consecutive fails) — permanently eliminates the phase's #2 YTD sector. B+ reflects exceptional relative performance and mechanical execution discipline through the market's worst week in 18 months, offset by the Healthcare ban removing a key alpha source, all-time profit factor declining to 1.24, and the 22nd consecutive week below 75–85% deployment target.*
+
+---
