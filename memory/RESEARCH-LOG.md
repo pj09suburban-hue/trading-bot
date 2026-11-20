@@ -10826,3 +10826,71 @@ Consumer Staples: best sector Mon AND Tue (pre-market), driven by WMT/TGT cataly
 - PANW: Skip.
 
 **Week 31 trades:** 0/3 | **Open positions:** 0/6 | **Daytrade count:** 0
+
+---
+
+## 2026-11-20 — Pre-Market Research (Day 151, Week 31 Day 5 — Friday / Weekly Review Day)
+
+### Account Snapshot
+- **Equity:** $105,029.31 | **Cash:** $84,011.07 (80.0%) | **Phase P&L:** +$5,029.31 (+5.03%)
+- **Positions:** 1/6 (WMT) | **Trades week 31:** 1/3 | **Daytrade count:** 0
+- **Buying power:** $189,040.38 (margin) / $94,520.19 (cash/non-margin)
+
+### Open Positions
+| Ticker | Shares | Entry | Premarket | Unrealized P&L | Stop |
+|---|---|---|---|---|---|
+| WMT | 164 | $124.73 | $128.16 | +$562.52 (+2.75%) | $118.06 (7% trail GTC, HWM $126.95) |
+
+### Market Context
+| Factor | Level | Note |
+|---|---|---|
+| WTI crude | ~$83–85/bbl | Third consecutive weekly decline; supply surplus concerns |
+| Brent crude | ~$92/bbl | Range-bound, slightly negative |
+| S&P 500 futures | ~7,174 (−0.3–0.5%) | 6th consecutive daily decline; longest streak since early 2020 |
+| Nasdaq 100 futures | ~26,390 (−0.79–1.46%) | Tech selloff: Anthropic IPO, semiconductor weakness |
+| Dow futures | ~49,193 (+0.03%) | Defensive rotation visible — Dow outperforming |
+| **VIX** | **29.87 (+5.03%)** | **GATE FAILED — well above 22** (prior close 28.44; Nov 18 close 24.56) |
+
+### Today's Releases
+- **10:00 AM ET:** University of Michigan Consumer Sentiment (Final Nov) — focus on 1yr/5yr inflation expectations (prior 51)
+- **BJ's Wholesale Club (BJ):** BMO earnings — Consumer Staples read-through
+- **Anthropic IPO trading day:** AI sentiment catalyst — opened trading after $81.3B debut; down ~6.37% premarket
+- **NVDA 10-Q pending:** Still unfiled; regulatory risk overhang
+
+### Sector Momentum (YTD)
+| Sector | YTD | 1-Month | Status |
+|---|---|---|---|
+| Energy | +39.8–42.8% | — | **BANNED** (2 consecutive losses) |
+| Health Care | +21.8% | +9.6% | IN MOMENTUM — exited (UNH −9.11%) |
+| Consumer Staples | +20.2% | +19.3% | **IN MOMENTUM** ✓ |
+| Info Tech | +8.9–13.1% | −8.6 to −14.9% | AVOID — 1-month deeply negative |
+| Communication Services | −6.7 to −9.5% | — | AVOID |
+
+### WMT Thesis Update
+- Q3 beat+raise confirmed (EPS $0.65 vs $0.64, revenue $188.8B vs $187.3B est, 3rd guidance raise)
+- Morgan Stanley: target raised $125→$135, Overweight ✓
+- Truist: target raised $114→$134, Buy ✓
+- E-commerce: US +23%, global +17%, Sam's Club +30% — digital flywheel intact
+- Broad market defensive rotation (Dow > Nasdaq) favors Consumer Staples
+- Nasdaq transfer to NASDAQ from NYSE effective Dec 9, 2026 (listing event, no thesis impact)
+- **Risk:** WMT fell 1.04% on earnings day (sell-the-news); 6th consecutive S&P decline adds pressure
+- **Stop level:** $118.06 auto-trailing; HWM $126.95 → will auto-update as price rises above $126.95
+
+### Trade Ideas
+1. **WMT — HOLD (existing position):** Thesis intact (beat+raise + analyst upgrades + Consumer Staples momentum). VIX >22 — no add. Monitor stop.
+2. **BJ's Wholesale Club (BJ) — WATCH:** BMO earnings today. Consumer Staples sector. If beat+raise with VIX reset <22 next week, potential entry. Skip today (VIX gate fails).
+3. **No new entries today** — VIX 29.87 >> 22 gate. Market on 6th consecutive daily decline. Patience > activity.
+
+### Risk Factors
+1. **VIX 29.87 gate failure:** No new entries today. Persistent elevated volatility.
+2. **Tech-led selloff contagion:** Semiconductor weakness, Anthropic IPO disappointment could drag broader market.
+3. **WMT sell-the-news continuation:** Broad market weakness may pressure even defensive names.
+4. **U Mich inflation expectations:** Hawkish surprise could spike VIX further, pressure all positions.
+
+### Decision: **HOLD**
+- VIX 29.87 >> 22 → entry gate FAILED for all new positions
+- WMT: hold, stop active, thesis intact
+- No new trades today
+- Weekly review routine fires 4 PM ET
+
+**Week 31 trades:** 1/3 | **Open positions:** 1/6 | **Daytrade count:** 0
