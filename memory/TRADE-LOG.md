@@ -7778,3 +7778,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 31 trades:** 1/3 | **Open positions:** 1/6 (WMT) | **Daytrade count:** 0
 **Key watch:** WMT cut level $121.38 (7% trail GTC, HWM $130.52). Tighten to 7% at +15% ($143.44), to 5% at +20% ($149.68). Weekly review fires 4 PM ET today.
+
+---
+
+## 2026-11-20 — EOD Snapshot (Day 151, Week 31 Day 5 — Friday)
+**Portfolio:** $105,170.35 | **Cash:** $84,011.07 (79.9%) | **Day P&L:** +$488.72 (+0.47%) | **Phase P&L:** +$5,170.35 (+5.17%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| WMT | 164 | $124.73 | $129.03 | +2.37% | +$704.38 (+3.44%) | $121.38 (7% trail GTC, HWM $130.52) |
+
+**Notes:** Day 151 (Friday, Week 31 Day 5). No trades today — weekly review day, no new setups met the bar. WMT continued its post-earnings recovery: closed $129.03, up +2.37% on the day, unrealized +$704.38 (+3.44%) vs entry $124.73. Trailing stop auto-trailed to HWM $130.52, stop $121.38. Thesis intact: beat+raise, Consumer Staples momentum, analyst target hikes (Truist $134, KeyBanc $145). Portfolio +$488.72 on the day (+0.47%); phase +$5,170.35 (+5.17%). Week 31 final: 1/3 trades used. Weekend — hold WMT; weekly review fires 4 PM ET today; next tighten at +15% ($143.44) → 7% trail, +20% ($149.68) → 5% trail.
+
+**Week 31 trades:** 1/3 | **Open positions:** 1/6 (WMT) | **Daytrade count:** 0
+**Key watch (Mon Nov 23):** Hold WMT — stop $121.38 (7% trail GTC, HWM $130.52). No new trades unless strong catalyst + sector momentum confirmed. Retail sector watch: holiday spend data, any WMT analyst updates.
