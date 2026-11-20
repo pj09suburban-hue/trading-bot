@@ -10894,3 +10894,17 @@ Consumer Staples: best sector Mon AND Tue (pre-market), driven by WMT/TGT cataly
 - Weekly review routine fires 4 PM ET
 
 **Week 31 trades:** 1/3 | **Open positions:** 1/6 | **Daytrade count:** 0
+
+---
+
+### 2026-11-20 — Afternoon Addendum (Midday Scan)
+
+**WMT intraday catalyst confirmed (Perplexity, ~12:12 PM ET):**
+- Truist raised target $114→$134 (Buy); KeyBanc $145 (Buy) — multiple analyst upgrades post-earnings
+- University of Michigan preliminary November consumer sentiment rose unexpectedly to 51.0 — positive for consumer-facing names
+- Holiday narrative: inflation-weary shoppers seeking value; WMT gaining market share across income levels
+- Holiday pricing action: WMT lowered prices on 7,700 items
+- CEO John Furner reaffirmed low-price strategy
+- **No new negative catalyst.** Price action (+3.26% intraday) driven by delayed institutional reaction to earnings beat + analyst upgrades.
+
+**WMT thesis status:** INTACT AND STRENGTHENED. Analyst consensus average target $134.68 (Strong Buy). Current price $130.145 — still below consensus target, 2.7% upside to Truist target $134, 11.4% to KeyBanc $145.
