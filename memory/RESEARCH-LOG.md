@@ -10908,3 +10908,82 @@ Consumer Staples: best sector Mon AND Tue (pre-market), driven by WMT/TGT cataly
 - **No new negative catalyst.** Price action (+3.26% intraday) driven by delayed institutional reaction to earnings beat + analyst upgrades.
 
 **WMT thesis status:** INTACT AND STRENGTHENED. Analyst consensus average target $134.68 (Strong Buy). Current price $130.145 — still below consensus target, 2.7% upside to Truist target $134, 11.4% to KeyBanc $145.
+
+---
+
+## 2026-11-23 — Pre-Market Research (Day 152, Week 32 Day 1 — Monday)
+
+### Account Snapshot
+- **Equity:** $105,116.23 | **Cash:** $84,011.07 (79.9%) | **Phase P&L:** +$5,116.23 (+5.12%)
+- **Positions:** 1/6 (WMT) | **Trades week 32:** 0/3 | **Daytrade count:** 0
+- **Buying power:** $189,127.30 (regt) / $94,563.65 (non-margin)
+
+### Open Positions
+| Ticker | Shares | Entry | Premarket | Unrealized P&L | Stop |
+|---|---|---|---|---|---|
+| WMT | 164 | $124.73 | $128.61 | +$649.44 (+3.18%) | $121.38 (7% trail GTC, HWM $130.52, Order 6d94bb64) |
+
+### Market Context
+| Factor | Level | Note |
+|---|---|---|
+| WTI crude | ~$83.57/bbl | 3rd consecutive weekly decline; global demand outlook soft |
+| Brent crude | ~$92.67/bbl | Slight uptick overnight; Gulf risk premium holds |
+| S&P 500 futures | ~7,135.50 (+2.9%) | Relief rally after 7 consecutive losing sessions; S&P in correction |
+| Nasdaq 100 futures | ~26,018 (+3.5%) | Chip stocks (SOXX +6%) led by short-covering |
+| Dow futures | ~49,226 (+2.1%) | Defensives participating |
+| **VIX** | **~31.21 (premarket; closed Nov 20 at 35.89)** | **GATE FAILED — dropping but still well above 22** |
+| 10Y yield | ~4.91% | Slight decline from prior highs |
+| Fed funds | 3.75–4.00% | ~96% probability 25bps December hike |
+
+### Today's Key Releases
+| Date | Release | Note |
+|---|---|---|
+| Mon Nov 23 | Flash US PMIs | Near consensus expected |
+| Mon Nov 23 | NY Fed Williams speaks (4 PM ET) | Watch for rate guidance |
+| Tue Nov 24 | CB Consumer Confidence, ADI/DLTR/BBY/MDT earnings BMO | DLTR = Consumer Staples read-through |
+| **Wed Nov 25** | **Oct Core PCE 8:30 AM ET + Q3 GDP 2nd est + Durable Goods** | **PRIMARY MARKET RISK THIS WEEK** |
+| Wed Nov 25 | Fed Beige Book 2 PM ET | Inflation narrative |
+| Thu Nov 26 | Thanksgiving — markets CLOSED | — |
+| Fri Nov 27 | Shortened session | Light calendar |
+
+**Core PCE consensus:** +0.3% MoM (up from prior 3.1% → 3.2% YoY). Hotter print → VIX spike, rate hike confirmation.
+
+### Sector Momentum (YTD as of Nov 20)
+| Sector | YTD | 1-Month | Status |
+|---|---|---|---|
+| Energy | +48.2% | — | **BANNED** (2 consecutive losses) |
+| Consumer Staples | +17.75–22.63% | +4.12% | **IN MOMENTUM ✓ (best broad sector)** |
+| Health Care | — | — | Exited (UNH −9.11%) |
+| Info Tech | negative 1-mo | −8.6% (Nov) | AVOID — correction in progress |
+| Communication Services | negative | — | AVOID |
+
+### WMT Thesis Update (Nov 23)
+- Q3 beat+raise confirmed (EPS $0.65 vs $0.64, revenue $188.8B, 3rd guidance raise) ✓
+- Analyst surge post-earnings: TD Cowen $147, Telsey $145, Jefferies $145, Roth $143, Bernstein $142, BTIG $140, GS $134 — consensus avg ~$137.97, 28 Buy / 2 Hold
+- Consumer Staples +0.67% on Nov 20 — only sector positive on the worst day of the week
+- Current $128.61 premarket; stop $121.38 (7% trail, Rule 12 post-earnings), HWM $130.52
+- Holiday narrative: WMT lowered prices on 7,700 items; inflation-weary shoppers gravitating to value
+- E-commerce: US +23%, global +17%, Sam's Club +30% — digital flywheel intact
+- **Stop note:** HWM $130.52 from Nov 20 intraday; relief rally could set new HWM today, auto-tightening stop further
+- **Thesis intact and strengthening.** Hold.
+
+### Trade Ideas
+1. **WMT — HOLD (existing position):** Thesis intact + analyst tailwind + Consumer Staples #1 sector. VIX ~31 → no add; stop self-trailing.
+2. **DLTR (Dollar Tree, Tue BMO):** Consumer Staples sector. Reports Tue Nov 24 BMO. If beat+raise AND VIX drops below 22 → potential entry at market-open routine. Currently watch-only. VIX needs to fall ~9 points from current 31.
+3. **No new entries today** — VIX ~31 >> 22 gate. Treat Monday's bounce as relief rally, not confirmed bottom. PCE Wednesday is the real test.
+
+### Risk Factors
+1. **VIX ~31 gate failure:** No new positions until VIX < 22. Bounce today is "mechanical" (short-covering + oversold positioning) per multiple strategists.
+2. **PCE Wednesday binary:** Hotter than expected +0.3% (or above) → confirms December hike → VIX could re-spike. Cooler → rate reprieve → VIX could reset below 22.
+3. **Holiday week thin liquidity:** Thanksgiving Thu–Fri; reduced volume amplifies moves in either direction.
+4. **WMT sell-off risk:** Even defensive names subject to broad deleveraging if PCE disappoints. Stop $121.38 is backstop.
+5. **AI trade sentiment:** This week's bounce is semiconductor/AI-led; if Nvidia/HPE/Zoom disappoint AMC today, bounce could reverse quickly.
+
+### Decision: **HOLD**
+- VIX ~31 >> 22 → entry gate FAILED
+- WMT: hold, stop active ($121.38 GTC), thesis intact and strengthening
+- Watch DLTR (Tue BMO) for potential setup if VIX resets
+- Patience > activity — PCE on Wednesday is the week's key gate
+
+**Week 32 trades:** 0/3 | **Open positions:** 1/6 | **Daytrade count:** 0
+
