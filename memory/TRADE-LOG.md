@@ -7810,3 +7810,16 @@ No action taken at midday → no Slack per notification rule.
 
 **Portfolio (midday):** $105,135.09 | **Cash:** $84,011.07 (79.9%) | **Long MV:** $21,124.02 (20.1% deployed) | **Day P&L:** +$140.22 (+0.13%) | **Phase P&L:** +$5,135.09 (+5.14%)
 **Week 32 trades:** 0/3 | **Open positions:** 1/6 | **No notification sent (no action taken)**
+
+---
+
+## Nov 23 — EOD Snapshot (Day 152, Week 32 Day 1 — Monday)
+**Portfolio:** $105,211.35 | **Cash:** $84,011.07 (79.9%) | **Day P&L:** +$41.00 (+0.04%) | **Phase P&L:** +$5,211.35 (+5.21%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| WMT | 164 | $124.73 | $129.28 | +1.04% | +$746.20 (+3.65%) | $121.38 (7% trail GTC, HWM $130.52) |
+
+**Notes:** Day 152 (Monday, Week 32 Day 1). No trades today. WMT continued its recovery, closing $129.28 (+1.04% day), unrealized +$746.20 (+3.65%) vs entry $124.73. HWM still $130.52 from Nov 20 — today's close did not set a new HWM, so trailing stop stays at $121.38. Day P&L modest +$41.00 (+0.04%) reflecting quiet Monday after last week's volatility. VIX remains elevated (~31), keeping the new-entry gate closed. PCE Wednesday is the week's key catalyst. Week 32: 0/3 trades used. Phase P&L +$5,211.35 (+5.21%).
+
+**Week 32 trades:** 0/3 | **Open positions:** 1/6 | **Key watch:** WMT stop $121.38 (7% trail GTC, HWM $130.52). PCE Wed — tighten to 7% at +15% ($143.44), to 5% at +20% ($149.68).
