@@ -10987,3 +10987,86 @@ Consumer Staples: best sector Mon AND Tue (pre-market), driven by WMT/TGT cataly
 
 **Week 32 trades:** 0/3 | **Open positions:** 1/6 | **Daytrade count:** 0
 
+
+---
+
+## 2026-11-24 — Pre-Market Research (Day 153, Week 32 Day 2 — Tuesday)
+
+### Account Snapshot
+| Field | Value |
+|---|---|
+| Portfolio | $105,416.35 |
+| Cash | $84,011.07 |
+| Phase P&L | +$5,416.35 (+5.42%) |
+| Open positions | 1/6 (WMT) |
+| Week 32 trades | 0/3 |
+| Daytrade count | 0 |
+
+**WMT live:** 164 shares @ $124.73 avg, current $130.52 (+$949.56 / +4.64%). HWM $130.52 (price at HWM — stop auto-ratcheting). Stop $121.38 (7% trail GTC, Order 6d94bb64).
+
+### Market Context
+| Indicator | Value | Note |
+|---|---|---|
+| WTI crude | ~$79-80/bbl | Near 3-mo lows — excess supply, Libya pipeline restart, US-Iran talks |
+| Brent crude | ~$88-89/bbl | Below $90, 3-mo lows |
+| S&P 500 futures | 7,224–7,227 (−0.39%) | Huang/NVDA rally cooling; Monday: S&P +4.73%, NVDA +31.5% |
+| Nasdaq futures | mixed/slight neg | Chips cooling after short-covering |
+| VIX | **28.35** (+6.50%) | **GATE FAILED — need <22** (prev close 26.62, up from 35.89 Nov 20) |
+| 10Y yield | ~4.91% | Slight decline from prior highs |
+| Oil narrative | Supply-side bearish | Not a demand signal; muted Energy read-through |
+
+### Today's Key Releases
+| Time (ET) | Release | Consensus | Note |
+|---|---|---|---|
+| 9:00 AM | Case-Shiller home prices (Sep) | — | Minor |
+| 10:00 AM | **CB Consumer Confidence (Nov)** | **92.1 (prev 91.7)** | WMT/DLTR read-through |
+| 10:00 AM | Richmond Fed mfg index | — | Minor |
+| **Wed Nov 25** | **Core PCE + Q3 GDP 2nd est + Durable Goods** | **PCE +0.3% MoM** | **PRIMARY BINARY** |
+| Thu Nov 26 | Thanksgiving — markets CLOSED | — | — |
+
+### Earnings BMO Today (Nov 24)
+| Ticker | Consensus EPS | Consensus Rev | Note |
+|---|---|---|---|
+| **DLTR** | $0.89–0.91 (vs $1.21 YoY) | $5.04B | Consumer Staples — Q2 inflated by tariff refund; Q3 normalizing. Watch-only. |
+| ADI | $3.88–3.92 | $4.3–4.36B | Semis — VIX gate closed |
+| MDT | $1.33 | $9.48B | Healthcare — VIX gate closed |
+| BBY | $1.49 | $9.9B | Consumer Discretionary — VIX gate closed |
+| DELL (AMC) | — | — | AI demand read-through tonight |
+
+**DLTR actual results:** Not confirmed at research time (6:30 AM ET release, Perplexity not indexed yet). Even if beat+raise, VIX 28.35 >> 22 → entry gate CLOSED. Watch for Wed PCE VIX reset.
+
+### WMT Thesis Update
+- Q3 beat+raise ✓; Consumer Staples +17.75% YTD ✓; Sector rank #2 (non-banned) ✓
+- Analyst upgrades continuing: Guggenheim $140 ↑, Roth $143, Telsey $145, Raymond James $140, BofA $141, TD Cowen $147 — consensus avg ~$137.80, 49 ratings, Overweight
+- Freedom Capital downgraded to Hold (valuation) — sole negative; minor
+- Current $130.52 = 5.4% discount to consensus avg $137.80
+- **Thesis intact and strengthening.** Hold.
+- Stop note: HWM $130.52 today; any new intraday high will ratchet stop further. Tighten to 7% trail at +15% ($143.44), to 5% trail at +20% ($149.68).
+
+### Sector Momentum (YTD as of Nov 23)
+| Sector | YTD | 1-Month | Status |
+|---|---|---|---|
+| Energy | +26–35% | −6% (1-mo) | **BANNED** (2 consecutive losses) |
+| Consumer Staples | +15–18% | +4.12% | **IN MOMENTUM ✓** |
+| Healthcare | +18% | — | Exited (UNH); rebuild after 2-trade ban served |
+| Info Tech | −0.68% YTD | −8.6% (1-mo) | AVOID — correction |
+| Communication Services | negative | — | AVOID |
+
+### Trade Ideas
+1. **WMT — HOLD (existing position):** Thesis intact; analysts upgrading; Consumer Staples momentum; stop active. VIX 28 → no add.
+2. **DLTR (Consumer Staples) — CONDITIONAL WATCH:** If DLTR beats+raises AND PCE Wed cooler → VIX <22 possible → potential entry at market-open Wed (or Fri shortened). Catalyst: turnaround momentum, holiday value play. Entry: TBD post-PCE. Stop: 7% (post-earnings rule, Rule 12). Target: $80–85 range (20%+ upside from ~$65 current est). R:R TBD.
+3. **No new entries today** — VIX 28.35 >> 22 gate closed.
+
+### Risk Factors
+1. **VIX 28.35 — gate closed:** Huang rally test failing in premarket; chips cooling. Market needs confirmation not short-covering.
+2. **PCE Wednesday binary:** Hotter +0.3% (or above) → confirms Dec hike → VIX could re-spike toward 32–35. Cooler → rate reprieve → VIX reset toward 22 possible.
+3. **Holiday week thin liquidity:** Thu closed, Fri shortened. Amplifies any PCE-driven move.
+4. **WMT stop risk:** HWM $130.52, stop $121.38. Broad sell-off on hot PCE could gap through stop. Buffer = 7.0% ($130.52→$121.38).
+5. **DLTR one-time comps:** Q2 EPS $2.70 was tariff-refund inflated; Q3 normalizing hard. Headline YoY looks bad even if beats consensus.
+
+### Decision: **HOLD**
+- VIX 28.35 >> 22 → entry gate FAILED
+- WMT: Hold. Stop active. Thesis intact.
+- DLTR: Watch-only. Even beat can't trigger entry today.
+- Next gate event: PCE Wednesday Nov 25. Cooler PCE → VIX reset possible → reassess at market-open Wed.
+
