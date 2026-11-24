@@ -7850,3 +7850,16 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 32 trades:** 0/3 | **Open positions:** 1/6 (WMT) | **Daytrade count:** 0
 **Key watch:** WMT cut level $123.15 (7% trail GTC, HWM $132.42). Tighten to 5% at +20% ($149.68). PCE Wednesday — primary binary event for VIX reset and new-entry gate.
+
+---
+
+## Nov 24 — EOD Snapshot (Day 153, Week 32 Day 2 — Tuesday)
+**Portfolio:** $105,654.15 | **Cash:** $84,011.07 (79.5%) | **Day P&L:** +$391.96 (+0.37%) | **Phase P&L:** +$5,654.15 (+5.65%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| WMT | 164 | $124.73 | $131.97 | +1.84% | +$1,187.36 (+5.81%) | $123.15 (7% trail GTC, HWM $132.42) |
+
+**Notes:** Day 153 (Tuesday, Week 32 Day 2). No trades today. WMT continued its recovery, closing $131.97 (+1.84% day), unrealized +$1,187.36 (+5.81%) vs entry $124.73. Trailing stop auto-ratcheted to HWM $132.42, stop $123.15 (7%). PCE report tomorrow is the week's primary binary event — a cooling print could reset VIX below 22 and open the new-entry gate for the first time since the vol spike. Phase P&L +$5,654.15 (+5.65%). Week 32: 0/3 trades used.
+
+**Week 32 trades:** 0/3 | **Open positions:** 1/6 | **Key watch:** WMT stop $123.15 (7% trail GTC, HWM $132.42). PCE Wed — tighten to 7% at +15% ($143.44), to 5% at +20% ($149.68).
