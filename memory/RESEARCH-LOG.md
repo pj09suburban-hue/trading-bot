@@ -11070,3 +11070,70 @@ Consumer Staples: best sector Mon AND Tue (pre-market), driven by WMT/TGT cataly
 - DLTR: Watch-only. Even beat can't trigger entry today.
 - Next gate event: PCE Wednesday Nov 25. Cooler PCE → VIX reset possible → reassess at market-open Wed.
 
+---
+
+## 2026-11-25 — Pre-Market Research (Day 154, Week 32 Day 3 — Wednesday)
+
+### Account Snapshot
+| Field | Value |
+|---|---|
+| Portfolio | $105,752.55 |
+| Cash | $84,011.07 (79.4%) |
+| Phase P&L | +$5,752.55 (+5.75%) |
+| Open positions | 1/6 (WMT) |
+| Week 32 trades | 0/3 |
+| Daytrade count | 0 |
+
+**WMT live (pre-market):** 164 shares @ $124.73 avg, current $132.57 (+$1,285.76 / +6.29%). HWM $132.42 (stop auto-ratcheted Nov 24). Stop $123.15 (7% trail GTC, Order 6d94bb64, expires 2027-02-17).
+
+### Market Context
+| Indicator | Value | Note |
+|---|---|---|
+| S&P 500 futures | 7,112 (−1.46% / −105.5 pts) | AI chip selloff spreading; tariff concerns |
+| Nasdaq futures | −2.46% | AI names leading declines |
+| Dow futures | −0.74% | Defensives holding better |
+| **VIX** | **~29–30 (+12% from prior close 26.36)** | **GATE FAILED — well above 22** |
+| 10Y yield | ~4.91% | Slight decline from highs |
+| WTI crude | ~$79–80/bbl | Near 3-mo lows; supply-side bearish |
+| Brent | ~$88–89/bbl | Below $90 |
+
+### Today's Key Releases
+| Time (ET) | Release | Consensus | Note |
+|---|---|---|---|
+| **8:30 AM** | **Oct Core PCE MoM** | **+0.3% (3.2% YoY)** | **PRIMARY BINARY — not yet released** |
+| 8:30 AM | Q3 GDP 2nd estimate | +3.4% | Strong; confirms no recession |
+| 8:30 AM | Durable Goods Orders | — | Minor |
+| 2:00 PM | Fed Beige Book | — | Inflation narrative |
+| **Thu Nov 26** | **Thanksgiving — CLOSED** | — | — |
+| Fri Nov 27 | Shortened session (1 PM close) | — | Light volume |
+
+**PCE pre-release:** Actual not indexed yet (release 8:30 AM ET). Consensus core +0.3% MoM / 3.2% YoY. Cleveland Fed nowcast +0.27% core (slightly cooler). Pre-market selling -1.5% suggests market positioning for a hot print. A print ≤ consensus could trigger a relief rally; a hot print (≥ +0.4%) likely sends VIX back toward 32–35.
+
+### WMT Thesis Update
+- Q3 beat+raise ✓; Consumer Staples momentum ✓
+- Pre-market $132.57; trailing stop HWM $132.42, stop $123.15 (7.1% buffer from current price)
+- Guggenheim PT raised $130→$140 (Buy) Nov 24; broader analyst consensus avg ~$137.80, 49 ratings
+- Dollar Tree Q3 results (Nov 24 BMO) lifted discount retail sector — positive read-through for WMT
+- WMT ex-dividend $0.248/sh ex-date Dec 11, 2026 (note: minor gap risk on ex-div date)
+- **Thesis intact and strengthening.** Hold.
+
+### Trade Ideas
+1. **WMT — HOLD (existing position):** Thesis intact; analysts upgrading; Consumer Staples #1 non-banned sector; stop active ($123.15, 7% trail). VIX ~29–30 → no add.
+2. **No new entries today** — VIX ~29–30 >> 22 gate closed. Holiday thin liquidity (Thanksgiving Thu). PCE binary event.
+3. **Watch list post-PCE:** If PCE ≤ +0.3% MoM AND VIX resets below 22 → potential Consumer Staples or Industrials setup next week. Candidates: COST (Consumer Staples sector momentum), GD (defense/Industrials). Rate-factor limit applies — classify before entry.
+
+### Risk Factors
+1. **VIX ~29–30 — gate closed:** New entries blocked. AI selloff + tariff concerns driving risk-off.
+2. **PCE binary (8:30 AM ET):** Hot print (≥ +0.4% MoM) → VIX re-spikes 32–35, Dec rate hike confirmed. Cooler (≤ +0.25%) → potential relief rally but holiday liquidity caps the move.
+3. **Holiday thin liquidity:** Thu Thanksgiving closed; Fri shortened (1 PM ET close). Amplifies any post-PCE move in either direction.
+4. **WMT stop risk:** HWM $132.42, stop $123.15. Hot PCE + broad sell-off could gap through stop. Buffer 7.1% from current $132.57 — adequate but not immune to a 3–4% market gap.
+5. **AI selloff contagion:** Nasdaq -2.46% pre-market; if tech selling accelerates into broad deleveraging, defensives (WMT) could be dragged down.
+
+### Decision: **HOLD**
+- VIX ~29–30 >> 22 → entry gate FAILED
+- WMT: Hold. Stop active. Thesis intact and strengthening.
+- No new trades today — holiday week, PCE binary, VIX elevated
+- Watch for PCE result at 8:30 AM ET; market-open routine will assess post-print VIX reset
+
+**Week 32 trades:** 0/3 | **Open positions:** 1/6 | **Daytrade count:** 0
+
