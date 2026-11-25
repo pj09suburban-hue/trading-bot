@@ -7892,3 +7892,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 32 trades:** 0/3 | **Open positions:** 1/6 (WMT) | **Daytrade count:** 0
 **Key watch:** WMT cut level $123.87 (7% trail GTC, HWM $133.19). Tighten to 7% at +15% ($143.44), to 5% at +20% ($149.68). Thu Thanksgiving — CLOSED. Fri shortened (1 PM ET close). Note: VIX gate still closed at 31.5.
+
+---
+
+## Nov 25 — EOD Snapshot (Day 154, Week 32 Day 3 — Wednesday)
+**Portfolio:** $105,604.95 | **Cash:** $84,011.07 (79.6%) | **Day P&L:** −$104.96 (−0.10%) | **Phase P&L:** +$5,604.95 (+5.60%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| WMT | 164 | $124.73 | $131.685 | −0.47% | +$1,140.62 (+5.58%) | $123.87 (7% trail, HWM $133.19, GTC 6d94bb64) |
+
+**Notes:** Day 154 (Wednesday, Thanksgiving Eve, Week 32 Day 3). No trades today. PCE Core +0.3% MoM (in-line) but +3.3% YoY (slight upside surprise vs +3.2% consensus) kept higher-for-longer narrative alive — VIX spiked to ~31.5, entry gate remained closed all session. WMT held defensively: −0.47% vs S&P −1.83% at midday — outperforming by +170 bps, confirming Consumer Staples defensive characteristics. Unrealized P&L +$1,140.62 (+5.58%) vs $124.73 entry. Trailing stop auto-ratcheted to HWM $133.19, stop $123.87 (7% trail GTC 6d94bb64). Stop tightens to 7% at +15% ($143.44), to 5% at +20% ($149.68). Phase P&L +$5,604.95 (+5.60%) vs $100k start. Week 32: 0/3 trades used. Tomorrow (Thu Nov 26) market CLOSED for Thanksgiving. Friday Nov 28 shortened session (1 PM ET close).
+
+**Week 32 trades:** 0/3 | **Open positions:** 1/6 (WMT) | **Daytrade count:** 0
+**Key watch (Fri Nov 28 — half day):** WMT stop $123.87 (7% trail GTC, HWM $133.19). VIX must compress below 22 before new entries. Next full week: Mon Dec 1 — 3 fresh trade slots. Tighten to 7% at +15% ($143.44), to 5% at +20% ($149.68).
