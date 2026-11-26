@@ -7933,3 +7933,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 32 trades:** 0/3 | **Open positions:** 1/6 (WMT) | **Daytrade count:** 0
 **Key watch (Fri Nov 28 — half day, 1 PM ET close):** WMT stop $123.87 (7% trail GTC, HWM $133.19). Holiday thin liquidity — monitor only unless stop triggers. Tighten to 7% at +15% ($143.44), to 5% at +20% ($149.68).
+
+---
+
+### Nov 26 — EOD Snapshot (Day 155, Week 32 Day 4 — Thursday, THANKSGIVING)
+**Portfolio:** $105,649.23 | **Cash:** $84,011.07 (79.6%) | **Day P&L:** +$44.28 (+0.04%) | **Phase P&L:** +$5,649.23 (+5.65%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| WMT | 164 | $124.73 | $131.94 | 0.00% | +$1,182.44 (+5.78%) | $123.87 (7% trail, HWM $133.19, GTC 6d94bb64) |
+
+**Notes:** Day 155 (Thursday, Thanksgiving — US market CLOSED). No trades. Market closed all day; zero intraday movement in WMT (change_today: 0%). Portfolio value ticked up +$44.28 from Nov 25 close ($105,604.95 → $105,649.23), reflecting WMT price adjustment ($131.685 → $131.94 on last-print basis). Trailing stop GTC Order 6d94bb64 remains active (trail 7%, stop $123.87, HWM $133.19, expires 2027-02-17). Thesis intact — Consumer Staples momentum, Q3 beat+raise, Black Friday tomorrow. Tomorrow: shortened session (1 PM ET close), thin holiday volume; hold WMT, no new entries unless setup is exceptional. VIX must compress below 22 before new buys.
+
+**Week 32 trades:** 0/3 | **Open positions:** 1/6 (WMT) | **Daytrade count:** 0
+**Key watch (Fri Nov 28 — half day, 1 PM ET close):** WMT stop $123.87 (7% trail GTC, HWM $133.19). Tighten to 7% at +15% ($143.44), to 5% at +20% ($149.68). No new entries on half-day unless compelling catalyst emerges.
