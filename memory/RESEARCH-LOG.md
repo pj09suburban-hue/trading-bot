@@ -11137,3 +11137,79 @@ Consumer Staples: best sector Mon AND Tue (pre-market), driven by WMT/TGT cataly
 
 **Week 32 trades:** 0/3 | **Open positions:** 1/6 | **Daytrade count:** 0
 
+
+## 2026-11-26 — Pre-Market Research (Day 155, Week 32 Day 4 — Thursday, THANKSGIVING)
+
+### Account Snapshot
+| Field | Value |
+|---|---|
+| Portfolio | $105,649.23 |
+| Cash | $84,011.07 (79.6%) |
+| Phase P&L | +$5,649.23 (+5.65%) |
+| Open positions | 1/6 (WMT) |
+| Week 32 trades | 0/3 |
+| Daytrade count | 0 |
+
+**WMT (Thanksgiving close):** 164 shares @ $124.73 avg, current $131.94, unrealized +$1,182.44 (+5.78%). Trailing stop GTC Order 6d94bb64, 7% trail, stop $123.87, HWM $133.19, expires 2027-02-17.
+
+**NOTE: US MARKET CLOSED — Thanksgiving holiday. Tomorrow (Nov 27) Black Friday shortened session, 1 PM ET close.**
+
+### Market Context
+| Indicator | Value | Note |
+|---|---|---|
+| S&P 500 futures | 7,223.25 (+0.38%) | Thin holiday liquidity; Thanksgiving market closed |
+| VIX | ~27.07 (prior close 28.29) | Down ~4.3% — drifting lower but still >> 22 gate |
+| WTI crude | ~$83.73–$84.03/bbl | +$2.32 surge on Houthi attack on Saudi refinery; Hormuz fears re-escalating |
+| Brent crude | ~$94.15–$94.71/bbl | Houthi/Hormuz catalyst; +3.5% prior session |
+| 10Y yield | ~4.91% | Higher-for-longer narrative; Dec hike ~94% priced |
+
+### Key Context
+- **US markets closed today (Thanksgiving).** Futures thin; overseas markets active.
+- **Core PCE Oct (released Nov 25):** +0.3% MoM, +3.3% YoY — slight upside surprise vs +3.2% consensus. Keeps Dec Fed hike as near-certainty (~94% priced).
+- **Black Friday tomorrow (Nov 27):** Shortened session 1 PM ET close. Consumer/retail names in focus. WMT directly in the crosshairs of Black Friday spend narrative.
+- **Houthi attack on Saudi refinery + Hormuz mines:** WTI +$2.32/bbl spike. Energy sector remains **BANNED** (2 consecutive failed trades CVX -3.52%, XOM -2.42%). No energy entries.
+- **No scheduled US economic releases today.** International data only (Germany GfK confidence, ECB minutes).
+- **Friday (Nov 27):** US advance October trade, retail + wholesale inventories at 8:30 AM ET.
+
+### WMT Thesis Update
+- Q3 beat+raise ✓; Consumer Staples sector #2 YTD (+17.75%) ✓; holiday consumer narrative ✓
+- Current $131.94; entry $124.73; unrealized +$1,182.44 (+5.78%)
+- Trailing stop auto-ratcheted to HWM $133.19, stop $123.87 (7% trail GTC)
+- Analyst consensus (44 Buy): avg target $136.80–$137.80 (Citi bullish $160, Telsey $145, KeyBanc $145, Piper Sandler $138, Roth MKM $143, Guggenheim $140)
+- Freedom Capital downgraded to Hold (valuation) — still sole negative; minor
+- Black Friday (tomorrow) is a direct catalyst: WMT Black Friday deals launched; inflation-weary consumers trading down = market share gain thesis
+- **Thesis intact and strengthening.** Hold through holiday shortened session.
+
+### Sector Momentum (YTD as of Nov 24)
+| Sector | YTD | Status |
+|---|---|---|
+| Energy | +37.9% | **BANNED** (2 consecutive losses) |
+| Consumer Staples | +17.75% | **IN MOMENTUM ✓** |
+| Health Care | ~+16–21% | Exited (UNH); rebuild after 2-trade ban served |
+| Materials | +5.38% | Positive but weak recent momentum |
+| Industrials | +0.62% | Essentially flat |
+| Information Technology | −14.7% QTD | AVOID — sharp correction |
+| Communication Services | −10.5% | AVOID |
+
+### Trade Ideas
+1. **WMT — HOLD (existing position):** Thesis intact; Consumer Staples momentum ✓; stop active ($123.87, 7% trail GTC). Black Friday tailwind tomorrow. Rate-sensitive classification: LOW (Consumer Staples, non-capex, contracted consumer demand). Currently 1/2 rate-sensitive limit — well under.
+2. **No new entries today** — Market CLOSED (Thanksgiving).
+3. **Watch list for Dec 1+ when VIX resets:** COST (Consumer Staples, Costco) — holiday/membership model, Consumer Staples momentum, low rate-sensitivity. Gate: VIX <22, strong catalyst, confirmed sector momentum. Rate-factor: LOW.
+4. **Watch list (secondary):** GD (Industrials/Defense) — defense procurement thesis still intact. Rate-sensitive: MODERATE (capex, but government contracted = less rate-driven). Gate: same VIX <22 requirement.
+
+### Risk Factors
+1. **VIX ~27 — gate still closed:** New entries blocked (requires <22). Holiday-thin liquidity may exaggerate any Friday move.
+2. **Dec Fed hike ~94% priced:** Rate-factor risk elevated for any new entries. Must enforce Rule 13 (max 2 rate-sensitive positions).
+3. **Houthi/Hormuz re-escalation:** WTI +$2.32 today. Energy sector BANNED — no temptation. Watch for broader risk-off contagion if Hormuz closes; defensives like WMT may see initial sell-off before flight-to-safety bid.
+4. **Black Friday shortened session (1 PM close tomorrow):** Thin volume, amplified moves. WMT specifically benefits but gap risk elevated in either direction.
+5. **WMT stop risk:** HWM $133.19, stop $123.87. Buffer 6.1% from $131.94. Adequate, but a broad sell-off on Hormuz escalation could gap toward stop.
+6. **Overly concentrated (1 position, 20.5% deployed):** 79.5% in cash — well below 75–85% deployment target. Cannot correct until VIX resets.
+
+### Decision: **HOLD**
+- Market CLOSED today (Thanksgiving) — no action possible
+- VIX ~27 >> 22 → entry gate FAILED for new positions
+- WMT: Hold. Stop $123.87 active (7% trail GTC). Thesis intact and strengthening. Black Friday tailwind tomorrow.
+- Next gate event: VIX reset below 22 — earliest possible Mon Dec 1 if consumer sentiment data + Black Friday spend data come in strong
+- Shortened Friday session: 1 PM ET close, thin liquidity — treat as monitoring-only unless stop triggers
+
+**Week 32 trades:** 0/3 | **Open positions:** 1/6 | **Daytrade count:** 0
