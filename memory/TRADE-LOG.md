@@ -7975,3 +7975,17 @@ No action taken at midday → no Slack per notification rule.
 
 **Week 32 trades:** 0/3 | **Open positions:** 1/6 (WMT) | **Daytrade count:** 0
 **Key watch (Mon Dec 1 — first full week of December):** WMT stop $123.87 (7% trail GTC, HWM $133.19). VIX must reset <22 before new entries. 3 fresh trade slots start Dec 1. Cyber Monday Nov 30 (weekend) → watch for WMT/retail online sales data Mon morning. Tighten to 7% at +15% ($143.44), to 5% at +20% ($149.68).
+
+---
+
+### Nov 27 — EOD Snapshot (Day 156, Week 32 Day 5 — Black Friday, Shortened Session 1 PM ET)
+**Portfolio:** $105,823.07 | **Cash:** $84,011.07 (79.4%) | **Day P&L:** +$173.84 (+0.16%) | **Phase P&L:** +$5,823.07 (+5.82%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| WMT | 164 | $124.73 | $133.00 | +0.80% | +$1,356.28 (+6.63%) | $123.87 (7% trail, HWM $133.19, GTC 6d94bb64) |
+
+**Notes:** Day 156 (Black Friday shortened session, 1 PM ET close, Week 32 Day 5). No trades today. WMT closed $133.00 (+0.80%) on thin holiday volume — outperformed amid light Black Friday retail optimism. Adobe forecast $12.9B US online BF sales (+9.2% YoY) supports Consumer Staples/WMT thesis. Trailing stop GTC 6d94bb64 unchanged (trail 7%, stop $123.87, HWM $133.19, expires 2027-02-17) — WMT current price $133.00 is below HWM $133.19 so no auto-ratchet today. Phase P&L +$5,823.07 (+5.82%) vs $100k start. Week 32: 0/3 trades used — appropriate restraint on half-day with VIX still elevated (pre-market 24.60, gate requires <22). Next: Mon Dec 1 full session, 3 fresh trade slots, VIX reset below 22 required for new entries. Watch Cyber Monday online sales data Mon morning for WMT/retail catalyst.
+
+**Week 32 trades:** 0/3 | **Open positions:** 1/6 (WMT) | **Daytrade count:** 0
+**Key watch (Mon Dec 1):** WMT stop $123.87 (7% trail GTC, HWM $133.19). VIX must reset <22 before new entries. Tighten to 7% at +15% ($143.44), to 5% at +20% ($149.68). Cyber Monday data as WMT catalyst.
