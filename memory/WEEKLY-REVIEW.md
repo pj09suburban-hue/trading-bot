@@ -235,6 +235,73 @@ Template for each entry:
 ### Overall Grade: C-
 *Week 12 — GE exit at +28.42% was a flawless mechanical trade and the portfolio's second-largest realized winner. But the portfolio fell -2.34% vs S&P +1.15%, a -3.49% underperformance, driven by LHX weakness and post-GE-exit underdeployment. Phase alpha remains +5.27% vs S&P. C- reflects the excellent single-trade execution offset by structural issues: 7th+ consecutive week below deployment target, LHX in a losing pattern echoing its first entry, and three earnings events in the next 13 days creating a crowded calendar. The portfolio needs a clean non-defense entry and LHX resolution.*
 
+## Week ending 2026-11-27
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $105,121.15 |
+| Ending portfolio | $105,826.35 |
+| Week return | +$705.20 (+0.67%) |
+| S&P 500 week | +5.60% (~6,910 → 7,297.49) ⚠️ strongest week since April 2025 |
+| Bot vs S&P | −4.93% |
+| Phase return | +$5,826.35 (+5.83% from $100k baseline) |
+| Phase bot vs S&P | +3.98% (bot +5.83% vs S&P +1.85% from Apr 24 start 7,165.08) |
+| Trades | 0 (W:0 / L:0 / open:1 WMT) |
+| Win rate | N/A — no closed trades (28.0% all-time, 7/25 closed) |
+| Best trade | WMT +6.63% unrealized (+$1,359.56) |
+| Worst trade | N/A (single position) |
+| Profit factor | 1.24 all-time (unchanged; $23,410 / $18,900) |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| WMT | $124.73 | $133.02 | +$1,359.56 (+6.63%) | $123.87 (7% trail, HWM $133.19, GTC 6d94bb64) — +15% trig $143.44 |
+
+### What Worked
+- VIX gate held correctly all week: VIX 31.21 (Mon) → 28.35 (Tue) → ~31.5 (Wed/Thu) → ~24.60 (Fri pre-market); never closed below 22; zero new entries placed in a correct rule application
+- WMT thesis intact and strengthening: +6.63% unrealized over the holiday week — Consumer Staples outperformed the broader S&P recovery (+6.63% vs index +5.60%); defensive name outperforming in a volatile up week validates the sector call
+- Trailing stop auto-ratcheted correctly: HWM progressed $130.52 (Nov 20) → $133.19 (Nov 24–25) → current; stop $123.87 now protects $1,135+ of gain
+- Holiday week discipline: Thanksgiving shortened calendar + thin Black Friday volume correctly warranted zero new entries even when VIX began declining
+- Phase alpha +3.98% maintained: bot +5.83% phase return vs S&P +1.85% phase return — genuine absolute alpha vs a near-flat benchmark since Apr 24
+
+### What Didn't Work
+- S&P surged +5.60% (biggest weekly gain since April 2025) while bot gained only +0.67% — 20% deployment meant −4.93% relative underperformance; a week of exceptional market returns cost maximum alpha
+- 23rd consecutive week below 75–85% deployment target; VIX gate is the proximate cause but the cumulative opportunity cost across 32 weeks is now severe
+- Phase alpha compressed: +6.56% (Week 31 — best reading since Week 11) → +3.98% (Week 32) in a single week; one more S&P rally week at current deployment further erodes the phase lead
+- By Friday (VIX ~24.60 pre-market) the gate was nearing the 22 threshold but markets closed at 1 PM ET; deployment opportunity will not be available until Dec 1
+- WMT stop $123.87 is 6.9% below current $133.02 — with WMT having set HWM $133.19 (just $0.17 above current), any pullback to $133.00 or below leaves the stop as the only protection and no near-term tightening trigger in sight ($143.44 for +15%)
+
+### Key Lessons
+- VIX gate is the right rule for the wrong week: blocking entries at VIX 31 (Mon Nov 23) was correct defensively — the index had just fallen 11.6% from its peak; but the VIX gate prevented capturing any of the +5.60% rebound despite the fact that most of the week's gains came from AI/tech short-covering (a catalyst the bot would not have been in); the structural tradeoff is correct but the opportunity cost is now measurable
+- VIX gate has never been formally codified in TRADING-STRATEGY.md despite consistent use across 10+ weeks — this week finalizes 2+ weeks of consistent evidence (Weeks 29–32 all referenced VIX gate); codifying as Rule 14 (see below)
+- 23 consecutive weeks of underdeployment has produced two distinct outcomes: (1) protected capital in the worst S&P week in 18 months (Week 31, −6.44%); (2) forfeited participation in the strongest S&P week in 18 months (Week 32, +5.60%); the net effect is that the bot has essentially bet on mean-reversion by holding cash — and the bet has not paid off because the S&P recovered faster than the VIX normalized
+- WMT is delivering the correct behavior for a Consumer Staples hold: +6.63% in an erratic rally week while the broader index had 4.73% / −0.50% / −0.25% / closed / +1.60% daily swings — the defensive stability validates the thesis and trailing stop structure
+
+### Adjustments for Next Week
+- **VIX gate (Rule 14 — now codified):** No new entries until VIX closes below 22. VIX ~24.60 pre-market Friday — normalization to <22 likely requires 1–2 sessions in Dec; watch Monday Dec 1 open carefully; if VIX opens below 22 and holds intraday → first clean entry window since Nov 13
+- **WMT:** Hold; stop $123.87 (7% trail GTC, HWM $133.19, GTC 6d94bb64, expires 2027-02-17); verify GTC active Monday pre-market; +15% trig $143.44 ($10.42 / +7.8% away); no manual action until trig or stop fires
+- **Deployment imperative (Dec primary objective):** VIX normalization is the gating variable; once cleared → deploy 2–3 rate-uncorrelated contracted-backlog names immediately; GD (defense, $136.5B backlog, BofA PT $415) and NOC (defense, $95.6B backlog, B-21/GBSD programs) are pre-vetted; have orders ready at Dec 1 open if VIX permits
+- **Cyber Monday (Nov 30 — weekend):** Watch for WMT/retail online sales data Mon morning; Adobe forecast $12.9B online BF (+9.2% YoY) is already in the thesis; a Cyber Monday beat (est $13.5B+) could set a new WMT HWM above $133.19 and auto-ratchet the stop above $124
+- **Sector tracking:** Energy = banned; Healthcare = BANNED (LLY + UNH); AI Chips = 1 fail (MU); Industrials/Aerospace = 0 fails; Consumer Staples = 0 fails (WMT open); LHX = blacklisted
+- **Rate-factor Rule 13:** WMT = rate-uncorrelated (1 slot occupied); GD/NOC = rate-uncorrelated; defer all rate-sensitive entries while 10Y ≥ 4.9%; VIX normalization is the only gate to clear
+
+### Strategy Update: Rule 14 Added
+The VIX gate has been in consistent operational use since Week 20 (Aug 2026) and was explicitly referenced in Weeks 29, 30, 31, and 32 (4+ consecutive weeks). Evidence: Week 29 (VIX 28 → no entries, avoided Jobs Report crash), Week 31 (VIX 22.9–29.87 → no entries, avoided worst S&P week in 18 months), Week 32 (VIX 28–31 → no entries). Rule is now codified in TRADING-STRATEGY.md as Rule 14. No change to threshold (22); no change to implementation.
+
+### Overall Grade: C-
+*Week 32 (Thanksgiving week, Black Friday shortened session) — portfolio +0.67% vs S&P +5.60% (−4.93% underperformance). S&P posted its strongest weekly gain since April 2025 while the bot held 20% deployed. Zero trades placed; VIX gate correctly blocked all new entries (never closed below 22). WMT +6.63% unrealized — the sole holding outperformed the index on a price-return basis. Phase alpha compressed from +6.56% (Week 31 all-time best) to +3.98%. C- reflects rule-compliant execution and WMT quality against severe opportunity cost: the VIX gate protected capital from the worst week (−6.44%) but forfeited the strongest week (+5.60%) — the net trade of cash preservation has cost more in Week 32 than it saved in Week 31. Rule 14 (VIX gate) now formally codified after 4+ weeks of consistent use. 23rd consecutive week below 75–85% deployment target. Dec 1 is the first clean deployment window if VIX normalizes below 22.*
+
+---
+
 ---
 
 *Note: Week 3 (ending 2026-05-08) review was not formally written. Summary: CVX + XOM thesis-broken exits on May 7 when WTI collapsed to ~$92 on US-Iran peace deal (combined realized -$1,173.43; energy sector ban triggered). FCX bought May 8 post-NFP (+160K beat). Portfolio ended week 3 at $100,030.92 (-1.31% from week 2 end).*
